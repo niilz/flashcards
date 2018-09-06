@@ -40,10 +40,10 @@ function addEnterFunctionForNewWord() {
 
 // checks whether the input is the right translation
 function evaluate() {
-    card.classList.toggle("flipped");
+    card.classList.add("flipped");
     let answer = document.querySelector(".answer").value;
     if (answer == randomPair[1]) solution.innerHTML = "Korrekt!";
-    else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair[1]}"<em> gewesen.`;
+    else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair[1]}"</em> gewesen.`;
     addEnterFunctionForNewWord();
 }
 
@@ -74,4 +74,5 @@ document.removeEventListener("keydown", evaluate);
 
 // attache newWord-function to button on backside of card
 wordButton.addEventListener("click", getNewWord);
+
 
