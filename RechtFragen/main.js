@@ -2,7 +2,8 @@
 let rechtFragen = r;
 let vokabeln = v;
 // choose a questionSet
-let questionSet = vokabeln; 
+let questionSet = vokabeln.slice(0, 20).concat(rechtFragen.slice(0, 20)); 
+console.log(questionSet)
 
 // getting the DOM elements 
 let card = document.querySelector(".card")
@@ -12,11 +13,6 @@ let checkAnswerButton = document.querySelector(".check_answer");
 let newWordButton = document.querySelector(".new_word");
 let inputField = document.querySelector(".answer");
 
-// remove input field from page if it is not needed (e.g. for rechtFragen)
-if (questionSet == rechtFragen) document.querySelector("input").remove();
-
-// get curser into input-field
-if (inputField) inputField.focus();
 
 // gets a random pair (question/answer) from the a given array of objects
 function getQuestionPair(dict) {
@@ -24,12 +20,20 @@ function getQuestionPair(dict) {
     return Object.entries(dict)[rand][1];
 }
 
-// innitial Card at page-load
+// innitial randomPair on Page-Load
 let randomPair = getQuestionPair(questionSet);
+
+// get curser into input-field
+if (inputField) inputField.focus();
+
+// display first question
 displayQuestion(randomPair);
 
 // write question on the front of card
 function displayQuestion(rP) {
+    // remove input field from page if it is not needed (e.g. for rechtFragen)
+    if (rP["input"]) document.querySelector("input").classList.remove("hidden");
+    else document.querySelector("input").classList.add("hidden");
     card.classList.remove("flipped");
     question.textContent = rP["Frage"];
 }
@@ -53,13 +57,23 @@ function showResult() {
 
     // create backside of the card
     let answer = document.querySelector(".answer");
-    if (answer) {
+    if (randomPair["input"]) {
         answer = answer.value;
         if (answer == randomPair["Antwort"]) solution.innerHTML = "Korrekt!";
         else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair["Antwort"]}"</em> gewesen.`;
     } else {
-        solution.innerHTML = splitPhraseIfSeveralNumbers(randomPair["Antwort"]);
-        console.log(splitPhraseIfSeveralNumbers(randomPair["Antwort"]));
+        let answerList = splitPhraseIfSeveralNumbers(randomPair["Antwort"]);
+        if (typeof answerList == "string") solution.innerHTML = randomPair["Antwort"];
+        else {
+            solution.innerHTML = "";
+            let answerListDOM = document.createElement("ul");
+            solution.appendChild(answerListDOM);
+            answerList.forEach(a => {
+                let listElement = document.createElement("li");
+                answerListDOM.appendChild(listElement);
+                listElement.innerHTML = a;
+            });
+        }
     } 
 }
 
@@ -90,7 +104,9 @@ function flipFront(event) {
         displayQuestion(randomPair);
         document.removeEventListener("keydown", flipFront);
         document.addEventListener("keydown", flipBack);
-        }; 
+        };
+    let ul = document.querySelector("ul");
+    if (ul) ul.parentNode.removeChild(ul);
 }
 
 // attache the show-result function to the button on frontside of card

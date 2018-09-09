@@ -5,7 +5,7 @@ body {
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 1fr auto 1fr;
     -webkit-perspective: 800px;
     -moz-perspective: 800px;
     -o-perspective: 800px;
@@ -15,7 +15,7 @@ body {
 .card {
     display: grid;
     grid-column: 2;
-    max-width: 800px;
+    max-width: 700px;
     -webkit-transition: -webkit-transform 1s;
     -moz-transition: -moz-transform 1s;
     -o-transition: -o-transform 1s;
@@ -71,6 +71,11 @@ body {
     align-items: center;
 }
 
+li {
+    list-style: none;
+    text-align: left;
+}
+
 .card.flipped {
     -webkit-transform: rotateY( 180deg );
     -moz-transform: rotateY( 180deg );
@@ -86,6 +91,10 @@ body {
 .answer {
     height: 50px;
     font-size: 24px;
+}
+
+.hidden {
+    display: none;
 }
 
 .solution {
