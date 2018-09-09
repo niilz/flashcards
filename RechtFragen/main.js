@@ -8,12 +8,15 @@ let questionSet = vokabeln;
 let card = document.querySelector(".card")
 let question = document.querySelector(".question");
 let solution = document.querySelector(".solution");
-let button = document.querySelector("button");
-let wordButton = document.querySelector(".word");
+let checkAnswerButton = document.querySelector(".check_answer");
+let newWordButton = document.querySelector(".new_word");
 let inputField = document.querySelector(".answer");
 
 // remove input field from page if it is not needed (e.g. for rechtFragen)
 if (questionSet == rechtFragen) document.querySelector("input").remove();
+
+// get curser into input-field
+if (inputField) inputField.focus();
 
 // gets a random pair (question/answer) from the a given array of objects
 function getQuestionPair(dict) {
@@ -21,23 +24,47 @@ function getQuestionPair(dict) {
     return Object.entries(dict)[rand][1];
 }
 
-// create a random Question-pair and displaying it an the page
-let randomPair = getQuestionPair(questionSet)
-question.textContent = randomPair["Frage"];
+// innitial Card at page-load
+let randomPair = getQuestionPair(questionSet);
+displayQuestion(randomPair);
 
-
-// get curser into input-field
-if (inputField) inputField.focus();
-
-function addEnterFunctionForNewWord() {
-    //attache newWord-funtion to enter Button when on backside
-    document.addEventListener("keydown", e => {
-        if (e.keyCode == 13) {
-            e.preventDefault();
-            getNewWord();
-        }
-    });
+// write question on the front of card
+function displayQuestion(rP) {
+    card.classList.remove("flipped");
+    question.textContent = rP["Frage"];
 }
+
+// create a new random Question-pair and displaying it on the page
+function displayBack() {
+    // display answer on the back of the card
+    card.classList.add("flipped");
+    showResult();
+
+    // clear the input field
+    let answer = document.querySelector(".answer");
+    if (answer) answer.value = "";
+
+    // create a new random pair in the global scope
+    randomPair = getQuestionPair(questionSet);
+}
+
+// flip the card and show the answer
+function showResult() {
+
+    // create backside of the card
+    let answer = document.querySelector(".answer");
+    if (answer) {
+        answer = answer.value;
+        if (answer == randomPair["Antwort"]) solution.innerHTML = "Korrekt!";
+        else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair["Antwort"]}"</em> gewesen.`;
+    } else {
+        solution.innerHTML = splitPhraseIfSeveralNumbers(randomPair["Antwort"]);
+        console.log(splitPhraseIfSeveralNumbers(randomPair["Antwort"]));
+    } 
+}
+
+
+// if question has several numbers split them into array
 function splitPhraseIfSeveralNumbers(phrase) {
     let re = /\d\.\s.+\;/;
     if (re.test(phrase)) {
@@ -46,45 +73,35 @@ function splitPhraseIfSeveralNumbers(phrase) {
     return phrase;
 }
 
-// checks whether the input is the right translation
-function evaluate() {
-    card.classList.add("flipped");
-    let answer = document.querySelector(".answer");
-    if (answer) {
-        answer = answer.value;
-        if (answer == randomPair["Antwort"]) solution.innerHTML = "Korrekt!";
-        else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair[1]}"</em> gewesen.`;
-    } else {
-        solution.innerHTML = splitPhraseIfSeveralNumbers(randomPair["Antwort"]);
-        console.log(splitPhraseIfSeveralNumbers(randomPair["Antwort"]));
-    addEnterFunctionForNewWord();
-    }
+
+
+// attach the Flipping-Card-functionality to "Enter"-key
+function flipBack(event) {
+    if (event.keyCode == 13) {
+    displayBack();
+    document.removeEventListener("keydown", flipBack);
+    document.addEventListener("keydown", flipFront);
+    };
+    
 }
 
-function getNewWord() {
-    window.location.reload();
-    document.addEventListener("keydown", e => {
-        if (e.keyCode == 13) {
-            e.preventDefault(); // otherwise "Enter" reloads the page
-            evaluate();
-        }
-    });
-    document.removeEventListener("keydown", evaluate);
-
+function flipFront(event) {
+    if (event.keyCode == 13) {
+        displayQuestion(randomPair);
+        document.removeEventListener("keydown", flipFront);
+        document.addEventListener("keydown", flipBack);
+        }; 
 }
 
-// attache the evaluate function to the button-click
-button.addEventListener("click", evaluate);
-
-// attach the evaluate function to "Enter"
-document.addEventListener("keydown", e => {
-    if (e.keyCode == 13) {
-        e.preventDefault(); // otherwise "Enter" reloads the page
-        evaluate();
-    }
-});
-
-document.removeEventListener("keydown", evaluate);
+// attache the show-result function to the button on frontside of card
+checkAnswerButton.addEventListener("click", displayBack);
 
 // attache newWord-function to button on backside of card
-wordButton.addEventListener("click", getNewWord);
+newWordButton.addEventListener("click", displayQuestion);
+
+// flip functionality for initial page-load
+document.addEventListener("keydown", flipBack);
+
+
+
+
