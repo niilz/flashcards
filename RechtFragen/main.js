@@ -1,14 +1,8 @@
+// load questionSets into scope
 let rechtFragen = r;
 let vokabeln = v;
-
-let allQuestions = [...rechtFragen, ...vokabeln];
-console.log(allQuestions);
-
-// gets a random pair (question/answer) from the a given object
-function getQuestionPair(dict) {
-    let rand = Math.floor(Math.random() * dict.length);
-    return Object.entries(dict)[rand][1];
-}
+// choose a questionSet
+let questionSet = vokabeln; 
 
 // getting the DOM elements 
 let card = document.querySelector(".card")
@@ -18,8 +12,17 @@ let button = document.querySelector("button");
 let wordButton = document.querySelector(".word");
 let inputField = document.querySelector(".answer");
 
+// remove input field from page if it is not needed (e.g. for rechtFragen)
+if (questionSet == rechtFragen) document.querySelector("input").remove();
+
+// gets a random pair (question/answer) from the a given array of objects
+function getQuestionPair(dict) {
+    let rand = Math.floor(Math.random() * dict.length);
+    return Object.entries(dict)[rand][1];
+}
+
 // create a random Question-pair and displaying it an the page
-let randomPair = getQuestionPair(rechtFragen)
+let randomPair = getQuestionPair(questionSet)
 question.textContent = randomPair["Frage"];
 
 
