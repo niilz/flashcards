@@ -1,0 +1,98 @@
+body {
+    font-family: "Helvetica Neue";
+    font-size: 24px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    -webkit-perspective: 800px;
+    -moz-perspective: 800px;
+    -o-perspective: 800px;
+    perspective: 800px;
+}
+
+.card {
+    display: grid;
+    grid-column: 2;
+    max-width: 800px;
+    -webkit-transition: -webkit-transform 1s;
+    -moz-transition: -moz-transform 1s;
+    -o-transition: -o-transform 1s;
+    transition: transform 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -o-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+
+.card div {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+    padding: 0 50px 20px 50px;
+}
+
+.card .front {
+    grid-column: 1;
+    grid-row: 1;
+    background: repeating-linear-gradient(
+        0deg,
+        red,
+        rgb(227, 204, 131) 2px,
+        rgb(227, 204, 131) 40px,
+        black 30px
+        );
+}
+
+.card .back {
+    grid-column: 1;
+    grid-row: 1;
+    background: repeating-linear-gradient(
+        0deg,
+        red,
+        rgb(131, 173, 227) 2px,
+        rgb(131, 173, 227) 40px,
+        black 30px
+        );
+    -webkit-transform: rotateY( 180deg );
+    -moz-transform: rotateY( 180deg );
+    -o-transform: rotateY( 180deg );
+    transform: rotateY( 180deg );
+}
+
+.content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card.flipped {
+    -webkit-transform: rotateY( 180deg );
+    -moz-transform: rotateY( 180deg );
+    -o-transform: rotateY( 180deg );
+    transform: rotateY( 180deg );
+}
+
+
+.question {
+    font-size: 30px;
+}
+
+.answer {
+    height: 50px;
+    font-size: 24px;
+}
+
+.solution {
+    text-align: center;
+}
+
+button {
+    font-size: 24px;
+    margin: 20px;
+}
