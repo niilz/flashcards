@@ -10,8 +10,27 @@
     <script type="text/javascript" src="vokabeln.json"></script>   
 </head>
 <body>
-
     <section class="container">
+    <fieldset class="choices">
+        <legend>Wähle deinen Kartensatz</legend>
+        <section class="flex_container">
+            <div>
+                <input type="radio" id="arbeits_recht" name="fragen_satz" checked>
+                <label for="arbeits_recht">Arbeitsrecht</label>
+            </div>
+            <div>
+                <input type="radio" id="handels_recht" name="fragen_satz">
+                <label for="handels_recht">Handelsrecht</label>
+            </div>
+            <div>
+                <input type="radio" id="vokabeln" name="fragen_satz">
+                <label for="vokabeln">Vokabeln</label>
+            </div>
+        </section>
+    </fieldset>
+
+    <button type="button" class="correct next">hab ich gewusst</button>
+
     <div class="card">
         <div class="front">
             <section class="content">
@@ -29,10 +48,14 @@
                 </section>
         </div>
     </div>
+
+    <button type="button" class="wrong next">beim nächsten Mal</button>
+
+    <h3 class="remaining"></h3>
+    <button type="button" class="reload">ganz von vorn</button>
+
     </section>
 
-
-    <p class="test"></p>
     <script src="main.js"></script>
 </body>
 </html>

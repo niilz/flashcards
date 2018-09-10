@@ -1,17 +1,42 @@
 // load questionSets into scope
-let rechtFragen = r;
-let vokabeln = v;
-// choose a questionSet
-let questionSet = vokabeln.slice(0, 20).concat(rechtFragen.slice(0, 20)); 
-console.log(questionSet)
+let arbeitsRechtFragen = r;
+let vokabelFragen = v;
 
 // getting the DOM elements 
+// Card Elements
 let card = document.querySelector(".card")
 let question = document.querySelector(".question");
 let solution = document.querySelector(".solution");
+let inputField = document.querySelector(".answer");
+// Buttons
 let checkAnswerButton = document.querySelector(".check_answer");
 let newWordButton = document.querySelector(".new_word");
-let inputField = document.querySelector(".answer");
+let buttonCorrect = document.querySelector(".correct");
+let buttonWrong = document.querySelector(".wrong");
+let reloadButton = document.querySelector(".reload");
+// choiceButtons
+let arbeitsRecht = document.querySelector("#arbeits_recht");
+let handelsRecht = document.querySelector("#handels_recht");
+let vokabeln = document.querySelector("#vokabeln");
+// Text outside the Card
+let remainingCards = document.querySelector(".remaining");
+
+// define question-set
+// global questionSet
+let questionSet = arbeitsRechtFragen;
+
+function defineQuestionSet(set) {
+    questionSet = set;
+}
+
+arbeitsRecht.addEventListener("change", () => {
+    defineQuestionSet(arbeitsRechtFragen);
+    newCard();
+});
+vokabeln.addEventListener("change", () => {
+    defineQuestionSet(vokabelFragen);
+    newCard();
+});
 
 
 // gets a random pair (question/answer) from the a given array of objects
@@ -23,37 +48,49 @@ function getQuestionPair(dict) {
 // innitial randomPair on Page-Load
 let randomPair = getQuestionPair(questionSet);
 
-// get curser into input-field
-if (inputField) inputField.focus();
-
 // display first question
 displayQuestion(randomPair);
 
 // write question on the front of card
 function displayQuestion(rP) {
+    // get curser into input-field
+    if (inputField) inputField.focus(); 
     // remove input field from page if it is not needed (e.g. for rechtFragen)
-    if (rP["input"]) document.querySelector("input").classList.remove("hidden");
-    else document.querySelector("input").classList.add("hidden");
+    if (rP["input"]) {
+        inputField.classList.remove("hidden");
+        buttonWrong.classList.add("hidden");
+        buttonCorrect.classList.add("hidden");
+    } else {
+        inputField.classList.add("hidden");
+        buttonWrong.classList.remove("hidden");
+        buttonCorrect.classList.remove("hidden");
+    }
+    // turn card to frons-side
     card.classList.remove("flipped");
+    // write question on front-side of the card
     question.textContent = rP["Frage"];
+
+    // display current stack of cards
+    remainingCards.innerHTML = `Es sind noch ${questionSet.length} Karten im Deck`
 }
 
-// create a new random Question-pair and displaying it on the page
-function displayBack() {
+// used inside of "flipBackAndDisplayAnswer" to split multiple answers
+function splitPhraseIfSeveralNumbers(phrase) {
+    let re = /\d\.\s.+\;/;
+    if (re.test(phrase)) {
+        phrase = phrase.split(";");
+    }
+    return phrase;
+}
+
+// flip card to back-side and display/render answer(s)
+function flipBackAndDisplayAnswer() {
     // display answer on the back of the card
     card.classList.add("flipped");
-    showResult();
 
-    // clear the input field
-    let answer = document.querySelector(".answer");
-    if (answer) answer.value = "";
-
-    // create a new random pair in the global scope
-    randomPair = getQuestionPair(questionSet);
-}
-
-// flip the card and show the answer
-function showResult() {
+    // if no input no "nächste Frage"
+    if (randomPair["input"]) newWordButton.classList.remove("hidden");
+    else newWordButton.classList.add("hidden");
 
     // create backside of the card
     let answer = document.querySelector(".answer");
@@ -62,8 +99,11 @@ function showResult() {
         if (answer == randomPair["Antwort"]) solution.innerHTML = "Korrekt!";
         else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair["Antwort"]}"</em> gewesen.`;
     } else {
+        // create List of possible multiple-answer
         let answerList = splitPhraseIfSeveralNumbers(randomPair["Antwort"]);
+        // if it is just one answer display it
         if (typeof answerList == "string") solution.innerHTML = randomPair["Antwort"];
+        // if muslitple answers display them as a list
         else {
             solution.innerHTML = "";
             let answerListDOM = document.createElement("ul");
@@ -75,48 +115,40 @@ function showResult() {
             });
         }
     } 
+
+    // clear the input field if there is one for next questions
+    let answerInput = document.querySelector(".answer");
+    if (answerInput) answerInput.value = "";
 }
 
-
-// if question has several numbers split them into array
-function splitPhraseIfSeveralNumbers(phrase) {
-    let re = /\d\.\s.+\;/;
-    if (re.test(phrase)) {
-        phrase = phrase.split(";");
-    }
-    return phrase;
+// get a new card
+function newCard() {
+    // create new randomPair in global scope
+    randomPair = getQuestionPair(questionSet);
+    displayQuestion(randomPair);
 }
 
-
-
-// attach the Flipping-Card-functionality to "Enter"-key
-function flipBack(event) {
-    if (event.keyCode == 13) {
-    displayBack();
-    document.removeEventListener("keydown", flipBack);
-    document.addEventListener("keydown", flipFront);
-    };
-    
-}
-
-function flipFront(event) {
-    if (event.keyCode == 13) {
-        displayQuestion(randomPair);
-        document.removeEventListener("keydown", flipFront);
-        document.addEventListener("keydown", flipBack);
-        };
-    let ul = document.querySelector("ul");
-    if (ul) ul.parentNode.removeChild(ul);
+// removes current randomPair of question Answer from global questionSet-Array of objects
+function removeCardFromSet() {
+    let idx = questionSet.findIndex(qa => qa["Frage"] == randomPair["Frage"]);
+    questionSet.splice(idx, 1);
 }
 
 // attache the show-result function to the button on frontside of card
-checkAnswerButton.addEventListener("click", displayBack);
+checkAnswerButton.addEventListener("click", flipBackAndDisplayAnswer);
 
 // attache newWord-function to button on backside of card
-newWordButton.addEventListener("click", displayQuestion);
+newWordButton.addEventListener("click", newCard);
 
-// flip functionality for initial page-load
-document.addEventListener("keydown", flipBack);
+// attache functionality "newCard" to wrong-button
+buttonWrong.addEventListener("click", newCard);
+buttonCorrect.addEventListener("click", () => {
+    removeCardFromSet();
+    newCard();
+});
+
+// reload the page / begin from the beginning
+reloadButton.addEventListener("click", () => location.reload());
 
 
 
