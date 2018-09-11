@@ -1,6 +1,7 @@
 // load questionSets into scope
 let arbeitsRechtFragen = r;
 let vokabelFragen = v;
+let hgbFragen = hgb;
 
 // getting the DOM elements 
 // Card Elements
@@ -35,6 +36,10 @@ arbeitsRecht.addEventListener("change", () => {
 });
 vokabeln.addEventListener("change", () => {
     defineQuestionSet(vokabelFragen);
+    newCard();
+});
+handelsRecht.addEventListener("change", () => {
+    defineQuestionSet(hgbFragen);
     newCard();
 });
 
