@@ -1,5 +1,5 @@
 // load questionSets into scope
-let arbeitsRechtFragen = r;
+let arbeitsRechtFragen = ar;
 let vokabelFragen = v;
 let hgbFragen = hgb;
 
