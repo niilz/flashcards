@@ -1,6 +1,6 @@
 body {
     font-family: "Helvetica Neue";
-    font-size: 24px;
+    font-size: calc(16px + .7vw);
 }
 
 .container {
@@ -92,14 +92,14 @@ li {
 }
 
 
-.question {
-    font-size: 30px;
+/* .question {
+    font-size: calc(15px + 1vw);
 }
 
 .answer {
     height: 50px;
-    font-size: 24px;
-}
+    font-size: calc(12px * .5vw);
+} */
 
 .solution {
     text-align: center;
@@ -111,7 +111,7 @@ li {
 
 /* Buttons */
 button {
-    font-size: 24px;
+    font-size: calc(18px + .7vw);
     margin: 20px;
 }
 
@@ -149,7 +149,7 @@ button.wrong {
 
 .flex_container div {
     margin: 5px 15px 5px 15px;
-    font-size: 16px;
+    font-size: calc(12px + .5vw);
 }
 
 
