@@ -111,9 +111,12 @@ function flipBackAndDisplayAnswer() {
         // if muslitple answers display them as a list
         else {
             solution.innerHTML = "";
-            let answerListDOM = document.createElement("ul");
+            let answerListDOM = document.createElement("ol");
             solution.appendChild(answerListDOM);
             answerList.forEach(a => {
+                // check if a number is in front and delete it so the ordered list tag provides numbers;
+                let numRegEx = /^\s*\d+\.\s/g;
+                a = a.replace(numRegEx, "");
                 let listElement = document.createElement("li");
                 answerListDOM.appendChild(listElement);
                 listElement.innerHTML = a;
