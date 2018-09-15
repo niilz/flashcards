@@ -57,7 +57,7 @@ hgb = [
   },
   {
     "Frage": "Was ist die Firma? Wo ist der Begriff definiert?",
-    "Antwort": "1. Der Name unter dem der Kaufmann seine Geschäfte betreibt. 2. §17 HGB"
+    "Antwort": "1. Der Name unter dem der Kaufmann seine Geschäfte betreibt; 2. §17 HGB"
   },
   {
     "Frage": "Was muss bei der Namensgebung einer Unternehmung (Firma) berücksichtigt werden (mit Paragraphen)",
@@ -92,8 +92,8 @@ hgb = [
     "Antwort": "§15 Abs. 1 HGB; 2. Wenn einem Prokuristen die Prokura entzogen wurde, dies aber nicht im HR eingetragen wurde, dann ist ein Vertrag zw. einem Dritten mit dem \"ehemaligen\" Prokuristen gültig, wenn dieser Dritte nicht wusste, dass die Prokura entzogen wurde."
   },
   {
-    "Frage": "Erläutere positiv Publizität. Wo steht etwas darüber im Gesetz? Warum gibt es das?",
-    "Antwort": "§15 Abs. 2 HGB; 2. Eine Art \"Schonfrist\". Eine Eintragung wird erst 15 Tage nach Eintragung als \"gekannt\" vorausgesetzt. 3. damit Geschäftspartner nicht täglich in das HR schauen müssen"
+    "Frage": "Erläutere positive Publizität. Wo steht etwas darüber im Gesetz? Warum gibt es das?",
+    "Antwort": "§15 Abs. 2 HGB; 2. Eine Art \"Schonfrist\". Eine Eintragung wird erst 15 Tage nach Eintragung als \"gekannt\" vorausgesetzt; 3. damit Geschäftspartner nicht täglich in das HR schauen müssen"
   },
   {
     "Frage": "Welche Paragraphen regeln Handelsbräuche und Handelsgeschäfte?",
@@ -133,7 +133,7 @@ hgb = [
   },
   {
     "Frage": "Welche Personengesellschaften gibt es? Wo sind diese jeweils defniniert?",
-    "Antwort": "1. Kommanditgesellschaft (§§ 161-177a HGB); 2. OHG (§§ 105 ff HGB);"
+    "Antwort": "1. Kommanditgesellschaft (§§ 161-177a HGB); 2. OHG (§§ 105 ff HGB)"
   },
   {
     "Frage": "Welche Kapitalgesellschaften gibt es? Wo sind diese jeweils defniniert?",
@@ -148,12 +148,12 @@ hgb = [
     "Antwort": "1. Haftung in Höhe der Geldeinlage, quasi Geldgeber (§§ 161, 171, 172 HGB); 2. Umfang der Haftung (§172 Abs. 1 HGB); 3. von der Geschäftsführung ausgeschlossen (§164 HGB); 4. nicht ermächtig zur Vertretung der Gesellschaft nach Außen (§170 HGB); 5.Kommanditisten haften voll, bevor die KG im Handelsregister eingetragen ist (§176 HGB siehe auch §15 Abs. 1 HGB) ;6. es kann mehere Kommanditisten geben"
   },
   {
-    "Frage": "Was bedeutet \"Haftung vor Eintragung",
+    "Frage": "Was bedeutet \"Haftung vor Eintragung\"",
     "Antwort": "Kommanditisten haften voll, bevor die KG im Handelsregister eingetragen ist (§176 HGB siehe auch §15 Abs. 1 HGB), wenn die Geschäfte bereits aufgenommen wurden. Kommanditisten sollten daher dafür sorgen, dass vor der Eintragung ins HR noch keine Geschäfte getätigt werden."
   },
   {
     "Frage": "Was ist eine OHG? Was sind die relvanten Eigenschaften? (nenne auch die Normen)",
-    "Antwort": "§§ 105 ff HGB; 1.. min. 2 Personen; 2. muss norariel ins Handelsregister eingetragen werden (§106 HGB); 3. unbeschränkte Haftung aller Gesellschafter (§105 Abs. 1 HGB); 4. erfordert Gesellschaftsverstrag (§109 HGB); 5. Geschäftsführung kann nach innen, nicht aber nach außen eingeschränkt werden (§114 HGB); 6. Jeder Gesellschafter ist ermächtigt die OHG zu vertreten (§125 HGB)"
+    "Antwort": "§§ 105 ff HGB; 1.. min. 2 Personen; 2. muss notariell ins Handelsregister eingetragen werden (§106 HGB); 3. unbeschränkte Haftung aller Gesellschafter (§105 Abs. 1 HGB); 4. erfordert Gesellschaftsverstrag (§109 HGB); 5. Geschäftsführung kann nach innen, nicht aber nach außen eingeschränkt werden (§114 HGB); 6. Jeder Gesellschafter ist ermächtigt die OHG zu vertreten (§125 HGB)"
   },
   {
     "Frage": "Was ist eine KG?",
@@ -168,7 +168,7 @@ hgb = [
     "Antwort": "1. GmbHG (vor allem §§ 1-5 GmbHG); 2. bedarf min. einem Gesellschafter (natürliche Person) die die Gesellschaft vertritt; 3. bedarf eines notariell beglaubigten Gesellschaftsvertrages (§2 Abs. 1 GmbHG); 4. Mindestinhalte des Vertrages sind Firma & Sitz, Gegenstand, Stammkapital, Nennbeträge der Geschäftsanteile (§3 GmbHG); 5. Stammeinlage muss mindestens €25.000 betragen (§5 GmbHG); 6. es bedarf min. einem Geschäftsführer der im Handelsregister eingetragen ist"
   },
   {
-    "Frage": "Welche Mindestinhalte müssen im Gesellschaftervertrag festgehalten werden? (auch Paragraph)",
+    "Frage": "Welche Mindestinhalte müssen im Gesellschaftervertrag der GmbH festgehalten werden? (auch Paragraph)",
     "Antwort": "(§3 GmbHG); 1. Firma und Sitz der Gesellschaft; 2. Gegenstand des Unternehmens; 3. Betrag des Stammkapitals; 4. Zahl und Nennbeträge der Geschäftsanteile"
   },
   {
@@ -181,10 +181,10 @@ hgb = [
   },
   {
     "Frage": "Was ist der Zweck des UWG? Wo steht das?",
-    "Antwort": "1. §1 UWG; 2. Es dient dem Schutz von; Mitbewerbern; Verbraucher*innen; sonstige Marktteilnehmer; vor unlauteren geschäftlichen Handlungen; 2. Schützt zugleich Interesse der Allgemeinheit an unverfälschten Wettbewerb"
+    "Antwort": "1. §1 UWG; 2. Es dient dem Schutz von:; Mitbewerbern; Verbraucher*innen; sonstige Marktteilnehmer; vor unlauteren geschäftlichen Handlungen; 2. Schützt zugleich Interesse der Allgemeinheit an unverfälschten Wettbewerb"
   },
   {
-    "Frage": "Wo sind stehen Definitionen im UWG?",
+    "Frage": "Wo stehen Definitionen im UWG?",
     "Antwort": "§2 UWG"
   },
   {

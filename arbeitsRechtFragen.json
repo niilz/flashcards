@@ -28,7 +28,7 @@ ar = [
       "Antwort": "§2 NachwG"
     },
     {
-      "Frage": "Welche zwei Vetragsarten gibt es?",
+      "Frage": "Welche zwei Vetragsarten gibt es im Rahmen von Arbeitsverträgen?",
       "Antwort": "1. Befristeter Arbeitsvertrag; 2. Teilzeit-Vertrag; (3. Arbeitnehmerüberlassung AÜG); (4. Ausbildungsvertrag BBiG)"
     },
     {
@@ -109,7 +109,7 @@ ar = [
     },
     {
       "Frage": "Welche Punkte sind bei der ordentlichen Kündigung zu beachten? (nenne auch Gesetzesstellen)",
-      "Antwort": "1. bedarf der Schriftform (§623 BGB); 2. Fristen sind zu beachten (§622: Arbeitnehmer unter Abs.1; Arbeitgeber unter Abs.2; Arbeitgeber darf keine kürzere Frist bekommen als der Arbeitnehmer Abs. 6); 3. Kündigungsschutzgesetzt (KSchG) könnte greifen"
+      "Antwort": "1. bedarf der Schriftform (§623 BGB); 2. Fristen sind zu beachten (§622: Arbeitnehmer unter Abs.1, Arbeitgeber unter Abs.2, Arbeitgeber darf keine kürzere Frist bekommen als der Arbeitnehmer Abs. 6); 3. Kündigungsschutzgesetzt (KSchG) könnte greifen"
     },
     {
       "Frage": "Was sind die Vorraussetzungen dafür, dass das Kündigungsschutzgesetzt (KSChG) zur Anwendung kommt? (nenne auch die Paragraphen)",
@@ -121,7 +121,7 @@ ar = [
     },
     {
       "Frage": "Nenne die Gründe für eine sozialgerechtfertigte Kündigung, wenn das Kündigungsschutzgesetzt gilt. (jeweils mit Beispiel)",
-      "Antwort": "1. Personenbeding (Bsp. Krankheit ohne Aussicht auf Besserung, mangelnde Qualifikation); 2. Verhaltensbedingt (Bsp. Fehlverhalten, eventuell trotz Abmahnung); 3. Betriebsbeding (Bsp. Produktionsverlagerung, Stilllegung)"
+      "Antwort": "1. Personenbeding (Bsp. Krankheit ohne Aussicht auf Besserung, mangelnde Qualifikation); 2. Verhaltensbedingt (Bsp. Fehlverhalten, eventuell trotz Abmahnung); 3. Betriebsbedingt (Bsp. Produktionsverlagerung, Stilllegung)"
     },
     {
       "Frage": "Was muss berücksichtigt werden, wenn in einem Fall, in dem das Kündigungsschutzgesetz greift, es zu einer betriebsbedingten Kündigung kommen soll? (nenne die Gesetzesstelle)",
@@ -201,7 +201,7 @@ ar = [
     },
     {
       "Frage": "Welche Feiheiten gelten allgemein bei Verträgen?",
-      "Antwort": "Abschlussfreiheit: 1. Formfreiheit; 2. Inhaltsfreiheit; 3. Abschlussreiheit (Es sei denn einer der Aspekte widerspricht einer übergeordneten Norm)"
+      "Antwort": "1. Formfreiheit; 2. Inhaltsfreiheit; 3. Abschlussfreiheit (Es sei denn einer der Aspekte widerspricht einer übergeordneten Norm)"
     },
     {
       "Frage": "Wann bedürfen befristete Arbeitsverhältnisse einer Kündigung?",
@@ -224,7 +224,7 @@ ar = [
       "Antwort": "Arbeitnehmer ist, wer durch privatrechltichen Vertrag verpflichtet ist, Dienste zu leisten, die in unselbständiger Arbeit zu entrichten sind. (Abgrenzung zu selbständiger Arbeit: selbständige Arbeit ist nicht weisungsgebunden. Der Arbeitnehmer ist bei selbst. Arbeit nicht in die Organisation des Arbeitgebers eingebunden.)"
     },
     {
-      "Frage": "Welche zwei Unterschiede weißt \"selbständige Tätigkeit\" gegenüber \"angestellt sein\" auf?",
+      "Frage": "Welche zwei Unterschiede weist \"selbständige Tätigkeit\" gegenüber \"angestellt sein\" auf?",
       "Antwort": "1. Selbständige Arbeit ist nicht weisungsgebunden; 2. Der Arbeitnehmer ist bei selbständiger Arbeit nicht in die Organisation des Arbeitgebers eingebunden."
     },
     {
@@ -237,10 +237,10 @@ ar = [
     },
     {
       "Frage": "Wie entsteht ein Anspruch? Welche Vorraussetzungen bedarf die Wirksamkeit?",
-      "Antwort": "1. Durch Ansprüche aus Rechtsgeschäft; 2. Es bedarf einer Willenseinigung (über die wesentlichen Vertragsbestandteile §104 ff. BGB sowie korrespondierende Willenserklärungen: Angebot und Annahme); 3. Es dürfen keine Wirksamkeitshindernisse vorliegen (Unwirksamkeit von Willenserklärung z.B. Geschäftsunfähigkeit §105 Abs. 1 i.V.m. §104 BGB; Sittenverstoß §103 BGB...); 4. Außerhalb von Rechstgeschäften können Ansprüche aus Gesetzt entstehen (z.B.: §823)"
+      "Antwort": "1. Durch Ansprüche aus Rechtsgeschäft; 2. Es bedarf einer Willenseinigung (über die wesentlichen Vertragsbestandteile §104 ff. BGB sowie korrespondierende Willenserklärungen: Angebot und Annahme); 3. Es dürfen keine Wirksamkeitshindernisse vorliegen (Unwirksamkeit von Willenserklärung z.B. Geschäftsunfähigkeit §105 Abs. 1 i.V.m. §104 BGB, Sittenverstoß §103 BGB...); 4. Außerhalb von Rechstgeschäften können Ansprüche aus Gesetzt entstehen (z.B.: §823)"
     },
     {
-      "Frage": "Wann ist eine Anspruch untergegangen?",
+      "Frage": "Wann ist ein Anspruch untergegangen?",
       "Antwort": "Wenn ein Erlöschungsgrund vorliegt, er inhaltlich verändert ist oder er auf einen anderen übergegangen ist (rechtsvernichtende Einwendungen). Z.B. Wenn bereits geleistet/gezahlt wurde."
     },
     {
@@ -249,7 +249,7 @@ ar = [
     },
     {
       "Frage": "Wie lautet das Prüfungsschema für Haftung aus unerlaubter Handlung? (nenne auch die Paragraphen)",
-      "Antwort": "Haftung aus unerlaubter Handlung setzt kein Vertragsverhältnis voraus. Schuldner und Gläubiger werden kraft des Gesetzes schuldrechtlich miteinander verbunden.\\nVorraussetzungen: 1. Rechstgrund des §823 Abs. 1 oder Abs. 2 muss verletzt sein; 2. Schaden (jeder Vermögensschaden); Schmerzensgeld; 3. Rechstwiedrige Veletzungshandlugn; 4.Verschulden (Fahrlässig oder Vorsatz); 5. Kausalzusammenhang zwischen Schaden und Verletzungshandlung"
+      "Antwort": "Haftung aus unerlaubter Handlung setzt kein Vertragsverhältnis voraus. Schuldner und Gläubiger werden kraft des Gesetzes schuldrechtlich miteinander verbunden.\nVorraussetzungen: 1. Rechstgrund des §823 Abs. 1 oder Abs. 2 muss verletzt sein; 2. Schaden (jeder Vermögensschaden); Schmerzensgeld; 3. Rechtswiedrige Veletzungshandlung; 4.Verschulden (Fahrlässig oder Vorsatz); 5. Kausalzusammenhang zwischen Schaden und Verletzungshandlung"
     },
     {
       "Frage": "Wie lautet das Prüfungsschema für Schadensersatz nach §§ 280 BGB?",
@@ -277,6 +277,6 @@ ar = [
     },
     {
       "Frage": "Wie lautet das Prüfungsschema bei Kündigungen mit Geltung des Kündigungsschutzgesetzes?",
-      "Antwort": "1. Arbeitsvertrag? ; 2. Kündigung ist ausgesprochen/liegt vor? (in Schriftform); 3. Kündigungsfrist eingehalten?; 4. Geltung des KSchG? (Mehr als 10 Mitarbeiter und mehr als 6 Monate Betriebszugehörigkeit)\\nKündigung muss sozial gerechtfertigt sein: Betriebs-, personen- oder verhaltensbedingt.\\nBei betriebsbedingt: eventuell Sozialplan & bei verhaltensbedingter Kündigung Abmahnung bedenken."
+      "Antwort": "1. Arbeitsvertrag? ; 2. Kündigung ist ausgesprochen/liegt vor? (in Schriftform); 3. Kündigungsfrist eingehalten?; 4. Geltung des KSchG? (Mehr als 10 Mitarbeiter und mehr als 6 Monate Betriebszugehörigkeit)\nKündigung muss sozial gerechtfertigt sein: Betriebs-, personen- oder verhaltensbedingt.\nBei betriebsbedingt: eventuell Sozialplan & bei verhaltensbedingter Kündigung Abmahnung bedenken."
     }
   ]
