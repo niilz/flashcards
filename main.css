@@ -1,5 +1,5 @@
 body {
-    font-family: "Helvetica Neue";
+    font-family: "Helvetica Neue", sans-serif;
     font-size: calc(16px + .7vw);
 }
 
