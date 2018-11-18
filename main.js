@@ -44,7 +44,7 @@ handelsRecht.addEventListener("change", () => {
     defineQuestionSet(hgbFragen);
     newCard();
 });
-orgaFragen.addEventListener("change", () => {
+organisation.addEventListener("change", () => {
     defineQuestionSet(orgaFragen);
     newCard();
 });
