@@ -17,7 +17,7 @@ let buttonCorrect = document.querySelector(".correct");
 let buttonWrong = document.querySelector(".wrong");
 let reloadButton = document.querySelector(".reload");
 // choiceButtons
-let orgaFragen = document.querySelector("#orga_fragen");
+let organisation = document.querySelector("#orga_fragen");
 let arbeitsRecht = document.querySelector("#arbeits_recht");
 let handelsRecht = document.querySelector("#handels_recht");
 let vokabeln = document.querySelector("#vokabeln");
