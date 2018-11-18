@@ -2,6 +2,7 @@
 let arbeitsRechtFragen = ar;
 let vokabelFragen = v;
 let hgbFragen = hgb;
+let orgaFragen = orga;
 
 // getting the DOM elements 
 // Card Elements
@@ -16,6 +17,7 @@ let buttonCorrect = document.querySelector(".correct");
 let buttonWrong = document.querySelector(".wrong");
 let reloadButton = document.querySelector(".reload");
 // choiceButtons
+let orgaFragen = document.querySelector("#orga_fragen");
 let arbeitsRecht = document.querySelector("#arbeits_recht");
 let handelsRecht = document.querySelector("#handels_recht");
 let vokabeln = document.querySelector("#vokabeln");
@@ -24,7 +26,7 @@ let remainingCards = document.querySelector(".remaining");
 
 // define question-set
 // global questionSet
-let questionSet = arbeitsRechtFragen;
+let questionSet = orgaFragen;
 
 function defineQuestionSet(set) {
     questionSet = set;
@@ -40,6 +42,10 @@ vokabeln.addEventListener("change", () => {
 });
 handelsRecht.addEventListener("change", () => {
     defineQuestionSet(hgbFragen);
+    newCard();
+});
+orgaFragen.addEventListener("change", () => {
+    defineQuestionSet(orgaFragen);
     newCard();
 });
 

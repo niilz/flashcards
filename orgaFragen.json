@@ -1,0 +1,278 @@
+orga = [
+    {
+      "Frage": "Wie lassen sich Ziele eines Unternehmens hinsichtlich der Hierarchie unterteilen?",
+      "Antwort": "Hierarchische Stufe -> Unternehmensbereich"
+    },
+    {
+      "Frage": "Nenne die hierarchischen Stufen sowie den jeweils gegenüberstehenden Unternehmensbereich",
+      "Antwort": "1. Stufe (oberste Unternehmensziele) -> Gesamtunternehmen (a. Erzielung von Gewinn, b. Erhöhung der Rentabilität); 2. Stufe (versch. Zwischenziele je Bereich) -> z.B. Produktion (Senkung der Prod.-Kosten), z.B. Finanzen (\"optimale Liquidität\"), z.B. Absatz (Steigerung des Marktanteils); 3. Stufe (Abteilung/Funktion) -> - Arbeitsvorbereitung, - Produktionsabteilung, - Instandshaltung"
+    },
+    {
+      "Frage": "Nenne Zielsetzungsbeispiele als Unterziele je Abteilung  in der 3. Stufe",
+      "Antwort": "1. Arbeitsvorbereitung -> z.B.: Senkung der Rüstzeiten; 2. Produktionsabteilung -> z.B.: Senkung der Stückkosten; 3. Instandshaltung -> z.B.: Wartungsintervalle erweitern"
+    },
+    {
+      "Frage": "Was ist eine Vision?",
+      "Antwort": "Eine <strong>Vision</strong> umfasst <strong> mahr als die wirschafltichen Ziele eines Unternehnems.</strong> Sie ist motivierende , positiv-formulierte Vorstellung des Zustandes, den Sie mit Ihrem Unternehmen erreichen wollen. Mit einer Vision geben Sie die Richtung an, in die sich Ihr Unternehmen entwickeln soll. Die Vision drückt aus, wo und wofür Sie in der Zukunft stehen wollen."
+    },
+    {
+      "Frage": "Was ist eine Mission?",
+      "Antwort": "Die <strong>Mission</strong> ist die Umsetzung der Vision und verkörpert somit den Auftrag des Unternehmens. Eine Mission ist ein Statement, ein Bekenntnis zu bestimmten Werten."
+    },
+    {
+      "Frage": "Nenne vier Beispiele für eine Vision.",
+      "Antwort": "1. Illy Kaffee: Illy will eine weltweite Referenz für Kaffeekultur und exzellente Kaffeequalität sein.; 2. Swarowski Optik: Swarowski Optik bringt den Menschen die Kostbarkeit des Augenblicks näher und teilt mit ihnen die Freude am Sehen und die Faszination für das Verborgene und Schöne.; 3. Fitness First: Fitness First will die Welt zu einem fitteren Ort machen.; 4. IKEA: IKEA will den vielen Menschen einen besseren Alltag schaffen."
+    },
+    {
+      "Frage": "Nenne vier Beispiele für eine Mission.",
+      "Antwort": "1. Illy Kaffee: Unser Ziel ist es, Menschen auf der ganzen Welt, für die Lebensqualität eine wichtige Rolle spielt, mit Kaffee von bestmöglicher Qualität zu verwöhnen.; 2. Swarowski Optik: Fernoptik höchster Präzesion, erkennbar am schlichten Design, das von nobler Zurückhaltung erzählt und sein technisches Geheimnis im Inneren birgt.; 3. Fitness First: Die Mission lautet, seinen Mitgliedern zu helfen, ihre persönlichen Ziele zu erreichen.; IKEA: IKEA bietet ein breites Sortiment formschöner und funkitonsgerechter Einrichtungsgegenstände zu Preisen an, die so günstig sind, dass möglichst viele Menschen sie sich leisten können."
+    },
+    {
+      "Frage": "Was ist ein Unternehmensleitbild, was sind Unternehmensleitlinien (mache dir die Unterschiede klar)",
+      "Antwort": "Ein <strong>Unternehmensleitbild</strong> ist die Darstellung wichtiger grundsätzlicher unternehmerischer Ziele, Strategien und Grundsätze.; <strong>Untenehmensleitlinien</strong> sind auf die Unternehmensbereiche oder -funktionen differenzierte Ziele, Strategien und Grundsätze."
+    },
+    {
+      "Frage": "Nenne die Inhalte von Untenehmensleitbildern",
+      "Antwort": "1. <strong>Unternehmensgrundsätze</strong>, z.B. wightige Aufgaben des Unternehmens in der Gesellschaft für Kunden, Eigner, Mitarbeiter, Umwelt; 2. <strong>Führungsgrundsätze</strong>, z.B. wichtige Führungsmerkmale und angestrebter Führungsstil; 3. <strong>Strategien</strong>, z.B. zielgruppenspezifisch differenziert nach Kunden und Mitatbeitern"
+    },
+    {
+      "Frage": "Wie lauten die 10 Leitfragen nach Pichler, die dabei helfen ein Unternehmensleitbild zu erstellen?",
+      "Antwort": "1. Welche Bedürfnisse wollen wir mit unseren Marktleistungen (Produkte, Dienstleistungen) befriedigen?; 2. Welchen grundlegenden Anforderungen sollen unsere Marktleistungen entsprechen (Qualität, Preis, Neuheit, usw.)?; 3. Welche geographische Reichweite soll unser Unternehmen haben (lokale, nationlaer, internationaler Charakter)?; 4. Welche Martstellung wollen wir erreichen?; 5. Welche Grundsätze sollen unser Verhalten gegenüber unseren Marktpartnern (Kunden, Lieferanten, Konkurrenten) bestimmen?; 6. Welches sind unsere grundsätzlichen Zielvorstellungen bezüglich Gewinnerzielung und Gewinnverwendung?; 7. Welches ist unsere grundsätzliche Haltung gegenüber dem Staat?; 8. Wie sind wir iengestellt gegenüber wesentlichen gesellschaftlichen Anliegen (Umweltschutz, Gesundheitspflege, Armutsbekämpfung, Entwicklung, Kunstförderung usw.)?; 9. Welches ist unser wirtschaftliches Handlungsprinzip?; 10. Wie stellen wir uns grundsätzlich zu Anliegen der Mitarbeiter (Entlohung, persönliche Entwicklung, soziale Sicherung, Mitbestimmung, finanzielle Mitbeteiligung usw.)?; 11. Welches sind die wesentlichen Grundsätze der Mitarbeiterführung, die in unserem Unternehmen gelten sollen?; 12. Welches ist unsere technologische Leitvorstellung?"
+    },
+    {
+      "Frage": "Wie lautet der Merksatz zur Unternehmenspolitik",
+      "Antwort": "Unternehmenspolitik bezeichnet alle Entscheidungen, die das Unternehmensgeschehen in der Zukunft in wesentlichen Orientierungen festlegen sowie die grundsätzlichen Verhaltensweisen in wichtigen unternehnerischen Situationen."
+    },
+    {
+      "Frage": "Nenn die Einflussvariablen für Unternehmenspolitik (inkl. Bespielen)",
+      "Antwort": "1. Aufgabenumwelt: z.B. Kapitalgeber, Märkte, Lieferanten/Kunden; 2. Ökonomische Umwelt: z.B. gesamtwirtschaftliche Rahmenbedingungen, Branchenentwicklung, Arbeitsmarkt; 3. Rechtliche Umwelt: z.B. Steuerrecht, Umweltrecht, Verbraucherrecht; 4. Gesellschaftliche Umwelt: z.B. Bevölkerungsstruktur und -entwicklung, Einkommensverteilung, Bildungssystem; 5. Technische Umwelt: z.B Entwicklung der Intormations- und Kommuniktionssysteme, Innovationsentwicklung; 6. Politische Umwet: z.B. politische Willensbildung und Stabitlät, Organisation des Gesellschaftssystems; 7. Ökologische Umwelt: z.B. Entwicklung an den Rohstoffmärkten, ökologisches Gleichgewicht"
+    },
+    {
+      "Frage": "Wie nennt man Shareholder-Value-Politik noch?",
+      "Antwort": "Stabilisierungspolitik"
+    },
+    {
+      "Frage": "Nenn die Charakteristika der Shareholder-Value-Politik (5 Aspekte)",
+      "Antwort": "1. Ziel ist in erster Linie die Bestands- und Überlebenssicherung des Unternehmens; 2. Die Interessen der Kapitalgeber (Shareholder) stehen im Vordergrund; 3. Man zielt auf eine kurzfristige Unternehmenswertsteigerung bzw. die kurzfristige Gewinnmaximierung und -abschöpfung; 4. Bestehende Erfolgspotenziale des Unternehmens sollen entsprechend gehalten, abgeschöpft oder ausgebaut werden; 5. Als Situationsfaktoren sind relativ stabile Märkte bzw. Umweltbedingungen, überschaubare Erfolgsfaktoren sowie eine große Macht der Kapitalgeber nötig"
+    },
+    {
+      "Frage": "KARSTADT-FILM (Eigene Aufzeichungen)",
+      "Antwort": ""
+    },
+    {
+      "Frage": "Wie nennt man Stakeholder-Value-Politik noch?",
+      "Antwort": "Entwicklungspolitik"
+    },
+    {
+      "Frage": "Nenne die Charakteristika der Stakeholder-Value-Politik (4 Aspekte)",
+      "Antwort": "1. Ziel ist in erster Linie die langfristige Unternehmensentwicklung; 2. In den Vordergrund der Unternehmenszielsetzung werden stärker die Interessen der Stakeholder (Kunden, Mitarbeiter, verbundene Unternehmen und die Gesellschaft) gestellt; 3. Die Unternehmenspolitik zielt auf die Suche und Schaffung von neuen unternehmerischen Erfolgspotenzialen; 4. Als fördernde Situationsfaktoren gelten dynamische und komplexe Märkte bzw. Umweltbedingungen"
+    },
+    {
+      "Frage": "Was lässt sich zu \"Stabilität vs. Entwicklung\" sage?",
+      "Antwort": "Es gilt grundsätzlich einen Ausgleich zu schaffen"
+    },
+    {
+      "Frage": "Wie lässt sich die Orientierung schematisch darstellen",
+      "Antwort": "Basis: grundlegende Orientierungspolitik (Unternehmensziele)->; 1. Ebene: Unternehmenspolitk; 2. zwei Ausprägungen: - Stabilisierungspolitik, - Entwicklungspolitik ->; 3. Strategien; 4. -> (linkerPfad) bestehende Erfolgspotentiale -> Syteme -> zwei Ausprägungen: - Organisationsstrukturen, - Managementsysteme; 5. -> (rechter Pfad) neue Erfolgspotentiale -> Prozesse"
+    },
+    {
+      "Frage": "Worauf stießen die Autoren bei ihren Recherchen zu dem Film \"Der große Schlussverkauf (2010)\"?",
+      "Antwort": "1. Es bestanden enge Beziehungen zwischen privaten Investoren und \"Arcandor\" Managern; 2. Die Verfolgung der weitverzweigten Finanzstrukturen im In- und Ausland,, vor allem aber interne Dokumente bekräftigten den Verdacht, dass der Konzern zum Spielball privater Interessen geworden war;"
+    },
+    {
+      "Frage": "In welchen Kontexten kann es zu Kontrollproblemen kommen?",
+      "Antwort": "1. Steuerung von Körperschaften bzw. Kapitalgesellschaften; 2. Trennung von Eigentum am und Verfügungsgewalt über das Unternehmn; 3. GmbH, KGaA, AG und SE"
+    },
+    {
+      "Frage": "Welche Probleme gibt es in Zusammenhang mit Publikumsgesellschaften?",
+      "Antwort": "1. Streuung der Anteilseigner der Kapitalgesellschaft; 2. Divergenzen der Interessenlage zw. Kapitalgebern und Management; 3. \"Free-Riding-Problematik\", d.h. geringe Anreize zur Ausübung der Kontrollaufgaben für den einzelnen Aktionär"
+    },
+    {
+      "Frage": "Woduch kann es zu Fehlentwicklungen in einer Unternehmung kommen?",
+      "Antwort": "1. Passives Verhalten der Unternemensführung mit suboptimaler Leistungserbringung; 2. Persönliche Bereicherung durch Unternehmensführung bzw. Management; 3. Manipulatives Verhalten gegenüber den Eigenkapitalgebern zur Optimierung der eigenen Entwicklungsperspektiven"
+    },
+    {
+      "Frage": "Was besagt die Principal-Agent-Theorie",
+      "Antwort": "1. Grundsätzlicher Konfliktverdacht zw. Aftraggeber (Principal) und Auftragnehmer (Agent); 2. Asymetrische Risiko-, Informations- und Interessenverteilung; 3. Delegationsproblem"
+    },
+    {
+      "Frage": "Woduch entstehen Agency-Kosten für den Principal?",
+      "Antwort": "1. Überwachungs- und Kontrollkosten (\"monitoring expenditures\"); 2. Gewährleistungskosten (\"bonding expenditures\"); 3. Opportunitätskosten im Sinne von Residual- bzw. Wohlfahrtsverlusten (\"residual loss\")"
+    },
+    {
+      "Frage": "Welche Disziplinierungsformen gibt es?",
+      "Antwort": "1. \"Pay-for-Performance-Systeme\", d.h. Etablierung von Entgeltformen, die den Agenten durch variable Elemente am Ergebnis des Unternehmens beteiligen; 2. Etablierung von kontrollfähigen Verhaltensformen, die im Falle von Verstößen sanktioniert werden können; 3. Berichts-, Dokumentations- und Rechenschaftspflichten, die Täuschungversuche der Agenten verhindern"
+    },
+    {
+      "Frage": "Was ist der Stewardship-Ansatz?",
+      "Antwort": "1. Kritk am Bild des Managers als opportunistischer Akteur; 2. Interessengegensätze wz. Prinizpal und Agent werden vereint; 3. Agent ist freiwillig guter Verwalter bzw. Treuhänder des Unternehmens bzw. dessen Kapitalgeber"
+    },
+    {
+      "Frage": "Was bedeutet \"Self-actualizing man\"?",
+      "Antwort": "1. Wunsch nach Aufgabenbewältigung und Suche nach Entwicklungschanchen; 2. Selbstkontrolle und eigeninitiatives Verhalten; 3. Harmonie von Selbstentfaltungstendenz und organisationaler Leistungsfähigkeit"
+    },
+    {
+      "Frage": "Was bedeutet Corporate-Governance?",
+      "Antwort": "Rechlicher und faktischer Ordnungsrahmen, der eine gute und ordnungsgemäße Leistung, Überwachung und Kontrolle eines Unternehmens gewährleistet und unterstützt"
+    },
+    {
+      "Frage": "Was ist die \"Kodex-Bewegung\"?",
+      "Antwort": "1. Freiwillige Anwendung von Grundsätzen, sog. \"Code of Conduct\"; 2. \"comply or explain\", d.h. es liegt im Ermessen des jeweiligen Unternehmens, ob und welche Vorschriften sie anwenden; 3. Cadbury-Report (Auslöser: Unternehmen entscheiden, sich an bestimmte Codices zu halte [meißt freiwillig]"
+    },
+    {
+      "Frage": "Welche internen CG-Mechanismen gibt es als Gegenmaßnahme zu CG-Fehlentwicklungen?",
+      "Antwort": "1. Als institutionalisierte Form der Überwachung in Unternehmen gilt das <strong>\"Aufsichtsgremium\"</strong>, das je nach theoretischen Zugang mehr unternehmensintern oder unternehmensextern ausgerichtet ist; 2. Das <strong>Anreizsystem</strong> gilt als weiterer wichtiger interner CG-Meachnsismus, dessen Konstruktionslogik von zahlreichen Aspekten abhängig ist; 3. Weitere interen CG-Mechanismen sind die <strong>Finanzierungsstruktur</strong> der Unternehmens sowie die <strong>Revision</strong>"
+    },
+    {
+      "Frage": "Welche externen CG-Mecahnismen gibte es?",
+      "Antwort": "1. Als externe CG-Mechanismen fungieren im Wesentlichen der <strong>Arbeits-, Produkt- und Kapitalmarkt</strong>; 2. Der <strong>\"market of corporate control\"</strong> kann eine disziplinierende Wirkung auf das Management haben; 3. In Hinblick auf die Disziplinierungswirkung spielen <strong>\"CG-Ratings\"</strong> eine wichtige Rolle; 4. Bei gesetzlichen Regelungen sind Vor- und Nachteile abzuwägen (contra: hemmt Geschäftsführer, pro: klare Regelungen)"
+    },
+    {
+      "Frage": "Welchen Einfluss hat der Arbeits-, Produkt- und Kapitalmarkt auf das Corporate Governance?",
+      "Antwort": "1. Der Arbeitsmarkt gibt dem aktiven Management Anlass zum Aufbau von Reputation; 2. Der Produktmarkt übt einen Effizienzdruck aus und schränkt im Ergebnis den Handlungsspielraum für opportunistisches Verhalten des Managements ein; 3. Der Kapitalmarkt koppelt die Interessen des Managements an die der Aktionäre durch die Möglichkeit einer freindlichen Übernahme"
+    },
+    {
+      "Frage": "Was lässt sich über \"Market for corporate control\" sagen? Und wer hat das gesagt?",
+      "Antwort": "1. The lower the stock price, relative to what it could be with more efficient management, the more attractive the take-over becomes to those who believe that they can manage the company more efficiently; 2. Manne (1965)"
+    },
+    {
+      "Frage": "Wie lässt sich \"Market for corporate control\" erklären?",
+      "Antwort": "Unternehmen A will Unternehmen B übernehmen, ohne dass B das möchte. Dies gibt B den Ansporn das Unternehmen besser zu führen (den Aktienkurs hochzuhalten)"
+    },
+    {
+      "Frage": "Wie lautet der Merksatz zu \"Unternehmensführung",
+      "Antwort": "Unternehmensführung ist das Entscheiden und Gestalten von Strukturen und Systemen zur Umsetzung der Unternehmenspolitik (=Management)"
+    },
+    {
+      "Frage": "Differenziere den Management-Begriff",
+      "Antwort": "1. Funktion / Managementaufgaben (- Planung, -Organisation, - Kontrolle, - Personal); 2. Institution / Managementeinheiten (Gremien, Einzelpersonen); 3. Gremien (- Vorstand, Geschäftsleitung, Bereichsleitung, usw.); 4. Einzelpersonen (- Unternehmer, - Manager, - Leitender Angestellter, - Top-, Middle-, Lower-Manager)"
+    },
+    {
+      "Frage": "Nenne die Hauptaufgaben des Managements",
+      "Antwort": "1. Die <strong>Strategische Unternehmensplanung:</strong> Rahmenkonzeptionen für Geschäftsfelder (i.d.R. Geschäftsführer und Vorstand); 2. Die <strong>Koneption, Einführung und Pflege leistungsfähiger betrieblicher Systemstrukturen</strong> (operative Unternehmensplanung), z.B. Organisattionssystem, Planungs- und Kontrollsysteme, Führungsmodelle; 3. Die <strong>Mitarbeiterführung</strong>, z.B. Mitarbeiter motivieren und fördern"
+    },
+    {
+      "Frage": "Wie nennt man den marktorientierten Ansatz noch?",
+      "Antwort": "market-based-view"
+    },
+    {
+      "Frage": "Welche Perspektive verfolgt der marktorientierte Ansatz?",
+      "Antwort": "Outside-in - Betrachtung (\"What is our business?\")"
+    },
+    {
+      "Frage": "Welche beiden Einflüsse werden beim marktorientierten Ansatz vorallem betrachte und auf welche Weise? (Nenne jeweils Beispiele)",
+      "Antwort": "1. Markt: Chancen - / Risiken - Analyse (Branchenanalyse) z.B. - Brancheninterner Wettbewerb, - Bedrohung durch Ersatzprodukte, - Gefahr von Marteintritten, - Macht von Abnehmern bzw. Lieferanten; 2. Unternehmung: Stärken - / Schwächen - Analyse z.B: - Kostenführerschaft, - Produktdifferenzierung, - Konzentration auf Schwerpunkte"
+    },
+    {
+      "Frage": "Wie fließen die beiden Betrachtungsaspekte Markt und Unternehmung beim marktorientierten Ansatz zusammen, bzw. was lässt sich daduch erreichen?",
+      "Antwort": "1. Passung (zusammenbringen der beiden Betrachtungsrichtungen); 2. Monopolistische Rente (Vorteile solange das Unternehmen besser ist als der Rest); 3. Verringerung der Wettbewerbsintensität"
+    },
+    {
+      "Frage": "Wie nenn man die ressourcenorientierte Sichtweise noch?",
+      "Antwort": "Ressource-based-view"
+    },
+    {
+      "Frage": "Welche Perspektive verfolgt die ressourcenorientierte Sichtweise?",
+      "Antwort": "Inside-out - Betrachtung (\"What business are we capable to do?\")"
+    },
+    {
+      "Frage": "Welche beiden Einflüsse werden bei der ressourcenorientierten Sichtweise betrachtet? (Nenne jeweils Beispiele)",
+      "Antwort": "1. Markt; 2. Unternehmung; 3. Beide Aspekte werden gemeinsam als \"Ressourcen bzw. core-competences\" zusammengefasst betrachtet; 4. Bsp. für Markt-Seite: Wert (- Zugang zu potenziellen Märkten, - vom Kunden wahrgenommener geldwerter Zusatznutzen); 5. Bsp. für Unternehmungsseite: Heterogenität und Immobilität: (- knapp, - schwer imitierbar, - schwer substituierbar)"
+    },
+    {
+      "Frage": "Wie fließen die beiden Betrachtungsaspekte Markt und Unternehmung beim der ressourcenbasierten Anischt zusammen, bzw. was lässt sich daduch erreichen?",
+      "Antwort": "1. Passung; 2. Effizienzrente; 3. Kernkompetenzen"
+    },
+    {
+      "Frage": "Wozu gehört die SWOT-Analyse?",
+      "Antwort": "zur Umwelt - und Unternehmensanalyse"
+    },
+    {
+      "Frage": "Welche beiden Perspektiven werden bei der Umwelt- und Unternehmensanalyse betrachtet (nenne auch konkrete Aspekte)",
+      "Antwort": "1. Umwelt (- Märkte, - Branche, - Konkurrenten) -> Gefahren und Gelegenheiten aus der Umwelt ( eher Outside-In); 2. Unternehmung (- Erfahrungskurve, - Lebenszyklus, - Portfolio-Positionierung, - Wertschöpfung, - Rahmenbedingungen [Unternehmenskultur, -verfassung] -> Stärken und Schwächen der Unternehmung (eher Inside-Out)"
+    },
+    {
+      "Frage": "Was lässt sich aus den Betrachtungen der zwei Perspektiven in der Umwelt- und Unternehmensanalyse ableiten?",
+      "Antwort": "1. Wettbewerbspositionierung ->; 2. Strategieformulierung und -umsetzung"
+    },
+    {
+      "Frage": "Nenne die verschiedenen (gleichverteilten) Hemmniss-Ausprägungen von Angestellten bezüglich Neuerungen. (von Anpassungsaffin bis Anpassungsavers)",
+      "Antwort": "1. Visionäre und Missionäre; 2. aktive Gläubige; 3. Opportunisten; 4. Abwartende und Gleichgültige; 5. Untergrundkämpfer; 6. offene Gegner; 7. Emigranten"
+    },
+    {
+      "Frage": "Was sind die Gründe für Anpassungshemmnisse von Angestellten? (angefangen beim häufigst genannten Grund)",
+      "Antwort": "1. Persönliche Vorbehalte (35%); 2. Mangelnde Kommunikation (33%); 3. Fehlendes Vertrauen (25%); 4. Fehlende Motivation (9%)"
+    },
+    {
+      "Frage": "Wie lautet der Merksatz für \"Organisation\"?",
+      "Antwort": "Organisation sind die Strukturen und Regeln, in deren Rahmen die Lestungserstellungsprozesse ablaufen."
+    },
+    {
+      "Frage": "Skizziere (eine) Organisation",
+      "Antwort": "1. (Controlling) - Unternehmensleitung - (Planung); 2. Beschaffung; 3. Produktion - (Arbeitsvorbereitung); 4. Absatz - (Marktforschung); 5 (jeweils können Unter-Abteilungnen oder einzelne Stellen darunter liegen)"
+    },
+    {
+      "Frage": "Definiere \"Stelle",
+      "Antwort": "Bei einer <stron>Stelle</strong> handelt es sich um die kleinste Organisationseinheit. Einer Stelle werden Aufgaben und Kompetenzen (Rechte und Befugnisse) zugeordnet, um die Aufgaben auszuführen zu können."
+    },
+    {
+      "Frage": "Definiere \"Instanz",
+      "Antwort": "Eine <strong>Instanz</strong> (Leitungsstelle) ist eine Stelle, der Leitungsbefugnisse zugewiesen werden."
+    },
+    {
+      "Frage": "Definiere \"Abteilung",
+      "Antwort": "Die Zusammenfassung mehrerer Stellen zur Efüllung einer betrieblichen Aufgabe bezeichnet man als <strong>Abteilung</strong> (Abteilungsleiter=Instanz)."
+    },
+    {
+      "Frage": "Definiere \"Leitungsspanne",
+      "Antwort": "Die <strong>Leitungsspanne</strong> gibt an, wie viele Stellen einer Instanz direkt unterstellt sind."
+    },
+    {
+      "Frage": "Definiere \"Leistungstiefe",
+      "Antwort": "Durch die <strong>Leitungstiefe</strong> wird die Anzahl der Hierarchieebenen beschrieben."
+    },
+    {
+      "Frage": "Wie ist eine Funktionale Organisation aufgebaut?",
+      "Antwort": "1. Unternehmensleitung; 2. Beschaffung, Produktion, Absatz; 3. o o o o   o o o o    o o o o  (Unterstellen)"
+    },
+    {
+      "Frage": "Was sind Vorteile einer funktionalen Organisation? Was sind mögliche Nachteile und Gefahren?",
+      "Antwort": "1. - Gute Zugriffsmöglichkeiten durch die Unternehmensleitung, - Spezialisierung und hohe funktionsbezogene Erfahrung, - Geringe Gefahr von Doppelarbeit; 2. - Hierarchisches Denken, - Bereichsdenken und Ressortegoismus, - Hoher Koordinations- und Zeitbedarf bei Innovativen Entscheidungen außerhalb des Tagesgeschäfts, - Überlastung der Unternehmensspitze"
+    },
+    {
+      "Frage": "Wie sieht eine Spartenorganisation aus?",
+      "Antwort": "1. Unternehmensleitung; 2. Humanmedizin, Veterinärmedizin, Düngemittel; 3. o o o o   o o o o    o o o o  (Unterstellen)"
+    },
+    {
+      "Frage": "Was sind Vorteile einer Spartenorganisation? Was sind mögliche Nachteile und Gefahren?",
+      "Antwort": "1. - Direkte Ergebnisverantwortung der Spartenleiter, - Zielorientiertes und ganzheitliches unternehmerisches Denken der Sparten, - Geringer Koordinationsbedarf zw. den Sparten, - Entlastung der Führungsspitze; 2. - Unternehmen tritt am Markt mit \"mehreren Stimmen\" auf, - Marktmacht des Unternehmens gegenüber Lieferanten durch Zersplitterung in Sparten geschwächt, - Informationen von allgemeiner Bedeutung werden von einer Sparte nicht weitergegeben, - Gefahr von Doppelarbeit"
+    },
+    {
+      "Frage": "Welchen Fragestellungen wird in der Aufgabenanalyse nachgegangen? Und wie sieht die Realität aus?",
+      "Antwort": "1. Nach welchen Kriterien kann die Gesamtaufgabe gegliedert und in Elementaraufgaben zerlegt werden?; 2. Nach welchen Kriterien können die Elementaraufgaben zu Aufgabenkomplexen (Stellen) zusammengefasst und strukturiert werden?; 3. Nach welchen Kriterien können die einzelnen Stellen in Beziehung zueinander gesetzt werden?; 4 -> Eine Kombination dieser Aspekte ergibt verschiedene Ausprägungsformen der Organisation in der betrieblichen Praxis."
+    },
+    {
+      "Frage": "Was sind Gliederungsmerkmale für Organisation?",
+      "Antwort": "1. Aufgabenanalyse; 2. Sachliche Merkmale (Verrichtung, Objekt, Sachmittel), Formale Merkmale (Rang, Phase, Zweckbeziehung)"
+    },
+    {
+      "Frage": "Was sind sachliche Organisationsmerkmale?",
+      "Antwort": "1. Die <strong>Verrichtungsanalyse</strong> zerlegt die Aufgabe in ihre einzelnen Tätigkeiten (z.B. \"Warenauslieferung\" zerlegt in \"Bestellung aufnehmen\", \"Rechnung schreiben\", \"Ware verpacken\").; 2. Die <strong>Objektanalyse</strong> strukturiert die Aufgabe nach den Objekten, an welchen die Tätigkeiten vorgenommen werden (z.B. Daten einer Bestellung, aus denen eine Rechnung erstellt werden soll, zu verpackende Waren).; 3. Die <strong>Sachmittelanalyse</strong> spaltet die Aufgabe nach den zu ihrer Durchführung nötigen Sachmittel (z.B. Computer und Software für das Schreiben von Rechnungen, Verpacknungsmaschinen für das Verpacken der Ware)."
+    },
+    {
+      "Frage": "Was sind formale Organisationsmerkmale?",
+      "Antwort": "1. Die <strong>Ranganalyse</strong> teilt die Aufgabe in LEITENDE Tätigkeiten (hoher Rang) und AUSFÜHRENDE Tätigkeiten (niedriger Range) (z.B. Entscheidung, ob ein Kunde einen Rabatt erhält vs. Schreiben einer Rechnung and diesen Kunden, die Rabatte enthält).; 2. Die <strong>Phasenanalyse</strong> gliedert die Aufgabe in Planungstätigkeiten, Durchführungstätigkeiten und Kontrolltätigkeiten (z.B. Absatz planen, Ware ausliefern, Absatzerfolge kontrollieren).; 3. Die <strong>Zweckbeziehungsanalyse</strong> ordnet die Aufgaben nach ihrem Zweck, nämlich ob sie DIREKT dem Unternehmensziel dienen (Zweckaufgabe) oder nur INDIREKT (Verwaltungsaufgabe) (z.B. in einem Buchhaltungsbüro ist das Erstellen Monatsabschlüssen eine Zweckaufgabe, in einem Industrieunternehmen eine Verwaltungsaufgabe)."
+    },
+    {
+      "Frage": "Was bedeutet Aufgabensynthese? Wie läuft sie ab?",
+      "Antwort": "Die Aufgabensynthes ist die Zuordnung von Elementaraufgaben zu Stellen: 1. Die <strong>Stelle</stong> ist das Grundelement der Aufbauorganisation; 2. Die Zuordnungen werden in <strong>Stellenbeschreibungen</strong> festgehalten; 3. Das Ergebnis der <strong>Stellenplanung</strong> ist der <strong>Stellenplan</strong>; 4. <strong>Stellenelemente</strong> sind die Elemente, mit denen eine Stelle ausgestattet ist; 5. <strong>Immaterielle Stellenelemente</strong> sind Aufgaben, Befugnisse (Kompentenz) und Verantwortung; 6. <strong>Materielle Stellenelemente</strong> sind Mitarbeiter, Sachmittel (z.B. Computer) und Versorgung (z.B. Strom)"
+    },
+    {
+      "Frage": "Nenne die entscheidenden Aspekte, die bei der Ablauforganisation zu berücksichtigen sind.",
+      "Antwort": "1. <strong>Personeller Aspekt</strong> (\"wer?\"): Es ist festuzuhalten, welche Stelle im Unternehmen eine Tätigkeit ausführen soll.; 2. <strong>Räumlicher Aspekt</strong> (\"wo?\"): An welchem Ort ist es sinnvoll, die Tätigkeit auszuführen?; 3. <strong>Zeitlicher Aspekt</strong> (\"wann?\"): In welcher Reihenfolge und zu welchem Zeitpunkt müssen die Tätigkeiten ausgeführt werden?; 4. <strong>Ressourcenmäßiger Aspekt</strong> (\"womit ?\"): Hierzu zählt die Bereitstellungsplanung der benötigten Roh-, Hilfs- und Betriebsstoffe sowie der Zulieferteile."
+    },
+    {
+      "Frage": "Welche Branchenformen gibt es?",
+      "Antwort": "1. Handelsunternehmen; 2. Bankunternehmen; 3. Versicherungsunternehmen; 4. Verkehrsunternehmn; 5. Industrieunternehmen"
+    }
+  ]
