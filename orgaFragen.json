@@ -13,7 +13,7 @@ orga = [
     },
     {
       "Frage": "Was ist eine Vision?",
-      "Antwort": "Eine <strong>Vision</strong> umfasst <strong> mahr als die wirschafltichen Ziele eines Unternehnems.</strong> Sie ist motivierende , positiv-formulierte Vorstellung des Zustandes, den Sie mit Ihrem Unternehmen erreichen wollen. Mit einer Vision geben Sie die Richtung an, in die sich Ihr Unternehmen entwickeln soll. Die Vision drückt aus, wo und wofür Sie in der Zukunft stehen wollen."
+      "Antwort": "Eine <strong>Vision</strong> umfasst <strong> mehr als die wirschafltichen Ziele eines Unternehmems.</strong> Sie ist motivierende , positiv-formulierte Vorstellung des Zustandes, den Sie mit Ihrem Unternehmen erreichen wollen. Mit einer Vision geben Sie die Richtung an, in die sich Ihr Unternehmen entwickeln soll. Die Vision drückt aus, wo und wofür Sie in der Zukunft stehen wollen."
     },
     {
       "Frage": "Was ist eine Mission?",
@@ -29,7 +29,7 @@ orga = [
     },
     {
       "Frage": "Was ist ein Unternehmensleitbild, was sind Unternehmensleitlinien (mache dir die Unterschiede klar)",
-      "Antwort": "Ein <strong>Unternehmensleitbild</strong> ist die Darstellung wichtiger grundsätzlicher unternehmerischer Ziele, Strategien und Grundsätze.; <strong>Untenehmensleitlinien</strong> sind auf die Unternehmensbereiche oder -funktionen differenzierte Ziele, Strategien und Grundsätze."
+      "Antwort": "Ein <strong>Unternehmensleitbild</strong> ist die Darstellung wichtiger grundsätzlicher unternehmerischer Ziele, Strategien und Grundsätze. <strong>Untenehmensleitlinien</strong> sind auf die Unternehmensbereiche oder -funktionen differenzierte Ziele, Strategien und Grundsätze."
     },
     {
       "Frage": "Nenne die Inhalte von Untenehmensleitbildern",
@@ -37,15 +37,15 @@ orga = [
     },
     {
       "Frage": "Wie lauten die 10 Leitfragen nach Pichler, die dabei helfen ein Unternehmensleitbild zu erstellen?",
-      "Antwort": "1. Welche Bedürfnisse wollen wir mit unseren Marktleistungen (Produkte, Dienstleistungen) befriedigen?; 2. Welchen grundlegenden Anforderungen sollen unsere Marktleistungen entsprechen (Qualität, Preis, Neuheit, usw.)?; 3. Welche geographische Reichweite soll unser Unternehmen haben (lokale, nationlaer, internationaler Charakter)?; 4. Welche Martstellung wollen wir erreichen?; 5. Welche Grundsätze sollen unser Verhalten gegenüber unseren Marktpartnern (Kunden, Lieferanten, Konkurrenten) bestimmen?; 6. Welches sind unsere grundsätzlichen Zielvorstellungen bezüglich Gewinnerzielung und Gewinnverwendung?; 7. Welches ist unsere grundsätzliche Haltung gegenüber dem Staat?; 8. Wie sind wir iengestellt gegenüber wesentlichen gesellschaftlichen Anliegen (Umweltschutz, Gesundheitspflege, Armutsbekämpfung, Entwicklung, Kunstförderung usw.)?; 9. Welches ist unser wirtschaftliches Handlungsprinzip?; 10. Wie stellen wir uns grundsätzlich zu Anliegen der Mitarbeiter (Entlohung, persönliche Entwicklung, soziale Sicherung, Mitbestimmung, finanzielle Mitbeteiligung usw.)?; 11. Welches sind die wesentlichen Grundsätze der Mitarbeiterführung, die in unserem Unternehmen gelten sollen?; 12. Welches ist unsere technologische Leitvorstellung?"
+      "Antwort": "1. Welche Bedürfnisse wollen wir mit unseren Marktleistungen (Produkte, Dienstleistungen) befriedigen?; 2. Welchen grundlegenden Anforderungen sollen unsere Marktleistungen entsprechen (Qualität, Preis, Neuheit, usw.)?; 3. Welche geographische Reichweite soll unser Unternehmen haben (lokale, nationlaer, internationaler Charakter)?; 4. Welche Martstellung wollen wir erreichen?; 5. Welche Grundsätze sollen unser Verhalten gegenüber unseren Marktpartnern (Kunden, Lieferanten, Konkurrenten) bestimmen?; 6. Welches sind unsere grundsätzlichen Zielvorstellungen bezüglich Gewinnerzielung und Gewinnverwendung?; 7. Welches ist unsere grundsätzliche Haltung gegenüber dem Staat?; 8. Wie sind wir eingestellt gegenüber wesentlichen gesellschaftlichen Anliegen (Umweltschutz, Gesundheitspflege, Armutsbekämpfung, Entwicklung, Kunstförderung usw.)?; 9. Welches ist unser wirtschaftliches Handlungsprinzip?; 10. Wie stellen wir uns grundsätzlich zu Anliegen der Mitarbeiter (Entlohung, persönliche Entwicklung, soziale Sicherung, Mitbestimmung, finanzielle Mitbeteiligung usw.)?; 11. Welches sind die wesentlichen Grundsätze der Mitarbeiterführung, die in unserem Unternehmen gelten sollen?; 12. Welches ist unsere technologische Leitvorstellung?"
     },
     {
       "Frage": "Wie lautet der Merksatz zur Unternehmenspolitik",
-      "Antwort": "Unternehmenspolitik bezeichnet alle Entscheidungen, die das Unternehmensgeschehen in der Zukunft in wesentlichen Orientierungen festlegen sowie die grundsätzlichen Verhaltensweisen in wichtigen unternehnerischen Situationen."
+      "Antwort": "Unternehmenspolitik bezeichnet alle Entscheidungen, die das Unternehmensgeschehen in der Zukunft in wesentlichen Orientierungen festlegen sowie die grundsätzlichen Verhaltensweisen in wichtigen unternehmerischen Situationen."
     },
     {
       "Frage": "Nenn die Einflussvariablen für Unternehmenspolitik (inkl. Bespielen)",
-      "Antwort": "1. Aufgabenumwelt: z.B. Kapitalgeber, Märkte, Lieferanten/Kunden; 2. Ökonomische Umwelt: z.B. gesamtwirtschaftliche Rahmenbedingungen, Branchenentwicklung, Arbeitsmarkt; 3. Rechtliche Umwelt: z.B. Steuerrecht, Umweltrecht, Verbraucherrecht; 4. Gesellschaftliche Umwelt: z.B. Bevölkerungsstruktur und -entwicklung, Einkommensverteilung, Bildungssystem; 5. Technische Umwelt: z.B Entwicklung der Intormations- und Kommuniktionssysteme, Innovationsentwicklung; 6. Politische Umwet: z.B. politische Willensbildung und Stabitlät, Organisation des Gesellschaftssystems; 7. Ökologische Umwelt: z.B. Entwicklung an den Rohstoffmärkten, ökologisches Gleichgewicht"
+      "Antwort": "1. Aufgabenumwelt: z.B. Kapitalgeber, Märkte, Lieferanten/Kunden; 2. Ökonomische Umwelt: z.B. gesamtwirtschaftliche Rahmenbedingungen, Branchenentwicklung, Arbeitsmarkt; 3. Rechtliche Umwelt: z.B. Steuerrecht, Umweltrecht, Verbraucherrecht; 4. Gesellschaftliche Umwelt: z.B. Bevölkerungsstruktur und -entwicklung, Einkommensverteilung, Bildungssystem; 5. Technische Umwelt: z.B Entwicklung der Informations- und Kommuniktionssysteme, Innovationsentwicklung; 6. Politische Umwet: z.B. politische Willensbildung und Stabitlät, Organisation des Gesellschaftssystems; 7. Ökologische Umwelt: z.B. Entwicklung an den Rohstoffmärkten, ökologisches Gleichgewicht"
     },
     {
       "Frage": "Wie nennt man Shareholder-Value-Politik noch?",
@@ -68,12 +68,12 @@ orga = [
       "Antwort": "1. Ziel ist in erster Linie die langfristige Unternehmensentwicklung; 2. In den Vordergrund der Unternehmenszielsetzung werden stärker die Interessen der Stakeholder (Kunden, Mitarbeiter, verbundene Unternehmen und die Gesellschaft) gestellt; 3. Die Unternehmenspolitik zielt auf die Suche und Schaffung von neuen unternehmerischen Erfolgspotenzialen; 4. Als fördernde Situationsfaktoren gelten dynamische und komplexe Märkte bzw. Umweltbedingungen"
     },
     {
-      "Frage": "Was lässt sich zu \"Stabilität vs. Entwicklung\" sage?",
+      "Frage": "Was lässt sich zu \"Stabilität vs. Entwicklung\" sagen?",
       "Antwort": "Es gilt grundsätzlich einen Ausgleich zu schaffen"
     },
     {
       "Frage": "Wie lässt sich die Orientierung schematisch darstellen",
-      "Antwort": "Basis: grundlegende Orientierungspolitik (Unternehmensziele)->; 1. Ebene: Unternehmenspolitk; 2. zwei Ausprägungen: - Stabilisierungspolitik, - Entwicklungspolitik ->; 3. Strategien; 4. -> (linkerPfad) bestehende Erfolgspotentiale -> Syteme -> zwei Ausprägungen: - Organisationsstrukturen, - Managementsysteme; 5. -> (rechter Pfad) neue Erfolgspotentiale -> Prozesse"
+      "Antwort": "Basis: grundlegende Orientierungspolitik (Unternehmensziele)->; Erste Ebene: Unternehmenspolitk; 2. zwei Ausprägungen: - Stabilisierungspolitik, - Entwicklungspolitik ->; 3. Strategien; 4. -> (linkerPfad) bestehende Erfolgspotentiale -> Syteme -> zwei Ausprägungen: - Organisationsstrukturen, - Managementsysteme; 5. -> (rechter Pfad) neue Erfolgspotentiale -> Prozesse"
     },
     {
       "Frage": "Worauf stießen die Autoren bei ihren Recherchen zu dem Film \"Der große Schlussverkauf (2010)\"?",
@@ -105,7 +105,7 @@ orga = [
     },
     {
       "Frage": "Was ist der Stewardship-Ansatz?",
-      "Antwort": "1. Kritk am Bild des Managers als opportunistischer Akteur; 2. Interessengegensätze wz. Prinizpal und Agent werden vereint; 3. Agent ist freiwillig guter Verwalter bzw. Treuhänder des Unternehmens bzw. dessen Kapitalgeber"
+      "Antwort": "1. Kritk am Bild des Managers als opportunistischer Akteur; 2. Interessengegensätze zw. Prinizpal und Agent werden vereint; 3. Agent ist freiwillig guter Verwalter bzw. Treuhänder des Unternehmens bzw. dessen Kapitalgeber"
     },
     {
       "Frage": "Was bedeutet \"Self-actualizing man\"?",
@@ -113,11 +113,11 @@ orga = [
     },
     {
       "Frage": "Was bedeutet Corporate-Governance?",
-      "Antwort": "Rechlicher und faktischer Ordnungsrahmen, der eine gute und ordnungsgemäße Leistung, Überwachung und Kontrolle eines Unternehmens gewährleistet und unterstützt"
+      "Antwort": "Rechtlicher und faktischer Ordnungsrahmen, der eine gute und ordnungsgemäße Leistung, Überwachung und Kontrolle eines Unternehmens gewährleistet und unterstützt"
     },
     {
       "Frage": "Was ist die \"Kodex-Bewegung\"?",
-      "Antwort": "1. Freiwillige Anwendung von Grundsätzen, sog. \"Code of Conduct\"; 2. \"comply or explain\", d.h. es liegt im Ermessen des jeweiligen Unternehmens, ob und welche Vorschriften sie anwenden; 3. Cadbury-Report (Auslöser: Unternehmen entscheiden, sich an bestimmte Codices zu halte [meißt freiwillig]"
+      "Antwort": "1. Freiwillige Anwendung von Grundsätzen, sog. \"Code of Conduct\"; 2. \"comply or explain\", d.h. es liegt im Ermessen des jeweiligen Unternehmens, ob und welche Vorschriften sie anwenden; 3. Cadbury-Report (Auslöser: Unternehmen entscheiden, sich an bestimmte Codices zu halten [meißt freiwillig]"
     },
     {
       "Frage": "Welche internen CG-Mechanismen gibt es als Gegenmaßnahme zu CG-Fehlentwicklungen?",
@@ -140,7 +140,7 @@ orga = [
       "Antwort": "Unternehmen A will Unternehmen B übernehmen, ohne dass B das möchte. Dies gibt B den Ansporn das Unternehmen besser zu führen (den Aktienkurs hochzuhalten)"
     },
     {
-      "Frage": "Wie lautet der Merksatz zu \"Unternehmensführung",
+      "Frage": "Wie lautet der Merksatz zu \"Unternehmensführung\"",
       "Antwort": "Unternehmensführung ist das Entscheiden und Gestalten von Strukturen und Systemen zur Umsetzung der Unternehmenspolitik (=Management)"
     },
     {
@@ -149,7 +149,7 @@ orga = [
     },
     {
       "Frage": "Nenne die Hauptaufgaben des Managements",
-      "Antwort": "1. Die <strong>Strategische Unternehmensplanung:</strong> Rahmenkonzeptionen für Geschäftsfelder (i.d.R. Geschäftsführer und Vorstand); 2. Die <strong>Koneption, Einführung und Pflege leistungsfähiger betrieblicher Systemstrukturen</strong> (operative Unternehmensplanung), z.B. Organisattionssystem, Planungs- und Kontrollsysteme, Führungsmodelle; 3. Die <strong>Mitarbeiterführung</strong>, z.B. Mitarbeiter motivieren und fördern"
+      "Antwort": "1. Die <strong>Strategische Unternehmensplanung:</strong> Rahmenkonzeptionen für Geschäftsfelder (i.d.R. Geschäftsführer und Vorstand); 2. Die <strong>Konzeption, Einführung und Pflege leistungsfähiger betrieblicher Systemstrukturen</strong> (operative Unternehmensplanung), z.B. Organisattionssystem, Planungs- und Kontrollsysteme, Führungsmodelle; 3. Die <strong>Mitarbeiterführung</strong>, z.B. Mitarbeiter motivieren und fördern"
     },
     {
       "Frage": "Wie nennt man den marktorientierten Ansatz noch?",
@@ -180,7 +180,7 @@ orga = [
       "Antwort": "1. Markt; 2. Unternehmung; 3. Beide Aspekte werden gemeinsam als \"Ressourcen bzw. core-competences\" zusammengefasst betrachtet; 4. Bsp. für Markt-Seite: Wert (- Zugang zu potenziellen Märkten, - vom Kunden wahrgenommener geldwerter Zusatznutzen); 5. Bsp. für Unternehmungsseite: Heterogenität und Immobilität: (- knapp, - schwer imitierbar, - schwer substituierbar)"
     },
     {
-      "Frage": "Wie fließen die beiden Betrachtungsaspekte Markt und Unternehmung beim der ressourcenbasierten Anischt zusammen, bzw. was lässt sich daduch erreichen?",
+      "Frage": "Wie fließen die beiden Betrachtungsaspekte Markt und Unternehmung bei der ressourcenbasierten Anischt zusammen, bzw. was lässt sich daduch erreichen?",
       "Antwort": "1. Passung; 2. Effizienzrente; 3. Kernkompetenzen"
     },
     {
@@ -205,30 +205,30 @@ orga = [
     },
     {
       "Frage": "Wie lautet der Merksatz für \"Organisation\"?",
-      "Antwort": "Organisation sind die Strukturen und Regeln, in deren Rahmen die Lestungserstellungsprozesse ablaufen."
+      "Antwort": "Organisation sind die Strukturen und Regeln, in deren Rahmen die Leistungserstellungsprozesse ablaufen."
     },
     {
       "Frage": "Skizziere (eine) Organisation",
-      "Antwort": "1. (Controlling) - Unternehmensleitung - (Planung); 2. Beschaffung; 3. Produktion - (Arbeitsvorbereitung); 4. Absatz - (Marktforschung); 5 (jeweils können Unter-Abteilungnen oder einzelne Stellen darunter liegen)"
+      "Antwort": "1. (Controlling) - Unternehmensleitung - (Planung); 2. Beschaffung; 3. Produktion - (Arbeitsvorbereitung); 4. Absatz - (Marktforschung); 5. (jeweils können Unter-Abteilungen oder einzelne Stellen darunter liegen)"
     },
     {
-      "Frage": "Definiere \"Stelle",
+      "Frage": "Definiere \"Stelle\"",
       "Antwort": "Bei einer <stron>Stelle</strong> handelt es sich um die kleinste Organisationseinheit. Einer Stelle werden Aufgaben und Kompetenzen (Rechte und Befugnisse) zugeordnet, um die Aufgaben auszuführen zu können."
     },
     {
-      "Frage": "Definiere \"Instanz",
+      "Frage": "Definiere \"Instanz\"",
       "Antwort": "Eine <strong>Instanz</strong> (Leitungsstelle) ist eine Stelle, der Leitungsbefugnisse zugewiesen werden."
     },
     {
-      "Frage": "Definiere \"Abteilung",
+      "Frage": "Definiere \"Abteilung\"",
       "Antwort": "Die Zusammenfassung mehrerer Stellen zur Efüllung einer betrieblichen Aufgabe bezeichnet man als <strong>Abteilung</strong> (Abteilungsleiter=Instanz)."
     },
     {
-      "Frage": "Definiere \"Leitungsspanne",
+      "Frage": "Definiere \"Leitungsspanne\"",
       "Antwort": "Die <strong>Leitungsspanne</strong> gibt an, wie viele Stellen einer Instanz direkt unterstellt sind."
     },
     {
-      "Frage": "Definiere \"Leistungstiefe",
+      "Frage": "Definiere \"Leistungstiefe\"",
       "Antwort": "Durch die <strong>Leitungstiefe</strong> wird die Anzahl der Hierarchieebenen beschrieben."
     },
     {
@@ -249,7 +249,7 @@ orga = [
     },
     {
       "Frage": "Welchen Fragestellungen wird in der Aufgabenanalyse nachgegangen? Und wie sieht die Realität aus?",
-      "Antwort": "1. Nach welchen Kriterien kann die Gesamtaufgabe gegliedert und in Elementaraufgaben zerlegt werden?; 2. Nach welchen Kriterien können die Elementaraufgaben zu Aufgabenkomplexen (Stellen) zusammengefasst und strukturiert werden?; 3. Nach welchen Kriterien können die einzelnen Stellen in Beziehung zueinander gesetzt werden?; 4 -> Eine Kombination dieser Aspekte ergibt verschiedene Ausprägungsformen der Organisation in der betrieblichen Praxis."
+      "Antwort": "1. Nach welchen Kriterien kann die Gesamtaufgabe gegliedert und in Elementaraufgaben zerlegt werden?; 2. Nach welchen Kriterien können die Elementaraufgaben zu Aufgabenkomplexen (Stellen) zusammengefasst und strukturiert werden?; 3. Nach welchen Kriterien können die einzelnen Stellen in Beziehung zueinander gesetzt werden?; 4. -> Eine Kombination dieser Aspekte ergibt verschiedene Ausprägungsformen der Organisation in der betrieblichen Praxis."
     },
     {
       "Frage": "Was sind Gliederungsmerkmale für Organisation?",
@@ -273,6 +273,6 @@ orga = [
     },
     {
       "Frage": "Welche Branchenformen gibt es?",
-      "Antwort": "1. Handelsunternehmen; 2. Bankunternehmen; 3. Versicherungsunternehmen; 4. Verkehrsunternehmn; 5. Industrieunternehmen"
+      "Antwort": "1. Handelsunternehmen; 2. Bankunternehmen; 3. Versicherungsunternehmen; 4. Verkehrsunternehmen; 5. Industrieunternehmen"
     }
   ]
