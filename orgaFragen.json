@@ -29,15 +29,15 @@ orga = [
     },
     {
       "Frage": "Was ist ein Unternehmensleitbild, was sind Unternehmensleitlinien (mache dir die Unterschiede klar)",
-      "Antwort": "Ein <strong>Unternehmensleitbild</strong> ist die Darstellung wichtiger grundsätzlicher unternehmerischer Ziele, Strategien und Grundsätze. <strong>Untenehmensleitlinien</strong> sind auf die Unternehmensbereiche oder -funktionen differenzierte Ziele, Strategien und Grundsätze."
+      "Antwort": "Ein <strong>Unternehmensleitbild</strong> ist die Darstellung wichtiger grundsätzlicher unternehmerischer Ziele, Strategien und Grundsätze. <strong>Unternehmensleitlinien</strong> sind auf die Unternehmensbereiche oder -funktionen differenzierte Ziele, Strategien und Grundsätze."
     },
     {
-      "Frage": "Nenne die Inhalte von Untenehmensleitbildern",
-      "Antwort": "1. <strong>Unternehmensgrundsätze</strong>, z.B. wightige Aufgaben des Unternehmens in der Gesellschaft für Kunden, Eigner, Mitarbeiter, Umwelt; 2. <strong>Führungsgrundsätze</strong>, z.B. wichtige Führungsmerkmale und angestrebter Führungsstil; 3. <strong>Strategien</strong>, z.B. zielgruppenspezifisch differenziert nach Kunden und Mitatbeitern"
+      "Frage": "Nenne die Inhalte von Unternehmensleitbildern",
+      "Antwort": "1. <strong>Unternehmensgrundsätze</strong>, z.B. wichtige Aufgaben des Unternehmens in der Gesellschaft für Kunden, Eigner, Mitarbeiter, Umwelt; 2. <strong>Führungsgrundsätze</strong>, z.B. wichtige Führungsmerkmale und angestrebter Führungsstil; 3. <strong>Strategien</strong>, z.B. zielgruppenspezifisch differenziert nach Kunden und Mitatbeitern"
     },
     {
       "Frage": "Wie lauten die 10 Leitfragen nach Pichler, die dabei helfen ein Unternehmensleitbild zu erstellen?",
-      "Antwort": "1. Welche Bedürfnisse wollen wir mit unseren Marktleistungen (Produkte, Dienstleistungen) befriedigen?; 2. Welchen grundlegenden Anforderungen sollen unsere Marktleistungen entsprechen (Qualität, Preis, Neuheit, usw.)?; 3. Welche geographische Reichweite soll unser Unternehmen haben (lokale, nationlaer, internationaler Charakter)?; 4. Welche Martstellung wollen wir erreichen?; 5. Welche Grundsätze sollen unser Verhalten gegenüber unseren Marktpartnern (Kunden, Lieferanten, Konkurrenten) bestimmen?; 6. Welches sind unsere grundsätzlichen Zielvorstellungen bezüglich Gewinnerzielung und Gewinnverwendung?; 7. Welches ist unsere grundsätzliche Haltung gegenüber dem Staat?; 8. Wie sind wir eingestellt gegenüber wesentlichen gesellschaftlichen Anliegen (Umweltschutz, Gesundheitspflege, Armutsbekämpfung, Entwicklung, Kunstförderung usw.)?; 9. Welches ist unser wirtschaftliches Handlungsprinzip?; 10. Wie stellen wir uns grundsätzlich zu Anliegen der Mitarbeiter (Entlohung, persönliche Entwicklung, soziale Sicherung, Mitbestimmung, finanzielle Mitbeteiligung usw.)?; 11. Welches sind die wesentlichen Grundsätze der Mitarbeiterführung, die in unserem Unternehmen gelten sollen?; 12. Welches ist unsere technologische Leitvorstellung?"
+      "Antwort": "1. Welche Bedürfnisse wollen wir mit unseren Marktleistungen (Produkte, Dienstleistungen) befriedigen?; 2. Welchen grundlegenden Anforderungen sollen unsere Marktleistungen entsprechen (Qualität, Preis, Neuheit, usw.)?; 3. Welche geographische Reichweite soll unser Unternehmen haben (lokale, nationaler, internationaler Charakter)?; 4. Welche Martstellung wollen wir erreichen?; 5. Welche Grundsätze sollen unser Verhalten gegenüber unseren Marktpartnern (Kunden, Lieferanten, Konkurrenten) bestimmen?; 6. Welches sind unsere grundsätzlichen Zielvorstellungen bezüglich Gewinnerzielung und Gewinnverwendung?; 7. Welches ist unsere grundsätzliche Haltung gegenüber dem Staat?; 8. Wie sind wir eingestellt gegenüber wesentlichen gesellschaftlichen Anliegen (Umweltschutz, Gesundheitspflege, Armutsbekämpfung, Entwicklung, Kunstförderung usw.)?; 9. Welches ist unser wirtschaftliches Handlungsprinzip?; 10. Wie stellen wir uns grundsätzlich zu Anliegen der Mitarbeiter (Entlohung, persönliche Entwicklung, soziale Sicherung, Mitbestimmung, finanzielle Mitbeteiligung usw.)?; 11. Welches sind die wesentlichen Grundsätze der Mitarbeiterführung, die in unserem Unternehmen gelten sollen?; 12. Welches ist unsere technologische Leitvorstellung?"
     },
     {
       "Frage": "Wie lautet der Merksatz zur Unternehmenspolitik",
@@ -73,7 +73,7 @@ orga = [
     },
     {
       "Frage": "Wie lässt sich die Orientierung schematisch darstellen",
-      "Antwort": "Basis: grundlegende Orientierungspolitik (Unternehmensziele)->; Erste Ebene: Unternehmenspolitk; 2. zwei Ausprägungen: - Stabilisierungspolitik, - Entwicklungspolitik ->; 3. Strategien; 4. -> (linkerPfad) bestehende Erfolgspotentiale -> Syteme -> zwei Ausprägungen: - Organisationsstrukturen, - Managementsysteme; 5. -> (rechter Pfad) neue Erfolgspotentiale -> Prozesse"
+      "Antwort": "Basis: grundlegende Orientierungspolitik (Unternehmensziele)->; Erste Ebene: Unternehmenspolitik; 2. zwei Ausprägungen: - Stabilisierungspolitik, - Entwicklungspolitik ->; 3. Strategien; 4. -> (linkerPfad) bestehende Erfolgspotentiale -> Syteme -> zwei Ausprägungen: - Organisationsstrukturen, - Managementsysteme; 5. -> (rechter Pfad) neue Erfolgspotentiale -> Prozesse"
     },
     {
       "Frage": "Worauf stießen die Autoren bei ihren Recherchen zu dem Film \"Der große Schlussverkauf (2010)\"?",
@@ -105,7 +105,7 @@ orga = [
     },
     {
       "Frage": "Welche beiden Einflüsse werden beim marktorientierten Ansatz vorallem betrachtet und auf welche Weise? (Nenne jeweils Beispiele)",
-      "Antwort": "1. Markt: Chancen - / Risiken - Analyse (Branchenanalyse) z.B. - Brancheninterner Wettbewerb, - Bedrohung durch Ersatzprodukte, - Gefahr von Marteintritten, - Macht von Abnehmern bzw. Lieferanten; 2. Unternehmung: Stärken - / Schwächen - Analyse z.B: - Kostenführerschaft, - Produktdifferenzierung, - Konzentration auf Schwerpunkte"
+      "Antwort": "1. Markt: Chancen - / Risiken - Analyse (Branchenanalyse) z.B. - Brancheninterner Wettbewerb, - Bedrohung durch Ersatzprodukte, - Gefahr von Markteintritten, - Macht von Abnehmern bzw. Lieferanten; 2. Unternehmung: Stärken - / Schwächen - Analyse z.B: - Kostenführerschaft, - Produktdifferenzierung, - Konzentration auf Schwerpunkte"
     },
     {
       "Frage": "Wie fließen die beiden Betrachtungsaspekte Markt und Unternehmung beim marktorientierten Ansatz zusammen, bzw. was lässt sich daduch erreichen?",
@@ -172,7 +172,7 @@ orga = [
       "Antwort": "Die <strong>Leitungsspanne</strong> gibt an, wie viele Stellen einer Instanz direkt unterstellt sind."
     },
     {
-      "Frage": "Definiere \"Leistungstiefe\"",
+      "Frage": "Definiere \"Leitungstiefe\"",
       "Antwort": "Durch die <strong>Leitungstiefe</strong> wird die Anzahl der Hierarchieebenen beschrieben."
     },
     {
