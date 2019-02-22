@@ -1,0 +1,10 @@
+ik = [
+  {
+    "Frage": "Wie begrüßen sich Niederländer?",
+    "Antwort": "1. Frau-Frau: <ul><li>3 Küsschen</li><li>nur angedeutet</li><li>kaum Körperkontakt</li></ul>; 2. Frau-Mann: „Reibchen“ (am Arm reiben); 3. Mann-Mann: Händeschütteln"
+  },
+  {
+    "Frage": "Wie begrüßen sich Franzosen?",
+    "Antwort": "1. Mann-Frau: Küsschen rechts/links, „Bonjour, Mdm oder Monsieur“ (ohne Name)"
+  }
+]

@@ -3,6 +3,7 @@ let arbeitsRechtFragen = ar;
 let vokabelFragen = v;
 let hgbFragen = hgb;
 let orgaFragen = orga;
+let interkulturelleFragen = ik;
 
 // getting the DOM elements 
 // Card Elements
@@ -17,6 +18,7 @@ let buttonCorrect = document.querySelector(".correct");
 let buttonWrong = document.querySelector(".wrong");
 let reloadButton = document.querySelector(".reload");
 // choiceButtons
+let interkulturell = document.querySelector("#interkulturelle_fragen");
 let organisation = document.querySelector("#orga_fragen");
 let arbeitsRecht = document.querySelector("#arbeits_recht");
 let handelsRecht = document.querySelector("#handels_recht");
@@ -32,6 +34,10 @@ function defineQuestionSet(set) {
     questionSet = set;
 }
 
+interkulturell.addEventListener("change", () => {
+    defineQuestionSet(interkulturelleFragen);
+    newCard();
+});
 arbeitsRecht.addEventListener("change", () => {
     defineQuestionSet(arbeitsRechtFragen);
     newCard();
