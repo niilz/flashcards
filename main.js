@@ -85,7 +85,7 @@ function displayQuestion(rP) {
     // turn card to frons-side
     card.classList.remove("flipped");
     // write question on front-side of the card
-    question.textContent = rP["Frage"];
+    question.innerHTML = rP["Frage"];
 
     // display current stack of cards
     remainingCards.innerHTML = `Es sind noch ${questionSet.length} Karten im Deck`
