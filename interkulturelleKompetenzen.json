@@ -6,5 +6,201 @@ ik = [
   {
     "Frage": "Wie begrüßen sich Franzosen?",
     "Antwort": "1. Mann-Frau: Küsschen rechts/links, „Bonjour, Mdm oder Monsieur“ (ohne Name)"
+  },
+  {
+    "Frage": "Wie begrüßen sich Spanier?",
+    "Antwort": "1. Augenkontakt; 2. \"Adios\" (wenn keine Zeit); 3. \"Hola\" (wenn Zeit -> Plausch); 4. Mann-Mann: <ul><li>Händedruck (wenn man sich NICHT kennt)</li><li>Umarmung (wenn man sich kennt)</li></ul>; 3. Frau-Frau: Küsschen links-rechts"
+  },
+  {
+    "Frage": "Wie begrüßen sich Engländer?",
+    "Antwort": "1. Direkter Augenkontakt = unerwünscht; 2. Händeschütteln zur Begrüßung (wenn man sich länger nicht gesehen hat. Nich zur Verabschiedung); 3. Wer sich länger kennt -> zunicken, zulächeln; 4. Bei Familie: <ul><li>Bei Frauen: ein Küsschen</li><li>Bei Männern: leichte Umarmung</li></ul>"
+  },
+  {
+    "Frage": "Wie begrüßen sich Polen?",
+    "Antwort": "1. Ranghöchsten zuerst; 2. Grundsätzlich: Handkuss; 3. Bei guten Bekannten: Umarmung oder Handkuss; 4. Bei Frau-Mann: Mann gibt Handkuss; 5. Titel werden mitgenannt (z.B. Dr. ..); 6. Begrüßung nicht über der Türschwelle"
+  },
+  {
+    "Frage": "Wie begrüßen sich Japaner?",
+    "Antwort": "1. Informallen Treffen: Verbeugen (ca. 2 sec. & ca. 15 Grad) Hände an Oberschenkeln; 2. Formelle Treffen: Verbeugen (ca. 3 sec. & ca. 35 Grad) Hände an Oberschenkeln; 3. Tempel: Verbeugen (ca. 3 sec. ca. 90 Grad) Hände an Oberschenkeln; 4. Frauen verbeugen sich tiefer und länger (Hände als Dreieck, Links über Rechts); 5. Schüler verbeugen sich ein Leben lang tiefer"
+  },
+  {
+    "Frage": "Wie begrüßen sich Russen?",
+    "Antwort": "1. Mann-Mann: Händeschütteln; 2. Fremde (Mann-Mann): ein Kuss; 3. Frau-Frau: nichts; 4. Mann-Frau: Kopf-nicken; 5. Ansprechen mit Namen (wenn man sich kennt): <ul><li>Frau: Name + Vater (owna)</li><li>Mann: Name + Vater (owic)</li></ul>"
+  },
+  {
+    "Frage": "Wie begrüßen sich Chinesen?",
+    "Antwort": "1. Zuerst Ranghöchste(n); 2. Ältere vor Jüngeren; 3. Männer vor Frauen; 4. Rang wird mitgenannt; 5. Nicht in die Augen schauen; 6. Handschlag nur locker (und eher dann wenn Ausländer dabei sind)"
+  },
+  {
+    "Frage": "Wie begrüßen sich Amerikaner?",
+    "Antwort": "1. Freunde/Bekannte: Umarmen; 2. Weniger Bekannte: Handschlag + \"How are you?\" -> \"Fine and you?"
+  },
+  {
+    "Frage": "Wie begrüßen sich Australier?",
+    "Antwort": "1. Sehr locker: Vornamen; 2. Handschlag kann, muss aber nicht (\"How are you going?\"); 3. Etwas Distanz halten ist typtisch"
+  },
+  {
+    "Frage": "Wie begrüßen sich Neuseeländer?",
+    "Antwort": "1. Ähnlich wie Australier; 2. Eher mit Handschlag; 3. Ältere zuerst (\"How are you?\" -> \"Fine and you?\"); 4. Unter Familie: 1 Küsschen"
+  },
+  {
+    "Frage": "Definiere interkulturelle Kompetenz",
+    "Antwort": "Interkulturelle Kompetenz ist eine Mischung von Kenntnissen, Werterhaltungen und Fertigkeiten, die eine Person in die Lage versetzen sollen, mit Partnern anderer Kulturzugehörigkeit Aufgabenwirksam, kulturell angemessen und persönlich befriedigend zu interagieren."
+  },
+  {
+    "Frage": "Welche drei Karriere- (\"Vorankommen\")-Ausrichtungen gibt es?",
+    "Antwort": "1. Preis nach Fleiß; 2. Zügige Karriere durch Beziehungen; 3. Speed Karriere (1 + 2 + Konsequente Beziehungen)"
+  },
+  {
+    "Frage": "Nenne die zwei Ausprägungen von Zeitempfinden.",
+    "Antwort": "1. Polychrom; 2. Monochrom"
+  },
+  {
+    "Frage": "Nenn 5 Aspekte die im Kontext \"Kultur\" wichtig sind. (Die Frage ist schlecht gestellt, weil ich nicht genau weiß was mit den Punkten gemeint ist)",
+    "Antwort": "1. Sachorientierung (wichtig bei Verhandlungen); 2. Regeln & Strukturen; 3. Verantwortungsbewusstsein; 4. Zeitplanung; 5. Trennung von Persönlichkeit / Lebensbereiche"
+  },
+  {
+    "Frage": "Was macht eine Kultur aus?",
+    "Antwort": "1. Symbole; 2. Rituale; 3. Werte; 4. Helden"
+  },
+  {
+    "Frage": "Nenne die Stufen von interkultureller Kompetenz. (Schlecht gestellte Frage, da ich mir nicht sicher war auf was die Punkte wirklich abzielen)",
+    "Antwort": "1. Erwünschte externe Wirkungen (oberstes, letztes Ziel); 2. Erwünschte interne Wirkungen (mittleres Ziel); 3. Wissen/Verständnis, Fähigkeiten (unterstes Basis-Ziel)"
+  },
+  {
+    "Frage": "Nenne sichtbare Kulturen (Kulturmerkmale)",
+    "Antwort": "1. Uniformen; 2. Essen und Trinken; 3. Religion; 4. Sprache; 5. Kleidung; 6. Farben; 7. Literatur; 8. Musik; 9. Architektur; 10. Tradition"
+  },
+  {
+    "Frage": "Nenne unsichtbare Kulturen (Kulturmerkmale)",
+    "Antwort": "1. Umgang mit Raum; 2. Umgang mit Zeit; 3. Vorstellung von Treue; 4. Anständigkeit; 5. Moral; 6. Freundschaft; 7. Arbeiten"
+  },
+  {
+    "Frage": "Welche Definition trifft auf Kultur zu?",
+    "Antwort": "1. Gesamtheit der geistigen und künstlerischen Lebensäußerungen; 2. Jede Lebensumwelt"
+  },
+  {
+    "Frage": "Jedes Land …. eine Kultur. (hat/ist)",
+    "Antwort": "hat"
+  },
+  {
+    "Frage": "Was ist eher zutreffend für \"Interkulturalität\"?<ul><li>Vergleich zwischen zwei Kulturen</li><li>Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfinden, wenn diese Kontakt miteinander haben.</li><li>Synthese zwischen zwei kulturell unterschiedlichen Gruppen.</li><li>Ein, \"Drittes\", das im Kontakt zwischen Angehörigen unterschiedlicher Ausgangskulturen entsteht und mit keiner dieser Ausgangskulturen identisch ist.</li><li>Interkulturell=international</li></ul>",
+    "Antwort": "1. Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfinden, wenn diese Kontakt miteinander haben; 2. Synthese zwischen zwei kulturell unterschiedlichen Gruppen."
+  },
+  {
+    "Frage": "Vervollständige:\\nWahrnehmung funktioniert…",
+    "Antwort": "1. …indem wir neue Erfahrungen in bestehende Schemata einzuordnen versuchen."
+  },
+  {
+    "Frage": "Was bedeutet \"Multikulturelle Gesellschaft\"?",
+    "Antwort": "Das man identitässtiftende Freiräume der einzelnen Kulturen wahrt und respektiert und trotzdem ein kooperatives Miteinander praktiziert."
+  },
+  {
+    "Frage": "Beim Management interkultureller Prozesse (internationale Unternehmenskooperationen, internationales Teambuilding) ist folgendes Leitprinzip zu empfehlen:<ul><li>Das wirtschaftlich stärkere Unternehmen sollte in jeder Hinsicht dominieren.</li><li>Man sollte sich um eine Snythese der jeweils besten Eigenschaften bemühen.</li><li>Man sollte Synergiebildungen fördern und möglichst viel Entfaltungsfreiraum bieten.</li><li>Eine vollständige Verschmelzung der kulturellen Unterschiede ist anzustreben.</li><li>Die kulturelle Differenz der Partner sollte bewusst gemacht werden.</li></ul>",
+    "Antwort": "1. (Man sollte sich um eine Snythese der jeweils besten Eigenschaften bemühen.); 2. Man sollte Synergiebildungen fördern und möglichst viel Entfaltungsfreiraum bieten; 3. Die kulturelle Differenz der Partner sollte bewusst gemacht werden"
+  },
+  {
+    "Frage": "Wie ist die Pyramide aufgebaut in der sich Kultur einordnen lässt?",
+    "Antwort": "1. Spitze: Persönlichkeit (Individuums-Spezifisch -> Erlebt und Erlernt); 2. Mitte: Kultur (Gruppen-Spezifisch -> Erlernen); 3. Basis: Menschliche Natur (Universell -> Ererben)"
+  },
+  {
+    "Frage": "Welchen Kulturgruppen gibt es? (Nenne auch Beispiele)",
+    "Antwort": "1. Abschlussorientierte vs. Beziehungsorientierte<ul><li>(AO: DE, NL, GB, USA, SüdAfr, CAN, Austr, Neuseeland)</li><li>(BO: arab. L, Afrika, Asien, Lat. Am.)</li><li>(Dazwischen: RUS, SüdEU, OstEU)</li></ul>; 2. Informelle Kulturen vs. Förmliche Kulturen<ul><li>(IK: USA, Austr.)</li><li>(FK: EU, Asien, MittelmeerR, arab. L.)</li><li>(Dazwischen: CAN, NOR, NeuseeL)</li></ul>; 3. Zeitoffene Kulturen vs. Terminfixierte Kulturen<ul><li>(ZO: Lat. Am, Afrika, arab. L)</li><li>(TF: DE, USA, Japan)</li><li>(Dazwischen: Ost-SüdEU, China, Austr, NeuseeL.)</li></ul>; 4. Expressive Kulturen vs. Reservierte Kulturen<ul><li>(EK: Lat. Am, SüdEU)</li><li>(RK: Asien, NL, DE, OstEU)</li><li>(Dazwischen: USA, CAN)</li></ul>"
+  },
+  {
+    "Frage": "Wodurch entsteht ein Vorurteil?",
+    "Antwort": "Wenn die verallgemeinerten Eindrücke mit Emotionen besetzt werden."
+  },
+  {
+    "Frage": "Was unterscheidet das <strong>Vorurteil</strong> vom <strong>Stereotyp</strong>?",
+    "Antwort": "Das Vorurteil beruhrt im Gegensatz zum Stereotyp nicht auf Erfahrung und Wahrnehmung sondern auf einer meißt wenig reflektierten Meinung und ist somit ein vorab gewertetes Urteil."
+  },
+  {
+    "Frage": "Was ist das Problem von Vorurteilen?",
+    "Antwort": "Vorurteile sind meißt negativ behaftet und durch ihre Komplexität und Vielfältigkeit schwer aufzuheben."
+  },
+  {
+    "Frage": "Wozu dienen Stereotypen?",
+    "Antwort": "Stereotypen dienen dazu einen Gegenstand, eine Gruppe oder eine Person zu charakterisieren. Sie erfüllen für den Menschen die Funktion Unsicherheit oder Bedrohung psychisch abzuwehren."
+  },
+  {
+    "Frage": "Wie ist das Sender Empfänger nach Schulz von Thun aufgebaut? (Nenne auch Beispielphrasen)",
+    "Antwort": "1. Sender -> Nachricht -> Empfänger; 2. Es gibt 4 Ebenen<ul><li>Sachinhalt -> Wörüber ich den Empfänger informiere (Ampel ist grün)</li><li>Appel -> Wozu ich den Empfänger veranlassen möchte (Gib Gas)</li><li>Beziehung -> Was ich vom Empfänger hlate oder wie wir zueinander stehen (Hilfestellung)</li><li>Selbstoffenbarung -> Was ich von mir selbst kundgebe (ich habe es eilig)</li></ul>"
+  },
+  {
+    "Frage": "Welche drei Kommunikationsebenen gibt es?",
+    "Antwort": "1. Vebal -> über sprachliche Codes; 2. Paraverbal -> Lautstärke, Pausen, Tonhöhen, Sprechwechsel; 3. Nonverbal -> Mimik, Gestik, Körperbewegung"
+  },
+  {
+    "Frage": "Was sind die Stolpersteine der Kommunikation? (Sprichwort)",
+    "Antwort": "1. Gesagt ist noch nicht gehört.; 2. Gehört ist noch nicht verstanden.; 3. Verstanden ist noch nicht einverstanden.; 4. Einverstanden ist noch nicht angewendet.; 5. Angewendet ist noch nicht beibehalten."
+  },
+  {
+    "Frage": "Wie ist das 4-Ohren-Prinzip nach Schulz von Thung (Empfängerseite) aufgebaut?",
+    "Antwort": "1. Sachebene -> Wie sit der Sachverhalt zu verstehen? (Ich darf fahren); 2. Beziehungsebene -> Wie redet der mit mir? Wen glaubt er, vor sich zu haben? (was soll diese Aufforderung?); 3. AppellSeite -> Was soll ich tun, denken, fühlen aufgrund seiner Mitteilung? (soll ich mich kaputt hetzen?); 4. Selbstkundgabe -> Was ist das für einer, was ist mit ihm? (Du bist wohl echt gestresst)"
+  },
+  {
+    "Frage": "Wer war der Erfinder der Psychoanalyse? Und was besagt diese?",
+    "Antwort": "1. Sigmund Freud; 2. Dass wir unser Verhalten nur zu einem kleinen Anteil bewusst kontrollieren."
+  },
+  {
+    "Frage": "Was hat Sigmund Freud u.a. begründet?",
+    "Antwort": "Die Psychoanalyse"
+  },
+  {
+    "Frage": "Welche Kräfte treiben unser unbewusstest Handeln (nach Freud)?",
+    "Antwort": "1. Ängste; 2. Einstellungen; 3. Wete; 4. Verdrängte Konflikte; 5. Triebe; 6. Erwartungen; 7. Bedürfnisse"
+  },
+  {
+    "Frage": "Was besagt das Eisbergmodell?",
+    "Antwort": "Das Eisbergmodell besagt, dass Menschen nur etwa 20% von dem was sie tun, denken, fühlen bewusst wahrnehmen. Während etwa 80% des Verhaltens unbewusst gesteuert wird."
+  },
+  {
+    "Frage": "Was wid i.d.R. der bewussten Kommunikation und was der unbewussten zugeordnet?",
+    "Antwort": "1. Sprache wird i.d.R. den bewussten Handlungen zugeordnet; 2. Nonverbale Kommunikation zum überwiegenden Teil den unbewussten Handlungen"
+  },
+  {
+    "Frage": "Erläutere direkte- vs. Indirekte Kommunikation.",
+    "Antwort": "1. Menschen die an <strong>direkte Kommunikation</strong> gewöhnt sind, geben Anweisungen oder Informationen eher explizit und deutlich weiter. Es wird erwartet, klare Positionen zu beziehen und offen (sowohl Kritik als auch Zustimmung) zu äußern, selbst wenn man dadurch eine soziale KOnfrontation riskiert.\\nKonflikte werden sogar als nützlich angesehen, wenn sie zu mehr Wahrheit führen.; 2. Mitglieder von Kulturen, die <strong>indirekt kommunizieren</strong>, geben Botschaften eher verschlüsselt und implizit weiter. Direkte Stellungnahmen werden vermieden, vor allem aus dem Bedürfnis heraus, andere nicht anzugreifen und die soziale Harmonie zu wahren."
+  },
+  {
+    "Frage": "Wie ist <strong>direkte Gesprächsstrategie</strong> zu verstehen?",
+    "Antwort": "1. Zielführend; 2. Bei der direkten Gesprächsstrategie werden Gespräche geführt, um ein definiertes Ziel zu erreichen; 3. Damit der Gesprächspartner sich darauf einstellen kann; 4. Und um keine Zeit zu verschwenden, wird meist ein sehr direkter Weg gewählt. 5. Bsp.: \"Ich bin gekommen, weil ich mit Ihrem Produkt nicht zufrieden bin."
+  },
+  {
+    "Frage": "Welche vier Richtungen bezeichnen die <strong>direkte Gesprächsstrategie</strong>?",
+    "Antwort": "1. Was wird gesagt?; 2. Offene Kritik; 3. Kontext ist unwichtig; 4. Verbale Aspekte, Inhaltliche Informationen"
+  },
+  {
+    "Frage": "Wie ist <strong>indirekte Gesprächsstrategie</strong> zu verstehen?",
+    "Antwort": "1. Umgarnen; 2. Bei der indirekten Gesprächsstrategie nähert man sich dem Gesprächspartner gern über Umwege.; 3. Man \"umgarnt\" den Gesrprächspartner und etwickelt das Gesprächsziel eher beiläufig und indirekt.; 4. Die Kommunikation ist unverbindlich, sehr formell und liefert wenig Fakten."
+  },
+  {
+    "Frage": "Welche vier Aspekte sind im Zusammenhang mit <strong>indirekter Gesprächsstrategie</strong> zu nennen?",
+    "Antwort": "1. Wie wird etwas gesagt?; 2. Soziale Harmonie; 3. Kontext ist wichtig; 4. Nonverbale Aspekte, Subtile Kommunikation"
+  },
+  {
+    "Frage": "Wo zeigt sich in Deutschland (im Arbeitsleben) ein Bereich in dem sehr indirekt kommuniziert wird?",
+    "Antwort": "1. Beim Arbeitszeugnis; 2. Erläuterung: Bestimmte Formulierungen implizieren bestimmte Botschaften, die man nur entziffern kann, wenn man den \"Code\" kennt. Das geschriebene Wort beinhaltet eine andere Botschaft als es nach außen hin vermittelt."
+  },
+  {
+    "Frage": "Was lässt sich anhand der Vorslesung über Chinesen sagen?",
+    "Antwort": "1. Man sollte ruhig bleiben; 2. Keine großen Gesten verwenden; 3. Erst Small-Talk (nicht direkt zum Punkt kommen); 4. Nicht anfassen; 5. Visitenkarte mit beiden Händen geben/nehmen; 6. Postion und Hobby/Club auf Karte ist typisch; 7. Gerne eigene Visitenkarte anpassen; 8. Wenn man nicht genau weiß wer den höchsten Rang hat -> Unsicherheit zeigen, es wird gezeigt wer der \"Boss\" ist.; 9. Geisichtsverlust ist das schlimmste (daher nie auf Fehler hinweisen); 10. Geschenke sind typisch"
+  },
+  {
+    "Frage": "Was lässt sich anhand der Vorslesung über Franzosen sagen?",
+    "Antwort": "1. Keine Geschenke mit Firmenloge; 2. Große Autos; 3. Wein, Wasser in getrennten Gläsern servieren; 4. Geschäftliches erst zum Dessert; 4. Nichts schlechtes über Käse sagen; 5. 3-5 Gänge sind normal; 6. Wangen Küsschen sind normal unter Freunden und Bekannten."
+  },
+  {
+    "Frage": "Was lässt sich anhand der Vorslesung über Chile sagen?",
+    "Antwort": "1. Es gibt eine relativ große deutsche Community; 2. Daher ist uns einiges sehr ähnlich; 3. Händeschütteln ist üblich; 4. Bei Bekannten: Küsschen rechts/links; 5. Ansprache mit Don/Donja oder Doktor bei deutlich höher gestellten oder Älteren; 6. Wollen Pünktlichkeit, kommen aber selber gern mal 15min zu spät.; 7. Kompromissbereitschaft ist gewünscht; 8. Respekt ist wichtiger als Ehrlichkeit; 9. Visitenkarten werden eher beiläufig ausgetauscht (wird später aber genauer studiert); 10. Gastgeschenke nicht beim ersten Treffen, danach aber ok; 11. Hand in Faust = obszön; 12. Handreichen mit gespreizten Fingern = Du bist dumm"
+  },
+  {
+    "Frage": "Was war die Essenz aus der Zusammenkunft zwischen Deutschen und Handianern?",
+    "Antwort": "Linien vs. Alles mit den Händen"
+  },
+  {
+    "Frage": "Was zeichnete die Nosamduken aus? Was die Ellinganer?",
+    "Antwort": "1. <ul><li>Tutitotalla + Name</li><li>streng</li><li>gestresst</li><li>kein Körperkontakt</li></ul>; 2. <ul><li>sehr höflich</li><li>Dutsen</li><li>Stressvermeider</li><li>gerne Körperkontakt</li></ul>"
   }
 ]
