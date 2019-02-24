@@ -85,7 +85,7 @@ ik = [
   },
   {
     "Frage": "Was ist eher zutreffend für \"Interkulturalität\"?<ul><li>Vergleich zwischen zwei Kulturen</li><li>Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfinden, wenn diese Kontakt miteinander haben.</li><li>Synthese zwischen zwei kulturell unterschiedlichen Gruppen.</li><li>Ein, \"Drittes\", das im Kontakt zwischen Angehörigen unterschiedlicher Ausgangskulturen entsteht und mit keiner dieser Ausgangskulturen identisch ist.</li><li>Interkulturell=international</li></ul>",
-    "Antwort": "1. Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfinden, wenn diese Kontakt miteinander haben; 2. Synthese zwischen zwei kulturell unterschiedlichen Gruppen."
+    "Antwort": "1. Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfindent, wenn diese Kontakt miteinander haben; 2. Synthese zwischen zwei kulturell unterschiedlichen Gruppen."
   },
   {
     "Frage": "Vervollständige:\nWahrnehmung funktioniert…",
@@ -125,7 +125,7 @@ ik = [
   },
   {
     "Frage": "Wie ist das Sender Empfänger nach Schulz von Thun aufgebaut? (Nenne auch Beispielphrasen)",
-    "Antwort": "1. Sender -> Nachricht -> Empfänger; 2. Es gibt 4 Ebenen<ul><li>Sachinhalt -> Wörüber ich den Empfänger informiere (Ampel ist grün)</li><li>Appel -> Wozu ich den Empfänger veranlassen möchte (Gib Gas)</li><li>Beziehung -> Was ich vom Empfänger hlate oder wie wir zueinander stehen (Hilfestellung)</li><li>Selbstoffenbarung -> Was ich von mir selbst kundgebe (ich habe es eilig)</li></ul>"
+    "Antwort": "1. Sender -> Nachricht -> Empfänger; 2. Es gibt 4 Ebenen<ul><li>Sachinhalt -> Wörüber ich den Empfänger informiere (Ampel ist grün)</li><li>Appell -> Wozu ich den Empfänger veranlassen möchte (Gib Gas)</li><li>Beziehung -> Was ich vom Empfänger hlate oder wie wir zueinander stehen (Hilfestellung)</li><li>Selbstoffenbarung -> Was ich von mir selbst kundgebe (ich habe es eilig)</li></ul>"
   },
   {
     "Frage": "Welche drei Kommunikationsebenen gibt es?",
@@ -136,7 +136,7 @@ ik = [
     "Antwort": "1. Gesagt ist noch nicht gehört.; 2. Gehört ist noch nicht verstanden.; 3. Verstanden ist noch nicht einverstanden.; 4. Einverstanden ist noch nicht angewendet.; 5. Angewendet ist noch nicht beibehalten."
   },
   {
-    "Frage": "Wie ist das 4-Ohren-Prinzip nach Schulz von Thung (Empfängerseite) aufgebaut?",
+    "Frage": "Wie ist das 4-Ohren-Prinzip nach Schulz von Thun (Empfängerseite) aufgebaut?",
     "Antwort": "1. Sachebene -> Wie sit der Sachverhalt zu verstehen? (Ich darf fahren); 2. Beziehungsebene -> Wie redet der mit mir? Wen glaubt er, vor sich zu haben? (was soll diese Aufforderung?); 3. AppellSeite -> Was soll ich tun, denken, fühlen aufgrund seiner Mitteilung? (soll ich mich kaputt hetzen?); 4. Selbstkundgabe -> Was ist das für einer, was ist mit ihm? (Du bist wohl echt gestresst)"
   },
   {
@@ -165,7 +165,7 @@ ik = [
   },
   {
     "Frage": "Wie ist <strong>direkte Gesprächsstrategie</strong> zu verstehen?",
-    "Antwort": "1. Zielführend; 2. Bei der direkten Gesprächsstrategie werden Gespräche geführt, um ein definiertes Ziel zu erreichen; 3. Damit der Gesprächspartner sich darauf einstellen kann; 4. Und um keine Zeit zu verschwenden, wird meist ein sehr direkter Weg gewählt. 5. Bsp.: \"Ich bin gekommen, weil ich mit Ihrem Produkt nicht zufrieden bin."
+    "Antwort": "1. Zielführend; 2. Bei der direkten Gesprächsstrategie werden Gespräche geführt, um ein definiertes Ziel zu erreichen; 3. Damit der Gesprächspartner sich darauf einstellen kann; 4. Und um keine Zeit zu verschwenden, wird meist ein sehr direkter Weg gewählt.; 5. Bsp.: \"Ich bin gekommen, weil ich mit Ihrem Produkt nicht zufrieden bin."
   },
   {
     "Frage": "Welche vier Richtungen bezeichnen die <strong>direkte Gesprächsstrategie</strong>?",
