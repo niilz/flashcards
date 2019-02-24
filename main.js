@@ -28,7 +28,7 @@ let remainingCards = document.querySelector(".remaining");
 
 // define question-set
 // global questionSet
-let questionSet = orgaFragen;
+let questionSet = interkulturelleFragen;
 
 function defineQuestionSet(set) {
     questionSet = set;
