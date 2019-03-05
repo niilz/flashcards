@@ -3,6 +3,10 @@ body {
     font-size: calc(16px + .7vw);
 }
 
+table {
+    font-size: calc(11px + .3vw);
+}
+
 .container {
     display: grid;
     justify-items: center;
@@ -80,6 +84,7 @@ body {
 /* Content on Card */
 .content {
     height: 100%;
+    max-width: 700px;
     display: flex;
     flex-direction: column;
     justify-content: center;

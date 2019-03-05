@@ -29,7 +29,7 @@ im = [
     },
     {
       "Frage": "Wodurch entstehen Kostenersparnisse bei den Economies of Scale?",
-      "Antwort": "1. Kostenersparnisse treten auf, wenn bei gegebener Produktionsfunktion (Produktionstechnik) die Ausbringungsmenge wächst.; 2. Grund: Bei wachsender Betriebsgröße sinken die durchschnittlichen totalen Kosten (DTK) bis zur sog. Mindestoptimalen technischen Betriebs- bzw. Unternehmensgröße (MOS). 3. Fazit: Der Anteil der Kosten je produzierter Einheit wird immer kleiner."
+      "Antwort": "1. Kostenersparnisse treten auf, wenn bei gegebener Produktionsfunktion (Produktionstechnik) die Ausbringungsmenge wächst.; 2. Grund: Bei wachsender Betriebsgröße sinken die durchschnittlichen totalen Kosten (DTK) bis zur sog. Mindestoptimalen technischen Betriebs- bzw. Unternehmensgröße (MOS); 3. Fazit: Der Anteil der Kosten je produzierter Einheit wird immer kleiner."
     },
     {
       "Frage": "Wofür sind Economies of Scale eine Ursache?",
@@ -52,7 +52,7 @@ im = [
       "Antwort": "1. Economies of Scale; 2. Verschiedene Länder mit verschiedenen Kostenstrukturen; 3. Güter sind mobil und Produktionsfaktoren immobil (alles genau wie bei der absoluten Kostenvorteils-Theorie, aber auch bereits sinnvoll wenn nicht absolute Kostenvorteile bestehen)"
     },
     {
-      "Frage": "Wann ist nach dem Theorem der komarativen Kostenvorteile von Ricardo (1817) Außenhandel ökonomisch sinnvoll?",
+      "Frage": "Wann ist nach dem Theorem der komparativen Kostenvorteile von Ricardo (1817) Außenhandel ökonomisch sinnvoll?",
       "Antwort": "1. Ein Land beide Güter günstiger produzieren kann; 2. Sofern die <strong>Kostendifferenzen</strong> unterschiedlich sind; 3. Jedes Land kontentriert sich auf das Gut, bei welchem es die komparativ höchsten Kostenvorteile hat; 4. Bsp.<ul><li>Land A: Gut 1=> 1,- | Gut 2 => 2,-</li><li>LAND B: Gut 1 => 6,- | Gut 2 => 3,-</li><li>Komparativer K-Vorteil von Land A: 6 - 1 = 5,- | 3 - 2 = 1,-"
     },
     {
@@ -101,7 +101,7 @@ im = [
     },
     {
       "Frage": "Bei der Nachfragestrukturhypothes nach Lindner gibt es eine Parallele zur Theorie der technologischen Lücke nach Posner. Welche?",
-      "Antwort": "Es wird davon ausgegangen, dass bei der Nachfragstrukturhypothese (wie auch bei der Tech-Lücke-Theorie) ein Exportgut erst im Inland vertrieben wird."
+      "Antwort": "Es wird davon ausgegangen, dass bei der Nachfragestrukturhypothese (wie auch bei der Tech-Lücke-Theorie) ein Exportgut erst im Inland vertrieben wird."
     },
     {
       "Frage": "Was setzt die Nachfragestrukturhypothese nach Lindner voraus?",
@@ -121,7 +121,7 @@ im = [
     },
     {
       "Frage": "Was ist nach der Theorie des monopolistischen Vorteils nach Hymer der Grund für Direktinvestitionen?",
-      "Antwort": "1. Der Grund für Direktinvestionen nach der Theorie des monoposistischen Vorteils ist: die Kontrolle von Auslandsaktivitäten zur Sicherung monopolistischer Vorteile.; 2. Direktinvestionen werden aus dem <strong>Governance-Motiv</strong>erklärt.; 3. Unternehmen streben die Kontrolle ihrer Auslandsinvestitionen an."
+      "Antwort": "1. Der Grund für Direktinvestionen nach der Theorie des monoposistischen Vorteils ist: die Kontrolle von Auslandsaktivitäten zur Sicherung monopolistischer Vorteile.; 2. Direktinvestionen werden aus dem <strong>Governance-Motiv</strong> erklärt.; 3. Unternehmen streben die Kontrolle ihrer Auslandsinvestitionen an."
     },
     {
       "Frage": "Wozu streben (nach der Theorie des monopolistischen Vorteils nach Hymer) Unternehmen die Kontrolle ihrer Auslandsaktivitäten an?",
@@ -168,7 +168,7 @@ im = [
       "Antwort": "1. Ansatz hat vorwiegend historische Relevanz; 2. Ansatz ist für die Prognose ungeeignet; 3. Vernachlässigung von Ownership-Fragen; 4. Fazit: Der Ansatz ist allenfalls geeignet, Aussagen für Klein- und Mittelbetriebe mit heimatnaher Innovation und inländischer Erstproduktion zu machen."
     },
     {
-      "Frage": "Welcher Zusammenhang besteht zwischen der Marktstruktur und em oligopolistischen Verhalten? (Laut der Theorie des Oligopolistischen Verhaltens nach Knickerbocker / Graham)",
+      "Frage": "Welcher Zusammenhang besteht zwischen der Marktstruktur und dem oligopolistischen Verhalten? (Laut der Theorie des Oligopolistischen Verhaltens nach Knickerbocker / Graham)",
       "Antwort": "Grenzüberschreitende Direktinvestitionen sind Ausdruck einer \"Follow the Leader\"-Strategie."
     },
     {
@@ -185,11 +185,11 @@ im = [
     },
     {
       "Frage": "Welchen Zwang verspühren Unternehmen aus kleinen Inlandsmärkten (Laut den Ansätzen der Kostendegression)?",
-      "Antwort": "Sie verspüren den Zwang die <strong>Internationalisierung voranzutreiben</strong>\\n(der Inlandsmarkt bietet ihnen nur ein begrenztes Potential zur Erzielung von Skaleneffekten)"
+      "Antwort": "Sie verspüren den Zwang die <strong>Internationalisierung voranzutreiben</strong>\n(der Inlandsmarkt bietet ihnen nur ein begrenztes Potential zur Erzielung von Skaleneffekten)"
     },
     {
       "Frage": "Womit sind nach den Ansätzen der Kostendegression Kostensenkungseffekte verbunden?",
-      "Antwort": "1. mit First Mover Vorteilen; 2. (Erklärung: Wettbewerbsvorteile hat der, der als erster in einem bestimmten Markt eine bestimmte Leistung anbietet.<ul><li>erlösbedingte Wettbewerbsvorteile</li><li>Kostensenkungsvorteils [z.B. größerer Kundenkreis, stabilere Kundenbindung, dadurch erhöhte Markteintrittsbarrieren])</li></ul>"
+      "Antwort": "1. mit First Mover Vorteilen; 2. (Erklärung: Wettbewerbsvorteile hat der, der als erster in einem bestimmten Markt eine bestimmte Leistung anbietet.<ul><li>erlösbedingte Wettbewerbsvorteile</li><li>Kostensenkungsvorteile [z.B. größerer Kundenkreis, stabilere Kundenbindung, dadurch erhöhte Markteintrittsbarrieren])</li></ul>"
     },
     {
       "Frage": "Nenne drei Beispiele für Branchen in denen Zwang zur Kostendegression herrscht, damit sich F&E-Kosten armortisieren.",
@@ -197,7 +197,7 @@ im = [
     },
     {
       "Frage": "Was ist der Grund für Auslandstätigkeit nach dem Produktlebenszyklusansatz nach Vernon?",
-      "Antwort": "Fortschreiten es Produktlebenszyklus"
+      "Antwort": "Fortschreiten des Produktlebenszyklus"
     },
     {
       "Frage": "Welche drei Phasen werden beim Produktlebenszyklusansatz nach Vernon unterschieden?",
@@ -269,7 +269,7 @@ im = [
     },
     {
       "Frage": "Was zeichnet die Internationale Strategie aus?",
-      "Antwort": "1. Übetragung von<ul><li>Strukturen</li><li>Systemen</li><li>Prozessen</li></ul>der Muttergesellschaft auf alle ausländischen Tochtergesellschaften; 2. Steuerung vor allme durch Anweisungen (direktive Steuerung); 3. Entsendung von Stammhausdelegierten; 4. Die internationale Strategie verliert im Zuge der Globalisierung an Bedeutung weil<ul><li>Produkte sich angleichen (Möglichkeiten zur Standardisierung)</li><li>es Nachteilige Effekte gibt (Motivation von Nachwuchskräften, Wertschöpfung des Unternehmens für das jeweilige Land)</li></ul>"
+      "Antwort": "1. Übetragung von<ul><li>Strukturen</li><li>Systemen</li><li>Prozessen</li></ul>der Muttergesellschaft auf alle ausländischen Tochtergesellschaften; 2. Steuerung vor allem durch Anweisungen (direktive Steuerung); 3. Entsendung von Stammhausdelegierten; 4. Die internationale Strategie verliert im Zuge der Globalisierung an Bedeutung weil<ul><li>Produkte sich angleichen (Möglichkeiten zur Standardisierung)</li><li>es Nachteilige Effekte gibt (Motivation von Nachwuchskräften, Wertschöpfung des Unternehmens für das jeweilige Land)</li></ul>"
     },
     {
       "Frage": "Wie wird Multinationale Strategie (nach Perlmutter) noch genannt?",
@@ -320,7 +320,7 @@ im = [
       "Antwort": "1. Länderspezifische Timingstrategien<ul><li>First-Mover-Strategie</li><li>Follower Strategie</li></ul>; 2. Länderübergreifende Timingstrategien<ul><li>Wasserfallstrategie</li><li>Sprinklerstrategie</li><li>Kombinierte Wasserfall-Sprinkler-Strategie</li></ul>"
     },
     {
-      "Frage": "Welche Strategien kommen bei den <strong>Allikationsstrategien</strong> zum Einsatz?",
+      "Frage": "Welche Strategien kommen bei den <strong>Allokationsstrategien</strong> zum Einsatz?",
       "Antwort": "1. Konfigurationsstrategien<ul><li>Zentralisierungsstrategie</li><li>Dezentralisierungsstrategie</li></ul>; 2. Leistungsstrategien<ul><li>Standardisierungsstrategie</li><li>Differnezierungsstrategie</li></ul>"
     },
     {
@@ -368,7 +368,7 @@ im = [
       "Antwort": "prozessuale Gestaltungsinstrumente<ul><li>personenorientierte Instrumente<ul><li>persönliche Weisungen</li><li>Sozialisation</li></ul></li><li>technokratische Instrumente<ul><li>Planung<ul><li>Zielplanung</li><li>Maßnahmenplanung</li><li>Ressourcenplanung</li></ul></li><li>Formalisierung<ul><li>Programmierung</li><li>Standardisierung<ul><li>Normung</li><li>Typung</li></ul></li><li>Transferpreise</li></ul></li></ul></li></ul>"
     },
     {
-      "Frage": "Welche Idealtypischen Organisationsmodell gibt es? (Was sind die Merkmale?)",
+      "Frage": "Welche Idealtypischen Organisationsmodelle gibt es? (Was sind die Merkmale?)",
       "Antwort": "<table><thead><tr><th>Organisationsmodell // Merkmal</th><th>Koordinierte Föderations</th><th>Dezentralsierte Föderation</th><th>Zentralisierte Knotenpunktstruktur</th><th>Integriertes Netzwerk</th></tr></thead><tr><th>Konfiguration von Werten u. Fähigkeiten</th><td>Kernkompetenzen zentralisiert, andere Kompetenzen dezentralisiert</td><td>dezentralisiert u. im nationalen Rahmen unabhängig</td><td>zenralisiert u. weltmarktorientiert</td><td>weitgestreut, interdependent u. spezialisiert</td></tr><tr><th>Rolle der Auslandsniederlassungen</th><td>Anpassung u. Anwendung von Kompetenzen der Muttergesellschaft</td><td>Erkennen u. Nutzung lokaler Martchancen</td><td>Umsetzung von Strategien der Muttergesellschaft</td><td>differnezierte Beiträge der nationalen Einheiten zu weltweit integrierten Aktivitäten</td></tr><tr><th>Entwicklung u. Diffusion von Wissen</th><td>Erwerb von Wissen in Muttergesellschaften u. Transfer in Auslandsniederlassungen</td><td>Erwerb u. Sicherung von Wissen in jeder Einheit</td><td>Erweb u. Sicherung von Wissen in der Muttergesellschaft</td><td>gemeinsame Entwicklung u. Nutzung von Wissen</td></tr></table>"
     },
     {

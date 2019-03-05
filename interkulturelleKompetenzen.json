@@ -21,7 +21,7 @@ ik = [
   },
   {
     "Frage": "Wie begrüßen sich Japaner?",
-    "Antwort": "1. Informallen Treffen: Verbeugen (ca. 2 sec. & ca. 15 Grad) Hände an Oberschenkeln; 2. Formelle Treffen: Verbeugen (ca. 3 sec. & ca. 35 Grad) Hände an Oberschenkeln; 3. Tempel: Verbeugen (ca. 3 sec. ca. 90 Grad) Hände an Oberschenkeln; 4. Frauen verbeugen sich tiefer und länger (Hände als Dreieck, Links über Rechts); 5. Schüler verbeugen sich ein Leben lang tiefer"
+    "Antwort": "1. Informale Treffen: Verbeugen (ca. 2 sec. & ca. 15 Grad) Hände an Oberschenkeln; 2. Formelle Treffen: Verbeugen (ca. 3 sec. & ca. 35 Grad) Hände an Oberschenkeln; 3. Tempel: Verbeugen (ca. 3 sec. ca. 90 Grad) Hände an Oberschenkeln; 4. Frauen verbeugen sich tiefer und länger (Hände als Dreieck, Links über Rechts); 5. Schüler verbeugen sich ein Leben lang tiefer"
   },
   {
     "Frage": "Wie begrüßen sich Russen?",
@@ -84,7 +84,7 @@ ik = [
     "Antwort": "hat"
   },
   {
-    "Frage": "Was ist eher zutreffend für \"Interkulturalität\"?<ul><li>Vergleich zwischen zwei Kulturen</li><li>Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfinden, wenn diese Kontakt miteinander haben.</li><li>Synthese zwischen zwei kulturell unterschiedlichen Gruppen.</li><li>Ein, \"Drittes\", das im Kontakt zwischen Angehörigen unterschiedlicher Ausgangskulturen entsteht und mit keiner dieser Ausgangskulturen identisch ist.</li><li>Interkulturell=international</li></ul>",
+    "Frage": "Was ist eher zutreffend für \"Interkulturalität\"?<ul><li>Vergleich zwischen zwei Kulturen</li><li>Ereignis, das zwischen Angehörigen unterschiedlicher Kulturen stattfinden, wenn diese Kontakt miteinander haben.</li><li>Synthese zwischen zwei kulturell unterschiedlichen Gruppen.</li><li>Ein, \"Drittes\", das im Kontakt zwischen Angehörigen unterschiedlicher Ausgangskulturen entsteht und mit keiner dieser Ausgangskulturen identisch ist.</li><li>Interkulturell=international</li></ul>",
     "Antwort": "1. Ereignis, das zwischen Angehörigen unterschiedlichen Kulturen stattfindent, wenn diese Kontakt miteinander haben; 2. Synthese zwischen zwei kulturell unterschiedlichen Gruppen."
   },
   {
@@ -113,11 +113,11 @@ ik = [
   },
   {
     "Frage": "Was unterscheidet das <strong>Vorurteil</strong> vom <strong>Stereotyp</strong>?",
-    "Antwort": "Das Vorurteil beruhrt im Gegensatz zum Stereotyp nicht auf Erfahrung und Wahrnehmung sondern auf einer meißt wenig reflektierten Meinung und ist somit ein vorab gewertetes Urteil."
+    "Antwort": "Das Vorurteil beruhrt im Gegensatz zum Stereotyp nicht auf Erfahrung und Wahrnehmung sondern auf einer meist wenig reflektierten Meinung und ist somit ein vorab gewertetes Urteil."
   },
   {
     "Frage": "Was ist das Problem von Vorurteilen?",
-    "Antwort": "Vorurteile sind meißt negativ behaftet und durch ihre Komplexität und Vielfältigkeit schwer aufzuheben."
+    "Antwort": "Vorurteile sind meist negativ behaftet und durch ihre Komplexität und Vielfältigkeit schwer aufzuheben."
   },
   {
     "Frage": "Wozu dienen Stereotypen?",
@@ -149,7 +149,7 @@ ik = [
   },
   {
     "Frage": "Welche Kräfte treiben unser unbewusstest Handeln (nach Freud)?",
-    "Antwort": "1. Ängste; 2. Einstellungen; 3. Wete; 4. Verdrängte Konflikte; 5. Triebe; 6. Erwartungen; 7. Bedürfnisse"
+    "Antwort": "1. Ängste; 2. Einstellungen; 3. Werte; 4. Verdrängte Konflikte; 5. Triebe; 6. Erwartungen; 7. Bedürfnisse"
   },
   {
     "Frage": "Was besagt das Eisbergmodell?",
