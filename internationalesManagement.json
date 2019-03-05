@@ -173,7 +173,7 @@ im = [
     },
     {
       "Frage": "Was sind Tit-for-Tat Strategien?",
-      "Antwort": "Keine Ahnung aber wenn du es weißt schick mal ne WhatsApp?\\n<strong>;-)</strong>"
+      "Antwort": "Keine Ahnung aber wenn du es weißt schick mal ne WhatsApp?\n<strong>;-)</strong>"
     },
     {
       "Frage": "Was ist folgends der Ansätze der Kostendegression der Grund für Auslandstätigkeiten?",
@@ -181,7 +181,7 @@ im = [
     },
     {
       "Frage": "Folgends den Ansätzen der Kostendegression weisen <strong>Statische Skaleneffekt</strong> und <strong>Dynamische Skaleneffekte</strong> auch bei Bearbeitung von Auslandsmärkten … auf.",
-      "Antwort": "Kostenvorteile\\n(Skaleneffekte im Inland ermöglichen preisgünstige Produkte im Ausland)"
+      "Antwort": "Kostenvorteile\n(Skaleneffekte im Inland ermöglichen preisgünstige Produkte im Ausland)"
     },
     {
       "Frage": "Welchen Zwang verspühren Unternehmen aus kleinen Inlandsmärkten (Laut den Ansätzen der Kostendegression)?",
@@ -233,15 +233,15 @@ im = [
     },
     {
       "Frage": "Wann finden nach dem eklektischen Paradigma nach Dunning Direktinvestitionen statt?",
-      "Antwort": "Wenn alle drei Eigentumsvorteile auftreten\\n(Können Aktivitäten selbst effizienter als durch den Markt durchgeführt werden uns weist ein Standort Vorzäüge auf, dann sind Direktinvestitionen optimal)"
+      "Antwort": "Wenn alle drei Eigentumsvorteile auftreten\n(Können Aktivitäten selbst effizienter als durch den Markt durchgeführt werden uns weist ein Standort Vorzäüge auf, dann sind Direktinvestitionen optimal)"
     },
     {
       "Frage": "Wann wird nach dem eklektischen Paradigma nach Dunning der Export gewählt?",
-      "Antwort": "Wenn zwei der übergeordneten Vorteilskategorien vorliegen.\\n(Sind Eigentumsvorteile und Internalisierungsvorteile für ein Unternehmen wichtig, und liegen aber keine Standortvorteile vor, können vorteilhafte Faktoreinsätze nicht genutzt werden.)"
+      "Antwort": "Wenn zwei der übergeordneten Vorteilskategorien vorliegen.\n(Sind Eigentumsvorteile und Internalisierungsvorteile für ein Unternehmen wichtig, und liegen aber keine Standortvorteile vor, können vorteilhafte Faktoreinsätze nicht genutzt werden.)"
     },
     {
       "Frage": "Wann werden unternehmensspezifische Vorteile, nach dem eklektischen Paradigma nach Dunning, besser von anderen Akteuren verwertet?",
-      "Antwort": "Wenn ein Unternehmen lediglich über Eigentumsvorteile verfügt, jedoch über keine Internalisierungs- oder Standortvorteil.\\n(Es wird eine Ressourcenübertragung gewählt)"
+      "Antwort": "Wenn ein Unternehmen lediglich über Eigentumsvorteile verfügt, jedoch über keine Internalisierungs- oder Standortvorteil.\n(Es wird eine Ressourcenübertragung gewählt)"
     },
     {
       "Frage": "Nenne die vier Freiheiten des EG-Binnenmarktes.",
@@ -260,8 +260,8 @@ im = [
       "Antwort": "1. Konjunkturelle Fehl-Entwicklungen; 2. Strukturelle Veränderungen"
     },
     {
-      "Frage": "Nenne die vier Strategien aus dem Strategiespektrum Multinationaler Unternehmen.\\n(Nenne auch jeweils ob die Vorteile der Globalisierung / Standadisierung sowie die Vorteile der Lokalisierung / Differenzierung, hoch oder niedrig ist)",
-      "Antwort": "1. Internationale Strategie\\nGlobalisierung / Standardisierung: niedrig | Lokalisierung / Differnezierung: niedrig; 2. Globale Strategie\\nG / S: hoch | L / D: niedrig; 3. Multinationale Strategie:\\nG / S: niedrig | L / D: hoch; 4. Transnationale Strategie:\\nG / S: hoch | L / D: hoch"
+      "Frage": "Nenne die vier Strategien aus dem Strategiespektrum Multinationaler Unternehmen.\n(Nenne auch jeweils ob die Vorteile der Globalisierung / Standadisierung sowie die Vorteile der Lokalisierung / Differenzierung, hoch oder niedrig ist)",
+      "Antwort": "1. Internationale Strategie\nGlobalisierung / Standardisierung: niedrig | Lokalisierung / Differnezierung: niedrig; 2. Globale Strategie\nG / S: hoch | L / D: niedrig; 3. Multinationale Strategie:\nG / S: niedrig | L / D: hoch; 4. Transnationale Strategie:\nG / S: hoch | L / D: hoch"
     },
     {
       "Frage": "Wie wird die Internationale Strategie (nach Perlmutter) noch genannt?",
@@ -348,7 +348,7 @@ im = [
       "Antwort": "1. Integriergte Produktstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: gering</li></ul>; 2. Integrierte Regionalstruktur:<ul><li>Produktdiversifikation: gering</li><li>Anteil Auslandsproduktion: hoch</li><li>Matrixstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: hoch</li></ul>"
     },
     {
-      "Frage": "EU-Unternehmen haben stärkere Präferenuen für … Sturkturen (bei der Organisation ihrer Auslandsgeschäfte).\\nUSA und Japan eher … Organisationsstrukturen.\\nWarum?",
+      "Frage": "EU-Unternehmen haben stärkere Präferenuen für … Sturkturen (bei der Organisation ihrer Auslandsgeschäfte).\nUSA und Japan eher … Organisationsstrukturen.\nWarum?",
       "Antwort": "1. intergrierte (produktorienterte) Organisationsstrukturen; 2. differenzierte Organisationsstrukturen; 3. Größe des Heimatmarktes"
     },
     {
