@@ -20,7 +20,7 @@ im = [
       "Antwort": "1. Zinssatztheorie; 2. Kostendegressionsansatz; 3. Theorie des monopolistischen Vorteils (Hymer); 4. Theorie des ologpolistischen Parallelverhalten (Knickebocker/Graham)"
     },
     {
-      "Frage": "Nenn die Übergreifenden Theorien.",
+      "Frage": "Nenne die übergreifenden Theorien.",
       "Antwort": "1. Produklebenszyklus Ansatz (Vernon); 2. Standortansätze; 3. Diamanttheorie (Porter); Internalisierungstheorie; Eklektisches Paradigma (Dunning)"
     },
     {
@@ -97,10 +97,10 @@ im = [
     },
     {
       "Frage": "Was steht bei klassischen Außenhandelstheorien im Vordergrund?",
-      "Antwort": "1. Beir klassischen Außenhandelstheoriern standen die <strong>Angebotsbedingungen</strong> im Vordergrund"
+      "Antwort": "1. Bei klassischen Außenhandelstheoriern standen die <strong>Angebotsbedingungen</strong> im Vordergrund"
     },
     {
-      "Frage": "Bei der Nachfragestrukturhypothes nach Lindner gibt es eine Parallele zur Theorie der technologischen Lücke nach Posner. Welche?",
+      "Frage": "Bei der Nachfragestrukturhypothese nach Lindner gibt es eine Parallele zur Theorie der technologischen Lücke nach Posner. Welche?",
       "Antwort": "Es wird davon ausgegangen, dass bei der Nachfragestrukturhypothese (wie auch bei der Tech-Lücke-Theorie) ein Exportgut erst im Inland vertrieben wird."
     },
     {
@@ -113,7 +113,7 @@ im = [
     },
     {
       "Frage": "Was ist die Kritik an der Nachfragestrukturhypothese nach Linder? Und wie lautet die Lösung?",
-      "Antwort": "1. Es ergibt sich ein Paradoxon:<ul><li>Warum sollen Länder mit Nachfragehomogenität sich auf vielfältigkeite ihrer Produkte spezialisieren?</li><li>Müssten die Länder nicht gleichartige Produkte erzeugen? (was Import ausschließen würde)</li></ul>; 2. Lösung:<ul><li>Diese Länder poolen ihre Nachfrage und wenden das Prinzip der internationalen Arbeitsteilung an</li><li>Neben der Nachfragepoolung müsste die Theorie auch die internationale Produktdifferenzierung berücksichtigen</li><li>Economies of Scale könnten den Außenhandel erklären</li></ul>"
+      "Antwort": "1. Es ergibt sich ein Paradoxon:<ul><li>Warum sollen Länder mit Nachfragehomogenität sich auf Vielfältigkeit ihrer Produkte spezialisieren?</li><li>Müssten die Länder nicht gleichartige Produkte erzeugen? (was Import ausschließen würde)</li></ul>; 2. Lösung:<ul><li>Diese Länder poolen ihre Nachfrage und wenden das Prinzip der internationalen Arbeitsteilung an</li><li>Neben der Nachfragepoolung müsste die Theorie auch die internationale Produktdifferenzierung berücksichtigen</li><li>Economies of Scale könnten den Außenhandel erklären</li></ul>"
     },
     {
       "Frage": "Wovon geht die Zinssatztheorie aus?",
@@ -129,10 +129,10 @@ im = [
     },
     {
       "Frage": "Was sind Motive für Direktinvestitionen? (Laut der Theorie des monopolistischen Vorteils nach Hymer)",
-      "Antwort": "1. International tätige Unternehmen sind \"rent seeker\". Nicht der höhere Zinssatz sondern die <strong>Gewinnpotentiale</strong> sind die Motivation für Direktinvestionen."
+      "Antwort": "International tätige Unternehmen sind \"rent seeker\". Nicht der höhere Zinssatz sondern die <strong>Gewinnpotentiale</strong> sind die Motivation für Direktinvestionen."
     },
     {
-      "Frage": "Was sind (folgend der Theorie der monopolistischen Rente nach Hymer) die Vorraussetzung für die Erzielung einer Monopolrente?",
+      "Frage": "Was ist (folgends der Theorie der monopolistischen Rente nach Hymer) die Vorraussetzung für die Erzielung einer Monopolrente?",
       "Antwort": "Die Vorraussetzung für die Erzielung einer Monoporente ist die <strong>übertragbarkeit der unternehmenspezifischen Vorteile</strong>"
     },
     {
@@ -157,11 +157,11 @@ im = [
     },
     {
       "Frage": "Wodurch wird bei der Direktinvestion <strong>Kundennähe</strong> und <strong>Anpassung an die kokalen Bedingungen</strong> erreicht?",
-      "Antwort": "1. Durch Produktdiffernezierung; 2. pyhysische Variation; 3. Markennamen; 4. subjektive Untscheidungsfaktoren"
+      "Antwort": "1. Durch Produktdifferenzierung; 2. pyhysische Variation; 3. Markennamen; 4. subjektive Untscheidungsfaktoren"
     },
     {
       "Frage": "In welche drei Marktdominanten unterscheidet die Theorie des oligopolistischen Verhaltens nach Knickerbocker / Graham?",
-      "Antwort": "1. Innovationsgestütztes Monopol:<ul><li>Neue Produkte und Prozesse => monopolähnliche Stellung</li><li>Standort der Erstproduktion in innovationsstimulierenden Märkten (z.B. Heimatmarkt)</li></ul>; 2. Reifes Oligopol:<ul><li>Skalenerträge in Produktion, Marketing und Logistik erstzen Innovationsfaktor als Markteintrittsbarriere</li><li>Daraus ergeben sich: geographische Konzentration und grenzüberschreitende Allianzen</li></ul>; 3. Gesättigtes Oligopol:<ul><li>Wettbewerb erfolgt über Faktorpreise</li><li>Produktionsstandorte ergeben sich aus geographischen Kostendifferenzen</li><li>Suche nach Niedrigkostenstandorten</li></ul>"
+      "Antwort": "1. Innovationsgestütztes Monopol:<ul><li>Neue Produkte und Prozesse => monopolähnliche Stellung</li><li>Standort der Erstproduktion in innovationsstimulierenden Märkten (z.B. Heimatmarkt)</li></ul>; 2. Reifes Oligopol:<ul><li>Skalenerträge in Produktion, Marketing und Logistik ersetzen Innovationsfaktor als Markteintrittsbarriere</li><li>Daraus ergeben sich: geographische Konzentration und grenzüberschreitende Allianzen</li></ul>; 3. Gesättigtes Oligopol:<ul><li>Wettbewerb erfolgt über Faktorpreise</li><li>Produktionsstandorte ergeben sich aus geographischen Kostendifferenzen</li><li>Suche nach Niedrigkostenstandorten</li></ul>"
     },
     {
       "Frage": "Wie lautet die Kritik an der Theorie des oligopolistischen Verhaltens nach Knickerbocker / Graham?",
@@ -221,19 +221,19 @@ im = [
     },
     {
       "Frage": "Was sind die Vorteile der Internalisierungstheorie?",
-      "Antwort": "1. Verringerung opportunistischen Verhaltens des Akteus im Ausland; 2. Hohe Kontrollintensität; 3. Staatliche Eingriffe (z.B. Handelshemmnisse, Steuergesetzte) können leichter umgangen werden; 4. Die Marktmacht von Zulieferern eines Zwischenproduktes wird verringert"
+      "Antwort": "1. Verringerung opportunistischen Verhaltens des Akteurs im Ausland; 2. Hohe Kontrollintensität; 3. Staatliche Eingriffe (z.B. Handelshemmnisse, Steuergesetzte) können leichter umgangen werden; 4. Die Marktmacht von Zulieferern eines Zwischenproduktes wird verringert"
     },
     {
       "Frage": "Wie gliedern sich Formen der Internationalisierung (mit steigender Kontrollintensität und steigendem Ausmaß der Direktinvestition)?",
       "Antwort": "1. Export; 2. Lizenzverträge; 3. Franchising; 4. Joint Venture; 5. Auslandsniederlassung; 6. Produktionsstätte; 7. Tochtergesellschaft"
     },
     {
-      "Frage": "Woraus resultieren nach den eklektischen Paradigma von Dunning Eigentumsvorteile?",
+      "Frage": "Woraus resultieren nach dem eklektischen Paradigma von Dunning Eigentumsvorteile?",
       "Antwort": "1. Aus dem Unternehmen selbst (wie Größenvorteile, Spezialisierungsvorteile, Synergievorteile, Positionsvorteile); 2. Aus der Internationalität (z.B. geographische Risikostreuung, Zugang zu Ressourcen [Information, Kapital|); 3. Patente, Managementressourcen, Produktinnovationen"
     },
     {
       "Frage": "Wann finden nach dem eklektischen Paradigma nach Dunning Direktinvestitionen statt?",
-      "Antwort": "Wenn alle drei Eigentumsvorteile auftreten\n(Können Aktivitäten selbst effizienter als durch den Markt durchgeführt werden uns weist ein Standort Vorzäüge auf, dann sind Direktinvestitionen optimal)"
+      "Antwort": "Wenn alle drei Eigentumsvorteile auftreten\n(Können Aktivitäten selbst effizienter als durch den Markt durchgeführt werden und weist ein Standortvorzüge auf, dann sind Direktinvestitionen optimal)"
     },
     {
       "Frage": "Wann wird nach dem eklektischen Paradigma nach Dunning der Export gewählt?",
@@ -256,7 +256,7 @@ im = [
       "Antwort": "1. Führungsfehler; 2. Unzureichende Eigenkapitalausstattung"
     },
     {
-      "Frage": "Nenn die beiden häufigsten exogenen Krisenursachen von Unternehmen",
+      "Frage": "Nenne die beiden häufigsten exogenen Krisenursachen von Unternehmen",
       "Antwort": "1. Konjunkturelle Fehl-Entwicklungen; 2. Strukturelle Veränderungen"
     },
     {
@@ -301,7 +301,7 @@ im = [
     },
     {
       "Frage": "Es gibt drei Quellen von Wettbewerbsvorteilen, mit denen sich strategische Ziele verfolgen lassen. Nenne die Quellen, die Ziele sowie die Vorteile (Schnittmengen)",
-      "Antwort": "<table><thead><tr><th>Quelle von Wettbewerbsvorteilen // Strategische Ziele</th><th>Nationale Unterschiede</th><th>Größendregressionsvorteils (economies of scale)</th><th>Verbundvorteile (economies of scope)</th></tr></thead><tr><th>operative Effizienz</th><td>Ausnutzung von Faktorkostenunterschieden</td><td>Ausdehnung u. Ausnutzung potent. Größenvorteile</td><td>Nutzung von Investitionen u. Aufteilung von Kosten auf mehrere Märkte Produkte und Geschäftsbereiche</td></tr><th>Risikomanagement</th><td>Management von Risiken durch markt- o. politikinduzierte Änderungen der komperativen Vorteile</td><td>Ausbalancierung von Größenvorteilen u. strategischer operativer Flexibilität</td><td>Portfolio-Diversifikation von Risiken u. Chancen</td></tr><tr><th>Lernfeffekte u. Adaption von Innovationen</th><td>Lernen aus soziokulturellen Unterschieden</td><td>Nutzung von Erfahrungsvorteilen</td><td>Gemeinsame Lerneffekte von Organisationseinheiten in unterschiedlichen Produkt- Markt- o. Geschäftsbereichen</td></tr></table>"
+      "Antwort": "<table><thead><tr><th>Quelle von Wettbewerbsvorteilen // Strategische Ziele</th><th>Nationale Unterschiede</th><th>Größendegressionsvorteile (economies of scale)</th><th>Verbundvorteile (economies of scope)</th></tr></thead><tr><th>operative Effizienz</th><td>Ausnutzung von Faktorkostenunterschieden</td><td>Ausdehnung u. Ausnutzung potent. Größenvorteile</td><td>Nutzung von Investitionen u. Aufteilung von Kosten auf mehrere Märkte Produkte und Geschäftsbereiche</td></tr><th>Risikomanagement</th><td>Management von Risiken durch markt- o. politikinduzierte Änderungen der komperativen Vorteile</td><td>Ausbalancierung von Größenvorteilen u. strategischer operativer Flexibilität</td><td>Portfolio-Diversifikation von Risiken u. Chancen</td></tr><tr><th>Lernfeffekte u. Adaption von Innovationen</th><td>Lernen aus soziokulturellen Unterschieden</td><td>Nutzung von Erfahrungsvorteilen</td><td>Gemeinsame Lerneffekte von Organisationseinheiten in unterschiedlichen Produkt- Markt- o. Geschäftsbereichen</td></tr></table>"
     },
     {
       "Frage": "Nenne die 5 <strong>Strategien der internationalen Unternehmung</strong>",
@@ -313,7 +313,7 @@ im = [
     },
     {
       "Frage": "Welche Methoden / Strategien werden bei den <strong>Markteintritts- und Marktbearbeitungsstrategien</strong> angewendet?",
-      "Antwort": "1. Export (indirekt, direkt); 2. Lizensierung; 3. Franchising; 4. Vetragsfertigung; 5. Joint Venture; 6. Strategische Allianz; 7. Minderheitesbeteiligung; 8. Tochtergesellschaft (Neugründung, Akquisition); 9. Fusion; 10. Sonstige Markteintritts- und Marktbearbeitungsstrategien"
+      "Antwort": "1. Export (indirekt, direkt); 2. Lizensierung; 3. Franchising; 4. Vetragsfertigung; 5. Joint Venture; 6. Strategische Allianz; 7. Minderheitenbeteiligung; 8. Tochtergesellschaft (Neugründung, Akquisition); 9. Fusion; 10. Sonstige Markteintritts- und Marktbearbeitungsstrategien"
     },
     {
       "Frage": "Welche Strategien kommen bei den <strong>Timingstrategien</strong> zum Einsatz?",
@@ -348,16 +348,16 @@ im = [
       "Antwort": "1. Integriergte Produktstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: gering</li></ul>; 2. Integrierte Regionalstruktur:<ul><li>Produktdiversifikation: gering</li><li>Anteil Auslandsproduktion: hoch</li><li>Matrixstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: hoch</li></ul>"
     },
     {
-      "Frage": "EU-Unternehmen haben stärkere Präferenuen für … Sturkturen (bei der Organisation ihrer Auslandsgeschäfte).\nUSA und Japan eher … Organisationsstrukturen.\nWarum?",
+      "Frage": "EU-Unternehmen haben stärkere Präferenzen für … Sturkturen (bei der Organisation ihrer Auslandsgeschäfte).\nUSA und Japan eher … Organisationsstrukturen.\nWarum?",
       "Antwort": "1. intergrierte (produktorienterte) Organisationsstrukturen; 2. differenzierte Organisationsstrukturen; 3. Größe des Heimatmarktes"
     },
     {
-      "Frage": "Unternehmen mit einem geringen Auslandsanteil zeichnen sich (hinsichtlich der Organisation) eher durch eine … Organisationsstruktur aus. Unternehmen mit hohem Auslandsanteil vervenden eher … Strukturen.",
-      "Antwort": "Unternehmen mit einem geringen Auslandsanteil zeichnen sich (hinsichtlich der Organisation) eher durch eine <strong>funktionale</strong> Organisationsstruktur aus. Unternehmen mit hohem Auslandsanteil vervenden eher <strong>produktorientierte</strong> Strukturen."
+      "Frage": "Unternehmen mit einem geringen Auslandsanteil zeichnen sich (hinsichtlich der Organisation) eher durch eine … Organisationsstruktur aus. Unternehmen mit hohem Auslandsanteil verwenden eher … Strukturen.",
+      "Antwort": "Unternehmen mit einem geringen Auslandsanteil zeichnen sich (hinsichtlich der Organisation) eher durch eine <strong>funktionale</strong> Organisationsstruktur aus. Unternehmen mit hohem Auslandsanteil verwenden eher <strong>produktorientierte</strong> Strukturen."
     },
     {
       "Frage": "Welche 5 Faktoren spielen eine Rolle für die Wahl der Organisationsstruktur?",
-      "Antwort": "1. Nationale Unterschiede; 2. Internationalisierungsgrad; 3. Personelle Veränderungen in der Unternehmensleitugn; 4. Produktionstechnologie; 5. Distributionssystem"
+      "Antwort": "1. Nationale Unterschiede; 2. Internationalisierungsgrad; 3. Personelle Veränderungen in der Unternehmensleitung; 4. Produktionstechnologie; 5. Distributionssystem"
     },
     {
       "Frage": "Welche 5 Strukturypen gibt es im Rahmen der Organisation int. Unternehmen? (nenne Vor- und Nachteile)",
@@ -369,11 +369,11 @@ im = [
     },
     {
       "Frage": "Welche Idealtypischen Organisationsmodelle gibt es? (Was sind die Merkmale?)",
-      "Antwort": "<table><thead><tr><th>Organisationsmodell // Merkmal</th><th>Koordinierte Föderations</th><th>Dezentralsierte Föderation</th><th>Zentralisierte Knotenpunktstruktur</th><th>Integriertes Netzwerk</th></tr></thead><tr><th>Konfiguration von Werten u. Fähigkeiten</th><td>Kernkompetenzen zentralisiert, andere Kompetenzen dezentralisiert</td><td>dezentralisiert u. im nationalen Rahmen unabhängig</td><td>zenralisiert u. weltmarktorientiert</td><td>weitgestreut, interdependent u. spezialisiert</td></tr><tr><th>Rolle der Auslandsniederlassungen</th><td>Anpassung u. Anwendung von Kompetenzen der Muttergesellschaft</td><td>Erkennen u. Nutzung lokaler Martchancen</td><td>Umsetzung von Strategien der Muttergesellschaft</td><td>differnezierte Beiträge der nationalen Einheiten zu weltweit integrierten Aktivitäten</td></tr><tr><th>Entwicklung u. Diffusion von Wissen</th><td>Erwerb von Wissen in Muttergesellschaften u. Transfer in Auslandsniederlassungen</td><td>Erwerb u. Sicherung von Wissen in jeder Einheit</td><td>Erweb u. Sicherung von Wissen in der Muttergesellschaft</td><td>gemeinsame Entwicklung u. Nutzung von Wissen</td></tr></table>"
+      "Antwort": "<table><thead><tr><th>Organisationsmodell // Merkmal</th><th>Koordinierte Föderation</th><th>Dezentralisierte Föderation</th><th>Zentralisierte Knotenpunktstruktur</th><th>Integriertes Netzwerk</th></tr></thead><tr><th>Konfiguration von Werten u. Fähigkeiten</th><td>Kernkompetenzen zentralisiert, andere Kompetenzen dezentralisiert</td><td>dezentralisiert u. im nationalen Rahmen unabhängig</td><td>zenralisiert u. weltmarktorientiert</td><td>weitgestreut, interdependent u. spezialisiert</td></tr><tr><th>Rolle der Auslandsniederlassungen</th><td>Anpassung u. Anwendung von Kompetenzen der Muttergesellschaft</td><td>Erkennen u. Nutzung lokaler Martchancen</td><td>Umsetzung von Strategien der Muttergesellschaft</td><td>differnezierte Beiträge der nationalen Einheiten zu weltweit integrierten Aktivitäten</td></tr><tr><th>Entwicklung u. Diffusion von Wissen</th><td>Erwerb von Wissen in Muttergesellschaften u. Transfer in Auslandsniederlassungen</td><td>Erwerb u. Sicherung von Wissen in jeder Einheit</td><td>Erweb u. Sicherung von Wissen in der Muttergesellschaft</td><td>gemeinsame Entwicklung u. Nutzung von Wissen</td></tr></table>"
     },
     {
       "Frage": "Es gibt im Grunde zwei organisatorische Stellungen des Auslandsgeschäftes. 1. Trennung von Auslands- und Inlandgeschäft; 2. Zusammenfassung von Auslands- und Inlandsgeschäft. Wie werden beide noch genannt?",
-      "Antwort": "1. Trennung von Auslands- und Inlandsgeschäft => <strong>segregierte Organisationsstrukturen</strong>; 2. Zusammenfassung von Auslands- und Inlandsgeschäft )> <strong>integrierte Organisationsstrukturen</strong>"
+      "Antwort": "1. Trennung von Auslands- und Inlandsgeschäft => <strong>segregierte Organisationsstrukturen</strong>; 2. Zusammenfassung von Auslands- und Inlandsgeschäft ) => <strong>integrierte Organisationsstrukturen</strong>"
     },
     {
       "Frage": "Hinsichtlich der Organisation gibt es 4 Arten der Spezialisierung. Welche sind das?",
@@ -401,7 +401,7 @@ im = [
     },
     {
       "Frage": "Was sind die Vorteile unspezifischer Organisationsstrukturen?",
-      "Antwort": "1. Keine kostspielige Anspassung der Organisationsstruktur; 2. Rasche Anpassung an lokale Umweltbedingungen; 3. Internationalität im \"Blick\" der Unternehmensleitugn; 4. Internationale Erfahrugn des Top-Managements; 4. Problemloser Wissenstransfer zwischen Mutter- und Tochtergesellschaft"
+      "Antwort": "1. Keine kostspielige Anspassung der Organisationsstruktur; 2. Rasche Anpassung an lokale Umweltbedingungen; 3. Internationalität im \"Blick\" der Unternehmensleitung; 4. Internationale Erfahrugn des Top-Managements; 4. Problemloser Wissenstransfer zwischen Mutter- und Tochtergesellschaft"
     },
     {
       "Frage": "Was sind die Nachteile unspezifischer Organisationsstrukturen?",
@@ -441,10 +441,10 @@ im = [
     },
     {
       "Frage": "Was sind Vorteile einer strategischen Allianz?",
-      "Antwort": "1. <strong>Volumenallianzen:</strong> Skaleneffekt, die einzelne Partner nicht realisieren könnten; 2. <strong>Komplementaritätsallianzen:</strong> Zugang zu komplementären Ressourcen und Wissen (Scopeeffekte); 3. <strong>BurdenSharingAllianzen:</strong> Risikobeteiligung bei großen Entwicklungsprojekten; 4. <strong>Markteintrittsallianzen:</strong> Beschleunigung des Markteintritts; 5. <strong>Zusammenarbeit in ausgewählten Bereichen</strong> (Funktionen, Regionen, Produkten); 6. <strong>Große Flexibilität</strong>, Teilnameentscheidung is reversiber, Exit-Option meist ohne hohe Aufwendungen realisierbar; 7. <strong>Keine Kapitalbeteiligung, einfach Finanzierbarkeit</strong>; 8. <strong>Durchsetzung</strong> von Standards und Vermarktung von <strong>Systemtechnologien</strong>; 9. <strong>Reduzierung der Rivalität</strong> in einzelnen Märkten; 10. <strong>Wertsteigerung</strong> bei Allianzmitgliedern (Kostensenkungs-, Erlöspotentiale etc.)"
+      "Antwort": "1. <strong>Volumenallianzen:</strong> Skaleneffekt, die einzelne Partner nicht realisieren könnten; 2. <strong>Komplementaritätsallianzen:</strong> Zugang zu komplementären Ressourcen und Wissen (Scopeeffekte); 3. <strong>BurdenSharingAllianzen:</strong> Risikobeteiligung bei großen Entwicklungsprojekten; 4. <strong>Markteintrittsallianzen:</strong> Beschleunigung des Markteintritts; 5. <strong>Zusammenarbeit in ausgewählten Bereichen</strong> (Funktionen, Regionen, Produkten); 6. <strong>Große Flexibilität</strong>, Teilnameentscheidung ist reversibel, Exit-Option meist ohne hohe Aufwendungen realisierbar; 7. <strong>Keine Kapitalbeteiligung, einfache Finanzierbarkeit</strong>; 8. <strong>Durchsetzung</strong> von Standards und Vermarktung von <strong>Systemtechnologien</strong>; 9. <strong>Reduzierung der Rivalität</strong> in einzelnen Märkten; 10. <strong>Wertsteigerung</strong> bei Allianzmitgliedern (Kostensenkungs-, Erlöspotentiale etc.)"
     },
     {
-      "Frage": "Wasn sind Nachteil strategischer Allianzen?",
+      "Frage": "Was sind Nachteil strategischer Allianzen?",
       "Antwort": "1. <strong>Restriktionen</strong> durch das Wettbewerbs- und Kartellrecht des Gastlandes (Federal Trade Comission, Bundeskartellamt); 2. Hoher <strong>Abstimmungsbedarf</strong> unter Partnern, <strong>Schwerfälligkeit</strong> von Entscheidungen, Starke <strong>Abhängigkeit</strong> von Boundary Spanners; 3. Gefahr von <strong>Wissenabflüssen</strong>; 4. Schwierige Balance zw. <strong>Kooperation und Konkurrenz</strong> (Co-opetition); 5. <strong>Managementfähigkeiten</strong> der Partner sind von der <strong>Lebenszyklusphase der Allianz</strong> abhängig; 6. Kooperation ist zu wesentlichen Teilen <strong>vertrauensbasiert</strong> und mithin von den handelnden Personen abhängig; 7. <strong>Commitment der Partner</strong> entscheidet über die Existenz der Allianz; 8. <strong>Erfolgsmessung</strong> ist sehr problematisch; 9. Schwierige <strong>Partnerwahlentscheidung</strong>"
     },
     {
