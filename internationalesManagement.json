@@ -1,0 +1,462 @@
+im = [
+    {
+      "Frage": "Worauf müssen Unternehmen im internationalen Kontext achten?",
+      "Antwort": "1. Sie müssen in einer komplexer werdenden Welt komplexere Antworten parat haben; 2. Sie benötigen Produkte, die sich regionalisieren und kulturell anpassen; 3. Es bedarf der Vernetzung und Interatkion im Zentrum von Kommunikationsprozessen; 4. Es müssen Steuerungsinstrumente zum Einsatz kommen, die selbst die Komplexität im Außen berücksichtigen."
+    },
+    {
+      "Frage": "Worin liegen Herausforderungen und Chance im Rahmen der Internationalisierung?",
+      "Antwort": "Herausforderungen und Chancen liegen darin, Wissen zu kapitalisiern und mit Know-how Ressourcen zu ersetzen (z.B. 100qm Wohnraum bauen, ohne 7.5T Metall zu verbrauchen)"
+    },
+    {
+      "Frage": "Was hilft den Unternehmen dabei sich den Aufgaben einer globalisierten Welt noch besser stellen zu können?",
+      "Antwort": "Die sich weiter entwickelnde Diversifizierung (sowohl im Management als auch bei den Mitarbeitern)"
+    },
+    {
+      "Frage": "Nenne die Theorien des Außenhandels.",
+      "Antwort": "1. Theorie der absoluten Kostenvorteile (Smith); 2. Theorie der komperativen Kostenvorteile (Ricardo); 3. Faktorproportionentheorem (Heckscher/Ohlin); 4. (Nicht-)Verfügbarkeitsansatz (Kravis); 5. Theorie der technologischen Lücke (Posner); 6. Nachfragestrukturhypothese"
+    },
+    {
+      "Frage": "Nenne die Theorien der Direktinvestition.",
+      "Antwort": "1. Zinssatztheorie; 2. Kostendegressionsansatz; 3. Theorie des monopolistischen Vorteils (Hymer); 4. Theorie des ologpolistischen Parallelverhalten (Knickebocker/Graham)"
+    },
+    {
+      "Frage": "Nenn die Übergreifenden Theorien.",
+      "Antwort": "1. Produklebenszyklus Ansatz (Vernon); 2. Standortansätze; 3. Diamanttheorie (Porter); Internalisierungstheorie; Eklektisches Paradigma (Dunning)"
+    },
+    {
+      "Frage": "Welche Vorteile entstehen durch Economies of Scale?",
+      "Antwort": "1. Größenkostenersparnisse; 2. Skalenerträge"
+    },
+    {
+      "Frage": "Wodurch entstehen Kostenersparnisse bei den Economies of Scale?",
+      "Antwort": "1. Kostenersparnisse treten auf, wenn bei gegebener Produktionsfunktion (Produktionstechnik) die Ausbringungsmenge wächst.; 2. Grund: Bei wachsender Betriebsgröße sinken die durchschnittlichen totalen Kosten (DTK) bis zur sog. Mindestoptimalen technischen Betriebs- bzw. Unternehmensgröße (MOS). 3. Fazit: Der Anteil der Kosten je produzierter Einheit wird immer kleiner."
+    },
+    {
+      "Frage": "Wofür sind Economies of Scale eine Ursache?",
+      "Antwort": "Unternehmenskonzentration"
+    },
+    {
+      "Frage": "Was sind die Ursachen für die positiven Effekte der Economies of Scale?",
+      "Antwort": "1. Spezialisierungsvorteile aus Arbeitsteilung; 2. Kostenersparnisse, die sich aus einer Vergrößerung von Produktionsmitteln ergeben, deren Kapazität vom Fassungs- oder Durchsatzvermögen bestimmt wird; 3. Ersparnisse aus zentralisierter Reservehaltung; 4. Das Prinzip des kleinsten gemeinsamen Vielfachen bei aufeinander folgenden Fertigungsstufen mit unterschiedlicher optimaler Kapazität; 5. Losgrößenersparnisse"
+    },
+    {
+      "Frage": "Was sind die Annahmen bei der Theorie der absoluten Kostenvorteile von Adam Smith (1776)?",
+      "Antwort": "1. Economies of Scale; 2. Verschiedene Länder mit verschiedenen Kostenstrukturen; 3. Güter sind mobil und Produktionsfaktoren immobil"
+    },
+    {
+      "Frage": "Wann ist nach der Theorie der absoluten Kostenvorteile von Adam Smith (1776) Außenhandel ökonomisch sinnvoll?",
+      "Antwort": "1. Wenn die absoluten Produktionskosten eines Gutes in einem Land höher sind als im anderen Land; 3. Wenn die absoluten Produktionskosten eines <strong>anderen</strong> Gutes im <strong>anderen</strong>  Land höher sind; 3. Bsp:<ul><li>LAND A: Gut 1 => 10,- | Gut 2 => 5,-</li><li>LAND B: Gut 1=> 5,- | Gut 2 => 10,-</li></ul>"
+    },
+    {
+      "Frage": "Welche Annahmen gelten beim Theorem der komparativen Kostenvorteile von Ricardo (1817)?",
+      "Antwort": "1. Economies of Scale; 2. Verschiedene Länder mit verschiedenen Kostenstrukturen; 3. Güter sind mobil und Produktionsfaktoren immobil (alles genau wie bei der absoluten Kostenvorteils-Theorie, aber auch bereits sinnvoll wenn nicht absolute Kostenvorteile bestehen)"
+    },
+    {
+      "Frage": "Wann ist nach dem Theorem der komarativen Kostenvorteile von Ricardo (1817) Außenhandel ökonomisch sinnvoll?",
+      "Antwort": "1. Ein Land beide Güter günstiger produzieren kann; 2. Sofern die <strong>Kostendifferenzen</strong> unterschiedlich sind; 3. Jedes Land kontentriert sich auf das Gut, bei welchem es die komparativ höchsten Kostenvorteile hat; 4. Bsp.<ul><li>Land A: Gut 1=> 1,- | Gut 2 => 2,-</li><li>LAND B: Gut 1 => 6,- | Gut 2 => 3,-</li><li>Komparativer K-Vorteil von Land A: 6 - 1 = 5,- | 3 - 2 = 1,-"
+    },
+    {
+      "Frage": "Was sind die Zusatzannahmen beim Faktorproportionen-Theorem von Heckscher (1919) und Ohlin (1933)?",
+      "Antwort": "1. Produktionsfaktoren sind unterteilt in Arbeit und Kapital; 2. Länder haben unterschiedliche Produktionsfaktorausstattungen"
+    },
+    {
+      "Frage": "Was ist das Resultat bzw. die Handlungsempfehlung beim Faktorproportionen-Theorem von Heckscher (1919) und Ohlin (1933)?",
+      "Antwort": "Das Gut, welches knappe (kaum vorhandene) Faktoren zur Herstellung benötigt, wird importiert."
+    },
+    {
+      "Frage": "Was ergibt sich aus dem Faktorproportionen-Theorem von Heckscher (1919) und Ohlin (1933)?",
+      "Antwort": "1. Arbeitsreiche Länder importieren kapitalintensive Güter; 2. Kapitalreiche Länder importieren arbeitsintensive Güter"
+    },
+    {
+      "Frage": "Was sind die Kritikpunkte am Faktorproportionen-Theorem von Heckscher (1919) und Ohlin (1933)?",
+      "Antwort": "1. 2 Länder / 2 Güterfall; 2. Fixe Ressourcen / Faktorausstattung; 3. Keine Arbeitslosikgeit bzw. volle Ressourcen- bzw. Faktorverwendung; 4. Faktorimmobilität; 5. Güterimmobilität; 6. Möglichkeit der Produktionsveränderung (Produktion von einem Gut kann auf ein anderes verlagert werden); 7. Spezialisierung hat keinen Einfluss auf Effizienz der Ressourcenverwendung; 8. Keine Transportkosten; 9. Keine Informationskosten; 10. Keine Wechselkursproblematik; 11. Effizienz oberstes Ziel"
+    },
+    {
+      "Frage": "Wie lässt sich das Leontief Paradoxon anhand der USA erklären?",
+      "Antwort": "Die USA sind ein kapitalreiches Land. Trotzden importieren sie kapitalintensive Produkte und exportieren arbeitsintensive Produkte."
+    },
+    {
+      "Frage": "Wie sind die Erklärungen für das Neo-Faktorproportionen-Theorem nach Leontief (1956)?",
+      "Antwort": "1. Arbeit ist kein homogener Produktionsfaktor; 2. Länder sind unterschiedlich mit Qualitätsniveaus ausgestattet; 3. Ein kapitalreiches Land kann viele qualifizierte Arbeitskräfte haben"
+    },
+    {
+      "Frage": "Welche Güter werden nach dem Neo-Faktorproportionen-Theorem nach Leontief (1956) exportiert?",
+      "Antwort": "Es werden die Güter exportiert, die relativ günstigere Produktionsfaktoren benötigen. (Das kann auch ein arbeitsintensives Produkt sein, obwohl das Land eher kapitalreich ist)"
+    },
+    {
+      "Frage": "Was ist nach dem Verfügbarkeitsansatz von Kravis der Grund für Außenhandel?",
+      "Antwort": "1. Der Grund für Außenhandel ist die Fehlende permanente oder temporäre Produktverfügbarkeit.; 2. Relativ triviale Erklärung: Außenhandel entsteht dadurch, dass Länder, die Produkte, über die sie selbst nicht verfügen, importieren (z.B. Rohstoffe sind nicht vorhanden, technologische Vorraussetzungen fehlen). Was ein Land an Faktoren nicht braucht, wird in ein Land exportiert, das diese Produkte zur Produktion benötigt."
+    },
+    {
+      "Frage": "Was ist laut der Therorie der technologischen Lücke nach Posner, der Grund für Außenhandel?",
+      "Antwort": "1. Unterschiedlicher technologischer Entwicklungsstand und time lag (Zeitvorsprung) zwischen einer Innovation und dessen Imitation.; 2. Erläuterung: Komparative Erlösvorteile stehen im Mittelpunkt. Handel entsteht, weil es eine gewisse Zeit braucht, bis eine bestimmte Technologie eines fokalen Unternehmens von Unternehmen eines anderen Landes imitiert wird. Export wird mit Technologievorteilen erklärt (Lückenhandel). Erneute technologische Innovationen lassen eine neue Periode des technologischen Lückenhandels entstehen. Der spätere Import in ds fokale Land wird mit Kostenvorteilen erklärt. Auch in dieser Theorie spielen komparative Vorteile eine maßgebliche Rolle. Sie beziehen sich jedoch auf Verfahren- und Produktionsinnovationen."
+    },
+    {
+      "Frage": "Was ist der Grund für Außenhandel bei der Nachfragestrukturhypothese nach Linder?",
+      "Antwort": "1. Eine ähnliche Nachfragestruktur (im eigenen und im anderen Land); 2. Entscheidende Größe: <strong>inländische Nachfrage / Absatzpotential</strong>; 3. Je größer das inländische Absatzpotential, desto höher auch das ausländische; 4. Grund: <ul><li>Die Unternehmung kann Skaleneffekte bei der Produktion erzielen</li><li>Je stärker ein inländisches Produkt den Bedürfnissen des Durschnittskonsumenten entspricht, desto größer auch das Absatzpotential im Inland...</li><li>...umso größer ist (als Konsequenz) auch das Absatzpotential im Ausland.</li></ul>"
+    },
+    {
+      "Frage": "Was steht bei klassischen Außenhandelstheorien im Vordergrund?",
+      "Antwort": "1. Beir klassischen Außenhandelstheoriern standen die <strong>Angebotsbedingungen</strong> im Vordergrund"
+    },
+    {
+      "Frage": "Bei der Nachfragestrukturhypothes nach Lindner gibt es eine Parallele zur Theorie der technologischen Lücke nach Posner. Welche?",
+      "Antwort": "Es wird davon ausgegangen, dass bei der Nachfragstrukturhypothese (wie auch bei der Tech-Lücke-Theorie) ein Exportgut erst im Inland vertrieben wird."
+    },
+    {
+      "Frage": "Was setzt die Nachfragestrukturhypothese nach Lindner voraus?",
+      "Antwort": "1. Die Nachfragestrukturhypothese setzt eine ähnliche Nachfragestruktur voraus.; 2. Nicht-Durchschnittskonsumenten werden ihre Bedürfnisse aus anderen Exportländern mit einer ihnen ähnlichen Struktur und Durchschnittsbevölkerung befriedigen."
+    },
+    {
+      "Frage": "Was unterscheidet die Nachfragestrukturhypothese nach Linder vom Faktorproportionstheorem nach Heckscher und Ohlin?",
+      "Antwort": "1. Die Nachfragestrukturhypothese kehrt die Anschauung des Faktorproportionstheorem um.; 2. Bei Letzterem exportieren kapitalreiche Länder kapitalintensive Produkte an kapitalarme Länder.; 3. Linder sagt aus, dass Länder mit unterschiedlicher Ausstattung nur geringe Handelsströme zu verzeichnen haben."
+    },
+    {
+      "Frage": "Was ist die Kritik an der Nachfragestrukturhypothese nach Linder? Und wie lautet die Lösung?",
+      "Antwort": "1. Es ergibt sich ein Paradoxon:<ul><li>Warum sollen Länder mit Nachfragehomogenität sich auf vielfältigkeite ihrer Produkte spezialisieren?</li><li>Müssten die Länder nicht gleichartige Produkte erzeugen? (was Import ausschließen würde)</li></ul>; 2. Lösung:<ul><li>Diese Länder poolen ihre Nachfrage und wenden das Prinzip der internationalen Arbeitsteilung an</li><li>Neben der Nachfragepoolung müsste die Theorie auch die internationale Produktdifferenzierung berücksichtigen</li><li>Economies of Scale könnten den Außenhandel erklären</li></ul>"
+    },
+    {
+      "Frage": "Wovon geht die Zinssatztheorie aus?",
+      "Antwort": "1. Es kommt zu <strong>Portfolio- und Direktinvestitionen</strong>, solange zwischen Ländern absolute <strong>Zinsdifferenzen</strong> bestehen, die <strong>höher</strong> sind als die <strong>Informations- und Transferkosten</strong>; 2. Kapital fließt von kapitalreichen Ländern mit niedrigen Zinssätzen in kapitalarme Länder mit hohen Zinssätzen"
+    },
+    {
+      "Frage": "Was ist nach der Theorie des monopolistischen Vorteils nach Hymer der Grund für Direktinvestitionen?",
+      "Antwort": "1. Der Grund für Direktinvestionen nach der Theorie des monoposistischen Vorteils ist: die Kontrolle von Auslandsaktivitäten zur Sicherung monopolistischer Vorteile.; 2. Direktinvestionen werden aus dem <strong>Governance-Motiv</strong>erklärt.; 3. Unternehmen streben die Kontrolle ihrer Auslandsinvestitionen an."
+    },
+    {
+      "Frage": "Wozu streben (nach der Theorie des monopolistischen Vorteils nach Hymer) Unternehmen die Kontrolle ihrer Auslandsaktivitäten an?",
+      "Antwort": "1. Um das dort eingesetzte Kapital abzusichern; 2. Um den dort bestehenden Wettbewerb zu beseitigen; 3. Um Renten aus unternehmenspezifischen Vorteilen abzuschöpfen"
+    },
+    {
+      "Frage": "Was sind Motive für Direktinvestitionen? (Laut der Theorie des monopolistischen Vorteils nach Hymer)",
+      "Antwort": "1. International tätige Unternehmen sind \"rent seeker\". Nicht der höhere Zinssatz sondern die <strong>Gewinnpotentiale</strong> sind die Motivation für Direktinvestionen."
+    },
+    {
+      "Frage": "Was sind (folgend der Theorie der monopolistischen Rente nach Hymer) die Vorraussetzung für die Erzielung einer Monopolrente?",
+      "Antwort": "Die Vorraussetzung für die Erzielung einer Monoporente ist die <strong>übertragbarkeit der unternehmenspezifischen Vorteile</strong>"
+    },
+    {
+      "Frage": "Was sind Substitute für Direktinvestitionen? (Nenne auch die Einschränkungen/Probleme)",
+      "Antwort": "1. Exporte; 2. Probleme:<ul><li>Handelsbarrieren</li><li>Transportkosten</li><li>Anpassungen der Produkte an lokale Gegebenheiten</li><li>Nachfragestimulierende Wirkung der Präsenz</li></ul>; 3. Lizensierung; 4. Probleme:<ul><li>Wert des zu übertragenden Wissens ist nicht abschätzbar</li><li>Schaffung von Wettbewerb</li></ul>"
+    },
+    {
+      "Frage": "Was ist der Grund für Direktinvestitionen nach den Theorien des monopolistischen Verhaltens nach Kindleberger / Caves?",
+      "Antwort": "Grund für Direktinvestitionen ist die <strong>Wiederherstellung des gestörten Marktgleichgewichts</strong>"
+    },
+    {
+      "Frage": "Woraus resultieren die unternehmenspezifischen Vorteile bei einer Direktinvestition? (laut den Theorien des monopolistischen Verhaltens nach Kindlberger / Caves)",
+      "Antwort": "1. Unvollkommenheiten der Gütermärkte im Ausland, wie:<ul><li>Produktdifferenzierungen durch Direktinvestitionen</li><li>Spezielles Marketing-Know-How</li><li>Administrierte Preise im Gastland</li></ul>; 2. Unvollkommenheit der Faktormärkte:<ul><li>Zugriff auf geschützes Wissen</li><li>Zugriff auf Finanzkapital</li><li>Unterschiede im Management-Know-How</li><li>Qualifikation der Mitarbeiter</li></ul>"
+    },
+    {
+      "Frage": "Wodurch entstehen Monopolistische Vorteile? (Laut den Theorien des monopolistischen Verhaltens nach Kindleberger / Caves)",
+      "Antwort": "1. Interne und externe Skalenerträge; 2. Staatliche Marktein- und Austrittsbarrieren"
+    },
+    {
+      "Frage": "Anbieter werden durch Direktinvestitionen zu….",
+      "Antwort": "… Lokalproduzenten"
+    },
+    {
+      "Frage": "Wodurch wird bei der Direktinvestion <strong>Kundennähe</strong> und <strong>Anpassung an die kokalen Bedingungen</strong> erreicht?",
+      "Antwort": "1. Durch Produktdiffernezierung; 2. pyhysische Variation; 3. Markennamen; 4. subjektive Untscheidungsfaktoren"
+    },
+    {
+      "Frage": "In welche drei Marktdominanten unterscheidet die Theorie des oligopolistischen Verhaltens nach Knickerbocker / Graham?",
+      "Antwort": "1. Innovationsgestütztes Monopol:<ul><li>Neue Produkte und Prozesse => monopolähnliche Stellung</li><li>Standort der Erstproduktion in innovationsstimulierenden Märkten (z.B. Heimatmarkt)</li></ul>; 2. Reifes Oligopol:<ul><li>Skalenerträge in Produktion, Marketing und Logistik erstzen Innovationsfaktor als Markteintrittsbarriere</li><li>Daraus ergeben sich: geographische Konzentration und grenzüberschreitende Allianzen</li></ul>; 3. Gesättigtes Oligopol:<ul><li>Wettbewerb erfolgt über Faktorpreise</li><li>Produktionsstandorte ergeben sich aus geographischen Kostendifferenzen</li><li>Suche nach Niedrigkostenstandorten</li></ul>"
+    },
+    {
+      "Frage": "Wie lautet die Kritik an der Theorie des oligopolistischen Verhaltens nach Knickerbocker / Graham?",
+      "Antwort": "1. Ansatz hat vorwiegend historische Relevanz; 2. Ansatz ist für die Prognose ungeeignet; 3. Vernachlässigung von Ownership-Fragen; 4. Fazit: Der Ansatz ist allenfalls geeignet, Aussagen für Klein- und Mittelbetriebe mit heimatnaher Innovation und inländischer Erstproduktion zu machen."
+    },
+    {
+      "Frage": "Welcher Zusammenhang besteht zwischen der Marktstruktur und em oligopolistischen Verhalten? (Laut der Theorie des Oligopolistischen Verhaltens nach Knickerbocker / Graham)",
+      "Antwort": "Grenzüberschreitende Direktinvestitionen sind Ausdruck einer \"Follow the Leader\"-Strategie."
+    },
+    {
+      "Frage": "Was sind Tit-for-Tat Strategien?",
+      "Antwort": "Keine Ahnung aber wenn du es weißt schick mal ne WhatsApp?\\n<strong>;-)</strong>"
+    },
+    {
+      "Frage": "Was ist folgends der Ansätze der Kostendegression der Grund für Auslandstätigkeiten?",
+      "Antwort": "1. Das Streben nach Kostendegression; 2. Internationalisierung wird i.d.R. mit Kostensenkung in Verbindung gebracht; 3. Internationalisierung = Kostensenkung durch Fixkostendegression bzw. durch<ul><li>Statische Skaleneffekte (Größeneffekte, Economies of Scale)</li><li>Dynamische Skaleneffekte (Lerneffekte)</li></ul>"
+    },
+    {
+      "Frage": "Folgends den Ansätzen der Kostendegression weisen <strong>Statische Skaleneffekt</strong> und <strong>Dynamische Skaleneffekte</strong> auch bei Bearbeitung von Auslandsmärkten … auf.",
+      "Antwort": "Kostenvorteile\\n(Skaleneffekte im Inland ermöglichen preisgünstige Produkte im Ausland)"
+    },
+    {
+      "Frage": "Welchen Zwang verspühren Unternehmen aus kleinen Inlandsmärkten (Laut den Ansätzen der Kostendegression)?",
+      "Antwort": "Sie verspüren den Zwang die <strong>Internationalisierung voranzutreiben</strong>\\n(der Inlandsmarkt bietet ihnen nur ein begrenztes Potential zur Erzielung von Skaleneffekten)"
+    },
+    {
+      "Frage": "Womit sind nach den Ansätzen der Kostendegression Kostensenkungseffekte verbunden?",
+      "Antwort": "1. mit First Mover Vorteilen; 2. (Erklärung: Wettbewerbsvorteile hat der, der als erster in einem bestimmten Markt eine bestimmte Leistung anbietet.<ul><li>erlösbedingte Wettbewerbsvorteile</li><li>Kostensenkungsvorteils [z.B. größerer Kundenkreis, stabilere Kundenbindung, dadurch erhöhte Markteintrittsbarrieren])</li></ul>"
+    },
+    {
+      "Frage": "Nenne drei Beispiele für Branchen in denen Zwang zur Kostendegression herrscht, damit sich F&E-Kosten armortisieren.",
+      "Antwort": "1. Flugzeugbau; 2. Pharmaindustrie; 3. Fahrzeugbau"
+    },
+    {
+      "Frage": "Was ist der Grund für Auslandstätigkeit nach dem Produktlebenszyklusansatz nach Vernon?",
+      "Antwort": "Fortschreiten es Produktlebenszyklus"
+    },
+    {
+      "Frage": "Welche drei Phasen werden beim Produktlebenszyklusansatz nach Vernon unterschieden?",
+      "Antwort": "1. Phase:<ul><li>Einführung des Neuprodukts. Der Innovationsvorsprung bewirkt einen monopolistischen Vorteil</li></ul>; 2. Reifephase:<ul><li>Produktmengenexpansion führt zu Skalenerträgen</li><li>Produktkenntnis im Ausland (Europa) führt zu zusätzlicher Nachfrage</li> zunächst durch Exporte</li><li>dann durch Errichtung lokaler Produktionsstätten</li><li>Auslandsproduktion führt zu Prolongation monopolähnlicher Marktstellung</li></ul>; 3. Standardisierungsphase: <ul><li>Produktionsstandorte in Schwellenländern besitzen Wettbewerbsvorteile</li><li>Standardisierte Spezifikationen führen dazu das Produkte<ul><li>auf Lager gelegt werden können</li><li>nicht veralten</li></ul></li></ul>"
+    },
+    {
+      "Frage": "Was ist laut der Internalisierungstheorie der Grund für Direktinvestitionen?",
+      "Antwort": "Kostengünstige Abwicklung von Transaktionen bzw. das Fehlen von alternativen institutionellen Arrangements"
+    },
+    {
+      "Frage": "Welche beiden Strategien stehen bei der Internalisierungstheorie einander gegenüber?",
+      "Antwort": "1. Unternehmensinterne Maßnahmen:<ul><li>Direktinvestitionen</li><li>Export</li></ul>; 2. Extern (über den Markt)<ul><li>Lizenzverträge</li></ul>"
+    },
+    {
+      "Frage": "Wann wird bei der Internalisierungstheorie eine interne Lösung gewählt? Wann eine externe?",
+      "Antwort": "1. Interne Lösung: Bei hohen Transaktionskosten; 2. Externe Lösung (Marktlösung): Bei hohen Koordinationskosten"
+    },
+    {
+      "Frage": "Was sind Nachteile der Internalisierungstheorie?",
+      "Antwort": "1. Ggf. Kostenintensiv; 2. Synergieeffekte werden ausgeblendet; 3. Ressourcenkosten; 4. Admisitrativer Aufwand; 5. Kommunikationskosten"
+    },
+    {
+      "Frage": "Was sind die Vorteile der Internalisierungstheorie?",
+      "Antwort": "1. Verringerung opportunistischen Verhaltens des Akteus im Ausland; 2. Hohe Kontrollintensität; 3. Staatliche Eingriffe (z.B. Handelshemmnisse, Steuergesetzte) können leichter umgangen werden; 4. Die Marktmacht von Zulieferern eines Zwischenproduktes wird verringert"
+    },
+    {
+      "Frage": "Wie gliedern sich Formen der Internationalisierung (mit steigender Kontrollintensität und steigendem Ausmaß der Direktinvestition)?",
+      "Antwort": "1. Export; 2. Lizenzverträge; 3. Franchising; 4. Joint Venture; 5. Auslandsniederlassung; 6. Produktionsstätte; 7. Tochtergesellschaft"
+    },
+    {
+      "Frage": "Woraus resultieren nach den eklektischen Paradigma von Dunning Eigentumsvorteile?",
+      "Antwort": "1. Aus dem Unternehmen selbst (wie Größenvorteile, Spezialisierungsvorteile, Synergievorteile, Positionsvorteile); 2. Aus der Internationalität (z.B. geographische Risikostreuung, Zugang zu Ressourcen [Information, Kapital|); 3. Patente, Managementressourcen, Produktinnovationen"
+    },
+    {
+      "Frage": "Wann finden nach dem eklektischen Paradigma nach Dunning Direktinvestitionen statt?",
+      "Antwort": "Wenn alle drei Eigentumsvorteile auftreten\\n(Können Aktivitäten selbst effizienter als durch den Markt durchgeführt werden uns weist ein Standort Vorzäüge auf, dann sind Direktinvestitionen optimal)"
+    },
+    {
+      "Frage": "Wann wird nach dem eklektischen Paradigma nach Dunning der Export gewählt?",
+      "Antwort": "Wenn zwei der übergeordneten Vorteilskategorien vorliegen.\\n(Sind Eigentumsvorteile und Internalisierungsvorteile für ein Unternehmen wichtig, und liegen aber keine Standortvorteile vor, können vorteilhafte Faktoreinsätze nicht genutzt werden.)"
+    },
+    {
+      "Frage": "Wann werden unternehmensspezifische Vorteile, nach dem eklektischen Paradigma nach Dunning, besser von anderen Akteuren verwertet?",
+      "Antwort": "Wenn ein Unternehmen lediglich über Eigentumsvorteile verfügt, jedoch über keine Internalisierungs- oder Standortvorteil.\\n(Es wird eine Ressourcenübertragung gewählt)"
+    },
+    {
+      "Frage": "Nenne die vier Freiheiten des EG-Binnenmarktes.",
+      "Antwort": "1. Freier Personenverkehr; 2. Freier Dienstleistungsverkehr; 3. Freier Wahrenverkehr; 4. Freier Kapitalverkehr"
+    },
+    {
+      "Frage": "Nenne die vier quantitativen Ursachenfelder für Unternehmenskrisen.",
+      "Antwort": "1. Branchenzugehörigkeit; 2. Rechtsform; 3. Unternehmensgröße; 4. Bestehen (zeitlicher Faktor)"
+    },
+    {
+      "Frage": "Nenne die beiden häufigsten endogenen Krisenursachen von Unternehmen.",
+      "Antwort": "1. Führungsfehler; 2. Unzureichende Eigenkapitalausstattung"
+    },
+    {
+      "Frage": "Nenn die beiden häufigsten exogenen Krisenursachen von Unternehmen",
+      "Antwort": "1. Konjunkturelle Fehl-Entwicklungen; 2. Strukturelle Veränderungen"
+    },
+    {
+      "Frage": "Nenne die vier Strategien aus dem Strategiespektrum Multinationaler Unternehmen.\\n(Nenne auch jeweils ob die Vorteile der Globalisierung / Standadisierung sowie die Vorteile der Lokalisierung / Differenzierung, hoch oder niedrig ist)",
+      "Antwort": "1. Internationale Strategie\\nGlobalisierung / Standardisierung: niedrig | Lokalisierung / Differnezierung: niedrig; 2. Globale Strategie\\nG / S: hoch | L / D: niedrig; 3. Multinationale Strategie:\\nG / S: niedrig | L / D: hoch; 4. Transnationale Strategie:\\nG / S: hoch | L / D: hoch"
+    },
+    {
+      "Frage": "Wie wird die Internationale Strategie (nach Perlmutter) noch genannt?",
+      "Antwort": "Ethnozentrische Strategie"
+    },
+    {
+      "Frage": "Was zeichnet die Internationale Strategie aus?",
+      "Antwort": "1. Übetragung von<ul><li>Strukturen</li><li>Systemen</li><li>Prozessen</li></ul>der Muttergesellschaft auf alle ausländischen Tochtergesellschaften; 2. Steuerung vor allme durch Anweisungen (direktive Steuerung); 3. Entsendung von Stammhausdelegierten; 4. Die internationale Strategie verliert im Zuge der Globalisierung an Bedeutung weil<ul><li>Produkte sich angleichen (Möglichkeiten zur Standardisierung)</li><li>es Nachteilige Effekte gibt (Motivation von Nachwuchskräften, Wertschöpfung des Unternehmens für das jeweilige Land)</li></ul>"
+    },
+    {
+      "Frage": "Wie wird Multinationale Strategie (nach Perlmutter) noch genannt?",
+      "Antwort": "Polyzentrische Strategie oder Strategie der nationalen Anpassung"
+    },
+    {
+      "Frage": "Was zeichnet die Multinationale Strategie aus?",
+      "Antwort": "1. Anpassung an die Bedingungen des jeweiligen Gastlandes; 2. Gründungen von Tochtergesellschaften sollen ein nationales Image aufbauen; 3. Leitungspositionen (in den Niederlassungen) werden vorwiegend von einheimischen Fürhungskräften besetzt; 4. Die Optimierung der einzelnen nationalen Strategien geschieht OHNE gegenseitige Abstimmung; 5. Verbundeffekte / Synergiepotentiale zwischen den einzelnen Auslandsengagements werden kaum genutzt"
+    },
+    {
+      "Frage": "Wie wird die globale Strategie noch genannt?",
+      "Antwort": "Strategie der globalen Rationalisierung"
+    },
+    {
+      "Frage": "Was zeichnet die globale Strategie aus?",
+      "Antwort": "1. Weltweite Formalisierung und Standardisierung von<ul><li>Strukturen</li><li>Systemen</li><li>Prozessen</li></ul>; 2. Zentralisierung der strategischen Enscheidungskompetenzen in der Muttergesellschaft; 3. Gründung 100%iger Tochtergesellschaften (wird präferiert aufgrund Steuerungs- und Kontrollmöglichkeiten); 4. sichtbare<ul><li>ökonomische</li><li>unternehmerische</li><li>institutionelle</li></ul>Grenzen; 5. Relativ niedriges Effizienzniveau auf der Ebene der Tochtergesellschaft, da deren Geschäftsleitung lokale Marktchancen häufig nur unzureichend wahrnehmen kann (deshalb auch vielfach nur geringe Motivation); 6. Die globale Strategie kommt in der Formrealität selten vor; 7. Sie wird häufig mit anderen Strategien kombiniert"
+    },
+    {
+      "Frage": "Wie wird die Transnationale Strategie noch genannt?",
+      "Antwort": "Opportunistische- oder multifokale- oder [trans-]globale Strategie"
+    },
+    {
+      "Frage": "Was zeichnet die Transnationale Strategie aus?",
+      "Antwort": "1. Sie ist heute von besonderem Interesse und gewinnt weiterhin an Bedeutung; 2. Es werden gleichzeitig nationale<ul><li>Unterschiede</li><li>Skaleneffekte</li><li>und Verbundvorteile</li></ul>ausgenutzt; 3. Standardisierung und Differenzierungsvorteils müssen für<ul><li>jedes Geschäftsfeld</li><li>jede Wertaktivität</li><li>jeden Unternehmensprozess</li><li>jede Internationalisierungsphase</li></ul>individuell geprüft werden; 4. Intensive Liefer- und Leistungsverflechtungen"
+    },
+    {
+      "Frage": "Wie werden Verbundvorteile noch genannt?",
+      "Antwort": "Economies of Scope"
+    },
+    {
+      "Frage": "Es gibt drei Quellen von Wettbewerbsvorteilen, mit denen sich strategische Ziele verfolgen lassen. Nenne die Quellen, die Ziele sowie die Vorteile (Schnittmengen)",
+      "Antwort": "<table><thead><tr><th>Quelle von Wettbewerbsvorteilen // Strategische Ziele</th><th>Nationale Unterschiede</th><th>Größendregressionsvorteils (economies of scale)</th><th>Verbundvorteile (economies of scope)</th></tr></thead><tr><th>operative Effizienz</th><td>Ausnutzung von Faktorkostenunterschieden</td><td>Ausdehnung u. Ausnutzung potent. Größenvorteile</td><td>Nutzung von Investitionen u. Aufteilung von Kosten auf mehrere Märkte Produkte und Geschäftsbereiche</td></tr><th>Risikomanagement</th><td>Management von Risiken durch markt- o. politikinduzierte Änderungen der komperativen Vorteile</td><td>Ausbalancierung von Größenvorteilen u. strategischer operativer Flexibilität</td><td>Portfolio-Diversifikation von Risiken u. Chancen</td></tr><tr><th>Lernfeffekte u. Adaption von Innovationen</th><td>Lernen aus soziokulturellen Unterschieden</td><td>Nutzung von Erfahrungsvorteilen</td><td>Gemeinsame Lerneffekte von Organisationseinheiten in unterschiedlichen Produkt- Markt- o. Geschäftsbereichen</td></tr></table>"
+    },
+    {
+      "Frage": "Nenne die 5 <strong>Strategien der internationalen Unternehmung</strong>",
+      "Antwort": "1. Zielmarktstrategien; 2. Markteintritts- und Marktbearbeitungsstrategien; 3. Timingstrategien; 4. Allokationsstrategien; 5. Koordinationsstrategien"
+    },
+    {
+      "Frage": "Welche Strategien kommen bei den Zielmarktstrategien zum Einsatz?",
+      "Antwort": "1. Marktpräsenzstrategien<ul><li>Basale Präsenzstrategien</li><li>Geographische Präsenzstrategien</li><li>Attraktivitätsorientierte Präsenzstrategien</li><li>Ausgleichsorientierte Präsenzstrategien</li></ul>; 2. Marktselektionsstrategien; 3. Marktsegmentierungsstrategien<ul><li>Intranationale Marktsegmentierung</li><li>Interale Marktsegmentierung</li></ul>"
+    },
+    {
+      "Frage": "Welche Methoden / Strategien werden bei den <strong>Markteintritts- und Marktbearbeitungsstrategien</strong> angewendet?",
+      "Antwort": "1. Export (indirekt, direkt); 2. Lizensierung; 3. Franchising; 4. Vetragsfertigung; 5. Joint Venture; 6. Strategische Allianz; 7. Minderheitesbeteiligung; 8. Tochtergesellschaft (Neugründung, Akquisition); 9. Fusion; 10. Sonstige Markteintritts- und Marktbearbeitungsstrategien"
+    },
+    {
+      "Frage": "Welche Strategien kommen bei den <strong>Timingstrategien</strong> zum Einsatz?",
+      "Antwort": "1. Länderspezifische Timingstrategien<ul><li>First-Mover-Strategie</li><li>Follower Strategie</li></ul>; 2. Länderübergreifende Timingstrategien<ul><li>Wasserfallstrategie</li><li>Sprinklerstrategie</li><li>Kombinierte Wasserfall-Sprinkler-Strategie</li></ul>"
+    },
+    {
+      "Frage": "Welche Strategien kommen bei den <strong>Allikationsstrategien</strong> zum Einsatz?",
+      "Antwort": "1. Konfigurationsstrategien<ul><li>Zentralisierungsstrategie</li><li>Dezentralisierungsstrategie</li></ul>; 2. Leistungsstrategien<ul><li>Standardisierungsstrategie</li><li>Differnezierungsstrategie</li></ul>"
+    },
+    {
+      "Frage": "Welche Strategien kommen bei den <strong>Koordinationsstrategien</strong> zum Einsatz?",
+      "Antwort": "1. Koordinationsbedarfsreduzierende Strategien<ul><li>Outsourcing</li><li>Aufbau von Überschussressourcen</li><li>Flexibilisierung von Ressourcen</li><li>Sonstige</li></ul>; 2. Koordinationsbedarfsdeckende Strategien<ul><li>Strukturelle Koordinationsstrategie</li><li>Technokratische Koordinationsstrategie</li><li>Personenorientierte Koordinationsstrategien</li><li>Sonstige</li></ul>"
+    },
+    {
+      "Frage": "Was ist die statutarische Struktur eines Unternehmens? Und wie wird diese noch genannt?",
+      "Antwort": "1. Rechtsstruktur; 2. De jure - Struktur"
+    },
+    {
+      "Frage": "Was sind die Ziele bei der Gestaltung der <strong>De jure - Struktur</strong>, insbesondere zwischen Mutter- und Tochtergesellschaft?",
+      "Antwort": "1. Optimale Lenkung der Finanzströme; 2. Minimierung der Steuerlast; 3. Haftungsbegrenzung"
+    },
+    {
+      "Frage": "Wie werden die Grundformen der operationalen Struktur genannt?",
+      "Antwort": "De facto - Struktur"
+    },
+    {
+      "Frage": "welche Organisationsstrategien kann ein Unternehmen bei geringem Auslandsumsatz wählen? (ist der Grad der Produktdiversifikation hoch oder niedrig?)",
+      "Antwort": "1. Integrierte Produktstruktur (Produktdiversifikation: hoch); 2. Internationale Division (Produktdiversifikation: niedrig)"
+    },
+    {
+      "Frage": "Welche Organisationsstrategien kann ein Unternehmen bei hohen Auslandsumsätzen wählen? (ist der Grad der Produktdiversifikation hoch/niedrig? Is der Anteil der Auslandsproduktion hoch/niedrig?)",
+      "Antwort": "1. Integriergte Produktstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: gering</li></ul>; 2. Integrierte Regionalstruktur:<ul><li>Produktdiversifikation: gering</li><li>Anteil Auslandsproduktion: hoch</li><li>Matrixstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: hoch</li></ul>"
+    },
+    {
+      "Frage": "EU-Unternehmen haben stärkere Präferenuen für … Sturkturen (bei der Organisation ihrer Auslandsgeschäfte).\\nUSA und Japan eher … Organisationsstrukturen.\\nWarum?",
+      "Antwort": "1. intergrierte (produktorienterte) Organisationsstrukturen; 2. differenzierte Organisationsstrukturen; 3. Größe des Heimatmarktes"
+    },
+    {
+      "Frage": "Unternehmen mit einem geringen Auslandsanteil zeichnen sich (hinsichtlich der Organisation) eher durch eine … Organisationsstruktur aus. Unternehmen mit hohem Auslandsanteil vervenden eher … Strukturen.",
+      "Antwort": "Unternehmen mit einem geringen Auslandsanteil zeichnen sich (hinsichtlich der Organisation) eher durch eine <strong>funktionale</strong> Organisationsstruktur aus. Unternehmen mit hohem Auslandsanteil vervenden eher <strong>produktorientierte</strong> Strukturen."
+    },
+    {
+      "Frage": "Welche 5 Faktoren spielen eine Rolle für die Wahl der Organisationsstruktur?",
+      "Antwort": "1. Nationale Unterschiede; 2. Internationalisierungsgrad; 3. Personelle Veränderungen in der Unternehmensleitugn; 4. Produktionstechnologie; 5. Distributionssystem"
+    },
+    {
+      "Frage": "Welche 5 Strukturypen gibt es im Rahmen der Organisation int. Unternehmen? (nenne Vor- und Nachteile)",
+      "Antwort": "<table><thead><tr><th>Strukturtyp</th><th>Vorteile</th><th>Nachteile</th></tr></thead><tr><td>International Division</td><td>int. Wissen, Erfahrung, kurze Komm.Wege</td><td>Isolierungstendenz, Doppelgleisigkeit zentraler Stabstellen, Innovation schwer übertragbar</td></tr><tr><td>Intergrierte Funktionalstruktur</td><td>leichte Abstimmung der Hauptfunktionen, Spezialisierungs- u. Synergieeffekte, hohe Effizienz geringe Diversifikation</td><td>Zuordnung der Tochtergesellschaften (die mehrer Funktionen ausüben) = schwierig, hohe Koordination, hohe Belastung der Führung</td></tr><tr><td>Integrierte Regionalstruktur</td><td>leichte weltweite Produktkoordination, Vermeidung von Programmzersplitterungen, leichte Ergebniszuordnung</td><td>not invented here-Syndrom, Koordination F&E und Produkten = schwierig</td></tr><tr><td>Matrix- bzw. Tensorstruktur</td><td>gleichzeitige Berücksichtigung funktionaler u. regionaler u. produktspezifischer Anforderungen, Förderung Komm.Fluss u. kreatives Potentials</td><td>hoher Koord.Aufwand, hohes Konfliktpotential, lange Entscheidungsprozesse, Gefahr starker Innenorientierung</td></tr></table>"
+    },
+    {
+      "Frage": "Welche prozessualen Gestaltungsinstrumente gibt es für international tätige Unternehmen",
+      "Antwort": "prozessuale Gestaltungsinstrumente<ul><li>personenorientierte Instrumente<ul><li>persönliche Weisungen</li><li>Sozialisation</li></ul></li><li>technokratische Instrumente<ul><li>Planung<ul><li>Zielplanung</li><li>Maßnahmenplanung</li><li>Ressourcenplanung</li></ul></li><li>Formalisierung<ul><li>Programmierung</li><li>Standardisierung<ul><li>Normung</li><li>Typung</li></ul></li><li>Transferpreise</li></ul></li></ul></li></ul>"
+    },
+    {
+      "Frage": "Welche Idealtypischen Organisationsmodell gibt es? (Was sind die Merkmale?)",
+      "Antwort": "<table><thead><tr><th>Organisationsmodell // Merkmal</th><th>Koordinierte Föderations</th><th>Dezentralsierte Föderation</th><th>Zentralisierte Knotenpunktstruktur</th><th>Integriertes Netzwerk</th></tr></thead><tr><th>Konfiguration von Werten u. Fähigkeiten</th><td>Kernkompetenzen zentralisiert, andere Kompetenzen dezentralisiert</td><td>dezentralisiert u. im nationalen Rahmen unabhängig</td><td>zenralisiert u. weltmarktorientiert</td><td>weitgestreut, interdependent u. spezialisiert</td></tr><tr><th>Rolle der Auslandsniederlassungen</th><td>Anpassung u. Anwendung von Kompetenzen der Muttergesellschaft</td><td>Erkennen u. Nutzung lokaler Martchancen</td><td>Umsetzung von Strategien der Muttergesellschaft</td><td>differnezierte Beiträge der nationalen Einheiten zu weltweit integrierten Aktivitäten</td></tr><tr><th>Entwicklung u. Diffusion von Wissen</th><td>Erwerb von Wissen in Muttergesellschaften u. Transfer in Auslandsniederlassungen</td><td>Erwerb u. Sicherung von Wissen in jeder Einheit</td><td>Erweb u. Sicherung von Wissen in der Muttergesellschaft</td><td>gemeinsame Entwicklung u. Nutzung von Wissen</td></tr></table>"
+    },
+    {
+      "Frage": "Es gibt im Grunde zwei organisatorische Stellungen des Auslandsgeschäftes. 1. Trennung von Auslands- und Inlandgeschäft; 2. Zusammenfassung von Auslands- und Inlandsgeschäft. Wie werden beide noch genannt?",
+      "Antwort": "1. Trennung von Auslands- und Inlandsgeschäft => <strong>segregierte Organisationsstrukturen</strong>; 2. Zusammenfassung von Auslands- und Inlandsgeschäft )> <strong>integrierte Organisationsstrukturen</strong>"
+    },
+    {
+      "Frage": "Hinsichtlich der Organisation gibt es 4 Arten der Spezialisierung. Welche sind das?",
+      "Antwort": "1. Funktion (bzw. Verrichtungen) => funktionale Organisation; 2. Geschäftsberreiche und Produkte => Geschäftsbereichs- und Produktionsorganisation; 3. Region (bzw. Märkte) => Regionalorganisation; 4. Kunden => Key-Account-Organisation"
+    },
+    {
+      "Frage": "In welche Kategorien (Stufen) ist die Typologiesierung internationaler Organisationsstrukturen aufgegliedert?",
+      "Antwort": "Grundformen internationaler Organisationsstrukturen<ul><li>unspezifische Organisationsstrukturen</li><li>Segregierte Organisationsstrukturen</li><li>Integrierte Organisationsstrukturen<ul><li>Eindimensionale integrierte Orga.Strukturen<ul><li>Integrierte Funktionalstrukt.</li><li>Integrierte Geschäftsbereich- u. Produktstrukturen</li><li>Integrierte Regionalstrukturen</li><li>Integrierte Key-Account-Strukturen</li></ul></li><li>Mehrdimensionale Orga.Strukturen<ul><li>Matrixstrukturen</li><li>Tensorstrukturen</li></ul></li></ul></li></ul>"
+    },
+    {
+      "Frage": "Was sind Kennzeichen für unspezifische Strukturen?",
+      "Antwort": "1. Berichtet direkt an Unternehmensleitung (direct resporting structure); 2. Keine Ausrichtung der Gesamtorganisation auf Auslandsaktivitäten; 3. Keine systematische Koordination; 4. Informelle Regelungen zwischen Tochter und Mutter; 5. Großer Entscheidungsspielraum bei Geschäftsführer"
+    },
+    {
+      "Frage": "Wodurch ergeben sich unspezifische Organisationsstrukturen (Bedingungen)?",
+      "Antwort": "1. Anfangsphase der Internationalisierung; 2. Geringe Bedeutung des Auslandsengagements"
+    },
+    {
+      "Frage": "Wo sind unspezifische Strukturen typisch?",
+      "Antwort": "1. Osram; 2. Unternehmen mit Stammsitz in Schweden; 3. Mittelständische Unternehmen"
+    },
+    {
+      "Frage": "Welche alternativen Anbindungs- bzw. Steuerungsformen gibt es bei unspezifischen Strukturen? (Nenne auch den jeweiligen Grund)",
+      "Antwort": "1. Berichtet über Stabstelle indirekt an Unternehmensleitung (Grund: Überlastung der Unternehmensleitung); 2. Kopplung an Absatzberich (Grund: market-seeking-Motive); 3. Kopplung an Beschaffungsbereich (Grund: resource-seeking-Motive); 4. Steuerung über Finanz- oder Controllingbereich (Grund: Vielzal von unterschiedlichen Beteiligungen); 6. Kombination verschiedener Anbindungsformen"
+    },
+    {
+      "Frage": "Was sind die Vorteile unspezifischer Organisationsstrukturen?",
+      "Antwort": "1. Keine kostspielige Anspassung der Organisationsstruktur; 2. Rasche Anpassung an lokale Umweltbedingungen; 3. Internationalität im \"Blick\" der Unternehmensleitugn; 4. Internationale Erfahrugn des Top-Managements; 4. Problemloser Wissenstransfer zwischen Mutter- und Tochtergesellschaft"
+    },
+    {
+      "Frage": "Was sind die Nachteile unspezifischer Organisationsstrukturen?",
+      "Antwort": "1. Überlastung der obersten Unternehmensleitung; 2. Suboptimale Weisungen der Unternehmensleitung; 3. Gefahr der Verselbständigung; 4. Ungleichbehandlung aufgrund persönlicher Beziehungen; 5. Rivalitäten unter den Auslandstöchtern"
+    },
+    {
+      "Frage": "Wie wird der Vorgang der Integration im Zuge von Unternehmensakquistionen und -fusionen typischer Weise bezeichnet?",
+      "Antwort": "Post Merger Intergration (PMI)"
+    },
+    {
+      "Frage": "Nenne vier entscheidende landeskulturelle Unterschiede zwischen Deutschland und den USA.",
+      "Antwort": "1. Deutschland<ul><li>Kollegialsystem</li><li>Moderate Löhne</li><li>Zweisprachigkeit</li><li>Strukturierte Arbeitsweise</li></ul>; 2. USA<ul><li>Boardsystem</li><li>Hohe Löhne</li><li>Englisch als einzige Sprache</li><li>Kreative, unstrukturierte Arbeitsweise</li></ul>"
+    },
+    {
+      "Frage": "Was waren die Kernproblemen bei der Integration von Daimler und Chrysler?",
+      "Antwort": "1. Befugnisse des Chrysler Präsidenten waren nicht geklärt => Stellung von Chrysler war nicht geklärt; 2. Daimlervertreter kamen mit fertigen Arbeitspapieren in die PMI-Sitzungen; 3. Chryslervertreter waren so strukturierte Arbeitsweisen nicht gewohnt => Argumentationsschwäche; 4. Deutsche Manager haben informell kommuniziert; 5. Dominanz von DB"
+    },
+    {
+      "Frage": "Was waren die Ursachen für die Problemen bei der Intergartion von Daimler und Chrysler?",
+      "Antwort": "1. Unterschiede in der Landeskultur; 2. Unterschiede in der Unternehmenskultur; 3. Generationenwechsel bei Chrysler"
+    },
+    {
+      "Frage": "Nenne die 4 vertraglichen Eckpunkte bei der Akquisition von Mitsubishi durch Daimler-Chrysler.",
+      "Antwort": "1. Unterzeichnung der Absichtserklärung zur Gründung einer Allianz; 2. Allianz umfasst Design, Entwicklung, Produktion und Vertrieb von Personenwagen und leichten Nutzfahrzeugen; 3. 34% Beteiligung für 2.1 Mrd. Euro; 4. DC stellt drei der zehn Vorstände"
+    },
+    {
+      "Frage": "Welche drei Dimensionen gibt es bei der Tensororganisationsform?",
+      "Antwort": "1. Produktdivision (A, B, C, D); 2. Funktion (Produktion, Finanzen, Marketing, Personal); 3. Region (USA, Australien, Europa, Asien)"
+    },
+    {
+      "Frage": "Wofür stehen die einzelnen Buchstaben des Modells mit dem Akronym EPRG?",
+      "Antwort": "1. Ethnozentrisches Führungskonzept<ul><li>klassisch bei integrierten Strukturen</li><li>Führungspositionen werden mit Stammland-Personal besetzt</li></ul>; 2. Polyzentrisches Führungskonzept<ul><li>Management-Positionen werden mit Einheimischen besetzt</li></ul>; 3. Regiozentrisches Führungskonzept<ul><li>Rekrutierung aus einer Region (z.B. EU)</li><li>Mitarbeiter werden im Stammhaus eingearbeit</li></ul>; 4. Geozentrisches Führungskonzept<ul><li>Rekrutierung von Überall</li><li>Qualifikation ist Entscheidend</li></ul>"
+    },
+    {
+      "Frage": "Was ist ein <strong>Strategische Allianz</strong>? (nenne auch die Ausprägungen)",
+      "Antwort": "1. Eine strategische Allianz ist die Zusammenarbeit bzw. Partnerschaft von min. zwei Unternehmen, die in genau definierten Bereichen kooperieren. (keine Gemeinschaftsunternehmung oder Kapitalbeteiligung); 2. Ausprägungen sind<ul><li>Volumens-</li><li>Komplementaritäts-</li><li>Burden-Sharing-</li><li>und Markterschließungsallianzen</li></ul>"
+    },
+    {
+      "Frage": "Was sind Vorteile einer strategischen Allianz?",
+      "Antwort": "1. <strong>Volumenallianzen:</strong> Skaleneffekt, die einzelne Partner nicht realisieren könnten; 2. <strong>Komplementaritätsallianzen:</strong> Zugang zu komplementären Ressourcen und Wissen (Scopeeffekte); 3. <strong>BurdenSharingAllianzen:</strong> Risikobeteiligung bei großen Entwicklungsprojekten; 4. <strong>Markteintrittsallianzen:</strong> Beschleunigung des Markteintritts; 5. <strong>Zusammenarbeit in ausgewählten Bereichen</strong> (Funktionen, Regionen, Produkten); 6. <strong>Große Flexibilität</strong>, Teilnameentscheidung is reversiber, Exit-Option meist ohne hohe Aufwendungen realisierbar; 7. <strong>Keine Kapitalbeteiligung, einfach Finanzierbarkeit</strong>; 8. <strong>Durchsetzung</strong> von Standards und Vermarktung von <strong>Systemtechnologien</strong>; 9. <strong>Reduzierung der Rivalität</strong> in einzelnen Märkten; 10. <strong>Wertsteigerung</strong> bei Allianzmitgliedern (Kostensenkungs-, Erlöspotentiale etc.)"
+    },
+    {
+      "Frage": "Wasn sind Nachteil strategischer Allianzen?",
+      "Antwort": "1. <strong>Restriktionen</strong> durch das Wettbewerbs- und Kartellrecht des Gastlandes (Federal Trade Comission, Bundeskartellamt); 2. Hoher <strong>Abstimmungsbedarf</strong> unter Partnern, <strong>Schwerfälligkeit</strong> von Entscheidungen, Starke <strong>Abhängigkeit</strong> von Boundary Spanners; 3. Gefahr von <strong>Wissenabflüssen</strong>; 4. Schwierige Balance zw. <strong>Kooperation und Konkurrenz</strong> (Co-opetition); 5. <strong>Managementfähigkeiten</strong> der Partner sind von der <strong>Lebenszyklusphase der Allianz</strong> abhängig; 6. Kooperation ist zu wesentlichen Teilen <strong>vertrauensbasiert</strong> und mithin von den handelnden Personen abhängig; 7. <strong>Commitment der Partner</strong> entscheidet über die Existenz der Allianz; 8. <strong>Erfolgsmessung</strong> ist sehr problematisch; 9. Schwierige <strong>Partnerwahlentscheidung</strong>"
+    },
+    {
+      "Frage": "Nenne die 4 Hauptnetzwerkstrukturen. (Anfgefangen beim Instabilsten)",
+      "Antwort": "1. Dezentralisiert föderatives Modell (\"gestrichelter Stern\"); 2. Zentralisierte Knotenpunktstruktur (\"Linien-Stern\"); 3. Integriertes Netzwerk-Modell (\"Netz\"); 4. Transnationale Organisation (Waben-Netz mit Centern of Competence [Markting, Produktion, Entwicklung, Beschaffung])"
+    },
+    {
+      "Frage": "Benenne die <strong>Aspekte der Unternehmung</strong> im EPRG-Modell. (unterteilt nach den 4 Orientierungen)",
+      "Antwort": "<table><thead><tr><th>Aspekte der Unternehmeung</th><th>Ethnozentrisch</th><th>Polyzentrisch</th><th>Regiozentrisch</th><th>Geozentrisch</th></tr></thead><tr><th>Organisations-komplexität</th><td>Komplex im Heimatland, einfach bei den Tochtergesellschaften</td><td>Unterschiedlich und voneinander unabhängig</td><td>Hohe gegenseitige Abhängigkeit auf regionaler Ebene</td><td>Zunehmende Komplexität u. weltweit eine hohe gegenseitige Abhänigkeit</td></tr><tr><th>Autorität, Treffen von Entscheidungen</th><td>Stak auf die Muttergesellschaft konzentriert</td><td>Gering von Seiten der Muttergesellschaft</td><td>Große regionale Headquarters u./o. große Zusammenarbeit zw. den Tochtergesellschaften einer Region</td><td>Weltweite Zusammenarbeit zw. Muttergesellschaft u. den Tochtergesellschaften</td></tr><tr><th>Auswertung und Kontrolle</th><td>Standards des Heimatlandes werden auf Leistungs- und Personalbeurteilung angewandt</td><td>Lokale Bestimmung</td><td>Regionale Bestimmung</td><td>Universale und lokale Standards</td></tr><tr><th>Anreizsysteme und Sanktionen</th><td>Hoch bei Muttergesellschaft, gering bei den Tochtergesellschaften</td><td>Sehr unterschiedlich</td><td>Belohnung für das Erreichen regionaler Zielvorgaben</td><td>Belohnung internationaler u. lokaler Führungskräfte für das Erreichen internationaler u. lokaler Zielvorgaben</td></tr><tr><th>Kommunikation und Informationsfluss</th><td>Hohe Anzahl an Aufträgen, Weisungen und Ratschlägen an die Tochtergesellschaften</td><td>Gering (mit Muttergesellsch. u. Tochtergesellschaften)</td><td>Gering mit Muttergesellschaft, evtl. hoch mit regionalen Headquarters, hoch zw. den einzelnen Ländern</td><td>Beide Wege, sowohl mit Mutter- als auch Tochtergesellschaft(en)</td></tr><tr><th>Geographische Identifikation</th><td>Nationalität der Muttergesellschaft</td><td>Nationalität des Gastlandes</td><td>Regionale Unternehmen</td><td>Weltweites Unternehmen unter Wahrung nationaler Interessen</td></tr><tr><th>Fortlaufende Managementaufgaben (Personalrekrutierunge, -ausstattung, -entwicklung)</th><td>Mitarbeiter der Muttergesellsch. werden für weltweite Schlüsselfpostitionen ausgebildet</td><td>Mitarbeiter des Gastlandes werden für Schlüsselfpositionen im eigenen Land ausgebildet</td><td>Regionale Mitarbeiter werden für Schlüsselpositionen in der ganzen Region ausgebildet</td><td>Die besten Mitarbeiter auf der ganzen Welt werden für weltweite Schlüsselpositionen ausgebildet</td></tr></table>"
+    },
+    {
+      "Frage": "Nenne die 6 Fallen im internationalen Management.",
+      "Antwort": "1. <strong>Ähnlichkeitsfalle:</strong> Kulturelle Unterschiede werden unterschätzt; 2. <strong>Überlegenheitsfalle:</strong> Besonders westliche Manager halten sich für überlegen. (Schwellenländer u. aufstrebende Volkswirtschaften emfpinden dies als arrogant); 3. <strong>Komfortzonenfalle:</strong> Globalisierte Wirtschaft = Käufermarkt (jeder muss sich ändern, sich auf andere Kulturen einlassen und Synergieeffekte nutzen zu können); 4. <strong>Sachlichkeitsfalle:</strong> Zwischenmenschliche Kommunikation und die nichtsichtbaren kulturellen Differenzen müssen beachtet werden; 5. <strong>Human Resource Verwaltungsfalle:</strong> HR sollte Planung personell vorbereiten. In der Realität häufig sehr Verwaltungsorientiert; 6. <strong>Entsendungsfalle:</strong> Mitarbeiter erleben häufig \"doppelten Kulturschock\" (bei Entsendung und Rückkehr) => verlassen das Unternehmen => Wissen geht verloren"
+    }
+  ]

@@ -4,6 +4,7 @@ let vokabelFragen = v;
 let hgbFragen = hgb;
 let orgaFragen = orga;
 let interkulturelleFragen = ik;
+let internationaleFragen = im;
 
 // getting the DOM elements 
 // Card Elements
@@ -18,6 +19,7 @@ let buttonCorrect = document.querySelector(".correct");
 let buttonWrong = document.querySelector(".wrong");
 let reloadButton = document.querySelector(".reload");
 // choiceButtons
+let international = document.querySelector("#internationale_fragen");
 let interkulturell = document.querySelector("#interkulturelle_fragen");
 let organisation = document.querySelector("#orga_fragen");
 let arbeitsRecht = document.querySelector("#arbeits_recht");
@@ -28,12 +30,16 @@ let remainingCards = document.querySelector(".remaining");
 
 // define question-set
 // global questionSet
-let questionSet = interkulturelleFragen;
+let questionSet = internationaleFragen;
 
 function defineQuestionSet(set) {
     questionSet = set;
 }
 
+international.addEventListener("change", () => {
+    defineQuestionSet(internationaleFragen);
+    newCard();
+});
 interkulturell.addEventListener("change", () => {
     defineQuestionSet(interkulturelleFragen);
     newCard();
