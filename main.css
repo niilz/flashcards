@@ -5,6 +5,17 @@ body {
 
 table {
     font-size: calc(11px + .3vw);
+    text-align: center;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+.rotate_left {
+    transform: rotate(-90.0deg);
+    white-space: nowrap;
 }
 
 .container {
