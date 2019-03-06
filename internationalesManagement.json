@@ -1,7 +1,7 @@
 im = [
     {
       "Frage": "Worauf müssen Unternehmen im internationalen Kontext achten?",
-      "Antwort": "1. Sie müssen in einer komplexer werdenden Welt komplexere Antworten parat haben; 2. Sie benötigen Produkte, die sich regionalisieren und kulturell anpassen; 3. Es bedarf der Vernetzung und Interatkion im Zentrum von Kommunikationsprozessen; 4. Es müssen Steuerungsinstrumente zum Einsatz kommen, die selbst die Komplexität im Außen berücksichtigen."
+      "Antwort": "1. Sie müssen in einer komplexer werdenden Welt komplexere Antworten parat haben; 2. Sie benötigen Produkte, die sich regionalisieren und kulturell anpassen; 3. Es bedarf der Vernetzung und Interaktion im Zentrum von Kommunikationsprozessen; 4. Es müssen Steuerungsinstrumente zum Einsatz kommen, die selbst die Komplexität im Außen berücksichtigen."
     },
     {
       "Frage": "Worin liegen Herausforderungen und Chance im Rahmen der Internationalisierung?",
@@ -53,7 +53,7 @@ im = [
     },
     {
       "Frage": "Wann ist nach dem Theorem der komparativen Kostenvorteile von Ricardo (1817) Außenhandel ökonomisch sinnvoll?",
-      "Antwort": "1. Ein Land beide Güter günstiger produzieren kann; 2. Sofern die <strong>Kostendifferenzen</strong> unterschiedlich sind; 3. Jedes Land kontentriert sich auf das Gut, bei welchem es die komparativ höchsten Kostenvorteile hat; 4. Bsp.<ul><li>Land A: Gut 1=> 1,- | Gut 2 => 2,-</li><li>LAND B: Gut 1 => 6,- | Gut 2 => 3,-</li><li>Komparativer K-Vorteil von Land A: 6 - 1 = 5,- | 3 - 2 = 1,-"
+      "Antwort": "1. Ein Land beide Güter günstiger produzieren kann; 2. Sofern die <strong>Kostendifferenzen</strong> unterschiedlich sind; 3. Jedes Land konzentriert sich auf das Gut, bei welchem es die komparativ höchsten Kostenvorteile hat; 4. Bsp.<ul><li>Land A: Gut 1=> 1,- | Gut 2 => 2,-</li><li>LAND B: Gut 1 => 6,- | Gut 2 => 3,-</li><li>Komparativer K-Vorteil von Land A: 6 - 1 = 5,- | 3 - 2 = 1,-"
     },
     {
       "Frage": "Was sind die Zusatzannahmen beim Faktorproportionen-Theorem von Heckscher (1919) und Ohlin (1933)?",
@@ -76,7 +76,7 @@ im = [
       "Antwort": "Die USA sind ein kapitalreiches Land. Trotzden importieren sie kapitalintensive Produkte und exportieren arbeitsintensive Produkte."
     },
     {
-      "Frage": "Wie sind die Erklärungen für das Neo-Faktorproportionen-Theorem nach Leontief (1956)?",
+      "Frage": "Wie lauten die Erklärungen für das Neo-Faktorproportionen-Theorem nach Leontief (1956)?",
       "Antwort": "1. Arbeit ist kein homogener Produktionsfaktor; 2. Länder sind unterschiedlich mit Qualitätsniveaus ausgestattet; 3. Ein kapitalreiches Land kann viele qualifizierte Arbeitskräfte haben"
     },
     {
@@ -121,7 +121,7 @@ im = [
     },
     {
       "Frage": "Was ist nach der Theorie des monopolistischen Vorteils nach Hymer der Grund für Direktinvestitionen?",
-      "Antwort": "1. Der Grund für Direktinvestionen nach der Theorie des monoposistischen Vorteils ist: die Kontrolle von Auslandsaktivitäten zur Sicherung monopolistischer Vorteile.; 2. Direktinvestionen werden aus dem <strong>Governance-Motiv</strong> erklärt.; 3. Unternehmen streben die Kontrolle ihrer Auslandsinvestitionen an."
+      "Antwort": "1. Der Grund für Direktinvestionen nach der Theorie des monopolistischen Vorteils ist: die Kontrolle von Auslandsaktivitäten zur Sicherung monopolistischer Vorteile.; 2. Direktinvestionen werden aus dem <strong>Governance-Motiv</strong> erklärt.; 3. Unternehmen streben die Kontrolle ihrer Auslandsinvestitionen an."
     },
     {
       "Frage": "Wozu streben (nach der Theorie des monopolistischen Vorteils nach Hymer) Unternehmen die Kontrolle ihrer Auslandsaktivitäten an?",
@@ -133,7 +133,7 @@ im = [
     },
     {
       "Frage": "Was ist (folgends der Theorie der monopolistischen Rente nach Hymer) die Vorraussetzung für die Erzielung einer Monopolrente?",
-      "Antwort": "Die Vorraussetzung für die Erzielung einer Monoporente ist die <strong>übertragbarkeit der unternehmenspezifischen Vorteile</strong>"
+      "Antwort": "Die Vorraussetzung für die Erzielung einer Monoporente ist die <strong>Übertragbarkeit der unternehmenspezifischen Vorteile</strong>"
     },
     {
       "Frage": "Was sind Substitute für Direktinvestitionen? (Nenne auch die Einschränkungen/Probleme)",
@@ -157,7 +157,7 @@ im = [
     },
     {
       "Frage": "Wodurch wird bei der Direktinvestion <strong>Kundennähe</strong> und <strong>Anpassung an die kokalen Bedingungen</strong> erreicht?",
-      "Antwort": "1. Durch Produktdifferenzierung; 2. pyhysische Variation; 3. Markennamen; 4. subjektive Untscheidungsfaktoren"
+      "Antwort": "1. Durch Produktdifferenzierung; 2. pyhysische Variation; 3. Markennamen; 4. subjektive Unterscheidungsfaktoren"
     },
     {
       "Frage": "In welche drei Marktdominanten unterscheidet die Theorie des oligopolistischen Verhaltens nach Knickerbocker / Graham?",
@@ -261,7 +261,7 @@ im = [
     },
     {
       "Frage": "Nenne die vier Strategien aus dem Strategiespektrum Multinationaler Unternehmen.\n(Nenne auch jeweils ob die Vorteile der Globalisierung / Standadisierung sowie die Vorteile der Lokalisierung / Differenzierung, hoch oder niedrig ist)",
-      "Antwort": "<table><tr><th rowspan='4'><div class='rotate_left'><p>Globalisierung/</p><p>Standardiesierung</p></div></th><th>hoch</th><td>Globale Strategie</td><td>Transnationale Strategie</td></tr><tr><th>niedrig</th><td>Internationale Strategie</td><td>Multinationale Strategie</td></tr><tr><td></td><th>niedrig</th><th>hoch</th></tr></table>"
+      "Antwort": "<table><tr><th rowspan='4'><div class='rotate_left'><p>Globalisierung/</p><p>Standardiesierung</p></div></th><th>hoch</th><td>Globale Strategie</td><td>Transnationale Strategie</td></tr><tr><th>niedrig</th><td>Internationale Strategie</td><td>Multinationale Strategie</td></tr><tr><td></td><th>niedrig</th><th>hoch</th></tr><tr><th colspan='4'>Lokalisierung / Differenzierung</th></tr></table>"
     },
     {
       "Frage": "Wie wird die Internationale Strategie (nach Perlmutter) noch genannt?",
@@ -293,7 +293,7 @@ im = [
     },
     {
       "Frage": "Was zeichnet die Transnationale Strategie aus?",
-      "Antwort": "1. Sie ist heute von besonderem Interesse und gewinnt weiterhin an Bedeutung; 2. Es werden gleichzeitig nationale<ul><li>Unterschiede</li><li>Skaleneffekte</li><li>und Verbundvorteile</li></ul>ausgenutzt; 3. Standardisierung und Differenzierungsvorteils müssen für<ul><li>jedes Geschäftsfeld</li><li>jede Wertaktivität</li><li>jeden Unternehmensprozess</li><li>jede Internationalisierungsphase</li></ul>individuell geprüft werden; 4. Intensive Liefer- und Leistungsverflechtungen"
+      "Antwort": "1. Sie ist heute von besonderem Interesse und gewinnt weiterhin an Bedeutung; 2. Es werden gleichzeitig nationale<ul><li>Unterschiede</li><li>Skaleneffekte</li><li>und Verbundvorteile</li></ul>ausgenutzt; 3. Standardisierung und Differenzierungsvorteile müssen für<ul><li>jedes Geschäftsfeld</li><li>jede Wertaktivität</li><li>jeden Unternehmensprozess</li><li>jede Internationalisierungsphase</li></ul>individuell geprüft werden; 4. Intensive Liefer- und Leistungsverflechtungen"
     },
     {
       "Frage": "Wie werden Verbundvorteile noch genannt?",
@@ -336,7 +336,7 @@ im = [
       "Antwort": "1. Optimale Lenkung der Finanzströme; 2. Minimierung der Steuerlast; 3. Haftungsbegrenzung"
     },
     {
-      "Frage": "Wie werden die Grundformen der operationalen Struktur genannt?",
+      "Frage": "Wie wird die Grundform der operationalen Struktur genannt?",
       "Antwort": "De facto - Struktur"
     },
     {
@@ -345,7 +345,7 @@ im = [
     },
     {
       "Frage": "Welche Organisationsstrategien kann ein Unternehmen bei hohen Auslandsumsätzen wählen? (ist der Grad der Produktdiversifikation hoch/niedrig? Is der Anteil der Auslandsproduktion hoch/niedrig?)",
-      "Antwort": "1. Integriergte Produktstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: gering</li></ul>; 2. Integrierte Regionalstruktur:<ul><li>Produktdiversifikation: gering</li><li>Anteil Auslandsproduktion: hoch</li><li>Matrixstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: hoch</li></ul>"
+      "Antwort": "1. Integrierte Produktstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: gering</li></ul>; 2. Integrierte Regionalstruktur:<ul><li>Produktdiversifikation: gering</li><li>Anteil Auslandsproduktion: hoch</li><li>Matrixstruktur:<ul><li>Produktdiversifikation: hoch</li><li>Anteil Auslandsproduktion: hoch</li></ul>"
     },
     {
       "Frage": "EU-Unternehmen haben stärkere Präferenzen für … Sturkturen (bei der Organisation ihrer Auslandsgeschäfte).\nUSA und Japan eher … Organisationsstrukturen.\nWarum?",
@@ -360,8 +360,8 @@ im = [
       "Antwort": "1. Nationale Unterschiede; 2. Internationalisierungsgrad; 3. Personelle Veränderungen in der Unternehmensleitung; 4. Produktionstechnologie; 5. Distributionssystem"
     },
     {
-      "Frage": "Welche 5 Strukturypen gibt es im Rahmen der Organisation int. Unternehmen? (nenne Vor- und Nachteile)",
-      "Antwort": "<table><thead><tr><th>Strukturtyp</th><th>Vorteile</th><th>Nachteile</th></tr></thead><tr><td>International Division</td><td>int. Wissen, Erfahrung, kurze Komm.Wege</td><td>Isolierungstendenz, Doppelgleisigkeit zentraler Stabstellen, Innovation schwer übertragbar</td></tr><tr><td>Intergrierte Funktionalstruktur</td><td>leichte Abstimmung der Hauptfunktionen, Spezialisierungs- u. Synergieeffekte, hohe Effizienz geringe Diversifikation</td><td>Zuordnung der Tochtergesellschaften (die mehrer Funktionen ausüben) = schwierig, hohe Koordination, hohe Belastung der Führung</td></tr><tr><td>Integrierte Regionalstruktur</td><td>leichte weltweite Produktkoordination, Vermeidung von Programmzersplitterungen, leichte Ergebniszuordnung</td><td>not invented here-Syndrom, Koordination F&E und Produkten = schwierig</td></tr><tr><td>Matrix- bzw. Tensorstruktur</td><td>gleichzeitige Berücksichtigung funktionaler u. regionaler u. produktspezifischer Anforderungen, Förderung Komm.Fluss u. kreatives Potentials</td><td>hoher Koord.Aufwand, hohes Konfliktpotential, lange Entscheidungsprozesse, Gefahr starker Innenorientierung</td></tr></table>"
+      "Frage": "Welche 4 Strukturypen gibt es im Rahmen der Organisation int. Unternehmen? (nenne Vor- und Nachteile)",
+      "Antwort": "<table><thead><tr><th>Strukturtyp</th><th>Vorteile</th><th>Nachteile</th></tr></thead><tr><td>International Division</td><td>int. Wissen, Erfahrung, kurze Komm.Wege</td><td>Isolierungstendenz, Doppelgleisigkeit zentraler Stabstellen, Innovation schwer übertragbar</td></tr><tr><td>Intergrierte Funktionalstruktur</td><td>leichte Abstimmung der Hauptfunktionen, Spezialisierungs- u. Synergieeffekte, hohe Effizienz geringe Diversifikation</td><td>Zuordnung der Tochtergesellschaften (die mehrer Funktionen ausüben) = schwierig, hohe Koordination, hohe Belastung der Führung</td></tr><tr><td>Integrierte Regionalstruktur</td><td>leichte weltweite Produktkoordination, Vermeidung von Programmzersplitterungen, leichte Ergebniszuordnung</td><td>not invented here-Syndrom, Koordination F&E und Produkten = schwierig</td></tr><tr><td>Matrix- bzw. Tensorstruktur</td><td>gleichzeitige Berücksichtigung funktionaler u. regionaler u. produktspezifischer Anforderungen, Förderung des Komm.Fluss u. kreativen Potentials</td><td>hoher Koord.Aufwand, hohes Konfliktpotential, lange Entscheidungsprozesse, Gefahr starker Innenorientierung</td></tr></table>"
     },
     {
       "Frage": "Welche prozessualen Gestaltungsinstrumente gibt es für international tätige Unternehmen",
@@ -401,7 +401,7 @@ im = [
     },
     {
       "Frage": "Was sind die Vorteile unspezifischer Organisationsstrukturen?",
-      "Antwort": "1. Keine kostspielige Anspassung der Organisationsstruktur; 2. Rasche Anpassung an lokale Umweltbedingungen; 3. Internationalität im \"Blick\" der Unternehmensleitung; 4. Internationale Erfahrugn des Top-Managements; 4. Problemloser Wissenstransfer zwischen Mutter- und Tochtergesellschaft"
+      "Antwort": "1. Keine kostspielige Anspassung der Organisationsstruktur; 2. Rasche Anpassung an lokale Umweltbedingungen; 3. Internationalität im \"Blick\" der Unternehmensleitung; 4. Internationale Erfahrung des Top-Managements; 4. Problemloser Wissenstransfer zwischen Mutter- und Tochtergesellschaft"
     },
     {
       "Frage": "Was sind die Nachteile unspezifischer Organisationsstrukturen?",
@@ -453,7 +453,7 @@ im = [
     },
     {
       "Frage": "Benenne die <strong>Aspekte der Unternehmung</strong> im EPRG-Modell. (unterteilt nach den 4 Orientierungen)",
-      "Antwort": "<table><thead><tr><th>Aspekte der Unternehmung</th><th>Ethnozentrisch</th><th>Polyzentrisch</th><th>Regiozentrisch</th><th>Geozentrisch</th></tr></thead><tr><th>Organisations-komplexität</th><td>Komplex im Heimatland, einfach bei den Tochtergesellschaften</td><td>Unterschiedlich und voneinander unabhängig</td><td>Hohe gegenseitige Abhängigkeit auf regionaler Ebene</td><td>Zunehmende Komplexität u. weltweit eine hohe gegenseitige Abhänigkeit</td></tr><tr><th>Autorität, Treffen von Entscheidungen</th><td>Stark auf die Muttergesellschaft konzentriert</td><td>Gering von Seiten der Muttergesellschaft</td><td>Große regionale Headquarters u./o. große Zusammenarbeit zw. den Tochtergesellschaften einer Region</td><td>Weltweite Zusammenarbeit zw. Muttergesellschaft u. den Tochtergesellschaften</td></tr><tr><th>Auswertung und Kontrolle</th><td>Standards des Heimatlandes werden auf Leistungs- und Personalbeurteilung angewandt</td><td>Lokale Bestimmung</td><td>Regionale Bestimmung</td><td>Universale und lokale Standards</td></tr><tr><th>Anreizsysteme und Sanktionen</th><td>Hoch bei Muttergesellschaft, gering bei den Tochtergesellschaften</td><td>Sehr unterschiedlich</td><td>Belohnung für das Erreichen regionaler Zielvorgaben</td><td>Belohnung internationaler u. lokaler Führungskräfte für das Erreichen internationaler u. lokaler Zielvorgaben</td></tr><tr><th>Kommunikation und Informationsfluss</th><td>Hohe Anzahl an Aufträgen, Weisungen und Ratschlägen an die Tochtergesellschaften</td><td>Gering (mit Muttergesellsch. u. Tochtergesellschaften)</td><td>Gering mit Muttergesellschaft, evtl. hoch mit regionalen Headquarters, hoch zw. den einzelnen Ländern</td><td>Beide Wege, sowohl mit Mutter- als auch Tochtergesellschaft(en)</td></tr><tr><th>Geographische Identifikation</th><td>Nationalität der Muttergesellschaft</td><td>Nationalität des Gastlandes</td><td>Regionale Unternehmen</td><td>Weltweites Unternehmen unter Wahrung nationaler Interessen</td></tr><tr><th>Fortlaufende Managementaufgaben (Personalrekrutierunge, -ausstattung, -entwicklung)</th><td>Mitarbeiter der Muttergesellsch. werden für weltweite Schlüsselfpostitionen ausgebildet</td><td>Mitarbeiter des Gastlandes werden für Schlüsselfpositionen im eigenen Land ausgebildet</td><td>Regionale Mitarbeiter werden für Schlüsselpositionen in der ganzen Region ausgebildet</td><td>Die besten Mitarbeiter auf der ganzen Welt werden für weltweite Schlüsselpositionen ausgebildet</td></tr></table>"
+      "Antwort": "<table><thead><tr><th>Aspekte der Unternehmung</th><th>Ethnozentrisch</th><th>Polyzentrisch</th><th>Regiozentrisch</th><th>Geozentrisch</th></tr></thead><tr><th>Organisations-komplexität</th><td>Komplex im Heimatland, einfach bei den Tochtergesellschaften</td><td>Unterschiedlich und voneinander unabhängig</td><td>Hohe gegenseitige Abhängigkeit auf regionaler Ebene</td><td>Zunehmende Komplexität u. weltweit eine hohe gegenseitige Abhänigkeit</td></tr><tr><th>Autorität, Treffen von Entscheidungen</th><td>Stark auf die Muttergesellschaft konzentriert</td><td>Gering von Seiten der Muttergesellschaft</td><td>Große regionale Headquarters u./o. große Zusammenarbeit zw. den Tochtergesellschaften einer Region</td><td>Weltweite Zusammenarbeit zw. Muttergesellschaft u. den Tochtergesellschaften</td></tr><tr><th>Auswertung und Kontrolle</th><td>Standards des Heimatlandes werden auf Leistungs- und Personalbeurteilung angewandt</td><td>Lokale Bestimmung</td><td>Regionale Bestimmung</td><td>Universale und lokale Standards</td></tr><tr><th>Anreizsysteme und Sanktionen</th><td>Hoch bei Muttergesellschaft, gering bei den Tochtergesellschaften</td><td>Sehr unterschiedlich</td><td>Belohnung für das Erreichen regionaler Zielvorgaben</td><td>Belohnung internationaler u. lokaler Führungskräfte für das Erreichen internationaler u. lokaler Zielvorgaben</td></tr><tr><th>Kommunikation und Informationsfluss</th><td>Hohe Anzahl an Aufträgen, Weisungen und Ratschlägen an die Tochtergesellschaften</td><td>Gering (mit Muttergesellsch. u. Tochtergesellschaften)</td><td>Gering mit Muttergesellschaft, evtl. hoch mit regionalen Headquarters, hoch zw. den einzelnen Ländern</td><td>Beide Wege, sowohl mit Mutter- als auch Tochtergesellschaft(en)</td></tr><tr><th>Geographische Identifikation</th><td>Nationalität der Muttergesellschaft</td><td>Nationalität des Gastlandes</td><td>Regionale Unternehmen</td><td>Weltweites Unternehmen unter Wahrung nationaler Interessen</td></tr><tr><th>Fortlaufende Managementaufgaben (Personalrekrutierung, -ausstattung, -entwicklung)</th><td>Mitarbeiter der Muttergesellsch. werden für weltweite Schlüsselfpostitionen ausgebildet</td><td>Mitarbeiter des Gastlandes werden für Schlüsselfpositionen im eigenen Land ausgebildet</td><td>Regionale Mitarbeiter werden für Schlüsselpositionen in der ganzen Region ausgebildet</td><td>Die besten Mitarbeiter auf der ganzen Welt werden für weltweite Schlüsselpositionen ausgebildet</td></tr></table>"
     },
     {
       "Frage": "Nenne die 6 Fallen im internationalen Management.",
