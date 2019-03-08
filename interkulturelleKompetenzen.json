@@ -93,7 +93,7 @@ ik = [
   },
   {
     "Frage": "Was bedeutet \"Multikulturelle Gesellschaft\"?",
-    "Antwort": "Das man identitässtiftende Freiräume der einzelnen Kulturen wahrt und respektiert und trotzdem ein kooperatives Miteinander praktiziert."
+    "Antwort": "Dass man identitässtiftende Freiräume der einzelnen Kulturen wahrt und respektiert und trotzdem ein kooperatives Miteinander praktiziert."
   },
   {
     "Frage": "Beim Management interkultureller Prozesse (internationale Unternehmenskooperationen, internationales Teambuilding) ist folgendes Leitprinzip zu empfehlen:<ul><li>Das wirtschaftlich stärkere Unternehmen sollte in jeder Hinsicht dominieren.</li><li>Man sollte sich um eine Snythese der jeweils besten Eigenschaften bemühen.</li><li>Man sollte Synergiebildungen fördern und möglichst viel Entfaltungsfreiraum bieten.</li><li>Eine vollständige Verschmelzung der kulturellen Unterschiede ist anzustreben.</li><li>Die kulturelle Differenz der Partner sollte bewusst gemacht werden.</li></ul>",
@@ -129,7 +129,7 @@ ik = [
   },
   {
     "Frage": "Welche drei Kommunikationsebenen gibt es?",
-    "Antwort": "1. Vebal -> über sprachliche Codes; 2. Paraverbal -> Lautstärke, Pausen, Tonhöhen, Sprechwechsel; 3. Nonverbal -> Mimik, Gestik, Körperbewegung"
+    "Antwort": "1. Verbal -> über sprachliche Codes; 2. Paraverbal -> Lautstärke, Pausen, Tonhöhen, Sprechwechsel; 3. Nonverbal -> Mimik, Gestik, Körperbewegung"
   },
   {
     "Frage": "Was sind die Stolpersteine der Kommunikation? (Sprichwort)",
@@ -165,7 +165,7 @@ ik = [
   },
   {
     "Frage": "Wie ist <strong>direkte Gesprächsstrategie</strong> zu verstehen?",
-    "Antwort": "1. Zielführend; 2. Bei der direkten Gesprächsstrategie werden Gespräche geführt, um ein definiertes Ziel zu erreichen; 3. Damit der Gesprächspartner sich darauf einstellen kann; 4. Und um keine Zeit zu verschwenden, wird meist ein sehr direkter Weg gewählt.; 5. Bsp.: \"Ich bin gekommen, weil ich mit Ihrem Produkt nicht zufrieden bin."
+    "Antwort": "1. Zielführend; 2. Bei der direkten Gesprächsstrategie werden Gespräche geführt, um ein definiertes Ziel zu erreichen; 3. Damit der Gesprächspartner sich darauf einstellen kann; 4. Und um keine Zeit zu verschwenden, wird meist ein sehr direkter Weg gewählt.; 5. Bsp.: \"Ich bin gekommen, weil ich mit Ihrem Produkt nicht zufrieden bin.\""
   },
   {
     "Frage": "Welche vier Richtungen bezeichnen die <strong>direkte Gesprächsstrategie</strong>?",
@@ -184,15 +184,15 @@ ik = [
     "Antwort": "1. Beim Arbeitszeugnis; 2. Erläuterung: Bestimmte Formulierungen implizieren bestimmte Botschaften, die man nur entziffern kann, wenn man den \"Code\" kennt. Das geschriebene Wort beinhaltet eine andere Botschaft als es nach außen hin vermittelt."
   },
   {
-    "Frage": "Was lässt sich anhand der Vorslesung über Chinesen sagen?",
-    "Antwort": "1. Man sollte ruhig bleiben; 2. Keine großen Gesten verwenden; 3. Erst Small-Talk (nicht direkt zum Punkt kommen); 4. Nicht anfassen; 5. Visitenkarte mit beiden Händen geben/nehmen; 6. Postion und Hobby/Club auf Karte ist typisch; 7. Gerne eigene Visitenkarte anpassen; 8. Wenn man nicht genau weiß wer den höchsten Rang hat -> Unsicherheit zeigen, es wird gezeigt wer der \"Boss\" ist.; 9. Geisichtsverlust ist das schlimmste (daher nie auf Fehler hinweisen); 10. Geschenke sind typisch"
+    "Frage": "Was lässt sich anhand der Vorlesung über Chinesen sagen?",
+    "Antwort": "1. Man sollte ruhig bleiben; 2. Keine großen Gesten verwenden; 3. Erst Small-Talk (nicht direkt zum Punkt kommen); 4. Nicht anfassen; 5. Visitenkarte mit beiden Händen geben/nehmen; 6. Position und Hobby/Club auf Karte ist typisch; 7. Gerne eigene Visitenkarte anpassen; 8. Wenn man nicht genau weiß wer den höchsten Rang hat -> Unsicherheit zeigen, es wird gezeigt wer der \"Boss\" ist.; 9. Geisichtsverlust ist das schlimmste (daher nie auf Fehler hinweisen); 10. Geschenke sind typisch"
   },
   {
-    "Frage": "Was lässt sich anhand der Vorslesung über Franzosen sagen?",
+    "Frage": "Was lässt sich anhand der Vorlesung über Franzosen sagen?",
     "Antwort": "1. Keine Geschenke mit Firmenloge; 2. Große Autos; 3. Wein, Wasser in getrennten Gläsern servieren; 4. Geschäftliches erst zum Dessert; 4. Nichts schlechtes über Käse sagen; 5. 3-5 Gänge sind normal; 6. Wangen Küsschen sind normal unter Freunden und Bekannten."
   },
   {
-    "Frage": "Was lässt sich anhand der Vorslesung über Chile sagen?",
+    "Frage": "Was lässt sich anhand der Vorlesung über Chile sagen?",
     "Antwort": "1. Es gibt eine relativ große deutsche Community; 2. Daher ist uns einiges sehr ähnlich; 3. Händeschütteln ist üblich; 4. Bei Bekannten: Küsschen rechts/links; 5. Ansprache mit Don/Donja oder Doktor bei deutlich höher gestellten oder Älteren; 6. Wollen Pünktlichkeit, kommen aber selber gern mal 15min zu spät.; 7. Kompromissbereitschaft ist gewünscht; 8. Respekt ist wichtiger als Ehrlichkeit; 9. Visitenkarten werden eher beiläufig ausgetauscht (wird später aber genauer studiert); 10. Gastgeschenke nicht beim ersten Treffen, danach aber ok; 11. Hand in Faust = obszön; 12. Handreichen mit gespreizten Fingern = Du bist dumm"
   },
   {
