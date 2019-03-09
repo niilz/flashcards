@@ -17,7 +17,7 @@ im = [
     },
     {
       "Frage": "Nenne die Theorien der Direktinvestition.",
-      "Antwort": "1. Zinssatztheorie; 2. Kostendegressionsansatz; 3. Theorie des monopolistischen Vorteils (Hymer); 4. Theorie des ologpolistischen Parallelverhalten (Knickebocker/Graham)"
+      "Antwort": "1. Zinssatztheorie; 2. Kostendegressionsansatz; 3. Theorie des monopolistischen Vorteils (Hymer); 4. Theorie des oligopolistischen Parallelverhalten (Knickebocker/Graham)"
     },
     {
       "Frage": "Nenne die übergreifenden Theorien.",
@@ -201,7 +201,7 @@ im = [
     },
     {
       "Frage": "Welche drei Phasen werden beim Produktlebenszyklusansatz nach Vernon unterschieden?",
-      "Antwort": "1. Phase:<ul><li>Einführung des Neuprodukts. Der Innovationsvorsprung bewirkt einen monopolistischen Vorteil</li></ul>; 2. Reifephase:<ul><li>Produktmengenexpansion führt zu Skalenerträgen</li><li>Produktkenntnis im Ausland (Europa) führt zu zusätzlicher Nachfrage</li> zunächst durch Exporte</li><li>dann durch Errichtung lokaler Produktionsstätten</li><li>Auslandsproduktion führt zu Prolongation monopolähnlicher Marktstellung</li></ul>; 3. Standardisierungsphase: <ul><li>Produktionsstandorte in Schwellenländern besitzen Wettbewerbsvorteile</li><li>Standardisierte Spezifikationen führen dazu das Produkte<ul><li>auf Lager gelegt werden können</li><li>nicht veralten</li></ul></li></ul>"
+      "Antwort": "1. Phase:<ul><li>Einführung des Neuprodukts. Der Innovationsvorsprung bewirkt einen monopolistischen Vorteil</li></ul>; 2. Reifephase:<ul><li>Produktmengenexpansion führt zu Skalenerträgen</li><li>Produktkenntnis im Ausland (Europa) führt zu zusätzlicher Nachfrage</li> zunächst durch Exporte</li><li>dann durch Errichtung lokaler Produktionsstätten</li><li>Auslandsproduktion führt zu Prolongation monopolähnlicher Marktstellung</li></ul>; 3. Standardisierungsphase: <ul><li>Produktionsstandorte in Schwellenländern besitzen Wettbewerbsvorteile</li><li>Standardisierte Spezifikationen führen dazu, dass Produkte<ul><li>auf Lager gelegt werden können</li><li>nicht veralten</li></ul></li></ul>"
     },
     {
       "Frage": "Was ist laut der Internalisierungstheorie der Grund für Direktinvestitionen?",
@@ -444,7 +444,7 @@ im = [
       "Antwort": "1. <strong>Volumenallianzen:</strong> Skaleneffekt, die einzelne Partner nicht realisieren könnten; 2. <strong>Komplementaritätsallianzen:</strong> Zugang zu komplementären Ressourcen und Wissen (Scopeeffekte); 3. <strong>BurdenSharingAllianzen:</strong> Risikobeteiligung bei großen Entwicklungsprojekten; 4. <strong>Markteintrittsallianzen:</strong> Beschleunigung des Markteintritts; 5. <strong>Zusammenarbeit in ausgewählten Bereichen</strong> (Funktionen, Regionen, Produkten); 6. <strong>Große Flexibilität</strong>, Teilnameentscheidung ist reversibel, Exit-Option meist ohne hohe Aufwendungen realisierbar; 7. <strong>Keine Kapitalbeteiligung, einfache Finanzierbarkeit</strong>; 8. <strong>Durchsetzung</strong> von Standards und Vermarktung von <strong>Systemtechnologien</strong>; 9. <strong>Reduzierung der Rivalität</strong> in einzelnen Märkten; 10. <strong>Wertsteigerung</strong> bei Allianzmitgliedern (Kostensenkungs-, Erlöspotentiale etc.)"
     },
     {
-      "Frage": "Was sind Nachteil strategischer Allianzen?",
+      "Frage": "Was sind Nachteile strategischer Allianzen?",
       "Antwort": "1. <strong>Restriktionen</strong> durch das Wettbewerbs- und Kartellrecht des Gastlandes (Federal Trade Comission, Bundeskartellamt); 2. Hoher <strong>Abstimmungsbedarf</strong> unter Partnern, <strong>Schwerfälligkeit</strong> von Entscheidungen, Starke <strong>Abhängigkeit</strong> von Boundary Spanners; 3. Gefahr von <strong>Wissenabflüssen</strong>; 4. Schwierige Balance zw. <strong>Kooperation und Konkurrenz</strong> (Co-opetition); 5. <strong>Managementfähigkeiten</strong> der Partner sind von der <strong>Lebenszyklusphase der Allianz</strong> abhängig; 6. Kooperation ist zu wesentlichen Teilen <strong>vertrauensbasiert</strong> und mithin von den handelnden Personen abhängig; 7. <strong>Commitment der Partner</strong> entscheidet über die Existenz der Allianz; 8. <strong>Erfolgsmessung</strong> ist sehr problematisch; 9. Schwierige <strong>Partnerwahlentscheidung</strong>"
     },
     {
