@@ -1,12 +1,5 @@
 // load questionSets into scope
-let vokabelnJSON = v;
-let hgbJSON = hgb;
-let arbeitsRechtJSON = ar;
-let orgaJSON = orga;
-let interkulturelleJSON = ik;
-let internationaleJSON = im;
-let kommunikationsJSON = iuk;
-let medienRechtJSON = mr;
+const questionSetsJSON = [mr, iuk, im, ik, orga, ar, hgb, v];
 
 // getting the DOM elements 
 // Card Elements
@@ -15,63 +8,45 @@ let question = document.querySelector(".question");
 let solution = document.querySelector(".solution");
 let inputField = document.querySelector(".answer");
 // Buttons
-let checkAnswerButton = document.querySelector(".check_answer");
-let newWordButton = document.querySelector(".new_word");
-let buttonCorrect = document.querySelector(".correct");
-let buttonWrong = document.querySelector(".wrong");
-let reloadButton = document.querySelector(".reload");
-// choiceButtons
-let medienRechtBUTTON = document.querySelector("#medien_recht");
-let kommunikationBUTTON = document.querySelector("#kommunikations_fragen");
-let internationalBUTTON = document.querySelector("#internationale_fragen");
-let interkulturellBUTTON = document.querySelector("#interkulturelle_fragen");
-let organisationBUTTON = document.querySelector("#orga_fragen");
-let arbeitsRechtBUTTON = document.querySelector("#arbeits_recht");
-let handelsRechtBUTTON = document.querySelector("#handels_recht");
-let vokabelnBUTTON = document.querySelector("#vokabeln");
-// Text outside the Card
+let checkAnswerBUTTON = document.querySelector(".check_answer");
+let newWordBUTTON = document.querySelector(".new_word");
+let correctBUTTON = document.querySelector(".correct");
+let wrongBUTTON = document.querySelector(".wrong");
+let reloadBUTTON = document.querySelector(".reload");
+let returnBUTTON = document.querySelector(".return");
+// card-deck-choice-fields
+const cardDeckOptions = [
+    "#medien_recht",
+    "#kommunikations_fragen",
+    "#internationale_fragen",
+    "#interkulturelle_fragen",
+    "#orga_fragen",
+    "#arbeits_recht",
+    "#handels_recht",
+    "#vokabeln"
+];
+
+// Text below the Cards
 let remainingCards = document.querySelector(".remaining");
 
 // define question-set
 // global questionSet
-let questionSet = medienRechtJSON;
-
+let questionSet = mr;
+// set a questionSet to start with
 function defineQuestionSet(set) {
     questionSet = set;
 }
 
-medienRechtBUTTON.addEventListener("change", () => {
-    defineQuestionSet(medienRechtJSON);
-    newCard();
+cardDeckOptions.forEach((deckID, i) => {
+    const deck = document.querySelector(deckID);
+    deck.addEventListener("change", () => {
+        defineQuestionSet(questionSetsJSON[i]);
+        newCard();
+    })
 });
-kommunikationBUTTON.addEventListener("change", () => {
-    defineQuestionSet(kommunikationsJSON);
-    newCard();
-});
-internationalBUTTON.addEventListener("change", () => {
-    defineQuestionSet(internationaleJSON);
-    newCard();
-});
-interkulturellBUTTON.addEventListener("change", () => {
-    defineQuestionSet(interkulturelleJSON);
-    newCard();
-});
-arbeitsRechtBUTTON.addEventListener("change", () => {
-    defineQuestionSet(arbeitsRechtJSON);
-    newCard();
-});
-vokabelnBUTTON.addEventListener("change", () => {
-    defineQuestionSet(vokabelnJSON);
-    newCard();
-});
-handelsRechtBUTTON.addEventListener("change", () => {
-    defineQuestionSet(hgbJSON);
-    newCard();
-});
-organisationBUTTON.addEventListener("change", () => {
-    defineQuestionSet(orgaJSON);
-    newCard();
-});
+
+// flip Answer-Card back to Question
+returnBUTTON.addEventListener("click", () => card.classList.remove("flipped"));
 
 
 // gets a random pair (question/answer) from the a given array of objects
@@ -93,12 +68,12 @@ function displayQuestion(rP) {
     // remove input field from page if it is not needed (e.g. for rechtFragen)
     if (rP["input"]) {
         inputField.classList.remove("hidden");
-        buttonWrong.classList.add("hidden");
-        buttonCorrect.classList.add("hidden");
+        wrongBUTTON.classList.add("hidden");
+        correctBUTTON.classList.add("hidden");
     } else {
         inputField.classList.add("hidden");
-        buttonWrong.classList.remove("hidden");
-        buttonCorrect.classList.remove("hidden");
+        wrongBUTTON.classList.remove("hidden");
+        correctBUTTON.classList.remove("hidden");
     }
     // turn card to frons-side
     card.classList.remove("flipped");
@@ -124,8 +99,8 @@ function flipBackAndDisplayAnswer() {
     card.classList.add("flipped");
 
     // if no input no "nächste Frage"
-    if (randomPair["input"]) newWordButton.classList.remove("hidden");
-    else newWordButton.classList.add("hidden");
+    if (randomPair["input"]) newWordBUTTON.classList.remove("hidden");
+    else newWordBUTTON.classList.add("hidden");
 
     // create backside of the card
     let answer = document.querySelector(".answer");
@@ -173,20 +148,20 @@ function removeCardFromSet() {
 }
 
 // attache the show-result function to the button on frontside of card
-checkAnswerButton.addEventListener("click", flipBackAndDisplayAnswer);
+checkAnswerBUTTON.addEventListener("click", flipBackAndDisplayAnswer);
 
 // attache newWord-function to button on backside of card
-newWordButton.addEventListener("click", newCard);
+newWordBUTTON.addEventListener("click", newCard);
 
 // attache functionality "newCard" to wrong-button
-buttonWrong.addEventListener("click", newCard);
-buttonCorrect.addEventListener("click", () => {
+wrongBUTTON.addEventListener("click", newCard);
+correctBUTTON.addEventListener("click", () => {
     removeCardFromSet();
     newCard();
 });
 
 // reload the page / begin from the beginning
-reloadButton.addEventListener("click", () => location.reload());
+reloadBUTTON.addEventListener("click", () => location.reload());
 
 
 

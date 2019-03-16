@@ -69,6 +69,8 @@ th {
 }
 
 .card .back {
+    display: flex;
+    flex-direction: column;
     grid-column: 1;
     grid-row: 1;
     background: repeating-linear-gradient(
@@ -107,16 +109,6 @@ li {
     text-align: left;
 }
 
-
-/* .question {
-    font-size: calc(15px + 1vw);
-}
-
-.answer {
-    height: 50px;
-    font-size: calc(12px * .5vw);
-} */
-
 .solution {
     text-align: center;
 }
@@ -145,13 +137,17 @@ button.wrong {
     grid-row-start: 3;
 }
 
+.return {
+    font-size: calc(10px + .5vw);
+    align-self: flex-end;
+    margin: 5% 0 0 0;
+}
+
 .reload {
     grid-row: 6;
     grid-column: 2;
     display: flex;
-    flex-direction: row;
 }
-
 
 .choices {
     grid-row: 1;
