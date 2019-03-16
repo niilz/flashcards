@@ -166,7 +166,19 @@ button.wrong {
 
 
 /* Text outside the Card */
+
+#known {
+    grid-row: 5;
+    grid-column: 1;
+    text-align: center;
+}
 .remaining {
     grid-row: 5;
     grid-column: 2;
+}
+
+#next {
+    grid-row: 5;
+    grid-column: 3;
+    text-align: center;
 }

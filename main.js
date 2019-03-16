@@ -28,10 +28,14 @@ const cardDeckOptions = [
 
 // Text below the Cards
 let remainingCards = document.querySelector(".remaining");
+let knownCards = document.querySelector("#known");
+let knownCardsCounter = 0;
+let nextCards = document.querySelector("#next");
 
 // define question-set
 // global questionSet
 let questionSet = mr;
+let nextRound = [];
 // set a questionSet to start with
 function defineQuestionSet(set) {
     questionSet = set;
@@ -82,6 +86,8 @@ function displayQuestion(rP) {
 
     // display current stack of cards
     remainingCards.innerHTML = `Es sind noch ${questionSet.length} Karten im Deck`
+    knownCards.innerHTML = `Bisher gewusst: ${knownCardsCounter}`; 
+    nextCards.innerHTML = `Nächste Runde: ${nextRound.length}`; 
 }
 
 // used inside of "flipBackAndDisplayAnswer" to split multiple answers
@@ -136,15 +142,27 @@ function flipBackAndDisplayAnswer() {
 
 // get a new card
 function newCard() {
+    if (questionSet.length === 0 && nextRound.length > 0) {
+        questionSet = nextRound;
+        nextRound = [];
+    }
     // create new randomPair in global scope
     randomPair = getQuestionPair(questionSet);
     displayQuestion(randomPair);
 }
 
 // removes current randomPair of question Answer from global questionSet-Array of objects
-function removeCardFromSet() {
+function removeCardFromSet(correct) {
     let idx = questionSet.findIndex(qa => qa["Frage"] == randomPair["Frage"]);
-    questionSet.splice(idx, 1);
+    let card = questionSet[idx];
+    if (correct) {
+        questionSet.splice(idx, 1);
+        knownCardsCounter += 1;
+    } else {
+        nextRound.push(card);
+        questionSet.splice(idx, 1);
+    }
+    if (questionSet.length > 0 || nextRound.length > 0) newCard();
 }
 
 // attache the show-result function to the button on frontside of card
@@ -154,10 +172,11 @@ checkAnswerBUTTON.addEventListener("click", flipBackAndDisplayAnswer);
 newWordBUTTON.addEventListener("click", newCard);
 
 // attache functionality "newCard" to wrong-button
-wrongBUTTON.addEventListener("click", newCard);
+wrongBUTTON.addEventListener("click", () => {
+    removeCardFromSet(false);
+});
 correctBUTTON.addEventListener("click", () => {
-    removeCardFromSet();
-    newCard();
+    removeCardFromSet(true);
 });
 
 // reload the page / begin from the beginning
