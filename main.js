@@ -1,10 +1,12 @@
 // load questionSets into scope
-let arbeitsRechtFragen = ar;
-let vokabelFragen = v;
-let hgbFragen = hgb;
-let orgaFragen = orga;
-let interkulturelleFragen = ik;
-let internationaleFragen = im;
+let vokabelnJSON = v;
+let hgbJSON = hgb;
+let arbeitsRechtJSON = ar;
+let orgaJSON = orga;
+let interkulturelleJSON = ik;
+let internationaleJSON = im;
+let kommunikationsJSON = iuk;
+let medienRechtJSON = mr;
 
 // getting the DOM elements 
 // Card Elements
@@ -19,45 +21,55 @@ let buttonCorrect = document.querySelector(".correct");
 let buttonWrong = document.querySelector(".wrong");
 let reloadButton = document.querySelector(".reload");
 // choiceButtons
-let international = document.querySelector("#internationale_fragen");
-let interkulturell = document.querySelector("#interkulturelle_fragen");
-let organisation = document.querySelector("#orga_fragen");
-let arbeitsRecht = document.querySelector("#arbeits_recht");
-let handelsRecht = document.querySelector("#handels_recht");
-let vokabeln = document.querySelector("#vokabeln");
+let medienRechtBUTTON = document.querySelector("#medien_recht");
+let kommunikationBUTTON = document.querySelector("#kommunikations_fragen");
+let internationalBUTTON = document.querySelector("#internationale_fragen");
+let interkulturellBUTTON = document.querySelector("#interkulturelle_fragen");
+let organisationBUTTON = document.querySelector("#orga_fragen");
+let arbeitsRechtBUTTON = document.querySelector("#arbeits_recht");
+let handelsRechtBUTTON = document.querySelector("#handels_recht");
+let vokabelnBUTTON = document.querySelector("#vokabeln");
 // Text outside the Card
 let remainingCards = document.querySelector(".remaining");
 
 // define question-set
 // global questionSet
-let questionSet = internationaleFragen;
+let questionSet = medienRechtJSON;
 
 function defineQuestionSet(set) {
     questionSet = set;
 }
 
-international.addEventListener("change", () => {
-    defineQuestionSet(internationaleFragen);
+medienRechtBUTTON.addEventListener("change", () => {
+    defineQuestionSet(medienRechtJSON);
     newCard();
 });
-interkulturell.addEventListener("change", () => {
-    defineQuestionSet(interkulturelleFragen);
+kommunikationBUTTON.addEventListener("change", () => {
+    defineQuestionSet(kommunikationsJSON);
     newCard();
 });
-arbeitsRecht.addEventListener("change", () => {
-    defineQuestionSet(arbeitsRechtFragen);
+internationalBUTTON.addEventListener("change", () => {
+    defineQuestionSet(internationaleJSON);
     newCard();
 });
-vokabeln.addEventListener("change", () => {
-    defineQuestionSet(vokabelFragen);
+interkulturellBUTTON.addEventListener("change", () => {
+    defineQuestionSet(interkulturelleJSON);
     newCard();
 });
-handelsRecht.addEventListener("change", () => {
-    defineQuestionSet(hgbFragen);
+arbeitsRechtBUTTON.addEventListener("change", () => {
+    defineQuestionSet(arbeitsRechtJSON);
     newCard();
 });
-organisation.addEventListener("change", () => {
-    defineQuestionSet(orgaFragen);
+vokabelnBUTTON.addEventListener("change", () => {
+    defineQuestionSet(vokabelnJSON);
+    newCard();
+});
+handelsRechtBUTTON.addEventListener("change", () => {
+    defineQuestionSet(hgbJSON);
+    newCard();
+});
+organisationBUTTON.addEventListener("change", () => {
+    defineQuestionSet(orgaJSON);
     newCard();
 });
 

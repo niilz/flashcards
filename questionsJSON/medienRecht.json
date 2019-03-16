@@ -1,0 +1,306 @@
+mr = [
+    {
+      "Frage": "Gib einen kurzen geschichtlichen Verlauf zur Entstehung des Urheberrechts",
+      "Antwort": "1. Entstanden 1450 mit Erfindung des Buchdrucks (Drucker erhielt ausschließliches Vervielfältigungsrecht); 2. 18. Jahrhundert: Entstehung des Begriffs <strong>geistiges Eigentum</strong>; 3. 1870: Erstes Literatururheberrechtsgesetz; 4. 1876: Kunsturhebergesetz; 5. 1965: Entstehung des UrhG, im Anschluss zahlreiche Novellierungen; 6. Seit 2000: Umsetzung von zahlreichen EU-Richtlinien"
+    },
+    {
+      "Frage": "Das Urheberrecht ist abzugrenzen von anderen Schutzrechten. Wofür gelten dann <strong>Patente</strong>?",
+      "Antwort": "1. Erfindung, die neu & gewerblich anwendbar ist und auf einer erfinderischen Tätigkeit beruht (Erzeugnis- und Verfahrenspatente); 2. Schutzfrist von 20 Jahren"
+    },
+    {
+      "Frage": "Das Urheberrecht ist abzugrenzen von anderen Schutzrechten. Was ist dann ein <strong>Design</strong>?",
+      "Antwort": "1. Konkrete Verkörperung einer ästhetischen Leistung.; 2. (Alles was von den verschiedenen Designer-Berufen geschaffen wird:<ul><li>Schmuck</li><li>Textilien</li><li>Stoffe</li><li>Elektrogeräte</li><li>Möbel</li><li>Leuchten</li><li>Fahrzeuge)</li></ul>; 3. (Auch Teile von Waren, z.B. Glaskörper einer Leuchte oder Scherkopf eines Elektorasieres)"
+    },
+    {
+      "Frage": "Das Urheberrecht ist abzugrenzen von anderen Schutzrechten. Was ist dann ein <strong>Gebrauchsmuster</strong>?",
+      "Antwort": "1. Erfindung, die neu & gewerblich anwendbar ist (bis hier wie Patent) und auf einem erfinderischen Schritt beruht.; 2. Vor allem Gebrauchsverbesserungen, \"Alltagserfindungen\"; 3. (Neuentwicklungen mit kleinen technischen Fortschritten); 4. Schutzfrist 10 Jahre"
+    },
+    {
+      "Frage": "Das Urheberrecht ist abzugrenzen von anderen Schutzrechten. Was ist dann eine <strong>Marke</strong>?",
+      "Antwort": "1. Wörter, Personennamen, Logos, Abbildungen, Buchstaben, Zahlen, Hörzeichen, dreidimensionale Gestaltung, Farben; 2. Sie müssen geeignet sein, Waren oder Diesntleistungen eines Unternehmens von anderen zu unterscheiden (§ 3 MarkenG); 3. Schutzfrist 10 Jahre"
+    },
+    {
+      "Frage": "Wer ist ein Urheber (laut Gesetz)?",
+      "Antwort": "1. Der Urheber ist der Schöpfer des Werkes (§ 7 UrhG).; 2. Auch angestellte Urheber und \"Ghostwriter\" sind Urheber ihrer Werke. Sie räumen lediglich dem Arbeit- oder Auftraggeber (in festzulegendem Umfang) Nutzungsrechte an ihrem Werk ein."
+    },
+    {
+      "Frage": "Was ist nach dem Gesetz ein <strong>urheberrechtliches Werk</strong>?",
+      "Antwort": "Persönliche geistige Schöpfung\" (§ 2 Abs. 2 UrhG)"
+    },
+    {
+      "Frage": "Was bedeutet im Zusammenhang mit einem urheberrechtlichen Werk <strong>persönlich</strong>?",
+      "Antwort": "Von einem Menschen erschaffen"
+    },
+    {
+      "Frage": "Was bedeutet im Zusammenhang mit einem urheberrechtlichen Werk <strong>geistig</strong>?",
+      "Antwort": "1. geistig = Immatrialgut; 2. Das urheberrechlich geschützte Werk ist ein Immatrialgut, das im Werkstück/Herstellung konkretisiert wird.; 2. Eine geistige Schöpfung ist nur dann gegeben, wenn das Werk einen <strong>vom Urheber stammenden Gedanken- oder Gefühlsinhalt</strong> hat, der auf den Leser, Hörer oder Betrachter unterhaltend, belehrend, veranschaulichend, erbauend oder in sonstiger Weise anregend wirkt."
+    },
+    {
+      "Frage": "Was bedeutet im Zusammenhang mit einem urheberrechtlichen Werk <strong>Schöfpung</strong>?",
+      "Antwort": "1. Schöpfung ist gegeben, wenn etwas noch nicht Dagewesenes geschaffen wird.; 2. Die bloße Andersartigkeit genügt nicht.; 3. Das Werk muss sich zudem von der Masse des Alltäglichen und von lediglich handwerklichen oder routinemäßigen Leistungen abheben.; 4. -> Schöpferische Eigentümlichkeit, Originalität oder Individualität."
+    },
+    {
+      "Frage": "Welche Arten von urheberrechtlichen Werken gibt es?",
+      "Antwort": "1. <strong>Sprachwerk</strong>, wie Schriftwerke Reden und Computerprogramme<ul><li>Romane, Gedichte, Aufsätze, Zeitungsartikel, Reden, Software</li><li>Ggf. Werbetexte, Werbeslogans</li><li>Sonderreglungen für Computerprogramme (§§ 69 a ff. UrhG)</li></ul> ; 2. Werke der <strong>Musik</strong><ul><li>Töne jeglicher Art (auch spontanes, nicht notengeschriebenes Musikschaffen</li><li>Qualiät spielt keine Rolle</li><li>(Einzeltöne, spezieller Klang/\"Sound\" oder Samplings sind NICHT geschützt)</li><li>akustische Signale z.B. Handy Klingeltöne können Urheberrechtsschutz erlangen</li></ul>; 3. <strong>Pantomimische Werke</strong>, inkl. Tanzkunst<ul><li>z.B. Ballett</li><li>Problematisch: Abgrenzung zur Akrobatik, Eiskunstlauf, Bodenturnen</li></ul>; 4. Werke der <strong>bildenden Künste</strong><ul><li>z.B. klassische Ölgemälde, Baukunst (Architektur), angwandte Kunst (z.B. formschöne Gebrauchsgegenstände, Möbelstücke)</li><li>Auch Entwürfe sind geschützt</li></ul>; 5. <strong>Lichtbildwerke</strong><ul><li>Nur Fotografien, die sich gegenüber dem Alltäglichen durch besondere Individualität auszeichen</li><li>Abgrenzung zu Lichtbildern (\"Knipsbildern\")</li></ul>; 6. <strong>Filmwerke</strong><ul><li>z.B. Spielfilme, Fernsehspiele, Videos, Werbefilme</li><li>ähnlich geschaffene Werke z.B. Videospiele</li></ul>; 7. <strong>Darstellungen wissenschaftlicher oder technischer Art</strong><ul><li>z.B. Zeichnungen, Pläne, Karten, Skizzen, Tabellen, plastische Darstellungen</li></ul>; 8.<strong> Bearbeitungen gem. § 3 UrhG</strong><ul><li>mit eigenschöpferischem Beitrag</li><li>z.B. Übersetzung eines Romans, Techno-Version eines klass. Musikstücks, \"Remake\" eines Films, Verfilmung eines Romans, Adaption eines Filmdrehbuchs für die Bühne</li></ul>; 9. <strong>Datenbanken</strong>"
+    },
+    {
+      "Frage": "Was sind Rechte des Urhebers?",
+      "Antwort": "1. Veröffentlichung (§ 12 UrhG); 2. Anerkennung der Urheberschaft (§ 13 UrhG); 3. Schutz vor Entstellung des Werkes (§ 14 UrhG); 4. Schutz vor Änderungen des Werkes (§ 39 UrhG); 5. Rückrufrecht wg. Nichtausübung (§ 41 UrhG); 6. Rückrufrecht wg. gewandelter Überzeugung (§ 42 UrhG)"
+    },
+    {
+      "Frage": "Welche Nutzungsrechte gibt es im Urhebergesetz?",
+      "Antwort": "1. Vervielfältigungsrecht; 2. Verbreitungsrecht; 3. Ausstellungsrecht; 4. Vortrags- Aufführungs- und Vorführungsrecht; 5. Recht der öffentlichen Zugänglichmachung; 6. Senderecht; 7. Recht der Wiedergabe durch Bild- u. Tonträger; 8. Europäische Satellitensendung; 9. Recht der Wiedergabe von Funksendungen und von öffentlicher Zugänglichmachung"
+    },
+    {
+      "Frage": "Das <strong>Zweckübertragungsprinzip</strong> des § 31 Abs. 5 UrhG stellt das wichtigste Auslegungsprinzip für den urheberrechtlichen Lizenzvertrag dar. Erläutere dieses.",
+      "Antwort": "Wenn <strong>unklar</strong> ist, welche <strong>Nutzungsrechte</strong> der Urheber dem Nutzungsberechtigten eingeräumt hat, greift der Rechtsgedanke, dass der Urheber nur so viel an Rechten einräumt, wie dies <strong>zur Erfüllung seiner Verpflichtungen</strong> aus der schuldrechtlichen Vereinbarung erforderlich ist."
+    },
+    {
+      "Frage": "Wie lautet das wichtigste Auslegungsprinzip für den urheberrechtlichen Lizenzvertrag?",
+      "Antwort": "Zweckübertragungsprinzip nach § 31 Abs. 5 UrhG"
+    },
+    {
+      "Frage": "Was räumt das <strong>einfache Nutzungsrecht</strong> gem. § 31 Abs. 2 UrhG ein?",
+      "Antwort": "Es räumt dem Nutzer eine Nutzung ein, deren <strong>Inhalt und Umfang</strong> die Parteien <strong>frei vereinbaren</strong> können."
+    },
+    {
+      "Frage": "Nenne ein Bsp. Für das <strong>einfache Nutzungsrecht</strong> gem. § 31 Abs. 2 UrhG",
+      "Antwort": "Bucherwerb:<ul><li>Erwerb von Eigentum</li><li><strong>einfaches Nutzungsrecht</strong> (Buch lesen)</li></ul>"
+    },
+    {
+      "Frage": "Was wird beim Kauf eines Buches NICHT erworben? Darf das Buch z.B. Im Internet weiterverkauft werden? Begründe deine Antwort.",
+      "Antwort": "1. Das <strong>Verbreitungsrecht</strong> (z.B. Kopien) wird nicht erworben; 2. Ja das Buch darf verkauft werden; 3. Weil zu Lasten des Rechteinhabers Erschöpfung eingetreten ist."
+    },
+    {
+      "Frage": "Erläutere das <em>Prinzip der Zweckübertragung</em> anhand eines Beispiels.",
+      "Antwort": "Autor K hat Produzent B Filmrecht an Romanstoff eingeräumt. Später will B die Filmfigur durch Merchandise-Artikel vermarkten. Soweit K dieses <strong>Bearbeitungsrecht</strong> dem B nicht ausdrücklich eingeräumt hat und unklar ist, ob eine Einräumung dieser Rechte erfolgt ist, beschränkt sich das dem B eingeräumte <strong>Bearbeitungsrecht nur auf die Verfilmung</strong>, nicht auf Merchandising."
+    },
+    {
+      "Frage": "Benenne die 9 Schranken des Urheberrechts.",
+      "Antwort": "1. Vorübergehende Vervielfältigungshandlungen; 2. Zugang zu Werknutzungen für behinderte Menschen; 3. Sammlungen für Kirchen, Schul- oder Unterrichtsgebrauch; 4. Öffentliche Reden; 5. Berichterstattung über Tagesereignisse; 6. Zitate; 7. Öffentliche Wiedergabe; 8. Öffentliche Zugänglichmachung für Unterricht und Forschung; 9. Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch"
+    },
+    {
+      "Frage": "Zähle auf was alles unter <strong>absolutem Kopierverbot</strong> steht?",
+      "Antwort": "Grundsätzlich verboten sind folgende Vervielfältigungen<ol><li>graphische Aufzeichnungen (z.B. Noten) von Werken der Musik</li><li>komplette Bücher oder Zeitschriften</li><li>Computerprogrammen (Ausnahme: Sicherungskopie)</li><li>wesentliche Teile einer Datenbank</li></ol>"
+    },
+    {
+      "Frage": "Erläutere die besonderen Rechte des Filmproduzenten? (Und welche Aspekte sind dazu im UrhG definiert?)",
+      "Antwort": "Gestattet ein <strong>Urheber</strong> einem <strong>Filmproduzenten</strong> sein <strong>Werk zu verfilmen</strong>, so räumt er im Zweifel das <strong>ausschließliche Recht</strong> ein, das Werk auch in bearbeiteter oder <strong>umgestalteter Form</strong>, auch in Übersetzungen sowie auf alle Nutzungsarten zu nutzen.<ol><li>Recht zur Verfilmung</li><li>Rechte am Filmwerk</li><li>Ausübende Künstler</li><li>Schutz vor Entstellungen</li><li>Verwertungsrechte</li></ol>"
+    },
+    {
+      "Frage": "Welche Verwertungsgesellschaften gibt es?",
+      "Antwort": "1. <strong>GEMA</strong>:<ul><li>erhebt Nutzungspauschalen für Musikautoren und Verlage</li><li>erhebt Inkasso für <em>Gesellschaft zur Verwertung von Leistungsschutzrechten (GVL)</em>, die wiederum für Künstler zuständig ist</li><li>schließt Individuelle Verträge mit Musiknutzern, aber auch Pauschalverträge (z.B. mit Gaststättenverband)</li></ul>; 2. <strong>VG Wort</strong> für:<ul><li>Schriftsteller</li><li>Verleger</li></ul>; 3. <strong>VG Bild-Kunst</strong> für:<ul><li>bildende Künstler</li><li>Fotografen</li></ul>; 4. <strong>VG der Film- und Fernsehproduzenten (VFF)</strong>; 5. einige kleinere VGes. insbes. für Filmbereich"
+    },
+    {
+      "Frage": "In welchen neuen Formen können Werke (vor allem Bild, Ton und Bild-Ton) in Erscheinung treten, bzw. über welches Medium?",
+      "Antwort": "1. Napster (Musikdownload); 2. Video on Demand und Streaming (Amazon Prime, Netflix, Videoload, ); 3. Videosharing Plattformen (Youtube); 4. Mediatheken (ARD, ZDF, arte u.a.)"
+    },
+    {
+      "Frage": "Die Norm § 21 UrhG umfasst das Recht der <strong>der öffentlichen Wiedergabe</strong> von …. (vervollständige)",
+      "Antwort": "… <strong>Vorträgen</strong> oder <strong>Aufführungen</strong> durch <strong>Bild- und Tonträger</strong>."
+    },
+    {
+      "Frage": "Im Beispiel <strong>öffentliche Wiedergabe</strong> wird Musik (mp3s) einer relativ großen Menschenmenge (Gäste des Unifestes) vorgespielt. Was muss der Veranstalter haben, damit dies rechtens ist?",
+      "Antwort": "1. Der Veranstalter muss ein <strong>Nutzungsrecht vom Urheberrechtsberechtigten</strong> (nach § 21 UrhG) erweben; 2. hier: GEMA"
+    },
+    {
+      "Frage": "Wer ist <em>Urheber</em> und wer im Gegensatz dazu <em>Nutzer</em>",
+      "Antwort": "1. Urheber:<ul><li>Der der etwas erschaffen hat.</li><li>Der \"geistige Eigentümer\"</li></ul>; 2. Nutzer:<ul><li>Konsumenten</li><li>Warhnehmer</li><li>Veranstalter</li><li>Umsetzer / Darsteller</li><li>Lizenznehmer</li><li>Verwerter</li><li>Vermarkter</li></ul>"
+    },
+    {
+      "Frage": "Wie lauten die 3 Grudrechte zur <strong>Meinungs- und Pressefreiheit</strong> laut Artikel 5 GrundGesetz?",
+      "Antwort": "1. Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. <strong>Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt.</strong>; 2. Diese Rechte finden ihre <em>Schranken</em> in<ul><li>den Vorschriften der <em>allgemeinen Gesetze</em>,</li><li>den gesetzlichen Bestimmungen zum <em>Schutze der Jugend</em></li><li> und in dem <em>Recht der persönlichen Ehre</em></li></ul>; 3. <em>Kunst und Wissenschaft, Forschung und Lehre sind frei</em>. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung."
+    },
+    {
+      "Frage": "Wer hat Anspruch auf <em>Pressefreiheit</em>? Und wer ist der Adressat des Art. 5 GG? Für wen gilt der Artikel nicht?",
+      "Antwort": "1. Anspruch: Jeder Einzelne ( insbesondere Medienschaffende); 2. Adressat: Der Staat; 3. gilt nicht für:<ul><li>Arbeitgeber und Arbeitnehmer (Arbeitgeber ist weisungsbefugt)</li><li>Privatpersonen untereinander</li></ul>"
+    },
+    {
+      "Frage": "Welche Schranken gelten in Verbindung mit dem Art. 5 GG?",
+      "Antwort": "1. Vorschriften der allgemeinen Gesetze (z.B. StVo oder Stuerrecht bleibt unberührt); 2. Gesetzliche Bestimmungen zum Schutz der Jugend (z.B. jugendgefährdende Schriften); 3. Recht der persöhnlichen Ehre. Schutz vor<ul><li>unwahrer Berichterstattung</li><li>Verletzung der Privatsphäre</li><li>Beleidigungen</li></ul>"
+    },
+    {
+      "Frage": "Wer legt fest was <em>Recht</em> und <em>Unrecht</em> ist?",
+      "Antwort": "Die Justiz (nicht Aufgabe des Einzelnen)"
+    },
+    {
+      "Frage": "Nenne die 7 Rechte und Pflichten nach dem Bayerischen Landespressegesetz.",
+      "Antwort": "1. Recht der freien Meinungsäußerung; 2. Wahrheitsgemäße Berichterstattung; 3. Auskunftsrecht ggü. Behörden; 3. Nennung des verantwortlichen Redakteurs; 4. Impressum; 5. Recht auf Gegendarstellung; 6. Datenschutz"
+    },
+    {
+      "Frage": "Wo ist das <em>Recht auf Gegendarstellung</em> definiert?",
+      "Antwort": "1. im <em>Bayerischen Landespressegesetz</em> (Art. 10); 2. Rundfunkstaatsvertrag (§ 56) gegen Anbieter von Telemedien mit redaktionell gestaltetem Angebot (z.B. Online-Zeitungen)"
+    },
+    {
+      "Frage": "Was ist bei der Gegendarstellung zu beachten.",
+      "Antwort": "1. Die Gegendarstellung muss sich gegen eine <strong>Tatsachenbehauptung</strong> richten; 2. Gegen Werturteile (Meinungsäußerungen) kann KEINE Gegendarstellung verlangt werden; 3. Der Betroffene trägt die <strong>Beweislast</strong> für die Behauptung"
+    },
+    {
+      "Frage": "Wann ensteht KEIN Anspruch auf Gegendarstellung?",
+      "Antwort": "1. bei <strong>fehlender Schutzwürdigkeit</strong> (z.B. bei belanglosen Richtigstellungen); 2. bei wahrheitsgemäßer Berichterstattung über <strong>Parlaments- oder Gerichtsverhandlungen</strong>; 3. bei bloßen <strong>Geschäftsanzeigen</strong>"
+    },
+    {
+      "Frage": "Welche <strong>Ansprüche</strong> gibt es im Rahmen von <strong>Falschbehauptungen</strong>?",
+      "Antwort": "1. <strong>Unterlassungsanspruch</strong> des Betroffenen (die Nachricht darf nicht erneut verbreitet werden); 2. <strong>Widerrufsanspruch</strong> des Betroffenen (der Journalist / der Verlag müssen gegenüber ihren Lesern/Hörern die Nachricht richtigstellen); 3. Zusätlich bei Verletzung der journalistischen Sorgfaltspflich:<ol><li><strong>Schadensersatzanspruch</strong> des Betroffenen (d.h. Enschädigung für den immateriellen Schaden und materieller Schadensersatz)</li><li>Mögliche Strafbarkeit im Sinne der <em>Üblen Nachrede</em> oder <em>Verleumdung</em></li></ol>"
+    },
+    {
+      "Frage": "Was gilt hinsichtlich des <em>Umfangs der Gegendarstellung</em>? (Also was muss z.B. die beschuldigte Zeitung beachten)",
+      "Antwort": "1. Das Verlangen auf Gegendarstellung muss dem zuständigen<strong> Redakteur schriflich und eigenhändig unterschrieben zugeleitet</strong> werden; 2. <strong>Angemessene Länge</strong>; 3. Gegendarstellung und Abdruckverlangen muss <strong>ohne schuldhafte Verzögerung</strong> dem Redakteur zugeleitet und bearbeitet werden; 4. In der <strong>nächstmöglichen Ausgage</strong>, ggf. im Wege einer einstweiligen Verfügung bei Eilbdürftigkeit; 5. Nur <strong>Tatsachenbehauptungen</strong>; 6. <strong>Vollständiger Abdruck</strong> (\"Alles oder Nichts\"); 7. An <strong>gleicher Stelle</strong> wie Falschmeldung (ggf. Titelseite); 8. <strong>kein \"Redaktionsschwanz\"</strong> (glossierende Anmerkung der Redaktion)"
+    },
+    {
+      "Frage": "Was lässt sich zum <strong>Informationsanspruch der Medien sagen</strong>? Bzw. welche Ausnahmen gelten?",
+      "Antwort": "1. Ein Anspruch ist <strong>grundsätzlich gegeben</strong>; 2. Ausnahmen:<ul><li>Durchführung eines <strong>schwebenden Verfahrens</strong> würde dadurch <strong>verhindert, erschwert</strong> oder <strong>verzögert</strong></li><li>Informationen unterlägen Vorschriften über die <strong>Geheimhaltung</strong></li><li>ein überwiegendes <strong>öffentliches</strong> oder schutzwürdiges <strong>privates Interesse</strong> würde <strong>verlezt</strong></li><li>Umfang der erbetenen Information ist <strong>unverhältnismäßig</strong></li><li><strong>Auskunftspflicht</strong> der öffentlich-rechtlichen <strong>Religionsgemeinschaftern</strong> (Kirchen) und <strong>Rundfunkanstalten</strong> ist <strong>strittig</strong></li></ul>"
+    },
+    {
+      "Frage": "Benenne die 5 Regelungen zum <strong>Recht am eigenen Bild</strong>.",
+      "Antwort": "1. <strong>Jederzeit</strong> ausübbar und einklagbar; 2. Das Bildnis einer Person darf <strong>nur mit Einwilligung</strong> des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden. (Bildnis = Erkennbarkeit der Person); 3. Einwilligung kann <strong>ausrücklich oder konkludent</strong> erfolgen. (im Zweifel eng auszulegen: nur für konkreten, vorausgesetzten Verwertungszweck zu verwerten); 4. Bei <strong>Minderjährigen entscheiden die Eltern</strong> über Art und Umfang der Berichterstattung und Abbildung.; 5. Bei <strong>Minderjährigen ggf. Veto-Recht</strong>, wenn es sich um spezifisch persönlichkeitsrechtliche Belange handelt (z.B. Nacktaufnahmen)"
+    },
+    {
+      "Frage": "Es gibt nach § 23 KUG eine <em>Schranke</em> hinsichtlich des <em>Recht am eigenen Bild</em>. Zähle die 4 Bilder/Bildnisse auf die <strong>ohne Einwilligung</strong> verbreitet werden dürfen.",
+      "Antwort": "1. Bildnisse aus dem Bereich der <strong>Zeitgeschichte</strong>; 2. Bilder, auf denen die Personen nur als <strong>Beiwerk</strong> neben einer Lanschaft oder sonstigen Örtlichkeiten erscheinen; 3. Bilder von <strong>Versammlungen, Aufzügen und ähnlichen Vorgängen</strong>, an denen die dargestellten Personen teilgenommen haben; 4. Bildnisse, die <strong>nicht auf Bestellung</strong> angefertigt sind, sofern die Verbreitung oder Schaustellung einem <strong>höheren Interesse der Kunst</strong> dient."
+    },
+    {
+      "Frage": "Wann gilt die Schranke zu <em>Recht am eigenen Bild</em> nach § 23 KUG <strong>NICHT</strong>?",
+      "Antwort": "Eine Verbreitung und Schaustellung geht nicht, wenn <ol><li>ein <strong>berechtigtes Interesse</strong> des Abgebildeten vorliegt</li><li>der Abgebildete <strong>verstorben</strong> ist</li><li>ein berechtigtes Interesse der <strong>Angehörigen</strong> des Abgebildeten veletzt würde."
+    },
+    {
+      "Frage": "Warum ist die <strong>Öffentlichkeitssphäre</strong> gundsätzlich nicht geschützt?",
+      "Antwort": "Weil der Betroffene sich <strong>bewusst und gewollt in die Öffentlichkeit begibt</strong> (Reality TV) und dort von jedermann wahrgenommen werden kann."
+    },
+    {
+      "Frage": "Wann ist die <strong>Sozialsphäre</strong> berührt?",
+      "Antwort": "Wenn der Bereich betroffen ist, in dem <strong>der Einzelne aus dem privaten Lebensbereich heraustritt</strong> (z.B. im Rahmen seiner beruflichen Tätigkeit)."
+    },
+    {
+      "Frage": "Wann ist eine Berichterstattung, die die Sozialsphäre berührt i.d.R. zulässig?",
+      "Antwort": "Wenn ein <strong>öffentliches Interesse an der Berichterstattung</strong> vorliegt."
+    },
+    {
+      "Frage": "Wann gilt eine Berichterstattung <strong>nicht als Eingriff</strong> in die Sozialsphäre?",
+      "Antwort": "Wenn der Betroffene entweder <strong>nicht erkennbar</strong> ist oder wenn er mit der Berichterstattung <strong>einverstanden gewesen ist</strong>."
+    },
+    {
+      "Frage": "Wann ist die <strong>Privatsphäre</strong> eines Menschen berührt?",
+      "Antwort": "Wenn über den Menschen in seinem <strong>häuslichen und familiären Bereich</strong> berichtet wird. Also jenem Teil des Lebens, der typischerweise <strong>nicht der Öffentlichkeit zugewandt</strong> ist."
+    },
+    {
+      "Frage": "Wann darf über die <strong>Privatsphäre</strong> berichtet werden?",
+      "Antwort": "1. Nur, wenn der Betroffene <strong>einwilligt</strong> oder wenn ein <strong>öffentliches Interesse an der Berichterstattung</strong> besteht.; 2. Vorraussetzung öffentiches Interesse: Betroffene muss <strong>absolute oder relative Person der Zeitgeschichte</strong> sein"
+    },
+    {
+      "Frage": "Was reicht nicht aus, um über die <strong>Privatsphäre</strong> eines Menschen zu berichten?",
+      "Antwort": "Das bloße Unterhaltungsbedürnis der Öffentlichkeit"
+    },
+    {
+      "Frage": "Welche Annahme ist bei Berichterstattung im Rahmen der <strong>Privatsphäre</strong> strittig?",
+      "Antwort": "Ob <strong>Stars</strong> der Unterhaltungsbranche (die mit Informationen über ihr Privatleben die Öffentlichkeit suchen) für <strong>alle Fälle der Berichterstattung</strong> auf den <strong>Schutz ihrer Privatsphäre verzichtet haben</strong> (z.B. Boris Becker, Heidi Klum, Kim Kardashian)"
+    },
+    {
+      "Frage": "Was ist unter <strong>Intimsphäre</strong> zu verstehen?",
+      "Antwort": "1. Die innere <strong>Gefühls- und Gedankenwelt</strong>; 2. Details des <strong>Gesundheitszustandes</strong>; 3. und der Bereich der <strong>sexuellen Begegnungen</strong>"
+    },
+    {
+      "Frage": "Wann darf über die <strong>Intimsphäre</strong> eines Menschen berichtet werden?",
+      "Antwort": "Nur mit <strong>Einwilligung</strong> des Betroffenen."
+    },
+    {
+      "Frage": "Was droht den Verantwortlichen, wenn diese ohne Rechtfertigung in eine der 3 Sphären (Sozial-, Privat, Intim-) eingreifen? Weshalb?",
+      "Antwort": "1. Den Verantwortlichen drohen nur <strong>zivilrechtliche Sanktionen</strong>; 2. Da hierzu <strong>keine Strafbestimmungen</strong> bestehen"
+    },
+    {
+      "Frage": "Welche <strong>zivilrechtliche Sanktionen</strong> können Verantwortlichen drohen, wenn diese in eine der 3 Sphären (Sozial-, Privat-, Intim-) eingegriffen haben?",
+      "Antwort": "1. Unterlassungsanspruch; 2. Schadensersatz (Schmerzensgeld)"
+    },
+    {
+      "Frage": "Was ist eine <strong>absolute Person der Zeitgeschichte</strong>?",
+      "Antwort": "Bedeutende Politiker, Künstler, Schauspieler, Spitzensportler, Showstars, die <strong>in der Öffentlichkeit allgemein bekannt</strong> sind und <strong>regelmäßig Gegenstand der öffentlichen Berichterstattung</strong> sind (z.B. Helene Fischer)."
+    },
+    {
+      "Frage": "Was ist eine <strong>relative Person der Zeitgeschichte</strong>?",
+      "Antwort": "Personen, die durch ein <strong>einmaliges Ereignis</strong> einer <strong>breiten Öffentlichkeit</strong> bekannt geworden sind (z.B. Lebensretter, Gewinner von TV-Shows, etc.)."
+    },
+    {
+      "Frage": "Welche Grenzen der Berichterstattung gibt es auch im Zusammenhang mit relativen Personen der Zeitgeschichte?",
+      "Antwort": "Absolute Privatsphäre (z.B. Wohnung, sonst. Rückzugsorte, ggf. im Einzelfall zu bestimmen) sind bei relativen Personen der Zeitgeschichte <strong>nur in Zusammenhang mit dem Ereignis zulässig</strong>."
+    },
+    {
+      "Frage": "Wann greift der <em>Schutz der persönlichen Ehre</em>? Bzw. Wann ist eine Kritik als <strong>Schmähkritik</strong> anzusehen?",
+      "Antwort": "1. Wenn Kritik vollkommen <strong>unsachlich</strong>; 2. <strong>Veletzung</strong> als einziges <strong>Ziel</strong>; 3. <strong>Körperliche Unzulänglichkeiten</strong> sind Gegenstand der Krititk; 4. Es werden <strong>Tiermetaphern</strong> verwendet (z.B. Schwein, Ratte, etc.) ohne Bezug zum Bericht / Kommentar"
+    },
+    {
+      "Frage": "Nach welchem Maß wird eine Kritik bewertet?",
+      "Antwort": "Wenn der Betroffene die Auseinandersetzung selbst begonnen hat, bestimmt <strong>sein Verhalten die Maßstäbe</strong> an dem sich der Gegner messen lassen muss. (Wer mit deftiger Sprache angreift, muss auch beim Gegenangriff in der Lage sein, deftige Vorwürfe zu ertragen.)"
+    },
+    {
+      "Frage": "Welche Sanktionen drohen im Fall von Schmähkritik?",
+      "Antwort": "1. Unterlassungsansprüche; 2. Entschädigungsansprüche und Strafe wg. Beleidigung"
+    },
+    {
+      "Frage": "Wie ist <strong>Schmähkritik</strong> an Unternehmen z.B. über Bewertungsportale zu sehen?",
+      "Antwort": "1. Hier liegt i.d.R.kein Fall der Beleidigung vor, da eine juristische Person keine Ehre im rechtlichen Sinne hat.; 2. Aber: Es kann ein <strong>Eingriff in den Gewerbebetrieb</strong> vorliegen. Mit der Konsequenz:<ul><li>zivilrechtliche Unterlassungsansprüche</li><li>Pflicht zum materiellen Schadensersatz</li></ul>; 3. Teilweise Rechtssprechung: ggf. Spott, der <strong>keinen sachlichen Bezug</strong> hat. Daher der Schmähkritik zugeordnet."
+    },
+    {
+      "Frage": "Welche Anforderungen muss ein <strong>Tester</strong> erfüllen, zum Schutz des Unternehmens?",
+      "Antwort": "Der Tester muss <strong>neutral</strong> sein.<ul><li>(Er darf nicht im Wettbewerb mit den getesteten Produkten stehen</li><li>er darf nicht von den getesteten Unternehmen bezahlt werden</li><li>Warenproben zu Testzwecken sind zulässig</li><li>Auch Anzeigenwerbung in der gleichen Ausgabe ist zulässig.)</li></ul>"
+    },
+    {
+      "Frage": "Welche Anforderungen muss ein <strong>Test</strong> erfüllen, zum Schutz des Unternehmens?",
+      "Antwort": "1. Der Test muss sorgfältig und <strong>nach dem aktullen Stand der Technik</strong> durchgeführt werden (journalistische Sorgfaltspflicht); 2. Die Berichterstattung muss <strong>sachlich</strong> erfolgen (d.h. ohne Schmähkritik)"
+    },
+    {
+      "Frage": "Sind <strong>Boykotte</strong> gegen Unternehmen grundsätzlich zulässig?",
+      "Antwort": "Ja!"
+    },
+    {
+      "Frage": "Wann sind Boykottaufrufe unzulässig?",
+      "Antwort": "Bei Sittenwidrigkeit:<ol><li><strong>Bei Aufruf zu rechtswidrigem Verhalten</strong> (z.B. zur Nichzahlung von GEZ-Gebühren, Strompreisen oder Volkszählungsboykott)</li><li>Bei <strong>unverhältnismäßigem Verhalten</strong> (Boykottaufruf aus nichtigem Anlass)</li><li>Beim <strong>Einsatz von Druckmitteln</strong> (z.B. Lieferstopp bei Nichtbefolgung des Boykott-Aufrufs)</li><li>Bei Bokykottaufrufen von <strong>Wettbewerbern</strong></li></ol>"
+    },
+    {
+      "Frage": "Was ist die Rechtsfolge bei unzulässigen Boykottaufrufen?",
+      "Antwort": "1. Unterlassungsansprüche; 2. Schadensersatzansprüche"
+    },
+    {
+      "Frage": "Welchen <strong>Informationsspflichten</strong> unterliegt der Betreiber <strong>geschäftsmäßiger Homepages</strong>? Für welche Websites gelten nach der sogenannten <em>Info-Verordnung</em> weitere Informationspflichten?",
+      "Antwort": "1. Er muss bestimmte Angabe machen (insbesonder zu seiner Identität)<ol><li>Name, Anschrift, Vertretungsberechtigte</li><li>Email-Adresse</li><li>Handelsregisternummer</li><li>Umsatzsteueridentifikationsnummer</li></ol>; 2. Bei <strong>Online-Shops</strong> (Versandhandel via Internet)"
+    },
+    {
+      "Frage": "Im Rahmen der Internet-Haftung werden <strong>Content-Provider</strong> gesondert betrachtet. Was sind<ol><li>Content-Provider?</li><li>Beispiele für Content-Provider?</li><li>Verantwortungen?</li></ol>",
+      "Antwort": "1. Content-Provider sind <strong>Anbieter eigener Inhalte</strong> (regelmäßige Bereistellung eigener Informationen); 2. Webpages von Zeitungen und Zeitschriften:<ul><li>www.bild.de</li><li>www.spiegel-online.de</li></ul>; 3. Content-Provider haben <strong>immer</strong> die <strong>volle Verantwortung</strong> für die von ihm im Netz <strong>veröffentlichten Inhalte</strong>"
+    },
+    {
+      "Frage": "Im Rahmen der Internet-Haftung werden <strong>Host Provider</strong> gesondert betrachtet. Was sind Host Provider? Und was lässt sich über dessen Haftung sagen?",
+      "Antwort": "1. Host Provider bieten <strong>fremde Informationen</strong> auf einer eigenen Homepage an (z.B. eBay, Amazon). Die Betreiber bieten Dritten die Möglichkeit Angebote und Texte einzustellen.; 2. <ol><li>Hat der Anbieter (Host Provider) Kenntnis über die Inhalte, so trägt er die volle Verantwortung</li><li>Hat er keine Kenntnis von rechtswidrigen Inhalten -> so hat er grundsätzlich keine zivil- oder strafrechtliche Verantwortung</li><li>Erlangt er nachträgich Kenntnis über rechtswidrige Inhalte und enfernt / sperrt diese unverzüglich -> keine Verantwortung</li></ol>"
+    },
+    {
+      "Frage": "Im Rahmen der Internet-Haftung werden <strong>Access Provider</strong> gesondert betrachtet. Was sind Access Provider?",
+      "Antwort": "Zugangs- (\"Access\"-) Provider bieten einen Zugang zum Internet (z.B. t-online, vodafone, Telefónica)"
+    },
+    {
+      "Frage": "Access Provider sind grundsätzlich nicht für die Inhalte von Seiten (zu denen sie den Zugang ermöglichen) verantwortlich sofern… (4 Aspekte)",
+      "Antwort": "1. der Provider die Übermittlung nicht veranlasst; 2. den Adressaten der Information nicht selbst ausgewählt hat; 3. die übermittelten Inhalte nicht selbst ausgewählt oder verändert hat; 4. Zwischenspeichern und \"Catching\" von Informationen durch den Access Provider ist legitim, sofern dies nur der besseren Übermittlung von Informationen dient."
+    },
+    {
+      "Frage": "Was lässt sich (in Punkto Haftung ) über Suchmaschinen sagen?",
+      "Antwort": "1. Grundsätzlich sind Ergebnisse von Suchmaschinen (z.B. Google) keine Verbreitung \"eigener\" Inhalte.; 2. Suchmaschine = Internetgeführte Auskunftstelle <strong>ohne eigene willentliche Übernahme der fremden Inhalte</strong> (ähnlich wie Branchenbuch); 3. Angebot beschränkt sich auf Suche und Querverweis zu Angeboten Dritter.; 4. Grundsätzlich: keine Prüfungspflicht für die angezeigten Angaben; 5. Problem bei häufigkeitsgesteuerter <em>Autocomplete-Funktion</em> (z.B. Bettina Wulff / Google) -> noch keine Rechtsprechung"
+    },
+    {
+      "Frage": "Wie sieht die Haftung in Bezug auf das <em>Setzen von Links</em> aus?",
+      "Antwort": "1. Link-Setzungen sind <strong>KEINE reine Durchleitung</strong>; 2. Sondern die gewollte und bewusste <strong>Bezugnahme auf fremde Inhalte</strong>, mit der mehr oder weniger ausgeprägten Aufforderung, sich mit diesen Inhalten zu befassen.; 3. Es steigt jedoch die Auffassung, dass Link-Setzungen unter die <strong>Regelungen zur Durchleitung</strong> fallen."
+    },
+    {
+      "Frage": "Wie lautet der <em>\"Tipp\"</em> für Link-Setzungen im Internet (in Bezug auf die Haftung)?",
+      "Antwort": "Regelmäßig in der Datenschutzerklärung einen <strong>Hinweis geben, dass keine  Haftung für die Inhalte</strong> übernommen wird, auf die durch die Verlinkung verwiesen wird."
+    },
+    {
+      "Frage": "Wer ist der Ansrpuchsgegner bei Rechtsstreitigkeiten wegen des Inhalts einer Website? Gegen wen ist die Klage daher zu richten?",
+      "Antwort": "1. Immer der Betreiber der betreffenden Domain.; 2. Die Klage ist daher immer gegen den Inhaber der Website zu richten."
+    },
+    {
+      "Frage": "Wo ist der Gerichtsstand bei Rechtsstreitigkeiten wegen des Inhalts einer Website?",
+      "Antwort": "1. Der Handlungsort (Standort des <em>sendenden</em> Servers): 2. Sowie der jeweilige Erfolgsort (also überall, wo die Internetseite aufgerufen werden kann) somit ganz Deutschland (<em>\"fliegender Gerichtsstand\"</em>)"
+    },
+    {
+      "Frage": "Wie wird das Gesetzt genannt, welches als <strong>Leistungsschutzrecht für Presseverleger</strong> am 1. August 2013, in Kraft getreten ist? Was regelt es?",
+      "Antwort": "1. <strong>Lex Google News</strong>; 2. Damit sollen <strong>Verlinkungen</strong>, professioneller Betreiber von gewerblichen Anbietern auf Presseinhalte, <strong>erlaubnis- und ggf. vergütungspflichtig</strong> gemacht werden; 3. -> Vergütungspflicht nach allg. Leistungsschutzrechten (VG Wort)"
+    }
+  ]

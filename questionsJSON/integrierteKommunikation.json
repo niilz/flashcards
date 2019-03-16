@@ -1,0 +1,402 @@
+(iuk = [
+  {
+    "Frage": "Was bedeutet integrierte Kommunikation?",
+    "Antwort": "Integrierte Kommunikation bindet alle Kommunikations-Instrumente ein, um ein gesamtheitliches Bild des Unternehmens bzw. der Marke aufzuzeigen."
+  },
+  {
+    "Frage": "Wie ist integrierte Kommunikation aufgebaut?",
+    "Antwort": "1. (oben) Merkmale der Integration; 2. (darunter) <ul><li>gleiche Botschaft</li><li>gleiches Design</li><li>gleicher Zeitpunkt, gleiche Dauer</li></ul>"
+  },
+  {
+    "Frage": "Wie lässt sich integrierte Kommunikation zusammenfassen? (Nenne die wichtigen Punkte)",
+    "Antwort": "1. Immer gleiche Botschaft (über alle Instrumente hinweg): <ul><li>Aussage / Content</li><li>Slogan / Claim</li><li>Copy-Strategie</li><li>Concept-Line</li></ul>; 2. Immer gleiches Design (gleiche Optik):<ul><li>Name, Logo, Typologie</li><li>Unternehmens-Farben</li><li>Design-Elemente, Symbole, Key-Visuals</li><li>Atmosphäre / Erscheinungsbild</li></ul>; 3. Über eine bestimmte Dauer (Zeipunkt, Zeitfolge)<ul><li>Zeitgleiche Präsenz in allen einbezogenen Medien</li></ul>"
+  },
+  {
+    "Frage": "Was bedeutet Positionierung?",
+    "Antwort": "1. Die Positionierung ist die Aufstellung der Marke, des Produktes, des Unternehmens im Markt.; 2. Unterscheidung zum Wettbewerb."
+  },
+  {
+    "Frage": "Was sind die Ziele integrierter Kommunikation?",
+    "Antwort": "1. Wiedererkennung des Unternehmens / der Marke (durch Wiederholung); 2. Aufmerksamkeit / Bekanntheit (Aufmerksamkeit entsteht durch \"Erkennen\" und \"Wiedererkennen\"); 3. Einheitlichkeit auf allen Plattformen (eines der wichtigsten Ziele: Synergieeffekte); 4. Wiederholung (Bsp. für eventuelle Fehlentscheidung: Änderung des Lufthansa Spiegelei); 5. Abgrenzung zum Wettbewerb; 6. Synergie-Effekte / Kostenreduktion"
+  },
+  {
+    "Frage": "Wie ist die Marketingkommunikation (innerhalb der integrierten Kommunikation) aufgeteilt?",
+    "Antwort": "1. Unternehmenskommunikation; 2. Produktkommunikation; 3. (Beide können ganz unterschiedlich ausfallen)"
+  },
+  {
+    "Frage": "Wie sind Verantwortlichkeiten in der Unternehmens-Kommunikation organisiert?",
+    "Antwort": "1. Unternehmensführung (an der Spitze); 2. Verwaltung, Produktion, Vertrieb, Marketing (darunter); 3. Corporate Identity und Unternehmenskommunikation (verbunden mit der Unternehmensführung); 4. Marketingkommunikation (unter Marketing und verbunden mit Untern. Kommunikation)"
+  },
+  {
+    "Frage": "Was ist mit Corporate Identity gemeint?",
+    "Antwort": "1. Einheitliches Auftreten nach innen und nach außen; 2. Ausdruck der Identität und der Werte des Unternehmens"
+  },
+  {
+    "Frage": "Wie lautet der Satz von Sokrates der exakt den Charakter von Corporate Identitity beschreibt?",
+    "Antwort": "Be as you wish to be seen. (Verhalte dich so wie du wahrgenommen werden möchtest. [nicht: … wer du bist])"
+  },
+  {
+    "Frage": "Ist die Corporate Identity etwas natürliches? (Anlage?) oder strategisch?",
+    "Antwort": "Die CI besteht zu 100% aus strategisch festgelegten Aspekten. Sie ist nicht durch \"Gene\" bestimmt."
+  },
+  {
+    "Frage": "Was ist der Unterschied zwischen Identity bei Menschen und Unternehmen?",
+    "Antwort": "Identity ist die Individualität eines jeden Menschen. (gestaltet durch seine Kultur, seine Bildung, seine Erfahrung seine ganz persönliche Art.) vs. Die Corporate Identity ist die Unternehmensidentität (nicht vererbt sondern kreiert und praktiziert vom Management)"
+  },
+  {
+    "Frage": "Welche 4 Unterkategorien gehören zur CI?",
+    "Antwort": "1. CC: Corporate Communication<ul><li>(Einheitliche interne & externe Kommunikation)</li><li>Botschaft</li><li>Message</li><li>Content</li><li>-> eine Änderung verändert die Erwartungshaltung</li></ul>; 2. CD: Corporate Design (für viele ist CD = CI, aber es gehört mehr dazu); 3. CB: Corporate Behaviour<ul><li>Kompetenz</li><li>Wissen</li><li>Umsetzungen des Managements</li></ul>; 4. CCP: Corporate Competence<ul><li>Verhalten Aller gegenüber Allen.</li><li>Bsp. VW -> gut zu Kunden aber schlecht zu Lieferanten</li></ul>"
+  },
+  {
+    "Frage": "Was ist das CD?",
+    "Antwort": "Corporate Design (Das unverwechselbare <strong>Aussehen</strong>, um das Unternehmen zu identifizieren - unter Einbeziehung aller Design / Stiel-Elemente)<ul><li>Name & Typologie</li><li>Logo (Symbol) & Farben</li><li>Produkt-Design & Produkt-Verpackung</li></ul>"
+  },
+  {
+    "Frage": "Was ist die CC?",
+    "Antwort": "Corporate Communication (Die unverwechselbare <strong>Botschaft</strong> (Aussage / Message / Content) des Unternehmens zur Identifikation und Vermittlung ihrer Werte.)"
+  },
+  {
+    "Frage": "Was ist das CB?",
+    "Antwort": "Corporate Behaviour (Die Qualität des <strong>Verhaltens</strong> aller Unternehmens-Mitglieder gegenüber allen Stakeholdern intern und extern)"
+  },
+  {
+    "Frage": "Was ist die CCP?",
+    "Antwort": "Corporate Competence (Die <strong>Haltung</strong> des Unternehmens-Managements)<ul><li>Know-How gehört auch dazu</li><li>Die Haltung gilt Allen gegenüber</li><li>Die Haltung / Einstellung ist am Verhalten festzustellen</li><li>Bsp. Trumps Haltung schlägt bei seinem Verhalten durch</li></ul>"
+  },
+  {
+    "Frage": "Wie lässt sich Corporate Design (CD) übersetzen?",
+    "Antwort": "Erscheinungsbild"
+  },
+  {
+    "Frage": "Was zeichnet das Corporate Design (CD) aus?",
+    "Antwort": "Das CD besteht aus den immer gleichen Design- und Stil-Elementen."
+  },
+  {
+    "Frage": "Wodurch entsteht der Erfolg & die Wiedererkennung (bezogen auf das Corporate Design)?",
+    "Antwort": "Durch die<ul><li>Individualität</li><li>und die spezifische Ausprägung</li></ul>die ständig wiederholt wird."
+  },
+  {
+    "Frage": "Was prägt die Erwartungen und gibt Orientierungshilfe?",
+    "Antwort": "1. Design- und Stil-Elemente; 2. Sie müssen vertraut sein, damit wir sie begreifen."
+  },
+  {
+    "Frage": "Wozu dienen Design- und Stil-Elemente?",
+    "Antwort": "1. Sie prägen <strong>Erwartungen</strong> und geben <strong>Orientierungshilfe</strong>.; 2. Sie müssen vertraut sein, damit wir sie begreifen."
+  },
+  {
+    "Frage": "Wie lautet der Merksatz zum Corporate Design?",
+    "Antwort": "\"Wechselt man die Stilelemente - verändert sich die Erwartung!\""
+  },
+  {
+    "Frage": "Was ist die Corporate Communication (CC)?",
+    "Antwort": "Die Corporate Communication ist die <strong>Botschaft des Unternehmens</strong>."
+  },
+  {
+    "Frage": "Wie wirkt die Corporate Communication (CC)?",
+    "Antwort": "Die Corporate Communication wirkt in <strong>verschiedenen Richtungen</strong> und wird durch <strong>verschiedenen Kanäle</strong> verbreitet.<ul><li>nach innen in Richtung der eigenen <strong>Mitarbeiter</strong></li><li>nach außen in Richtung <strong>Öffentlichkeit & Markt</strong> (Kunden, etc)</li></ul>"
+  },
+  {
+    "Frage": "Was ermöglicht die Corporate Communication (CC)?",
+    "Antwort": "Die Abgrenzung des Unternehmens gegenüber dem Wettbewerb."
+  },
+  {
+    "Frage": "Wofür ist die Botschaft (im Rahmen der Corporate Communication) die Basis?",
+    "Antwort": "Für Vertrauen und Glaubwürdigkeit."
+  },
+  {
+    "Frage": "Wie lautet der Merksatz zur Corporate Communication (CC)?",
+    "Antwort": "\"Ändert man die Botschaft - verliert man Vertrauen und Glaubwürdigkeit!\""
+  },
+  {
+    "Frage": "Was ist die Voraussetzung für das Entstehen eines indivduellen Image?",
+    "Antwort": "Das Verhalten (im Rahmen des Corporate Behaviour)"
+  },
+  {
+    "Frage": "Wofür ist das Verhalten die Voraussetzung (im Rahmen des Corporate Behaviour)?",
+    "Antwort": "Für das Entstehen eines individuellen Image."
+  },
+  {
+    "Frage": "Wie lautet der Merksatz zum Corporate Behaviour (CB)?",
+    "Antwort": "\"Verhaltenswechsel erzeugt Verwirrung und letztendlich Verlust der Glaubwürdigkeit!\""
+  },
+  {
+    "Frage": "Warum sollte sich, im Rahmen des Corporate Behaviour, alle Personen im Unternhemen ein bestimmtes und immer gleiches Verhalten an den Tag legen?",
+    "Antwort": "1. Es <strong>prägt</strong> das Image des Unternehmens am Markt und in der Öffentlichkeit.; 2. es schafft <strong>Glaubwürdigkeit</strong>."
+  },
+  {
+    "Frage": "Was Schafft Glaubwürdigkeit und prägt das Image des Unternehmens am Markt und in der Öffentlichkeit?",
+    "Antwort": "Ein <strong>bestimmtes</strong> und <strong>immer gleiches Verhalten</strong> aller Personen im Unternehmen."
+  },
+  {
+    "Frage": "Was ist die Corporate Competence (CCP)?",
+    "Antwort": "Die Corporate Competence ist die <strong>Haltung</strong> des Unternehmens-Management und seiner Werte. (PS: der Satz ist nicht von mir)"
+  },
+  {
+    "Frage": "Was gehört zur Haltung bzw. zu den Werten des Unternehmens-Management im Rahmen der Corporate Competence (CCP)?",
+    "Antwort": "1. <strong>Führungskompetenz</strong>: steht für die <strong>Zukunftsorientierung</strong> des Unternehmens in Bezug<ul><li>zum Markt,</li><li>zu globalen Herausforderungen</li><li>und zu den Menschen (Mitarbeitern, Kunden , Stakeholdern)</li></ul>; 2. <strong>Sachkompetenz</strong>: steht für bestimmte<ul><li><strong>Leistungen</strong></li><li>und bestimmtes <strong>Know-How</strong></li></ul>; 3. <strong>Produktkompetenz</strong>: ergibt sich immer aus<ul><li>der <strong>Sachkompetenz</strong></li><li>und der <strong>Führungskompetenz</strong></li></ul>"
+  },
+  {
+    "Frage": "Wie lautet der Merksatz zur Corporate Competence (CCP)?",
+    "Antwort": "Corporate Competence ist auf <strong>langfristige Werte</strong> angelegt - <strong>NICHT</strong> auf <strong>kurzfristige Gewinn(e)-Aktionen</strong>!"
+  },
+  {
+    "Frage": "Was ist ein Marketing-Budget?",
+    "Antwort": "Scherz! ;) (kommt nicht dran. Hoffe ich zumindest…)"
+  },
+  {
+    "Frage": "Was ist die Definition für Corporate Identity (CI)?",
+    "Antwort": "1. Die Corporate Identity ist die vollkommene <strong>Gleichheit</strong> und <strong>Übereinstimmung</strong> zwischen<ul><li>Denken,</li><li>Handeln</li><li>und Auftreten</li></ul>des Unternehmens nach <strong>innen</strong> und <strong>außen</strong>.; 2. (Anmerkung: Nicht wirklich realistisch sondern Ideal-Vorstellung)"
+  },
+  {
+    "Frage": "Was beinhaltet die Corporate Identity (CI) neben den Grundeigenschaften zusätzlich  noch?",
+    "Antwort": "Die CI beinhaltet zusätzlich die <strong>Kontinuität im Auftreten</strong> durch<ul><li>Individualität</li><li>und Unverwechselbarkeit gegenüber dem Wettbewerb</strong></li></ul>"
+  },
+  {
+    "Frage": "Was ist Corporate Identity nicht? Was ist es stattdessen?",
+    "Antwort": "CI ist kein Projekt, sondern ein <strong>Entwicklungsprozess</strong> der <strong>alle Unternehmensaufgaben</strong> ganzheitlich einbezieht."
+  },
+  {
+    "Frage": "Wie lautet der Merksatz zur Corporate Identity (CI)?",
+    "Antwort": "1. \"Die Identität wird zerstört durch unterschiedliches Denken, Handeln und Auftreten!\"; 2. (ausgelöst durch Diskrepanzen im Management, in der Mentalität, der Hierarchie und den Befugnissen)"
+  },
+  {
+    "Frage": "Was ist eine Marke?",
+    "Antwort": "1. Brand; 2. Mehr als nur ein Logo!; 3. Def. (zumindest laut Dozentin): \"Eine Idee/Vorstellung des Kunden von einem Produkt oder einem Unternehmen!\""
+  },
+  {
+    "Frage": "Was ist die Basis für das Branding?",
+    "Antwort": "Die Corporate Identity (CI)"
+  },
+  {
+    "Frage": "Wie lautet die Definition einer Marke nach Meffert?",
+    "Antwort": "1. \"Die Marke ist ein in der <strong>Psyche der Nutzer</strong> verankertes, unverwechselbares <strong>Vorstellungsbild</strong> von einem Produkt, einer Dienstleistung oder einem Unternehmen.\"; 2. Anmerkung: Das Unternehmen legt den Anker."
+  },
+  {
+    "Frage": "Es gibt drei schöne Sätze (in englischer Sprache) die eine Örtlichkeit bezüglich des Produktes, der CI und der Marke zum Ausdruck bringen. Nenne die drei Sätze.",
+    "Antwort": "1. A <strong>product</strong> is made in a <strong>factory</strong>.; 2. The <strong>Corporate Identity</strong> is made by the <strong>company's management</strong>.; 3. A <strong>brand</strong> is made in the <strong>customer's mind</strong>."
+  },
+  {
+    "Frage": "Warum lieben wir Brands?",
+    "Antwort": "1. Marken geben uns ein <strong>Versprechen</strong> in Bezug auf <strong>Qualität</strong> und <strong>Kompetenz</strong>.; 2. Sie signalisieren einen speziellen<ul><li>Wert,</li><li>Status</li><li>und Prestige</li></ul>und transportieren ein bestimmtes <strong>Image</strong> mit dem sich der Nutzer <strong>identifizieren</strong> kann.; 3. Anmerkungen:<ul><li>Wir übernehmen Werte/Lebensgefühl (\"fühlt sich gut an\")</li><li>nimmt uns Entscheidungen ab</li><li>Qualitätssignal</li><li>Nutzer müssen sich mit Marke identifizieren können</li></ul>"
+  },
+  {
+    "Frage": "Preis und Qualität sind wichtig. Aber Emotionen steuern unser Denken. Was hat der Marketing Guru Bill Bernbach in diesem Zusammnhang über das menschliche Gehirn gesagt?",
+    "Antwort": "1. \"Das menschliche Gehirn sucht<ul><li>nach der Wahrheit</li><li>nach Vorteilen</li></ul>und es tut alles, um uns davon zu überzeugen, dass das die Wahrheit ist.\"; 2. Anmerkung: Vermeidung kognitiver Dissonanz"
+  },
+  {
+    "Frage": "Wie lautet das \"Zauberwort\" in der Marketingkommunikation?",
+    "Antwort": "1. \"Benefit\" (Nutzen); 2. Anmerkung: Das Hirn braucht Belohnung (Bedürfnisbefriedigung)."
+  },
+  {
+    "Frage": "Wie lautet der Entwickler der Markentechnik?",
+    "Antwort": "Hans Domizlaff"
+  },
+  {
+    "Frage": "Welche Strategie ist laut unserer Dozentin besonders auf den Benefit/Nutzen ausgerichtet?",
+    "Antwort": "Die <strong>Copy Strategie</strong>"
+  },
+  {
+    "Frage": "Wie ist die Copy Strategie aufgegliedert? (Nenne auch die jeweiligen Bedeutungen)",
+    "Antwort": "<strong>Positionierung</strong>: ist die Abgenzung zum Wettbewerb.<ul><li><strong>Benefit</strong>: ist das Versprechen</li><li><strong>Reason why</strong>: ist die Begründung des Versprechens (Beweis) </li><li><strong>Tonalität</strong>: ist die Stimmung, Atmosphäre, Tonalität der Aussage</li></ul>"
+  },
+  {
+    "Frage": "Woher stammt die <strong>Copy Strategie</strong> ursprünglich?",
+    "Antwort": "Aus klassischen Werbeagenturen"
+  },
+  {
+    "Frage": "Nenne Beispiele, Anwendungsbereiche für die Copy Strategie.",
+    "Antwort": "1. Bsp. Zahnpasta: Wird von mehreren Firmen in unterschiedlichsten Varianten vertrieben. (Zielgruppenoptimierung). Es gibt Zahnpasta gegen Mundgeruch und Zahnpasta für weiße Zähne. Eigentlich können alle alles.; 2. Grund: Abgrenzung vom Wettbewerb."
+  },
+  {
+    "Frage": "Warum ist die Copy Strategie sinnvoll?",
+    "Antwort": "1. Egal welches Produkt, es gibt jede Menge Unterschiede; 2. Die Produkteigenschaften/ -unterschiede spielen sich häufig im Kopf des Kunden ab."
+  },
+  {
+    "Frage": "Wer definiert die Copy Strategie? Und wer übernimmt die Konzepte danach zur Weiterverarbeitung?",
+    "Antwort": "1. der Art-Director; 2. zum Creative Director"
+  },
+  {
+    "Frage": "Was ist Marketing? (nach Meffert)",
+    "Antwort": "1. <strong>\"Die Grundlage markt-orientierter Unternehmensführung.\"</strong> (P.S.: Das ist der Titel von Mefferts Markting Buch ;-); 2. eignetliche Definition: \"Marketing ist ein <strong>Instrument der Unternehmensführung</strong>: zur strategischen <strong>Planung</strong> sowie <strong>Koordination</strong> und <strong>Steuerung</strong> aller <strong>Unternehmensaktivitäten</strong> innerhalb eines <strong>definierten Marktes</strong>."
+  },
+  {
+    "Frage": "Zur Vermarktung von Produkten/Leistungen und/oder des Unternehmens wird in 4 Arten des <strong>strategischen Marketings</strong> unterschieden. Welche sind das? (nenne auch die Zielgruppen)",
+    "Antwort": "1. <strong>Investitions-Güter Marketing</strong><ul><li>Unternehmen (B2B)</li></ul>; 2. <strong>Konsum- & Gebrauchs-Güter Marketing</strong><ul><li>Handel (B2B),</li><li>Konsumenten/ Gebraucher (B2C)</li></ul>; 3. <strong>Dienstleistungs-Marketing</strong><ul><li>Unternehmen (B2B)</li><li>oder Konsumenten</li></ul>; 4. <strong>Unternehmens-Marketing</strong><ul><li>Öffentlichkeit (extern)</li><li>Mitarbeiter (intern)</li></ul>"
+  },
+  {
+    "Frage": "Nenne 6 mögliche Teilöffentlichkeiten.",
+    "Antwort": "1. Bewerber; 2. Lieferanten; 3. Investoren & Aktienhalter; 4. Politiker; 5. Presse (gesondert, weil Multiplikatoren); 6. Anwohner"
+  },
+  {
+    "Frage": "Nenne die 4 historischen Entwicklungsstufen des Marketings. (mit Bezeichnung, Datum und Fokus)",
+    "Antwort": "1. Bis 1900/1910: Nachfrage Überschuss <strong>(Nachfrage-Markt)</strong><ul><li>Marketing Fokus: Effiziente Verteilung</li></ul>; 2. Seit 1910: Angebots Überschuss <strong>(Angebots-Markt)</strong><ul><li>Marketing-Fokus: Verkauf & Werbung</li></ul>; 3. Seit 1950: Steigender Wettbewerb <strong>(Wettbewerbs-Markt)</strong><ul><li>Marketing-Fokus: Marketing-Mix und USP</li></ul>; 4. Seit 1990: <strong>Kunden-Orientierung</strong><ul><li>Marketing-Fokus: Kundenzufriedenheit/Kundenbindung</li></ul>"
+  },
+  {
+    "Frage": "Was bedeutet die historische Entwicklung des Marketings für die Unternehmenskommunikation? (nenne kurz wie es war und was heute der Fall ist, bzw. was in Zukunft zu erwarten ist)",
+    "Antwort": "1. Am Anfang war alles auf Produkte ausgerichtet.; 2. Dann auf Werbung und Image.; 3. Dann Service (Zusätze); 4. Dann Emotionalität; 5. HEUTE: Positionierung des Unternehmens als \"artiges Unternehmen\"; 6. Mögliche TRENDS:<ul><li>AI (Artificial Intelligence)</li><li>Lokalität</li><li>Monopolisten</li></ul>"
+  },
+  {
+    "Frage": "Worüber müssen sich Gründer vorab Gedanken machen?",
+    "Antwort": "1. Gibt es einen Markt?; 2. Wie ist der Wettbewerb?; 3. Wieviele Kunden gibt es?; 4. Was sind die Trends?"
+  },
+  {
+    "Frage": "In der Konsumententypologie gibt es die Bezeichnung <strong>LOHAS</strong>. Wofür steht das Akronym?",
+    "Antwort": "<strong>L</strong>ifestyle <strong>O</strong>f <strong>H</strong>ealth <strong>A</strong>nd <strong>S</strong>ustainability"
+  },
+  {
+    "Frage": "Wie setzt sich der Marketing-Mix zusammen?",
+    "Antwort": "Marketing-Mix<ul><li>Produkt-Strategie</li><li>Preis-Strategie</li><li>Distributions-Strategie</li><li><strong>Kommunikations-Strategie</strong></li></ul>"
+  },
+  {
+    "Frage": "Nenne Beispiele für<ul><li>Medien</li><li>Werbeträger</li><li>Kommunikations-Instrumente</li></ul>",
+    "Antwort": "1. Medien:<ul><li>FFF (Film-, Funk-, Fernsehwerbung)</li><li>Internet</li>; 2. Werbeträger:<ul><li>Zeitung</li><li>Zeitschriften</li></ul>; 3. Kommunikations-Instrumente:<ul><li>Werbung</li><li>PR</li><li>Verkaufsförderung</li><li>persönlicher Verkauf</li><li>Event</li></ul>"
+  },
+  {
+    "Frage": "Was ist die Aufgabe der Kommunikations-Strategie?",
+    "Antwort": "1. Die <strong>Information</strong> über das Unternehmen; 2. und die <strong>Bekanntmachung</strong> der angebotenen Waren oder Dienstleistungen<ul><li>innerhalb eines definierten Marktes</li><li>bei einer definierten Zielgruppe</li></ul>"
+  },
+  {
+    "Frage": "Nenne 7 Beispiele für Ziele in der Markteting- und Unternehmenskommunikation.",
+    "Antwort": "1. Bekanntheit; 2. Image; 3. Wiedererkennung; 4. Vetrauen; 5. Loyalität; 6. Wertschätzung"
+  },
+  {
+    "Frage": "Nenne 5 Beispiele für Zielgruppen in der Markteting- und Unternehmenskommunikation.",
+    "Antwort": "1. Öffentlichkeit; 2. Mitarbeiter; 3. Aktionäre; 4. Lieferanten; 5. Kunden"
+  },
+  {
+    "Frage": "Skizziere wie sich die Instrumente der Marketing-Kommunikation im Marketing-Mix eingliedern.",
+    "Antwort": "Marketing-Mix<ul><li>Produkt-Strategie</li><li>Preis-Strategie</li><li>Distributions-Strategie</li><li><strong>Kommunikations-Strategie</strong></li><ul><li>Werbung<ul><li>Direkt-Marketing</li></ul></li><li>PR<ul><li>Social Media</li><li>Sponsoring<ul><li>CSR</li></ul></li></ul></li><li>Verkaufsförderung</li><li>persönlicher Verkauf</li><li>Veranstaltungen<ul><li>Events, Messe, Kongress</li></ul></li></ul></ul>"
+  },
+  {
+    "Frage": "Nenne die Instrumente der Marketing-Kommunikation",
+    "Antwort": "1. Indirekte Kommunikation<ul><li>Werbung</li><li>PR</li><li>Verkaufsförderung</li><li>Corporate Social Responsibility (CSR)</li></ul>; 2. Direkte Kommunikation (Face2Face)<ul><li>Persönlicher Verkauf</li><li>Veranstaltungen</li></ul>"
+  },
+  {
+    "Frage": "Was ist die Aufgabe des Marketing-Instruments <strong>Werbung</strong>?",
+    "Antwort": "Eine <strong>Information</strong> (Produkt/DL) bei einer definierten Zielgruppe <strong>bekannzumachen</strong> und im Bewusstsein <strong>aktuell</strong> zu halten."
+  },
+  {
+    "Frage": "Welche Aufgabe hat das Marketing-Instruments <strong>Public Relations (Öffentlichkeitsarbeit)</strong>?",
+    "Antwort": "PR ist die permantent <strong>Pflege der Beziehungen zur Öffentlichkeit</strong>, um eine <strong>positive Meinung</strong> über das Unternehmen herzustellen."
+  },
+  {
+    "Frage": "Was bedeutet <strong>Verkaufsförderung</strong> als Marketing-Instrument?",
+    "Antwort": "VKF ist gezieltes, kurzfristiges <strong>Stimulieren des Absatzes / der Aufmerksamkeit</strong> unmittelbar am <strong>Ort des Verkaufs (POS)</strong>."
+  },
+  {
+    "Frage": "Was ist die Aufgabe des Marketing-Instruments <strong>Persönlicher Verkauf</strong>?",
+    "Antwort": "<strong>Beratung und Verkauf</strong> im direkten Kontakt zum Kunden zu realisieren (z.B. Vertrieb, Außendienst)."
+  },
+  {
+    "Frage": "Nenne Beispiele für Verkaufsförderung (VKF).",
+    "Antwort": "1. Rabatte; 2. Treuepunkte; 3. Jubileumseditionen; 4. Künstliche Verknappung (z.B. Mon Chéri); 5. (ANMERKUNG: Payback ist KEINE Verkaufsförderung im engeren Sinne. PB ist ein Deal: Rabatt gegen Daten)"
+  },
+  {
+    "Frage": "Wo werden Emotionen im menschlichen Hirn verarbeitet? Wozu trägt der Bereich noch bei und was resultiert daraus?",
+    "Antwort": "1. Im limbischen System; 2. zur Enstehung von Triebverhalten; 3. Eindrücke werden schneller gespeichert, bleiben länger erhalten und können schneller abgerufen werden"
+  },
+  {
+    "Frage": "Welche Art von Kontakt bieten Veranstaltungen? Und welche Art der Kommunikation bieten sie?",
+    "Antwort": "1. Face-2-Face Kontakt; 2. Live-Kommunikation"
+  },
+  {
+    "Frage": "Veranstaltungen gehören zu den direkten Kommunikationsistrumenten. Welche Aufgabe erfüllen sie?",
+    "Antwort": "In einer wirkungsvollen Umgebung <strong>alle Sinne</strong> des Besuchers gezielt und gleichzeitig anzusprechen, um die <strong>Erinnerung</strong> zu steigern und zusätzlich das <strong>Vertrauen</strong> durch den persönlichen Kontakt (Face-2-Face) zu stärken."
+  },
+  {
+    "Frage": "Welche 3 Instrumente der Kommunikations-Politik gibt es?",
+    "Antwort": "1. Direkt-Marketing; 2. Sponsoring; 3. Social Media"
+  },
+  {
+    "Frage": "In der Kommunikations-Politik hat jedes Instrument eine andere Aufgabe. Welche Aufgabe hat das <strong>Direkt-Markting</strong>?",
+    "Antwort": "Die Zielgruppe mit einem <strong>maßgeschneiderten Angebot</strong> persönlich anzusprechen und einen <strong>Dialog</strong> zu starten."
+  },
+  {
+    "Frage": "In der Kommunikations-Politik hat jedes Instrument eine andere Aufgabe. Was ist <strong>Sponsoring</strong> und welche Aufgabe erfüllt diese Instrument?",
+    "Antwort": "1. Sponsoring ist ein Finanzierungs- und Kommunikationsinstrument; 2. Es hat die Aufgabe <strong>werbliche Botschaften</strong> in einem <strong>nicht-werblichen Umfeld</strong> zu platzieren, um die Zielgruppe zu erreichen."
+  },
+  {
+    "Frage": "In der Kommunikations-Politik hat jedes Instrument eine andere Aufgabe. Was ist <strong>Social Media</strong> und wie funktioniert dieses Instrument?",
+    "Antwort": "1. Social Media sind <strong>IT-Plattformen</strong>, die den Teilnehmern ermöglichen <strong>Informationen</strong> in Form von Schrift, Bild & Ton miteinander und untereinander <strong>auszutauschen</strong>. Entweder one-to-one oder one-to-many.; 2. (Aufhebung der Einbahn Kommunikation)"
+  },
+  {
+    "Frage": "Was hat der <strong>Persönliche Verkauf</strong> und die <strong>Veranstaltung</strong> gemeinsam?",
+    "Antwort": "1. Direktes Kommunikationsinstrument; 2. i.d.R. die selben Personen (Außendienst + Kunde); 3. selbe Message; 4. selbes Ziel (Verkauf)"
+  },
+  {
+    "Frage": "Was unterscheidet die <strong>Veranstaltung</strong> vom <strong>Persönlichen Verkauf</strong>?",
+    "Antwort": "Der Ort. Statt im Büro des Kunden findet die Kommunikation am Veranstaltungsort bzw. dem Messestand des Unternehmens statt."
+  },
+  {
+    "Frage": "Welcher Werbeträger wurde beim Direkt-Marketing früher verwendet? Welcher heute?",
+    "Antwort": "1. Früher: Post; 2. Heute: Email"
+  },
+  {
+    "Frage": "Worauf geht <strong>Sponsoring</strong> geschichtlich zurück und wie wird es deshalb noch genannt?",
+    "Antwort": "1. Gallius Cilnius Maecenas; 2. Mäzenen-Leistung (Geld ohne Gegenleistung)"
+  },
+  {
+    "Frage": "Was bedeutet <strong>Corporate Social Responsibility</strong> (CSR)? Nenne auch den Merksatz dazu und worauf man achten sollte.",
+    "Antwort": "1. Das Unternehmen übernimmt Verantwortung im Rahmen der<ul><li>Sozialen-,</li><li>Ökologischen-,</li><li>und Ökonomischen-</li></ul>Aufgaben der Gesellschaft.; 2. CSR sind Dinge, die ein Unternehmen für die Allgemeinheit tun kann.; 3. \"Tue Gutes und Rede darüber!\"; 4. Vorsicht: Image-Maßnahmen sollten vom <em>Herzen</em> kommen."
+  },
+  {
+    "Frage": "Marketing-Kommunikation kann auch in Abfolge strategischer Kategorien, bis hin zur Umsetzung, verstanden werden. Wie sieht diese Abfolge aus?",
+    "Antwort": "1. Strategische Umsetzung in Hinblick auf:<ol><li>die Medien</li><li>die Werbeträger & Werbemittel</li><li>das Einsatzgebiet</li><li>die Zeit</li><li>die Botschaft (Inhalt)</li></ol>; 2. Eigentliche Umsetzung:<ol><li>die Gestaltung</li></ol>"
+  },
+  {
+    "Frage": "Was sind <strong>Medien</strong>? (im Rahmen strategischer Marketing-Kommunikation)",
+    "Antwort": "1. Print; 2. FFF (Film, Funk, Fernsehen); 3. Elektronische Medien; 4. Live-Kommunikation; 5. etc."
+  },
+  {
+    "Frage": "Was sind <strong>Werbeträger oder Werbemittel</strong>?  (im Rahmen strategischer Marketing-Kommunikation)",
+    "Antwort": "1. Zeitungen & Zeitschriften & Magazine; 2. Anzeigen; 3. Spots (in Film & Funk); 4. Außenwerbung (Plakate & Großflächen); 5. Eigene Werbemittel (Newsletter, Hompage, etc.)"
+  },
+  {
+    "Frage": "Wie lässt sich das <strong>Einsatzgebiet</strong> im Rahmen strategischer Marketing-Kommunikation unterteilen?",
+    "Antwort": "1. lokal; 2. regional; 3. national; 4. international"
+  },
+  {
+    "Frage": "In welche Kategorien lässt sich der Faktor <strong>Zeit</strong> hinsichtlich der strategischen Marketing-Kommunikation unterteilen?",
+    "Antwort": "1. Zeitpunkt; 2. (Zeit)Dauer; 3. (Zeit)Intervall; 4. Turnus"
+  },
+  {
+    "Frage": "Welche Kategorien gehören zur <strong>Botschaft</strong> im Rahmen der strategischen Marketing-Kommunikation?",
+    "Antwort": "1. Content; 2. Concept-Line; 3. Copy-Strategie; 4. Storytelling"
+  },
+  {
+    "Frage": "Die eigentliche Umsetzung der Marketing-Kommunikation geschieht in der <strong>Gestaltung</strong>. Welche Kategorien gehören zur Gestaltung?",
+    "Antwort": "1. CD (Corporate Design); 2. Key-Visuals; 3. Form; 4. Farbe; 5. Material; 5. etc"
+  },
+  {
+    "Frage": "Nenne ein Beispiel für eine gelungene integrierte Kommunikation. Welches Umsetzungsmittel wurde vor allem genutzt? Und was die zentrale Message?",
+    "Antwort": "1. Road Show <strong>\"Story of Passion\"</strong> von Mercedes.; 2. Integrierte Kommunikation über <strong>Concept-Line</strong>; 3. zentrales Schema: Passion<ul><li>heute</li><li>gestern</li><li>morgen</li></ul>"
+  },
+  {
+    "Frage": "Die Concept-Line ist kein \"Muss\" für integrierte Kommunikation, macht diese aber einfacher. Wie lautet die Definition für <strong>Concept-Line</strong>?",
+    "Antwort": "Die <strong>Concept-Line</strong> ist die Grund-Idee und Leitlinie eines Projektes oder einer Kampagne in der Marketing-Kommunikation."
+  },
+  {
+    "Frage": "Der Klimageräterhersteller <strong>Daikin</strong> hatte 2016 einen Messestand, der das Konzept integrierter Kommunikation verfolgte. Was waren die zentralen Aspekte, was war die Concept-Line?",
+    "Antwort": "1. Klimageräte gelten als nicht-umweldfreundlich. Daikin wirbt daher grundsätzlich damit, dass ihre Klimageräte die Warmluft wiederverwenden.; 2. Sie heben daher immer wieder den Begriff <strong>sustainability</strong> hervor.; 3. Auf der Messe war daher die Idee: \"Alles geht wieder in den Zyklus zurück\" (Alle Messestandelemente bestanden aus Naturelementen); 4. Die Conpet-Line: \"Nur geliehen!"
+  },
+  {
+    "Frage": "Was war die Concept-Line bei Mercedes Aktion: \"Tramp a Benz\"? Was war das Ziel?",
+    "Antwort": "1. Loyalty; 2. Aufbau eines <strong>Community-Gedankens</strong>"
+  },
+  {
+    "Frage": "Bei einer Konzeption kommt erst die Strategie, dann die Umsetzung. Welcher 3 übergeordneten Vorbereitungsstufen bedarf es bei <strong>Corporate Events</strong> (Veranstaltungs-Konzeption)",
+    "Antwort": "1. Festlegung der Strategie; 2. Festlegung der Maßnahmen; 3. Planung"
+  },
+  {
+    "Frage": "Im Rahmen einer Veranstaltungskonzeption (Corporate Events) sollte zunächst die <strong>Strategie</strong> festgelegt werden. Welche Punkte gehören zu dieser Vorbereitungsphase?",
+    "Antwort": "1. <strong>Ausgangs-Situation</strong>:<ul><li>Grundlage ermitteln</li><li>Unternehmensziele festlegen/ergründen</li><li>Marketingziele bestimmen/festlegen</li></ul>; 2. <strong>Anlass / Positionierung</strong>; 3. <strong>Concept-Line</strong>; 4. <strong>Ziel setzen</strong>; 5. <strong>Zielgruppe(n) definieren</strong>"
+  },
+  {
+    "Frage": "Im Rahmen einer Veranstaltungskonzeption (Corporate Events) sollten im zweiten Schritt die <strong>Maßnahmen</strong> festgelegt werden. Welche Punkte gehören zu dieser Vorbereitungsphase?",
+    "Antwort": "1. <strong>Termin-Bestimmung</strong>; 2. <strong>Location-Bestimmung</strong>; 3. <strong>Auswahl des Venue</strong><ul><li>Raum / Platzbedarf</li><li>Gestaltung & Ausstattung / Mobiliar / Dekoration</li><li>Text & Grafik</li><li>Veranstaltungstechnik</li><li>; 4. <strong>Ankündigung & Einladung</strong>; 5. <strong>Programm</strong><ul><li>Botschaft & Didaktik (Information / Entertainment)</li><li>Exponate</li><li>Catering</li><li>etc.</li></ul>"
+  },
+  {
+    "Frage": "Im Rahmen einer Veranstaltungskonzeption (Corporate Events) sollte zuletzt die konkrete <strong>Planung</strong> stattfinden. Welche Punkte gehören zu dieser Vorbereitungsphase?",
+    "Antwort": "1. <strong>Bedarfs- / Zeit- / Budget-Planung</strong>; 2. <strong>Lead-Management & Follow-up</strong>; 3. <strong>Erfolgskontrolle</strong>; 4. <strong>Personal-Planung / Einsatz</strong>"
+  }
+])
