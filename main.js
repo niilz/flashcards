@@ -47,9 +47,11 @@ function defineQuestionSet(set) {
     questionSet = set;
 }
 
+let lastDeckIDX = 0;
 cardDeckOptions.forEach((deckID, i) => {
     const deck = document.querySelector(deckID);
     deck.addEventListener("change", () => {
+        lastDeckIDX = i;
         defineQuestionSet(questionSetsJSON[i]);
         newCard();
     })
@@ -150,6 +152,7 @@ function flipBackAndDisplayAnswer() {
 function newCard() {
     if (questionSet.length === 0 && nextRound.length > 0) {
         questionSet = nextRound;
+        questionSetsJSON[lastDeckIDX] = nextRound;
         nextRound = [];
     }
     // create new randomPair in global scope
