@@ -1,6 +1,12 @@
 // load questionSets into scope
 const questionSetsJSON = [mr, iuk, im, ik, orga, ar, hgb, v];
 
+// ask youser before leaving the page if they really want to
+window.addEventListener("beforeunload", (e) => {
+    e.preventDefault();
+    e.returnValue = "";
+});
+
 // getting the DOM elements 
 // Card Elements
 let card = document.querySelector(".card")
