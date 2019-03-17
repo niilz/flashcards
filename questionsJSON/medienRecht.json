@@ -17,7 +17,7 @@ mr = [
     },
     {
       "Frage": "Das Urheberrecht ist abzugrenzen von anderen Schutzrechten. Was ist dann eine <strong>Marke</strong>?",
-      "Antwort": "1. Wörter, Personennamen, Logos, Abbildungen, Buchstaben, Zahlen, Hörzeichen, dreidimensionale Gestaltung, Farben; 2. Sie müssen geeignet sein, Waren oder Diesntleistungen eines Unternehmens von anderen zu unterscheiden (§ 3 MarkenG); 3. Schutzfrist 10 Jahre"
+      "Antwort": "1. Wörter, Personennamen, Logos, Abbildungen, Buchstaben, Zahlen, Hörzeichen, dreidimensionale Gestaltung, Farben; 2. Sie müssen geeignet sein, Waren oder Dienstleistungen eines Unternehmens von anderen zu unterscheiden (§ 3 MarkenG); 3. Schutzfrist 10 Jahre"
     },
     {
       "Frage": "Wer ist ein Urheber (laut Gesetz)?",
@@ -25,7 +25,7 @@ mr = [
     },
     {
       "Frage": "Was ist nach dem Gesetz ein <strong>urheberrechtliches Werk</strong>?",
-      "Antwort": "Persönliche geistige Schöpfung\" (§ 2 Abs. 2 UrhG)"
+      "Antwort": "\"Persönliche geistige Schöpfung\" (§ 2 Abs. 2 UrhG)"
     },
     {
       "Frage": "Was bedeutet im Zusammenhang mit einem urheberrechtlichen Werk <strong>persönlich</strong>?",
@@ -145,11 +145,11 @@ mr = [
     },
     {
       "Frage": "Was gilt hinsichtlich des <em>Umfangs der Gegendarstellung</em>? (Also was muss z.B. die beschuldigte Zeitung beachten)",
-      "Antwort": "1. Das Verlangen auf Gegendarstellung muss dem zuständigen<strong> Redakteur schriflich und eigenhändig unterschrieben zugeleitet</strong> werden; 2. <strong>Angemessene Länge</strong>; 3. Gegendarstellung und Abdruckverlangen muss <strong>ohne schuldhafte Verzögerung</strong> dem Redakteur zugeleitet und bearbeitet werden; 4. In der <strong>nächstmöglichen Ausgage</strong>, ggf. im Wege einer einstweiligen Verfügung bei Eilbdürftigkeit; 5. Nur <strong>Tatsachenbehauptungen</strong>; 6. <strong>Vollständiger Abdruck</strong> (\"Alles oder Nichts\"); 7. An <strong>gleicher Stelle</strong> wie Falschmeldung (ggf. Titelseite); 8. <strong>kein \"Redaktionsschwanz\"</strong> (glossierende Anmerkung der Redaktion)"
+      "Antwort": "1. Das Verlangen auf Gegendarstellung muss dem zuständigen<strong> Redakteur schriflich und eigenhändig unterschrieben zugeleitet</strong> werden; 2. <strong>Angemessene Länge</strong>; 3. Gegendarstellung und Abdruckverlangen muss <strong>ohne schuldhafte Verzögerung</strong> dem Redakteur zugeleitet und bearbeitet werden; 4. In der <strong>nächstmöglichen Ausgabe</strong>, ggf. im Wege einer einstweiligen Verfügung bei Eilbdürftigkeit; 5. Nur <strong>Tatsachenbehauptungen</strong>; 6. <strong>Vollständiger Abdruck</strong> (\"Alles oder Nichts\"); 7. An <strong>gleicher Stelle</strong> wie Falschmeldung (ggf. Titelseite); 8. <strong>kein \"Redaktionsschwanz\"</strong> (glossierende Anmerkung der Redaktion)"
     },
     {
       "Frage": "Was lässt sich zum <strong>Informationsanspruch der Medien sagen</strong>? Bzw. welche Ausnahmen gelten?",
-      "Antwort": "1. Ein Anspruch ist <strong>grundsätzlich gegeben</strong>; 2. Ausnahmen:<ul><li>Durchführung eines <strong>schwebenden Verfahrens</strong> würde dadurch <strong>verhindert, erschwert</strong> oder <strong>verzögert</strong></li><li>Informationen unterlägen Vorschriften über die <strong>Geheimhaltung</strong></li><li>ein überwiegendes <strong>öffentliches</strong> oder schutzwürdiges <strong>privates Interesse</strong> würde <strong>verlezt</strong></li><li>Umfang der erbetenen Information ist <strong>unverhältnismäßig</strong></li><li><strong>Auskunftspflicht</strong> der öffentlich-rechtlichen <strong>Religionsgemeinschaftern</strong> (Kirchen) und <strong>Rundfunkanstalten</strong> ist <strong>strittig</strong></li></ul>"
+      "Antwort": "1. Ein Anspruch ist <strong>grundsätzlich gegeben</strong>; 2. Ausnahmen:<ul><li>Durchführung eines <strong>schwebenden Verfahrens</strong> würde dadurch <strong>verhindert, erschwert</strong> oder <strong>verzögert</strong></li><li>Informationen unterlägen Vorschriften über die <strong>Geheimhaltung</strong></li><li>ein überwiegendes <strong>öffentliches</strong> oder schutzwürdiges <strong>privates Interesse</strong> würde <strong>verletzt</strong></li><li>Umfang der erbetenen Information ist <strong>unverhältnismäßig</strong></li><li><strong>Auskunftspflicht</strong> der öffentlich-rechtlichen <strong>Religionsgemeinschaftern</strong> (Kirchen) und <strong>Rundfunkanstalten</strong> ist <strong>strittig</strong></li></ul>"
     },
     {
       "Frage": "Benenne die 5 Regelungen zum <strong>Recht am eigenen Bild</strong>.",
@@ -208,7 +208,7 @@ mr = [
       "Antwort": "1. Den Verantwortlichen drohen nur <strong>zivilrechtliche Sanktionen</strong>; 2. Da hierzu <strong>keine Strafbestimmungen</strong> bestehen"
     },
     {
-      "Frage": "Welche <strong>zivilrechtliche Sanktionen</strong> können Verantwortlichen drohen, wenn diese in eine der 3 Sphären (Sozial-, Privat-, Intim-) eingegriffen haben?",
+      "Frage": "Welche <strong>zivilrechtlichen Sanktionen</strong> können Verantwortlichen drohen, wenn diese in eine der 3 Sphären (Sozial-, Privat-, Intim-) eingegriffen haben?",
       "Antwort": "1. Unterlassungsanspruch; 2. Schadensersatz (Schmerzensgeld)"
     },
     {
@@ -292,7 +292,7 @@ mr = [
       "Antwort": "Regelmäßig in der Datenschutzerklärung einen <strong>Hinweis geben, dass keine  Haftung für die Inhalte</strong> übernommen wird, auf die durch die Verlinkung verwiesen wird."
     },
     {
-      "Frage": "Wer ist der Ansrpuchsgegner bei Rechtsstreitigkeiten wegen des Inhalts einer Website? Gegen wen ist die Klage daher zu richten?",
+      "Frage": "Wer ist der Anspruchsgegner bei Rechtsstreitigkeiten wegen des Inhalts einer Website? Gegen wen ist die Klage daher zu richten?",
       "Antwort": "1. Immer der Betreiber der betreffenden Domain.; 2. Die Klage ist daher immer gegen den Inhaber der Website zu richten."
     },
     {
