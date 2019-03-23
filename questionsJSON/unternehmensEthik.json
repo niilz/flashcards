@@ -65,7 +65,7 @@ ue = [
     },
     {
       "Frage": "Wie lautet der Merksatz zu den <strong>Empirischen Bedingungen</strong>?",
-      "Antwort": "\"Wir streben nach dem Besten, was wir innerhalb der Grenzen der Wirklichkeit erreichen können."
+      "Antwort": "\"Wir streben nach dem Besten, was wir innerhalb der Grenzen der Wirklichkeit erreichen können.\""
     },
     {
       "Frage": "Wie lautet der Merksatz zu den <strong>Ethischen Urteilen und Forderungen</strong>?",
@@ -149,7 +149,7 @@ ue = [
     },
     {
       "Frage": "Wie lässt sich <strong>Ethik</strong> und <stong>Moral</strong> nochmal kurz zusammenfassen?",
-      "Antwort": "1. <strong>Ethik</strong> beschäftigt sich mit der Frage der <strong>Moral</strong>, mit der wir<ul><li>gut leben,</li><li>gerecht handeln</li><li>und vernünftig über diese Fragen entscheiden können</li><li> -> Kriterien für gutes und schlechtes Handeln</li></ul>; 2. <strong>Moral</strong>:<strong>Konkretes Normensystem</strong> - Gesamtheit aller (anerkannten) Normen und Werte<ul><li>von Individuen,</li><li>(sozialen) Gruppen,</li><li>Gesellschaften</li><li>oder Kulturen</li></ul>"
+      "Antwort": "1. <strong>Ethik</strong> beschäftigt sich mit der Frage der <strong>Moral</strong>, mit der wir<ul><li>gut leben,</li><li>gerecht handeln</li><li>und vernünftig über diese Fragen entscheiden können</li><li> -> Kriterien für gutes und schlechtes Handeln</li></ul>; 2. <strong>Moral</strong>: <strong>Konkretes Normensystem</strong> - Gesamtheit aller (anerkannten) Normen und Werte<ul><li>von Individuen,</li><li>(sozialen) Gruppen,</li><li>Gesellschaften</li><li>oder Kulturen</li></ul>"
     },
     {
       "Frage": "Was ist die zentrale <em>ökonomische Funktion von Regeln</em>?",
@@ -189,7 +189,7 @@ ue = [
     },
     {
       "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf die <strong>Arbeitnehmer</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
-      "Antwort": "1. Anstieg der <strong>Mitarbeiterproduktivität</strong> bei gleichzeitigem <strong>Rückgang der Löhne und Fehlzeiten</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>Nachfrage der Mitarbeiter im Sinner der CSR erfüllt -> Loyalität und Produktivität (McWilliams & Siegel: 2001)</li><li>Wenn CSR zufriedenstellend -> verzichten Beschäftigte zum Teil auf Löhne (Reinhardt & Stavins: 2010)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Bei gutem Ruf (CSR) des Unternehmens -> verzichten Beschäftigte auf finanzielle Vorteile (Montgomery & Ramuy: 2007)</li><li>CSR bewirkt Anstieg der Mitarbeiterzufriedenheit (Riordan, Gatewood & Bill: 1997)</li><ul>"
+      "Antwort": "1. Anstieg der <strong>Mitarbeiterproduktivität</strong> bei gleichzeitigem <strong>Rückgang der Löhne und Fehlzeiten</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>Nachfrage der Mitarbeiter im Sinne der CSR erfüllt -> Loyalität und Produktivität (McWilliams & Siegel: 2001)</li><li>Wenn CSR zufriedenstellend -> verzichten Beschäftigte zum Teil auf Löhne (Reinhardt & Stavins: 2010)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Bei gutem Ruf (CSR) des Unternehmens -> verzichten Beschäftigte auf finanzielle Vorteile (Montgomery & Ramuy: 2007)</li><li>CSR bewirkt Anstieg der Mitarbeiterzufriedenheit (Riordan, Gatewood & Bill: 1997)</li><ul>"
     },
     {
       "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf die <strong>Kapitalkosten</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
@@ -221,7 +221,7 @@ ue = [
     },
     {
       "Frage": "Welche <em>Ökonomische Motivation</em> steht hinter den CSR-Aktiviäten beim Adressat <em>Kunde</em>? (Nenne auch ein Beispiel und wenn du noch kannst: die Konzeptionelle und/oder empirische Evidenz)",
-      "Antwort": "1. Motivation:<ul><li>Erhöung der <strong>Konsumentennachfrage</strong> durch Reduktion der Verunsicherung über <strong>Produktqualität</strong></li><li>Reputationseffekte</li></ul>; 2. Bespiel:<ul><li>Einhaltung von strengen, <em>selbstgesetzten Marktregulierungen</em></li><li>Kollektiver Einsatz des <em>Umweltengagements</em> Standards ISO14000</li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li><em>Einhaltung</em> von selbstgesetzten <em>Regelungen</em> kann sich <em>positiv</em> auf das <em>Einkaufsverhalten</em> der Konsumenten auswirken</li><li>Bei kollektiver Übernahme <em>umweltfreundlicher Standards</em>, erlangen Unternehmen eine <em>Reputation</em>, die sie eigenständig nicht hervorbringen könnten</li></ul>"
+      "Antwort": "1. Motivation:<ul><li>Erhöhung der <strong>Konsumentennachfrage</strong> durch Reduktion der Verunsicherung über <strong>Produktqualität</strong></li><li>Reputationseffekte</li></ul>; 2. Bespiel:<ul><li>Einhaltung von strengen, <em>selbstgesetzten Marktregulierungen</em></li><li>Kollektiver Einsatz des <em>Umweltengagements</em> Standards ISO14000</li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li><em>Einhaltung</em> von selbstgesetzten <em>Regelungen</em> kann sich <em>positiv</em> auf das <em>Einkaufsverhalten</em> der Konsumenten auswirken</li><li>Bei kollektiver Übernahme <em>umweltfreundlicher Standards</em>, erlangen Unternehmen eine <em>Reputation</em>, die sie eigenständig nicht hervorbringen könnten</li></ul>"
     },
     {
       "Frage": "Welche Annahmen äußerte <em>Milton Friedmam (1912-2006)</em> über das Wirtschaftssystem? (4 Aspekte)",
@@ -249,11 +249,11 @@ ue = [
     },
     {
       "Frage": "Wann sind Verträge hinsichtlich der <em>Freiheit</em> (im Rahmen von Unternehmensethik) ok?",
-      "Antwort": "Verträge sind nur <em>legitm</em> wenn:<ul><li>keine Handlungsoptionen eingeschränkt worden sind<br>(negative Freiheit = Veträge müssen Gelegenheiten sein und keine Zwänge)</li><li>eine vom Vertrag unabhängige Sicherheit existiert bzw. diese hypothetisch angenommen wird<br>(positive Freiheit = keine \"freiheitsfördernden Zwangsangebote\")"
+      "Antwort": "Verträge sind nur <em>legitim</em> wenn:<ul><li>keine Handlungsoptionen eingeschränkt worden sind<br>(negative Freiheit = Veträge müssen Gelegenheiten sein und keine Zwänge)</li><li>eine vom Vertrag unabhängige Sicherheit existiert bzw. diese hypothetisch angenommen wird<br>(positive Freiheit = keine \"freiheitsfördernden Zwangsangebote\")"
     },
     {
       "Frage": "Was setzen Verträge hinsichtlich der <em>Informiertheit</em> (im Rahmen von Unternehmensethik) vorraus?",
-      "Antwort": "1. Verträge sind nur legitm wenn die <strong>generellen Kompetenzen</strong> und <strong>konkreten Möglichkeiten</strong> zur <strong>Informationsverarbeitung</strong> gegeben sind; 2. Und wenn <strong>wesentliche Bestandteile und Risiken</strong> des Vetrages verständlich geregelt sind; 3. Auf Deutsch: Heimliche Klauseln sind Fragwürdig"
+      "Antwort": "1. Verträge sind nur legitim wenn die <strong>generellen Kompetenzen</strong> und <strong>konkreten Möglichkeiten</strong> zur <strong>Informationsverarbeitung</strong> gegeben sind; 2. Und wenn <strong>wesentliche Bestandteile und Risiken</strong> des Vetrages verständlich geregelt sind; 3. Auf Deutsch: Heimliche Klauseln sind Fragwürdig"
     },
     {
       "Frage": "Was fällt dir zu <strong>Externe Effekt</strong> im Rahmen von Verträgen zum Thema Unternehmensethik ein?",
@@ -261,7 +261,7 @@ ue = [
     },
     {
       "Frage": "Welche 4 Aspekte zählen zur <em>Republikanischen Dialogethik</em>",
-      "Antwort": "1. Republikanische Unternehmensethik = <strong>Rückbindung</strong> unternehmerischer Praxis <strong>an das öffentliche Wohl</strong> (\"res publica\"); 2. <strong>Dialogförderung</strong> durch ethische Seinsibilisierung von Organisationsstruktur und -kultur; 3. Ethische <strong>Entwicklung des Personals</strong> (Erziehung zu guten Bürgern); 4. Führungsethik; 5. Fazit: \"Wenn das Team ethisch handelt, muss ich weniger Kraft aufbringen ethisches Verhalten aufrecht zu erhalten)\""
+      "Antwort": "1. Republikanische Unternehmensethik = <strong>Rückbindung</strong> unternehmerischer Praxis <strong>an das öffentliche Wohl</strong> (\"res publica\"); 2. <strong>Dialogförderung</strong> durch ethische Sensibilisierung von Organisationsstruktur und -kultur; 3. Ethische <strong>Entwicklung des Personals</strong> (Erziehung zu guten Bürgern); 4. Führungsethik; 5. Fazit: \"Wenn das Team ethisch handelt, muss ich weniger Kraft aufbringen ethisches Verhalten aufrecht zu erhalten\""
     },
     {
       "Frage": "Nenne die zwei Punkte zu <strong>Political CSR</strong> (Ansatz von Scherer) und welche Frage wirft dies auf?",
