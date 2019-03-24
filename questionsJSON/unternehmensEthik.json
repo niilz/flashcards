@@ -97,7 +97,7 @@ ue = [
     },
     {
       "Frage": "Was war das Prinzip hinter der \"Wette auf den Tod\"?",
-      "Antwort": "1. Ende der 1980er Jahre; 2. Aids-Kranken wurden Lebensversicherungen verkauft; 3. Renditen waren umso höher, je früher der Kranke verstarb; 4. Markt brach 1996 weitgehend zusammen, da lebensverlängernde Therapien auf den Markt kamen; 5. Manche Investoren empfanden den Kauf von Medikamenten als Vertragsbruch; 6. Mittlerweile existiert ein allgemeinser \"Second-hand-Markt\" (\"viatical settlements\") mit ähnlichen Produkten"
+      "Antwort": "1. Ende der 1980er Jahre; 2. Aids-Kranken wurden Lebensversicherungen verkauft; 3. Renditen waren umso höher, je früher der Kranke verstarb; 4. Markt brach 1996 weitgehend zusammen, da lebensverlängernde Therapien auf den Markt kamen; 5. Manche Investoren empfanden den Kauf von Medikamenten als Vertragsbruch; 6. Mittlerweile existiert ein allgemeiner \"Second-hand-Markt\" (\"viatical settlements\") mit ähnlichen Produkten"
     },
     {
       "Frage": "Was steigt mit der Internationlität eines Unternehmens?",
@@ -165,7 +165,7 @@ ue = [
     },
     {
       "Frage": "Wirtschaftsethik lässt sich auch graphisch in 3 Ebenen aufteilen. Wie ist dieses Modell aufgebaut?",
-      "Antwort": "1. Prolbemebenen (X-Achse):<ul><li>Ordnungsethik</li><li>Handlungsethik</li></ul>; 2. Wirtschaftliche Betrachtungsgegenstände (Y-Achse):<ul><li>Unternehmensethik</li><li>Gesamtwirtschaftliche Ethik<ul><li>Ethik des Wirtschaftssystems</li><li>Ethik der Wirtschaftspolitik</li></ul></li></ul>; 3. Bezugsfelder (Z-Achse):<ul><li>Individualethik</li><li>Sozialethik</li><li>Umweltethik</li></ul>"
+      "Antwort": "1. Problemebenen (X-Achse):<ul><li>Ordnungsethik</li><li>Handlungsethik</li></ul>; 2. Wirtschaftliche Betrachtungsgegenstände (Y-Achse):<ul><li>Unternehmensethik</li><li>Gesamtwirtschaftliche Ethik<ul><li>Ethik des Wirtschaftssystems</li><li>Ethik der Wirtschaftspolitik</li></ul></li></ul>; 3. Bezugsfelder (Z-Achse):<ul><li>Individualethik</li><li>Sozialethik</li><li>Umweltethik</li></ul>"
     },
     {
       "Frage": "Was sind Gegenstände der Unternehmensethik?",
@@ -213,7 +213,7 @@ ue = [
     },
     {
       "Frage": "Welche <em>Ökonomische Motivation</em> steht hinter den CSR-Aktiviäten beim Adressat <em>Gesellschaft</em>? (Nenne auch ein Beispiel und wenn du noch kannst: die Konzeptionelle und/oder empirische Evidenz)",
-      "Antwort": "1. Motivation:<ul><li>Sicherung <strong>Kollektiver Legitimität</strong></li><li>Vermeidung von <strong>\"spillover\" Effekten</strong></li></ul>; 2. Beispiel:<ul><li><em>Chemieunternehmen</em> verpflichten sich zu <em>Verbesserungen</em> in den Bereichen Gesundheit, Sicherheit und umweltpolitische Leistungen.</li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li>Durch <em>freiwilliges Unterzeichnen von ethischen Standards</em>, versuchen Unternehmen die <em>gesellschaftliche Wahrnehmung</em> der wirtschaftlichen Globalisierung zu beeinflussen.</li><li>Unternhemen <em>schützen ihren Ruf gegen spillover Effekte</em>, die auftreten sobald die <em>gesamte Banche</em> für die Fehler einiger weniger Unternehmen verantwortlich gemacht wird</li></ul>"
+      "Antwort": "1. Motivation:<ul><li>Sicherung <strong>Kollektiver Legitimität</strong></li><li>Vermeidung von <strong>\"spillover\" Effekten</strong></li></ul>; 2. Beispiel:<ul><li><em>Chemieunternehmen</em> verpflichten sich zu <em>Verbesserungen</em> in den Bereichen Gesundheit, Sicherheit und umweltpolitische Leistungen.</li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li>Durch <em>freiwilliges Unterzeichnen von ethischen Standards</em>, versuchen Unternehmen die <em>gesellschaftliche Wahrnehmung</em> der wirtschaftlichen Globalisierung zu beeinflussen.</li><li>Unternehmen <em>schützen ihren Ruf gegen spillover Effekte</em>, die auftreten sobald die <em>gesamte Banche</em> für die Fehler einiger weniger Unternehmen verantwortlich gemacht wird</li></ul>"
     },
     {
       "Frage": "Welche <em>Ökonomische Motivation</em> steht hinter den CSR-Aktiviäten beim Adressat <em>Politische Systeme</em>? (Nenne auch ein Beispiel und wenn du noch kannst: die Konzeptionelle und/oder empirische Evidenz)",
@@ -276,7 +276,7 @@ ue = [
       "Antwort": "<strong>Wettbewerb fördert das Gemeinwohl</strong>. Die Kritik an ihm erodiert unsere Geschäftsgrundlage und ist damit moralisch verwerflich."
     },
     {
-      "Frage": "Der <em>Unternhemensführung</em> wurde sowohl zu Beginn der Industrialisierung (sog. Manchester-Kapitalismus) als auch im Zuge der Globalisierung ein <em>zu starker Fokus auf Gewinn- und Kostenorientierung</em> vorgeworfen, unter <em>Vernachlässigung ethischer Fragestellungen.<br><br>Welche Fragestellung ergibt sich daraus in der modernen Wirtschaft?",
+      "Frage": "Der <em>Unternehmensführung</em> wurde sowohl zu Beginn der Industrialisierung (sog. Manchester-Kapitalismus) als auch im Zuge der Globalisierung ein <em>zu starker Fokus auf Gewinn- und Kostenorientierung</em> vorgeworfen, unter <em>Vernachlässigung ethischer Fragestellungen.<br><br>Welche Fragestellung ergibt sich daraus in der modernen Wirtschaft?",
       "Antwort": "Welche <strong>moralischen Normen und Ideale</strong> können unter den <strong>Bedingungen der modernen Wirtschaft</strong> von den Unternehmen <strong>realisiert werden</strong>?"
     },
     {
@@ -345,6 +345,6 @@ ue = [
     },
     {
       "Frage": "Skizziere die <strong>Kommunikationsrechte von Mitarbeitern</strong>.",
-      "Antwort": "<ol>\n    <li>Mitarbeiter</li>\n    <li>\n        <ul>\n            <li>Elementare Persönlichkeitsrechte\n                <ol start=\"3\"><li>\n                <ul>\n                    <li>Physische uns psychische Unantastbarkeit</li>\n                    <li>Gleichbehandlung und Chancengleichheit</li>\n                    <li>Schutz der Privatsphäre und Datenschutz</li>\n                </ul></li>\n                </ol>\n            </li>\n            <li>Kommunikationsrechte\n                <ol start=\"3\"><li>\n                <ul>\n                    <li>Informationsrechte</li>\n                    <li>Partizipationsrechte</li>\n                    <li>Recht auf Meinungsäußerung</li>\n                </ul></li>\n                </ol>\n            </li>\n    </li>\n</ol>"
+      "Antwort": "<ol>\n    <li>Mitarbeiter</li>\n    <li>\n        <ul>\n            <li>Elementare Persönlichkeitsrechte\n                <ol start=\"3\"><li>\n                <ul>\n                    <li>Physische und psychische Unantastbarkeit</li>\n                    <li>Gleichbehandlung und Chancengleichheit</li>\n                    <li>Schutz der Privatsphäre und Datenschutz</li>\n                </ul></li>\n                </ol>\n            </li>\n            <li>Kommunikationsrechte\n                <ol start=\"3\"><li>\n                <ul>\n                    <li>Informationsrechte</li>\n                    <li>Partizipationsrechte</li>\n                    <li>Recht auf Meinungsäußerung</li>\n                </ul></li>\n                </ol>\n            </li>\n    </li>\n</ol>"
     }
   ]
