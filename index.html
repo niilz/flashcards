@@ -6,6 +6,7 @@
     <title>Flash Cards</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="mobile.css" />
     <script type="text/javascript" src="./questionsJSON/arbeitsRechtFragen.json"></script>   
     <script type="text/javascript" src="./questionsJSON/vokabeln.json"></script>   
     <script type="text/javascript" src="./questionsJSON/hgbFragen.json"></script>   
@@ -15,50 +16,27 @@
     <script type="text/javascript" src="./questionsJSON/integrierteKommunikation.json"></script>   
     <script type="text/javascript" src="./questionsJSON/medienRecht.json"></script>   
     <script type="text/javascript" src="./questionsJSON/unternehmensEthik.json"></script>   
+    <script type="text/javascript" src="./questionsJSON/somFragen.json"></script>   
+    <script type="text/javascript" src="./questionsJSON/bapFragen.json"></script>   
 </head>
 <body>
     <section class="container">
-    <fieldset class="choices">
-        <legend>Wähle deinen Kartensatz</legend>
-        <section class="flex_container">
-            <div>
-                <input type="radio" id="unternehmens_ethik" name="fragen_satz" checked>
-                <label for="unternehmens_ethik">Unternehmensethik</label>
-            </div>
-            <div>
-                <input type="radio" id="medien_recht" name="fragen_satz">
-                <label for="medien_recht">Medienrecht</label>
-            </div>
-            <div>
-                <input type="radio" id="integrierte_kommunikation" name="fragen_satz">
-                <label for="integrierte_kommunikation">integrierte Unt.Komm.</label>
-            </div>
-            <div>
-                <input type="radio" id="internationales_management" name="fragen_satz">
-                <label for="internationales_management">Int. Management</label>
-            </div>
-            <div>
-                <input type="radio" id="interkulturelle_kompetenzen" name="fragen_satz">
-                <label for="interkulturelle_kompetenzen">Int. Kompetenzen</label>
-            </div>
-            <div>
-                <input type="radio" id="organisation" name="fragen_satz">
-                <label for="organisation">Organsation</label>
-            </div>
-            <div>
-                <input type="radio" id="arbeits_recht" name="fragen_satz">
-                <label for="arbeits_recht">Arbeitsrecht</label>
-            </div>
-            <div>
-                <input type="radio" id="handels_recht" name="fragen_satz">
-                <label for="handels_recht">Handelsrecht</label>
-            </div>
-            <div>
-                <input type="radio" id="vokabeln" name="fragen_satz">
-                <label for="vokabeln">Vokabeln</label>
-            </div>
-        </section>
-    </fieldset>
+        <div class="head">
+            <lable class="lable" for="kartendecks">Wähle deinen Kartensatz:</lable>
+            <select class="decks" name="kartendecks" id="decks">
+                <option id="bap" value="bap">Business and Performance Management</option>
+                <option id="som" value="som">Service and Operations Management</option>
+                <option id="u-ethik" value="u-ethik">Unternehmensethik</option>
+                <option id="m-recht" value="m-recht">Medienrecht</option>
+                <option id="int-komm" value="int-komm">Integrierte Unternehmenskommunikation</option>
+                <option id="int-management" value="int-management">Internationales Management</option>
+                <option id="int-kompetenzen" value="int-kompetenzen">Internationale Kompetenzen</option>
+                <option id="organisation" value="organisation">Organisation und Führung</option>
+                <option id="arb-recht" value="arb-recht">Arbeitsrecht</option>
+                <option id="h-recht" value="h-recht">Handelsrecht</option>
+                <option id="vokabeln" value="vokabeln">vokablen</option>
+            </select>
+        </div>
 
     <button type="button" class="correct next">hab ich gewusst</button>
 

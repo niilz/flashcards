@@ -149,10 +149,17 @@ button.wrong {
     display: flex;
 }
 
-.choices {
+.head {
+    font-size: calc(10px + .5vw);
+    display: inline;
+    margin: auto;
     grid-row: 1;
     grid-column: 2;
-    width: auto;
+    max-width: 700px;;
+}
+
+.decks {
+    font-size: calc(10px + .4vw);
 }
 
 .flex_container {

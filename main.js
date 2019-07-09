@@ -1,11 +1,12 @@
 // load questionSets into scope
-const questionSetsJSON = [ue, mr, iuk, im, ik, orga, ar, hgb, v];
+// index 0 will be chosen as default on page load
+const questionSetsJSON = [bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v];
 
 // ask youser before leaving the page if they really want to
-window.addEventListener("beforeunload", (e) => {
-    e.preventDefault();
-    e.returnValue = "";
-});
+// window.addEventListener("beforeunload", (e) => {
+//     e.preventDefault();
+//     e.returnValue = "";
+// });
 
 // getting the DOM elements 
 // Card Elements
@@ -22,15 +23,17 @@ let reloadBUTTON = document.querySelector(".reload");
 let returnBUTTON = document.querySelector(".return");
 // card-deck-choice-fields
 const cardDeckOptions = [
-    "#unternehmens_ethik",
-    "#medien_recht",
-    "#integrierte_kommunikation",
-    "#internationales_management",
-    "#interkulturelle_kompetenzen",
-    "#organisation",
-    "#arbeits_recht",
-    "#handels_recht",
-    "#vokabeln"
+    "bap",
+    "som",
+    "u-ethik",
+    "m-recht",
+    "int-komm",
+    "int-management",
+    "int-kompetenzen",
+    "organisation",
+    "arb-recht",
+    "h-recht",
+    "vokabeln",
 ];
 
 // Text below the Cards
@@ -48,15 +51,17 @@ function defineQuestionSet(set) {
     questionSet = set;
 }
 
+// keep track of current deck-index (cardDeckOptions / questionSetsJSON)
 let lastDeckIDX = 0;
-cardDeckOptions.forEach((deckID, i) => {
-    const deck = document.querySelector(deckID);
-    deck.addEventListener("change", () => {
-        lastDeckIDX = i;
-        defineQuestionSet(questionSetsJSON[i]);
-        newCard();
-    })
-});
+// load the deck the user selects from the options-drop-down
+let deckOptions = document.querySelector("#decks");
+deckOptions.addEventListener("change", (e) => {
+    let selectedDeck = deckOptions.value;
+    let lastDeckIDX = cardDeckOptions.indexOf(selectedDeck);
+
+    defineQuestionSet(questionSetsJSON[lastDeckIDX]);
+    newCard();
+    });
 
 // flip Answer-Card back to Question
 returnBUTTON.addEventListener("click", () => card.classList.remove("flipped"));
