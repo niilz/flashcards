@@ -1,0 +1,350 @@
+ue = [
+    {
+      "Frage": "Wofür steht die Abkürzung \"GOTS\"?",
+      "Antwort": "<strong>G</strong>lobal <strong>O</strong>rganic <strong>T</strong>extile <strong>S</strong>tandard"
+    },
+    {
+      "Frage": "In welche 3 Kategorien lässt sich <em>Ethik</em> einteilen? (nenne auch kurz was die jeweilige Kategorie bedeutet)",
+      "Antwort": "1. <strong>Deskriptive Ethik</strong>: beschreibt sittliche Handlungen; 2. <strong>Normative Ethik</strong>: gibt begründete Anweisungen zum sittlichen Handeln; 3. <strong>Methaethik</strong>: Reflexion über die Methoden der Normbegründung"
+    },
+    {
+      "Frage": "Auf welchen drei Ebenen können Wirtschaftsethische Fragestellungen im weiteren Sinne formuliert werden?",
+      "Antwort": "1. Mikroebene; 2. Mesoebene; 3. Makroebene"
+    },
+    {
+      "Frage": "Was ist die <strong>Mikroebene</strong> im Kontext <em>wirtschaftsethischer Fragestellungen?",
+      "Antwort": "<strong>Individualethik</strong>: Handlungen und Einstellungen von <em>Einzelnen</em> (Mitarbeiter, Führungskräfte)"
+    },
+    {
+      "Frage": "Was ist die <strong>Mesoebene</strong> im Kontext <em>wirtschaftsethischer Fragestellungen?",
+      "Antwort": "<strong>Unternehmensethik</strong>: Aktionen von <em>Organisationen</em> (Unternehmen, Konzerne) gegenüber<ul><li>Mitarbeitern,</li><li>Kunden,</li><li>Zulieferern,</li><li>Banken,</li><li>Aktionären,</li><li>dem Staat,</li><li>der Umwelt</li><li>und der Öffentlichkeit</li></ul>"
+    },
+    {
+      "Frage": "Was ist die <strong>Makroebene</strong> im Kontext <em>wirtschaftsethischer Fragestellungen?",
+      "Antwort": "<strong>Wirtschaftsethik im engeren Sinne</strong>: Diskussion und moralische Bewertung von Handlungsweisen der <em>Gesamtheit der wirtschaftlichen Akteure</em> auf<ul><li>nationaler Ebene (Wirtschaftsethik),</li><li>supranationaler Ebene (Wirtschaftsethik der EU),</li><li>und/oder internationaler Ebene (Weltwirtschaftsethik oder Wirtschaftsethik der Globalität)</li></ul>"
+    },
+    {
+      "Frage": "Was brachte um 2001 neuen \"Schub\" in die Ethikdiskussion?",
+      "Antwort": "1. <strong>Der Enron-Skandal</strong>; 2. Energiekonzern; 3. Bilanzfälschung: 1 Mrd US$; 4. Bonuszahlungen an Manager kurz vor Insolvenz; 5. Allein CEO (Kenneth Lay) erhielt 205 Mio US$; 6. Auch Wirtschaftsprüfungsgesellschaft <em>Arthur Andersen</em> wurde zur Auflösung gezwungen"
+    },
+    {
+      "Frage": "Was war das <em>ethische Dilemma</em> bei der Auflösung der Wirtschaftsprüfungsgesellschaft <em>Arthur Andersen</em> im Rahmen des <em>Enron-Skandals</em>?",
+      "Antwort": "Der Verlust von zigtausend Arbeitsplätzen"
+    },
+    {
+      "Frage": "Beschreibe den \"Faktor\" <strong>Mensch</strong> in Zusammenhang mit Ethik.",
+      "Antwort": "1. Jeder Mensch ist; 2. <ul><li>ein <strong>moralisches Subjekt</strong></li><li>zur Freiheit und mit Würde begabt</li><li>und zugleich ein empirisches Wesen</ul><li>, das biologischen, psychologischen u.a. Bedingungen unterworfen ist."
+    },
+    {
+      "Frage": "Was verstößt konstitutiv gegen die Würde des Menschen?",
+      "Antwort": "Wenn ein Mensch dauerhaft systematisch gegen sein Eigeninteresse handeln soll."
+    },
+    {
+      "Frage": "Was hat <em>Moral</em> zu sein?",
+      "Antwort": "anreizkompatibel"
+    },
+    {
+      "Frage": "Wie ist die Normativität (Maßstäbe) in der modernen Gesellschaft aufgegliedert?",
+      "Antwort": "1. Moralische Ideale; 2. Empirische Bedingungen; 3. -> Ethische Urteile und Forderungen"
+    },
+    {
+      "Frage": "Was sind <strong>Moralische Ideale</strong> der Normativität der modernen Gesellschaft?",
+      "Antwort": "1. Frieden; 2. Weltweite Verwirklichung der Menschenrechte; 3. Medizinische Vollversorgung; 4. Abschaffung von Armut, Hunger, Kindersterblichkeit…; 5. (Soziale) Gerechtigkeit; 6. Nachhaltigkeit; 7. …"
+    },
+    {
+      "Frage": "Was sind <strong>Empirische Bedingungen</strong> der Normativität der modernen Gesellschaft?",
+      "Antwort": "1. Naturgesetze; 2. Begrenzte Ressourcen; 3. Stand der Technik; 4. Budgetrestiktionen; 5. Wettbewerbsbedingungen; 6. Das Verhalten der Anderen; 7. Institutionen (rechtliche, soziale, kulturelle, moralische Normen); 8. …"
+    },
+    {
+      "Frage": "Welche <strong>Ethischen Urteile und Forderungen</strong> ergeben sich aus <em>moralischen Idealen</em> und <em>empirischen Bedingungen</em> der Normativität der modernen Gesellschaft?",
+      "Antwort": "Die Herleitung ethischer Urteile und Forderungen setzt die <strong>Intergration</strong> von<ol><li>moralischen Idealen</li><li>und empirischen Bedingungen</li></ol>voraus"
+    },
+    {
+      "Frage": "Wie lautet der Merksatz zu den <strong>Moralischen Idealen</strong>?",
+      "Antwort": "1. \"Ein gemeinsames Interesse sichert nicht bereits dessen Realisierung\"; 2. (-> Logik des kollektiven Handelns)"
+    },
+    {
+      "Frage": "Wie lautet der Merksatz zu den <strong>Empirischen Bedingungen</strong>?",
+      "Antwort": "\"Wir streben nach dem Besten, was wir innerhalb der Grenzen der Wirklichkeit erreichen können.\""
+    },
+    {
+      "Frage": "Wie lautet der Merksatz zu den <strong>Ethischen Urteilen und Forderungen</strong>?",
+      "Antwort": "\"CSR kann nicht losgelöst von den gesellschaftlichen und wirtschaftlichen Restriktionen bestimmt werden!\""
+    },
+    {
+      "Frage": "Was ist ein <em>Normativistischer Fehlschluss</em>?",
+      "Antwort": "Wenn <strong>relevante empirische Bedingungen</strong> bei der Herleitung ethischer Urteile und Forderungen <strong>vernachlässigt</strong> werden. (Bsp.: American Dream [Eigenheim für jeden Bürger] -> Finanzkrise)"
+    },
+    {
+      "Frage": "Mit welcher Frage befasst sich die <strong>Wirtschafts- und Unternehmensethik</strong>?",
+      "Antwort": "1. \"Wie kann die <strong>gesellschaftliche Zusammenarbeit</strong> zum <strong>gegenseitigen Vorteil</strong> unter den jeweils gegebenen <strong>empirischen Bedingungen</strong> verbessert werden?\"; 2.  Bwz. <strong>\"was verhindert eine bessere Zusammenarbeit?</strong>\""
+    },
+    {
+      "Frage": "Was ist das <em>zentrale Konzept zur Analyse der Hindernisse</em> gelingender gesellschaftlicher Zusammenarbeit zum gegenseitigen Vorteil?",
+      "Antwort": "Das Konzept der<strong> Dilemmastrukturen</strong>"
+    },
+    {
+      "Frage": "Was ist die <strong>Dilemmastruktur</strong>?",
+      "Antwort": "Eine <strong>Interaktionssituation</strong>, in der <strong>Informations- und Anreizprobleme</strong> eine <em>gesellschaftliche Zusammenarbeit</em> zum gegenseitigen Vorteil <strong>verhindern</strong> (können)."
+    },
+    {
+      "Frage": "Die quasi \"Budgerestriktionsgerade\" welche die <strong>gesellschaftliche Zusammenarbeit</strong> zum <strong>gegenseitigen Vorteil</strong> ausdrückt wird von zwei Größen/Achsen bestimmt. Welche sind das?",
+      "Antwort": "1. <strong>Eigeninteressen</strong> X-Achse<br>(z.B. Gewinn, Wettbewerbsvorteile, Kundenbindung, etc.); 2. und <strong>Moral</strong> Y-Achse<br>(z.B. Nachhaltigkeit, Solidarität, etc.)"
+    },
+    {
+      "Frage": "Wie lautet der Merksatz zur Wechselwirkung von <em>Moral</em> und <em>Eigeninteressen</em>?",
+      "Antwort": "<strong>\"Moral und Eigeninteresse</strong> sind miteinander <strong>in Einklang zu bringen</strong> bzw. füreinander fruchtbar zu machen.\""
+    },
+    {
+      "Frage": "Was war das Prinzip hinter der \"Wette auf den Tod\"?",
+      "Antwort": "1. Ende der 1980er Jahre; 2. Aids-Kranken wurden Lebensversicherungen verkauft; 3. Renditen waren umso höher, je früher der Kranke verstarb; 4. Markt brach 1996 weitgehend zusammen, da lebensverlängernde Therapien auf den Markt kamen; 5. Manche Investoren empfanden den Kauf von Medikamenten als Vertragsbruch; 6. Mittlerweile existiert ein allgemeiner \"Second-hand-Markt\" (\"viatical settlements\") mit ähnlichen Produkten"
+    },
+    {
+      "Frage": "Was steigt mit der Internationlität eines Unternehmens?",
+      "Antwort": "Das Gewicht <strong>ethischer Probleme</strong> im/in den Unternehm(ung)en"
+    },
+    {
+      "Frage": "In Hinblick auf <em>ethische Probleme</em> in Unternehmungen geht es nicht nur um Aktivitäten im Ausland. Sondern ebenso…? (vervollständige)",
+      "Antwort": "Sondern ebenso um das <strong>Miteinander</strong> mit <strong>ausländischen</strong> Mitarbeitern bzw. Mitarbeitern mit <strong>Migrationshintergrund</strong>."
+    },
+    {
+      "Frage": "In welchen <em>Bereichen</em> kann es, im Rahmen von Unternehmungen/Unternehmenstätigkeiten zu <em>ethischen Problemen</em> kommen? (8 mögliche Beispiele)",
+      "Antwort": "1. Wirtschaftsbeziehungen (zu Entwicklungsländern); 2. Waffen- und Drogenhandel; 3. Korruption; 4. Insiderhandel; 5. Steuermoral; 6. Entscheidungen über Kurzarbeit und Entlassungen; 7. Personal- bzw. Mitarbeiterführung; 8. Ökologische Wirkungen von Unternehmensprozessen"
+    },
+    {
+      "Frage": "Welche Einflussbereiche (in Bezug auf Normen) spielen für Ethik in der BWL eine Rolle? (5 Bereiche)",
+      "Antwort": "1. <strong>Globalisierung</strong> der Wirtschaftstätigkeit von Unternehmungen und die <strong>Bedeutung verschiedener Kulturkreise</strong>; 2. Bedeutung von <strong>Normen und Werten der Shareholder</strong>; 3. Bedeutung von <strong>Normen und Werten der Stakeholder</strong>; 4. Bedeutung von <strong>Normen und Werten des Wirtschaftssystems</strong>; 5. Normen und Werte als <strong>Instrumente wirtschaftlichen Handelns</strong>"
+    },
+    {
+      "Frage": "Wie lautet die Definition von <em>Ethik</em>?",
+      "Antwort": "1. Ethik ist die <strong>Lehre</strong> bzw. Theorie <strong>vom Handeln</strong> gemäß der Unterscheidung von <strong>gut und böse</strong>. Gegenstand der Ethik ist die <strong>Moral</strong>; 2. Heute wird <em>eine empirische, deskriptive Ethik</em> streng unterschieden von der <strong>normativen Ethik</strong>, die ein \"Sollen\" formuliert. Dieses \"Sollen\" erhebt Anspruch auf allg. Verbindlichkeiten."
+    },
+    {
+      "Frage": "Wie lässt sich <em>Moral</em> noch benennen?",
+      "Antwort": "1. Moral = Sitte; 2. Moral bezeichnet (im Unterschied zur Ethik, als Theorie der Moral) die <em>normativen Regeln</em>, die das Handeln von Menschen faktisch bestimmen bzw. bestimmen sollten. Wobei Menschen auf den Verstoß gegen diese Regeln mit <em>Schuldgefühlen</em> reagieren."
+    },
+    {
+      "Frage": "Wie lauten die fünf Perspektiven der <em>Ethik auf Moral</em>?",
+      "Antwort": "1. Inhalt; 2. Begründung; 3. Legitimation; 4. Motivation; 5. Entstehung und Entwicklung"
+    },
+    {
+      "Frage": "Um welche Frage geht es beim <em>Inhalt</em> eines Moralkodex?",
+      "Antwort": "Welche Regeln zählen dazu und welche nicht?"
+    },
+    {
+      "Frage": "Worum geht es bei der <em>Begründung</em> im Rahmen der fünf Perspektiven der Ethik auf die Moral?",
+      "Antwort": "Es geht darum <em>Normative Regeln</em> für die Allgemeinverbindlichkeit (\"gute Gründe\") zu nennen."
+    },
+    {
+      "Frage": "Wodurch erflogt die <em>Legitimation</em> moralischer Regeln?",
+      "Antwort": "Durch die <em>Zustimmung der Betroffenen</em>. (Die Legitimation ist von der diskursiven <em>Begründung</em> zu unterscheiden)"
+    },
+    {
+      "Frage": "Was lässt sich zu <em>Motivation</em> im Rahmen der Perspektiven der Ethik auf Moral sagen?",
+      "Antwort": "1. Die <em>Motivation</em> zu einem regelkonformen Handeln ist von <em>Begründung und Legitimation</em> abzugrenzen; 2. Obwohl in Einzelfällen \"gute Gründe\" oder eine eigene Zustimmung als <em>Handlungsmotive</em> auftreten können."
+    },
+    {
+      "Frage": "Nach welchen drei Varianten wird im Rahmen der \"Perspektiven der Ethik auf die Moral\", hinsichtlich der <em>Entstehung und Entwicklung moralischer Regeln</em> unterschieden?",
+      "Antwort": "1. Weber oder Hayek: Moral im Kontext der <strong>gesellschaftlichen, kulturellen Evolution</strong>; 2. Moderne ökonomische Ansätze: Moral als Entwicklung aus <strong>individuellen Kalkülen</strong>; 3. Empirische Moralforschung: <strong>rein vergleichend</strong>"
+    },
+    {
+      "Frage": "Wie lässt sich <strong>Ethik</strong> und <stong>Moral</strong> nochmal kurz zusammenfassen?",
+      "Antwort": "1. <strong>Ethik</strong> beschäftigt sich mit der Frage der <strong>Moral</strong>, mit der wir<ul><li>gut leben,</li><li>gerecht handeln</li><li>und vernünftig über diese Fragen entscheiden können</li><li> -> Kriterien für gutes und schlechtes Handeln</li></ul>; 2. <strong>Moral</strong>: <strong>Konkretes Normensystem</strong> - Gesamtheit aller (anerkannten) Normen und Werte<ul><li>von Individuen,</li><li>(sozialen) Gruppen,</li><li>Gesellschaften</li><li>oder Kulturen</li></ul>"
+    },
+    {
+      "Frage": "Was ist die zentrale <em>ökonomische Funktion von Regeln</em>?",
+      "Antwort": "Die Verringerung von Unsicherheit."
+    },
+    {
+      "Frage": "Welche zwei Formen von Regeln gibt es?",
+      "Antwort": "1. formelle (gesetzliche) Regeln ; 2. informelle Regeln"
+    },
+    {
+      "Frage": "Wie lautet die Definition für <em>Regeln</em>?",
+      "Antwort": "1. Regeln sind gemeinhin <strong>bekannte Vorschriften</stong>,; 2. die von einer <strong>Grupper von Teilnehmern</strong> genutzt werden,; 3. um <strong>wiederholt auftretende Interaktionen</strong>; 4. zu <strong>ordnen</strong>.; 5. Ziel (der Gruppe): <em>Ordnung</em> bzw. stabile Erwartung <em>innerhalb wiederkehrender Situationen</em> erzielen."
+    },
+    {
+      "Frage": "Wirtschaftsethik lässt sich auch graphisch in 3 Ebenen aufteilen. Wie ist dieses Modell aufgebaut?",
+      "Antwort": "1. Problemebenen (X-Achse):<ul><li>Ordnungsethik</li><li>Handlungsethik</li></ul>; 2. Wirtschaftliche Betrachtungsgegenstände (Y-Achse):<ul><li>Unternehmensethik</li><li>Gesamtwirtschaftliche Ethik<ul><li>Ethik des Wirtschaftssystems</li><li>Ethik der Wirtschaftspolitik</li></ul></li></ul>; 3. Bezugsfelder (Z-Achse):<ul><li>Individualethik</li><li>Sozialethik</li><li>Umweltethik</li></ul>"
+    },
+    {
+      "Frage": "Was sind Gegenstände der Unternehmensethik?",
+      "Antwort": "1. Untersuchungen ethischer Fragestellungen des <strong>wirtschaftlichen Handelns</strong> von und in Unternehmungen; 2. Analyse, Begründung, Anwendung von <strong>Normen sowie Werturteilen</strong> von und in Unternehmungen; 3. Problematik: Abgrenzung zwischen <em>moralischen</em> und <em>anderen Normen bzw. Werturteilen</em>"
+    },
+    {
+      "Frage": "Hinsichtlich der <em>Verankerung von Normen</em> (Akzeptanz von Normen und Werten) gibt es zwei Bestimmungsgrößen (Determinanten). Welche sind das und was gehört jeweils dazu?",
+      "Antwort": "1. <strong>individuelle Internalisierung</strong>:<ul><li>Kulturkreis</li><li>Familie</li><li>Ausbildung und Erfahrung</li><li>rechtliche, ökonomische und physische Rahmenbedingungen</li></ul>; 2. <strong>rationale Akzeptanz</strong><ul><li>emotionale Veranlagung</li><li>Zweckmäßigkeit von Normen (wird das Handeln innerhalb der Gesellschaft besser koordiniert?)</li><li>Wissen über empirische Folgen von Normen</li><li>Anreizsysteme und Schutzvorkehrungen (zur Sicherung der Zweckmäßigkeit von Normsystemen)</li></ul>"
+    },
+    {
+      "Frage": "Nenne Aspekte die <em>ethisches Verhalten</em> in Unternehmen erklären oder damit zu tun haben. Stickwort: Business Case",
+      "Antwort": "1. Aufgrund von <strong>ökonomischem Interesse</strong> wird Verantwortung übernommen; 2. <strong>Kosten und Nutzen</strong> bestimmen die Verantwortungsübernahme; 3. Ein <strong>rationaler Manager</strong> handelt im Interesse der Shareholder; 4. Beobachtung: In vielen Fällen <strong>\"lohnt\"</strong> sich eine <strong>verantwortungsvolle Unternehmensführung</strong>; 5. Steakholdermanagement = Shareholdermanagement"
+    },
+    {
+      "Frage": "Auf welche 6 Bereiche wirkt sich CSR (Corporate Social Responsibility) aus?",
+      "Antwort": "1. Prozesse; 2. Arbeitnehmer; 3. Kapitalkosten; 4. Kunden; 5. Potenzielle Arbeitnehmer; 6. Risikomanagement"
+    },
+    {
+      "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf die <strong>Prozesse</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
+      "Antwort": "1. <strong>Reduktion der Betriebes- bzw. Produktionskosten</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>(Hart: 1995) Vermeidung Umweltverschmutzung -> Einsparungen -> Wettbewerbsvorteil</li><li>CSR reduziert Müll -> geringere Entsorgungskosten (Heal: 2005)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Wenn Ressourcen/Fähigkeiten heterogen -> Kostenredukion durch Umweltschutz (Christmann: 2000)</li><li>Invesitionen in umweltschützende Technologien -> effizientere Produktion (Klassen & Whybark: 1999)</li></ul>"
+    },
+    {
+      "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf die <strong>Arbeitnehmer</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
+      "Antwort": "1. Anstieg der <strong>Mitarbeiterproduktivität</strong> bei gleichzeitigem <strong>Rückgang der Löhne und Fehlzeiten</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>Nachfrage der Mitarbeiter im Sinne der CSR erfüllt -> Loyalität und Produktivität (McWilliams & Siegel: 2001)</li><li>Wenn CSR zufriedenstellend -> verzichten Beschäftigte zum Teil auf Löhne (Reinhardt & Stavins: 2010)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Bei gutem Ruf (CSR) des Unternehmens -> verzichten Beschäftigte auf finanzielle Vorteile (Montgomery & Ramuy: 2007)</li><li>CSR bewirkt Anstieg der Mitarbeiterzufriedenheit (Riordan, Gatewood & Bill: 1997)</li><ul>"
+    },
+    {
+      "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf die <strong>Kapitalkosten</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
+      "Antwort": "1. <strong>Zugang zu Kapital und Senkung der Kapitalkosten</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>CSR ermöglicht Äkquirierung zusätzlicher Investoren (die hohe CSR-Performance bevorzugen) (Baron: 2009)</li><li>Aktionäre bevorzugen CSR-engagierte Unternehmen (Mackey, Mackey & Barney: 2007)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Anteil sozialer Investoren steigt -> wenn Fokus auf deren Interessen -> ist die Erweiterung des zugänglichen Kapitals möglich (Doh, Howton, Howton & Siegel: 2010)</li><li>freiwillige Veröffentlichung der CSR-Aktivitäten -> kann Eigenkapitalkosten senken (Dhaliwal, Li, Tsang & Yang: 2011)</li></ul>"
+    },
+    {
+      "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf den <strong>Kunden</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
+      "Antwort": "1. Anstieg der <strong>Zahlungsbereitschaft</strong> der Kunden und <strong>Kundenneugewinnung</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>Unternehmen bieten CSR an für \"hochwertige\"/wertvolle Kunden (Bagnoli & Watts: 2003)</li><li>Durch gutes CSR-Image -> Neukundengewinnung + höhere Zahlungsbereitschaft</li></ul>; 3. Empirische Ergebnisse:<ul><li>CSR-Reputation beeinflusst Kundenwahrnehmung -> erhöhte Zahlungsbereitschaft (Brown & Dacin: 1997)</li><li>Kunden identifizieren sich stärker mit Marken, die gutes CSR-Image haben + sind Loyaler</li></ul>"
+    },
+    {
+      "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf die <strong>Potenziellen Arbeitnehmer</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
+      "Antwort": "1. <strong>Anstieg der Arbeitgeberattraktivität</strong>; 2. Konzeptionelle Ergebnisse:<ul><li>Abstimmung (\"Übererfüllung\") der Umweltschutzbedingungen auf Arbeitnehmer -> soll Arbeitnehmer anlocken und halten (Lyon & Maxwell: 2008)</li><li>Menschen ziehen i.d.R. Arbeitgeber, der in hohem Maße respektiert wird, vor (Portney: 2008)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Reputation erhöht Attraktivität - sofern familiäres Verhältnis (zw. Arbeitgeber-/nehmer) suggeriert wird (Luce, Barber & Hillman: 2001)</li><li>Engagement in CSR = Zeichen für gute Arbeitsbedingungen -> herhöht Attraktivität des Arbeitgebers</li></ul>"
+    },
+    {
+      "Frage": "Was ist die <em>ökonomische Motivation</em> bei der Ausrichtung der <em>CSR</em> auf das <strong>Risikomanagement</strong>? Nenne auch <em>konzeptionelle</em> und <em>empirische</em> Ergebnisse.",
+      "Antwort": "1. Hilfe bei <strong>Vermeidung von ungewollten Ereignissen</strong> (z.B. NGO-Attacken, negative Medienbereicht, etc.); 2. Konzeptionelle Ergebnisse:<ul><li>Guter Ruf ist Vorteilhaft, wenn negative Informationen bekannt werden (Lange, Lee & Dai 2011)</li><li>CSR kann helfen um stabilen Ruf aufzubauen -> hilft Negativ-Events standzuhalten (Peloza: 2006)</li></ul>; 3. Empirische Ergebnisse:<ul><li>Bei negativ-Ereignissen -> Rückgang Shareholder Value -> dieser ist bei CSR-engagierten Unternehmen weniger heftig (Godfrey, Merril & Hansen: 2009)</li><li>Wenn in der Vergangenheit viel positive Berichterstattung über Unternehmen -> Beschuldigungen von NGOs weniger schädlich (King & Soule: 2007)</li></ul>"
+    },
+    {
+      "Frage": "Welche drei Primäradressaten gibt es im Rahmen von CSR-Aktivitäten?",
+      "Antwort": "1. Gesellschaft; 2. Politische Systeme; 3. Kunden"
+    },
+    {
+      "Frage": "Welche <em>Ökonomische Motivation</em> steht hinter den CSR-Aktiviäten beim Adressat <em>Gesellschaft</em>? (Nenne auch ein Beispiel und wenn du noch kannst: die Konzeptionelle und/oder empirische Evidenz)",
+      "Antwort": "1. Motivation:<ul><li>Sicherung <strong>Kollektiver Legitimität</strong></li><li>Vermeidung von <strong>\"spillover\" Effekten</strong></li></ul>; 2. Beispiel:<ul><li><em>Chemieunternehmen</em> verpflichten sich zu <em>Verbesserungen</em> in den Bereichen Gesundheit, Sicherheit und umweltpolitische Leistungen.</li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li>Durch <em>freiwilliges Unterzeichnen von ethischen Standards</em>, versuchen Unternehmen die <em>gesellschaftliche Wahrnehmung</em> der wirtschaftlichen Globalisierung zu beeinflussen.</li><li>Unternehmen <em>schützen ihren Ruf gegen spillover Effekte</em>, die auftreten sobald die <em>gesamte Banche</em> für die Fehler einiger weniger Unternehmen verantwortlich gemacht wird</li></ul>"
+    },
+    {
+      "Frage": "Welche <em>Ökonomische Motivation</em> steht hinter den CSR-Aktiviäten beim Adressat <em>Politische Systeme</em>? (Nenne auch ein Beispiel und wenn du noch kannst: die Konzeptionelle und/oder empirische Evidenz)",
+      "Antwort": "1. Motivation:<ul><li><strong>Vermeidung</strong> staatlicher Regulierung</li><li><strong>Beeinflussung</strong> staatlicher Regulierungen</li></ul>; 2. Beispiel:<ul><li>Freiwillige <em>Reduktion der Abgase</em> in Industrien</li><li>Kollektive und freiwillige Organisation von <em>umweltfreundlichen Programmen</em></li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li>Es ist sinnvoll für Unternehmen sich in <em>Emissionsminderung</em> zu engagieren. Wenn die Bedrohung durch <em>gesetzlichen Regulierung hoch</em> und die marginalen <em>Kosten der Selbstregulierung niedrig</em> sind.</li></ul>"
+    },
+    {
+      "Frage": "Welche <em>Ökonomische Motivation</em> steht hinter den CSR-Aktiviäten beim Adressat <em>Kunde</em>? (Nenne auch ein Beispiel und wenn du noch kannst: die Konzeptionelle und/oder empirische Evidenz)",
+      "Antwort": "1. Motivation:<ul><li>Erhöhung der <strong>Konsumentennachfrage</strong> durch Reduktion der Verunsicherung über <strong>Produktqualität</strong></li><li>Reputationseffekte</li></ul>; 2. Bespiel:<ul><li>Einhaltung von strengen, <em>selbstgesetzten Marktregulierungen</em></li><li>Kollektiver Einsatz des <em>Umweltengagements</em> Standards ISO14000</li></ul>; 3. Konzeptionelle und/oder empirische Evidenz:<ul><li><em>Einhaltung</em> von selbstgesetzten <em>Regelungen</em> kann sich <em>positiv</em> auf das <em>Einkaufsverhalten</em> der Konsumenten auswirken</li><li>Bei kollektiver Übernahme <em>umweltfreundlicher Standards</em>, erlangen Unternehmen eine <em>Reputation</em>, die sie eigenständig nicht hervorbringen könnten</li></ul>"
+    },
+    {
+      "Frage": "Welche Annahmen äußerte <em>Milton Friedmam (1912-2006)</em> über das Wirtschaftssystem? (4 Aspekte)",
+      "Antwort": "1. Es ist ein <strong>Kapitalistisches System</strong>; 2. Es gibt einen <strong>Eigentümer</strong> (Prinzipal) -> der beauftragt einen <strong>Manager</strong> (Agent) -> welcher wiederum die Leistung für den Eigentümer erbringt (Principal-Agent-Theorie); 3. Mananger sind <strong>Angestellte</strong> der Eigentümer -> Verpflichtung das Unternehmen im <strong>Interesse der Eigentümger zu führen</strong>; 3. Manager halten sich an die <strong>Gesetze und Bräuche der Gesellschaft</strong>"
+    },
+    {
+      "Frage": "Wie lautet das <strong>1. Dilemma</strong> im Rahmen der <em>Principal-Agent-Theorie</em>? (nenne auch welche Partei von welchem Aspekt betroffen ist)",
+      "Antwort": "1. Sobald Manager <strong>Mittel des Unternehmens</strong> aufwenden, um allgemeine <strong>gesellschaftliche Ziele</strong> zu erreichen, geben sie <strong>das Geld anderer</strong> aus.; 2. <ol><li>Geringerer Gewinn -> Eigentümger</li><li>Höhere Preise -> Kunden</li><li>Niedrigere Löhne -> Mitarbeiter</li></ol>"
+    },
+    {
+      "Frage": "Das <strong>2. Dilemma</strong> im Rahmen der <em>Principal-Agent-Theorie</em> besagt: Gewinnrückgang -> Fallende Aktienkurse -> Unzufriedene Eigentümer -> Neubesetzung des Managements. Welche Aussage lässt sich daher zu diesem Dilemma treffen?",
+      "Antwort": "Langfristig ist es für das Management unmöglich, Dinge umszusetzen, die dem Gewinnprinzip widerstreben!"
+    },
+    {
+      "Frage": "Was bedeutet <strong>Ökonomismus</strong>? (als Zusammenfassung/Fazit <em>ökonomischer Unternehmensethik</em>)",
+      "Antwort": "<strong>Ökonomismus =</strong><ul><li><strong>Überbetonung ökonomischer Faktoren</strong> in gesellschaftlichen Entwicklungstheorien</li><li>(In der Methodologie): Die <strong>Anwendung ökonomischer Modelle</strong> auf andere Bereiche der <strong>Sozialwissenschaften</strong></li><li>ein <strong>von der Wirtschaftsethik kritisierter</strong> umfassender Erklärungs- und <strong>Bewertungsanspruch ökonomischer Theoriebildung</strong>, kurz: <em>Dominanz der Ökonomie</em></li></ul>"
+    },
+    {
+      "Frage": "CSR-Engagement lässt sich hinsichtlich der <em>Ökonomischen Rationalität</em> und der <em>Ethischen Rationalität</em> in 4 Bereiche einteilen. Nenne diese Einteilung.",
+      "Antwort": "<table>\n    <thead>\n        <tr>\n            <th colspan=\"4\">Ethisch Rational</th>\n        </tr>\n        <tr>\n            <td class=\"rotate_left\" rowspan=\"3\">\n                <div>Ökonomisch<br>Rational</div>\n            </td>\n            <td colspan=\"2\">+</td>\n            <td>-</td>\n        </tr>\n        <tr>\n            <td>+</td>\n            <td>\"Business Case for CSR\"</td>\n            <td>profitabel, aber unmoralisch</td>\n        </tr>\n        <tr>\n            <td>-</td>\n            <td>moralisch, aber unprofitabel</td>\n            <td>unprofitabel und unmoralisch</td>\n        </tr>\n</table>"
+    },
+    {
+      "Frage": "Im Rahmen der Unternehmensethik und CSR-Maßnahmen, was sind die <em>Aufgaben der Unternehmen</em>?",
+      "Antwort": "1. Mitgestaltung der Rahmenordnung; 2. Aufdeckung und Analyse von Konfliktfeldern zwischen ökonomischen und moralischen Zielen; 3. Suche nach Kooperationschancen"
+    },
+    {
+      "Frage": "Wann sind Verträge hinsichtlich der <em>Freiheit</em> (im Rahmen von Unternehmensethik) ok?",
+      "Antwort": "Verträge sind nur <em>legitim</em> wenn:<ul><li>keine Handlungsoptionen eingeschränkt worden sind<br>(negative Freiheit = Veträge müssen Gelegenheiten sein und keine Zwänge)</li><li>eine vom Vertrag unabhängige Sicherheit existiert bzw. diese hypothetisch angenommen wird<br>(positive Freiheit = keine \"freiheitsfördernden Zwangsangebote\")"
+    },
+    {
+      "Frage": "Was setzen Verträge hinsichtlich der <em>Informiertheit</em> (im Rahmen von Unternehmensethik) vorraus?",
+      "Antwort": "1. Verträge sind nur legitim wenn die <strong>generellen Kompetenzen</strong> und <strong>konkreten Möglichkeiten</strong> zur <strong>Informationsverarbeitung</strong> gegeben sind; 2. Und wenn <strong>wesentliche Bestandteile und Risiken</strong> des Vetrages verständlich geregelt sind; 3. Auf Deutsch: Heimliche Klauseln sind Fragwürdig"
+    },
+    {
+      "Frage": "Was fällt dir zu <strong>Externe Effekt</strong> im Rahmen von Verträgen zum Thema Unternehmensethik ein?",
+      "Antwort": "1. Wirkungen sind nicht freiheitseinschränkend<ul><li>Verträge sind nur legitim wenn Intensität, Dauer und Wahrscheinlichkeit der <em>positiven Effekte</em> die der negativen <em>überwiegen</em></li></ul>; 2. Wirkungen sind freiheitseinschränkend<ul><li>Veträge sind nur legitim, wenn die betroffenen <em>Parteien</em> faktisch <em>zustimmen</em></li></ul>; 3. Fazit: Es bedarf einer Win-Win-Situation"
+    },
+    {
+      "Frage": "Welche 4 Aspekte zählen zur <em>Republikanischen Dialogethik</em>",
+      "Antwort": "1. Republikanische Unternehmensethik = <strong>Rückbindung</strong> unternehmerischer Praxis <strong>an das öffentliche Wohl</strong> (\"res publica\"); 2. <strong>Dialogförderung</strong> durch ethische Sensibilisierung von Organisationsstruktur und -kultur; 3. Ethische <strong>Entwicklung des Personals</strong> (Erziehung zu guten Bürgern); 4. Führungsethik; 5. Fazit: \"Wenn das Team ethisch handelt, muss ich weniger Kraft aufbringen ethisches Verhalten aufrecht zu erhalten\""
+    },
+    {
+      "Frage": "Nenne die zwei Punkte zu <strong>Political CSR</strong> (Ansatz von Scherer) und welche Frage wirft dies auf?",
+      "Antwort": "1. Globalisierung führt zu <strong>staatlichen Regulierungsdefizit</strong>; 2. Unternehmen sollen <strong>politische Mitverantwortung</strong> übernehmen; 3. Aber ist das in <strong>Ihrem</strong> Interesse?"
+    },
+    {
+      "Frage": "Die <strong>integrative Unternehmensethik</strong> lässt sich in zwei Stufen einteilen (Konzept und Anwendungsbereiche der zweiten Stufe klammern die erste Stufe sozusagen ein) Wie lauten die beiden Stufen? Sowie Ihr(e) Umsetzung/Anwendungsbereich?",
+      "Antwort": "1. Stufe der Verantwortung:<ul><li><strong>Geschäftsethik</strong>:<br>Suche nach <em>rentablen Wegen sozialökonomisch sinnvollen und legitimen Wirtschaftens innerhalb der ordnungspolitischen Rahmenbedingungen</em></li><li><strong> ->unternehmerische Wertschöpfung</strong>:<br>lebensdienlicher Unternehmenszweck auf einer tragfähigen normativen \"Geschäftsgrundlage\"</li></ul>; 2. Stufe der Verantwortung<ul><li><strong>Republikanische Unternehmensethik</strong>:<br>Kritische <em>Hinterfragung gegebener Wettbewerbsbedingungen, die in unternehmensethische Dilemmasituation führt</em></li><li><strong> -> branchen- und ordnungspolitische Mitverantwortung</strong><br>für ethisch verantwortbare Standards und Rahmenbedingungen des Wettbewerbs</li></ul>"
+    },
+    {
+      "Frage": "Warum gilt die <strong>integrative Unternehmensthik</strong> moralisch als fragwürdig, heillos normativ und <em>nicht umsetzbar</em>? (PS keine Ahnung wer das behauptet hat, aber das war ein Schaubild mit Postbank, Telekom und Post)",
+      "Antwort": "<strong>Wettbewerb fördert das Gemeinwohl</strong>. Die Kritik an ihm erodiert unsere Geschäftsgrundlage und ist damit moralisch verwerflich."
+    },
+    {
+      "Frage": "Der <em>Unternehmensführung</em> wurde sowohl zu Beginn der Industrialisierung (sog. Manchester-Kapitalismus) als auch im Zuge der Globalisierung ein <em>zu starker Fokus auf Gewinn- und Kostenorientierung</em> vorgeworfen, unter <em>Vernachlässigung ethischer Fragestellungen.<br><br>Welche Fragestellung ergibt sich daraus in der modernen Wirtschaft?",
+      "Antwort": "Welche <strong>moralischen Normen und Ideale</strong> können unter den <strong>Bedingungen der modernen Wirtschaft</strong> von den Unternehmen <strong>realisiert werden</strong>?"
+    },
+    {
+      "Frage": "Res&uuml;mierend kann in zwei Paradigmen (ethischer) Unternehmensführung unterschieden werden. Welche sind das?",
+      "Antwort": "1. <strong>Funktionalismus</strong><ul><li>Beschäftigung mit Unternehmensethik = überflüssig</li><li>Maximierung des Kapitalwerts = Unternehmensethik</li><li>\"soziale Verantwortung\" im Rahmen des <em>Principal-Agent-Konstrukts</em> kann zu <em>Missbrauch</em> führen</li><li>Lösung sozialer oder ökologischer Probleme = Staatsaufgabe</li></ul>; 2. <strong>Instrumentalismus</strong><ul><li>Ethik = notwendiges Instrument erfolgreichen Managements</li><li>(\"Ethik zahlt sich langfristig aus\")</li><li><em>Gewinn</em> ist nicht die letzte Maßgabe, sondern <em>ein Gesichtspunkt neben anderen</em></li></ul>"
+    },
+    {
+      "Frage": "Was bilden <em>Funktionalismus</em> und <em>Instrumentalismus</em> in der Unternehmensethik zusammen?",
+      "Antwort": "Die <strong>Ökonomismus-Perspektive</strong>"
+    },
+    {
+      "Frage": "Worin mündet <em>die Kritik der vermeintlich \"wertfreien\" ökonomischen Sachlogik und ihrer normativen Überhöhung zum Ökonomismus</em>?",
+      "Antwort": "in einer <em>integrierten Unternehmensethik</em>"
+    },
+    {
+      "Frage": "Auf welche Weise sollten, im Sinne der <em>integrativen Unternehmensführung</em>, Gewinne erzielt werden?",
+      "Antwort": "Nur auf <strong>legitime</strong> und <strong>ethisch verantwortbare Weise</strong>"
+    },
+    {
+      "Frage": "Was bildet folgends der <em>integrativen Unternehmensführung</em> die <strong>Basis für den Unternehmenserfolg</strong>?",
+      "Antwort": "Geschäftsintegrität"
+    },
+    {
+      "Frage": "Nach <em>Peter Ulrich</em> gibt es drei Erscheinungsformen des Ökonomismus. Welche sind das?",
+      "Antwort": "1. die <em>Verselbständigung der ökonomischen Rationalität</em>; 2. die <em>Verabsolutierung des Kosten- /Nutzen-Denkens</em>; 3. die <em>normative Überhöhung der Logik des Marktes</em>"
+    },
+    {
+      "Frage": "Welche Beispiele fallen dir zu <strong>Konflikt zwischen Gewinnstreben und Ethik</strong> ein? (auf der Rückseite sind 13 gelistet. Hau rein!)",
+      "Antwort": "1. Duldung von <strong>Kinderarbeit</strong> in ausländischen Werken oder bei Zulieferern; 2. <strong>\"Knebelung\" von Lieferanten</strong> durch Ausnutzung der eigenen wirtschaflichen Stärke; 3. <strong>Umweltverschmutzung</strong> durch Emissionen; 4. <strong>Korruption</strong> zur Erlangung von Aufträgen (insb. bei Staat, Behörden); 5. <strong>Bilanzverschleierung</strong>; 6. <strong>Kartellverstöße</strong>; 7. <strong>Insider-Trading</strong> (\"Geldwäsche\"); 8. <strong>Stellenabbau</strong> in einem Land und Ansiedlung in anderem Land wegen niedrigeren Löhnen; 9. <strong>Mobbing/\"Hinausekeln\"<strong> von Mitarbeitern; 10. <strong>Vernachlässigung von Sicherheitsstandards</strong>; 11. <strong>Bespitzelung</strong> von Mitarbeitern; 12. <strong>Verlagerung des Unternehmenssitzes ins Ausland</strong>; 13. <strong>Unlautere/täuschende Werbung</strong>"
+    },
+    {
+      "Frage": "Welche 6 Aufgaben (sollte) Unternehmensethik erfüllen?",
+      "Antwort": "1. <strong>Rahmenordung</strong>:<br>Ergänzungsfunktion zur <em>Schließung von Defiziten</em> in der Rahmenordung<br>(z.B. Gesetze, int. Abkommen, Compliance-Regeln, Einkaufsrichtlinien); 2. <strong>Reflexion I</strong>:<br><em>Kritische Reflexion</em> des \"Wie\" <em>unternehmerischer Handlungen</em><br>(\"Sind die Mittel und Wege zur Erzielung von Gewinn ethisch gerechtfertigt?\"); 3. <strong>Reflexion II</strong>:<br><em>Identifikation und kritische Reflexion</em> der gelebten <em>Normen und Werte</em><br>Einbettung ethischer Reflexion in <em>ökonomische Kalkulation</em>; 4. <strong>Leitzprinzipien</strong>:<br><em>Suche</em> nach und <em>kritische Reflexion</em> von allgemeinen <em>Leitprinzipien</em> für das unternehmerische <em>Handeln</em><br>(formale Prinzipien und materielle Normen); 5. <strong>Dialog</strong>:<br>Initialisierung, Umsetzung und Verbesserung des <em>Stake-holder-Dialogs</em>; 6. <strong>Umsetzung</strong>:<br>Entwicklung, Umsetzung und dauerhafte <em>Weiterentwicklung</em> konkreter Maßnahmen zur <em>Institutionalisierung ethischer Reflexion</em>"
+    },
+    {
+      "Frage": "(ganz grob) welche drei Punkte/Schlagworte beschreiben Corporate Governance?",
+      "Antwort": "1. Kommunikation; 2. Dokumentation; 3. Transparenz & Nachvollziehbarkeit"
+    },
+    {
+      "Frage": "Was ist <strong>Corporate Governance</strong>?",
+      "Antwort": "CG beschreibt die <strong>Grundsätze einer \"guten\" Unternehmensführung</strong> als Ordnungsrahmen zur <strong>Leitung und Überwachung</strong> eines Unternehmens."
+    },
+    {
+      "Frage": "Was sind die Ziele von <strong>Corporate Governance</strong>?",
+      "Antwort": "1. <strong>Kommunikation</strong> zwischen den Organen des <em>Unternehmens</em> und den übrigen <em>Stakeholdern</em> (insbesondere Aktionäre); 2. <strong>Dokumentation</strong> der durchgeführten <em>Geschäftsführungs- bzw. Überwachungstätigkeiten</em> durch die jeweiligen Organe; 3. <strong>Transparenz & Nachvollziehbarkeit</strong> dieser Maßnahmen und die stetige <em>Verbesserung der Qualität</em> der Corporate Governance"
+    },
+    {
+      "Frage": "Die Elemente der <strong>Corporate Governance sind</strong>? (4 Elemente)",
+      "Antwort": "1. Die <strong>Unternehmensverfassung</strong> (Dualistische [Aktionäre + Hauptversammlung] oder Verwaltungsrat [Board]); 2. <strong>Anreiz- und Motivationsstrukturen</strong> (sowohl für angestellte Manager als auch Mitglieder des Aufsichtsrats als Vertreter der Anteilseigner); 3. <strong>Kodizes</strong> (bspw. Deutscher Corporate Governance Kodex); 4. <strong>Regelungen zur Publizität und Inhalt</strong> von Unternehmensinformationen an die Stakeholder"
+    },
+    {
+      "Frage": "Wodurch sind die herrschenden <em>Corporate Governance - Strukturen</em> begründet? Welcher Spruch fällt dir dazu noch ein?",
+      "Antwort": "1. Steigerung des Unternehmenswertes; 2. Sicherung von Effektivität und Effizienz; 3. Gerechtigkeit, Legitimität und gesellschaftliche Verantwortung; 4. \"Harte Zeiten erfordern starke Betriebsräte\""
+    },
+    {
+      "Frage": "Im Sinne der <em>Corporate Governance</em> gibt es Kennzeichen für <strong>Personalführung</strong>. Welche sind das?",
+      "Antwort": "1. Die Personalführung ist unmittelbar auf die <strong>Mitarbeitersteuerung und Verhaltensbeeinflussung</strong> gerichtet; 2. <strong>Instrumente</strong> der Personalführung sind v. a.<ul><li>die Führungsprinzipien und der Führungsstil</li><li>das Motivations- und Anreizsystem</li><li>sowie das Personalentwicklungssystem</li></ul>"
+    },
+    {
+      "Frage": "Im Sinne der <em>Corporate Governance</em> gibt es Kennzeichen für die <strong>Organisation</strong>. Welche sind das?",
+      "Antwort": "1. Die Organisation beinhaltet die <strong>bewusste Gestaltung der Beziehungen</strong> zwischen den <strong>Subjekten und Objekten</strong> einer Unternehmung; 2. Sie bestimmt die <strong>Aufgabenkomplexe einer Person</strong> und die <strong>hierarchischen Beziehungen</strong> zwischen Vorgesetzten und Untergebenen (Aufbauorganisation); 3. Sie regelt die <strong>Strukturierung der raum-zeitlichen Beziehungen</strong> zwischen durchzuführenden <strong>Prozessen</strong> (Ablauforganisation)"
+    },
+    {
+      "Frage": "Die Vorgaben für die <em>Corporate Governance</em> können in <strong>Business Conduct Guidelines</strong> festgehalten werden. Es gibt ein nettes Beispiel dazu von der <em>Siemens AG</em>. Lies es dir mal durch.",
+      "Antwort": "Jede <strong>Führungskraft</strong> trägt die <strong>Verantwortung</strong> für die <strong>ihr anvertrauten Mitarbeiter</strong>. Sie muss sich deren <strong>Anerkennung</strong> durch vorbildliches persönliches Verhalten, Leistung, Offenheit und soziale Kompetenz <strong>erwerben</strong>. Sie <strong>setzt</strong> klare, ehrgeizige und realistische <strong>Ziele</strong>, führt durch Verantwortung und räumt Mitarbeitern <strong>so viel Eigenverantwortung und Freiraum wie möglich</strong> ein. Sie ist für die Mitarbeiter auch bei den <strong>beruflichen und persönlichen Sorgen</strong> ansprechbar.<br>Jede Führungskraft hat <strong>Organisations- und Aufsichtspflichten</strong> zu erfüllen. Sie ist dafür <strong>verantwortlich</strong>, dass in ihrem jeweiligen Verantwortungsbereich <strong>keine Gesetzverstöße geschehen</strong>, die durch gehörige Ausicht hätten verhindert oder erschwert werden können.<br>Auch bei <strong>Delegation einzelner Aufgaben</strong> behält sie die <strong>Verantwortung</strong>."
+    },
+    {
+      "Frage": "Skizziere die <strong>Kommunikationsrechte von Mitarbeitern</strong>.",
+      "Antwort": "<ol>\n    <li>Mitarbeiter</li>\n    <li>\n        <ul>\n            <li>Elementare Persönlichkeitsrechte\n                <ol start=\"3\"><li>\n                <ul>\n                    <li>Physische und psychische Unantastbarkeit</li>\n                    <li>Gleichbehandlung und Chancengleichheit</li>\n                    <li>Schutz der Privatsphäre und Datenschutz</li>\n                </ul></li>\n                </ol>\n            </li>\n            <li>Kommunikationsrechte\n                <ol start=\"3\"><li>\n                <ul>\n                    <li>Informationsrechte</li>\n                    <li>Partizipationsrechte</li>\n                    <li>Recht auf Meinungsäußerung</li>\n                </ul></li>\n                </ol>\n            </li>\n    </li>\n</ol>"
+    }
+  ]

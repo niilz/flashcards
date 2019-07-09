@@ -17,7 +17,7 @@ mr = [
     },
     {
       "Frage": "Das Urheberrecht ist abzugrenzen von anderen Schutzrechten. Was ist dann eine <strong>Marke</strong>?",
-      "Antwort": "1. Wörter, Personennamen, Logos, Abbildungen, Buchstaben, Zahlen, Hörzeichen, dreidimensionale Gestaltung, Farben; 2. Sie müssen geeignet sein, Waren oder Diesntleistungen eines Unternehmens von anderen zu unterscheiden (§ 3 MarkenG); 3. Schutzfrist 10 Jahre"
+      "Antwort": "1. Wörter, Personennamen, Logos, Abbildungen, Buchstaben, Zahlen, Hörzeichen, dreidimensionale Gestaltung, Farben; 2. Sie müssen geeignet sein, Waren oder Dienstleistungen eines Unternehmens von anderen zu unterscheiden (§ 3 MarkenG); 3. Schutzfrist 10 Jahre"
     },
     {
       "Frage": "Wer ist ein Urheber (laut Gesetz)?",
@@ -25,7 +25,7 @@ mr = [
     },
     {
       "Frage": "Was ist nach dem Gesetz ein <strong>urheberrechtliches Werk</strong>?",
-      "Antwort": "Persönliche geistige Schöpfung\" (§ 2 Abs. 2 UrhG)"
+      "Antwort": "\"Persönliche geistige Schöpfung\" (§ 2 Abs. 2 UrhG)"
     },
     {
       "Frage": "Was bedeutet im Zusammenhang mit einem urheberrechtlichen Werk <strong>persönlich</strong>?",
@@ -41,7 +41,7 @@ mr = [
     },
     {
       "Frage": "Welche Arten von urheberrechtlichen Werken gibt es?",
-      "Antwort": "1. <strong>Sprachwerk</strong>, wie Schriftwerke Reden und Computerprogramme<ul><li>Romane, Gedichte, Aufsätze, Zeitungsartikel, Reden, Software</li><li>Ggf. Werbetexte, Werbeslogans</li><li>Sonderreglungen für Computerprogramme (§§ 69 a ff. UrhG)</li></ul> ; 2. Werke der <strong>Musik</strong><ul><li>Töne jeglicher Art (auch spontanes, nicht notengeschriebenes Musikschaffen</li><li>Qualiät spielt keine Rolle</li><li>(Einzeltöne, spezieller Klang/\"Sound\" oder Samplings sind NICHT geschützt)</li><li>akustische Signale z.B. Handy Klingeltöne können Urheberrechtsschutz erlangen</li></ul>; 3. <strong>Pantomimische Werke</strong>, inkl. Tanzkunst<ul><li>z.B. Ballett</li><li>Problematisch: Abgrenzung zur Akrobatik, Eiskunstlauf, Bodenturnen</li></ul>; 4. Werke der <strong>bildenden Künste</strong><ul><li>z.B. klassische Ölgemälde, Baukunst (Architektur), angwandte Kunst (z.B. formschöne Gebrauchsgegenstände, Möbelstücke)</li><li>Auch Entwürfe sind geschützt</li></ul>; 5. <strong>Lichtbildwerke</strong><ul><li>Nur Fotografien, die sich gegenüber dem Alltäglichen durch besondere Individualität auszeichen</li><li>Abgrenzung zu Lichtbildern (\"Knipsbildern\")</li></ul>; 6. <strong>Filmwerke</strong><ul><li>z.B. Spielfilme, Fernsehspiele, Videos, Werbefilme</li><li>ähnlich geschaffene Werke z.B. Videospiele</li></ul>; 7. <strong>Darstellungen wissenschaftlicher oder technischer Art</strong><ul><li>z.B. Zeichnungen, Pläne, Karten, Skizzen, Tabellen, plastische Darstellungen</li></ul>; 8.<strong> Bearbeitungen gem. § 3 UrhG</strong><ul><li>mit eigenschöpferischem Beitrag</li><li>z.B. Übersetzung eines Romans, Techno-Version eines klass. Musikstücks, \"Remake\" eines Films, Verfilmung eines Romans, Adaption eines Filmdrehbuchs für die Bühne</li></ul>; 9. <strong>Datenbanken</strong>"
+      "Antwort": "1. <strong>Sprachwerk</strong>, wie Schriftwerke Reden und Computerprogramme<ul><li>Romane, Gedichte, Aufsätze, Zeitungsartikel, Reden, Software</li><li>Ggf. Werbetexte, Werbeslogans</li><li>Sonderreglungen für Computerprogramme (§§ 69 a ff. UrhG)</li></ul> ; 2. Werke der <strong>Musik</strong><ul><li>Töne jeglicher Art (auch spontanes, nicht notengeschriebenes Musikschaffen</li><li>Qualität spielt keine Rolle</li><li>(Einzeltöne, spezieller Klang/\"Sound\" oder Samplings sind NICHT geschützt)</li><li>akustische Signale z.B. Handy Klingeltöne können Urheberrechtsschutz erlangen</li></ul>; 3. <strong>Pantomimische Werke</strong>, inkl. Tanzkunst<ul><li>z.B. Ballett</li><li>Problematisch: Abgrenzung zur Akrobatik, Eiskunstlauf, Bodenturnen</li></ul>; 4. Werke der <strong>bildenden Künste</strong><ul><li>z.B. klassische Ölgemälde, Baukunst (Architektur), angwandte Kunst (z.B. formschöne Gebrauchsgegenstände, Möbelstücke)</li><li>Auch Entwürfe sind geschützt</li></ul>; 5. <strong>Lichtbildwerke</strong><ul><li>Nur Fotografien, die sich gegenüber dem Alltäglichen durch besondere Individualität auszeichen</li><li>Abgrenzung zu Lichtbildern (\"Knipsbildern\")</li></ul>; 6. <strong>Filmwerke</strong><ul><li>z.B. Spielfilme, Fernsehspiele, Videos, Werbefilme</li><li>ähnlich geschaffene Werke z.B. Videospiele</li></ul>; 7. <strong>Darstellungen wissenschaftlicher oder technischer Art</strong><ul><li>z.B. Zeichnungen, Pläne, Karten, Skizzen, Tabellen, plastische Darstellungen</li></ul>; 8. <strong> Bearbeitungen gem. § 3 UrhG</strong><ul><li>mit eigenschöpferischem Beitrag</li><li>z.B. Übersetzung eines Romans, Techno-Version eines klass. Musikstücks, \"Remake\" eines Films, Verfilmung eines Romans, Adaption eines Filmdrehbuchs für die Bühne</li></ul>; 9. <strong>Datenbanken</strong>"
     },
     {
       "Frage": "Was sind Rechte des Urhebers?",
@@ -96,7 +96,7 @@ mr = [
       "Antwort": "1. Napster (Musikdownload); 2. Video on Demand und Streaming (Amazon Prime, Netflix, Videoload, ); 3. Videosharing Plattformen (Youtube); 4. Mediatheken (ARD, ZDF, arte u.a.)"
     },
     {
-      "Frage": "Die Norm § 21 UrhG umfasst das Recht der <strong>der öffentlichen Wiedergabe</strong> von …. (vervollständige)",
+      "Frage": "Die Norm § 21 UrhG umfasst das Recht <strong>der öffentlichen Wiedergabe</strong> von …. (vervollständige)",
       "Antwort": "… <strong>Vorträgen</strong> oder <strong>Aufführungen</strong> durch <strong>Bild- und Tonträger</strong>."
     },
     {
@@ -105,7 +105,7 @@ mr = [
     },
     {
       "Frage": "Wer ist <em>Urheber</em> und wer im Gegensatz dazu <em>Nutzer</em>",
-      "Antwort": "1. Urheber:<ul><li>Der der etwas erschaffen hat.</li><li>Der \"geistige Eigentümer\"</li></ul>; 2. Nutzer:<ul><li>Konsumenten</li><li>Warhnehmer</li><li>Veranstalter</li><li>Umsetzer / Darsteller</li><li>Lizenznehmer</li><li>Verwerter</li><li>Vermarkter</li></ul>"
+      "Antwort": "1. Urheber:<ul><li>Der der etwas erschaffen hat.</li><li>Der \"geistige Eigentümer\"</li></ul>; 2. Nutzer:<ul><li>Konsumenten</li><li>Wahrnehmer</li><li>Veranstalter</li><li>Umsetzer / Darsteller</li><li>Lizenznehmer</li><li>Verwerter</li><li>Vermarkter</li></ul>"
     },
     {
       "Frage": "Wie lauten die 3 Grudrechte zur <strong>Meinungs- und Pressefreiheit</strong> laut Artikel 5 GrundGesetz?",
@@ -141,15 +141,15 @@ mr = [
     },
     {
       "Frage": "Welche <strong>Ansprüche</strong> gibt es im Rahmen von <strong>Falschbehauptungen</strong>?",
-      "Antwort": "1. <strong>Unterlassungsanspruch</strong> des Betroffenen (die Nachricht darf nicht erneut verbreitet werden); 2. <strong>Widerrufsanspruch</strong> des Betroffenen (der Journalist / der Verlag müssen gegenüber ihren Lesern/Hörern die Nachricht richtigstellen); 3. Zusätlich bei Verletzung der journalistischen Sorgfaltspflich:<ol><li><strong>Schadensersatzanspruch</strong> des Betroffenen (d.h. Enschädigung für den immateriellen Schaden und materieller Schadensersatz)</li><li>Mögliche Strafbarkeit im Sinne der <em>Üblen Nachrede</em> oder <em>Verleumdung</em></li></ol>"
+      "Antwort": "1. <strong>Unterlassungsanspruch</strong> des Betroffenen (die Nachricht darf nicht erneut verbreitet werden); 2. <strong>Widerrufsanspruch</strong> des Betroffenen (der Journalist / der Verlag müssen gegenüber ihren Lesern/Hörern die Nachricht richtigstellen); 3. Zusätzlich bei Verletzung der journalistischen Sorgfaltspflich:<ol><li><strong>Schadensersatzanspruch</strong> des Betroffenen (d.h. Enschädigung für den immateriellen Schaden und materieller Schadensersatz)</li><li>Mögliche Strafbarkeit im Sinne der <em>Üblen Nachrede</em> oder <em>Verleumdung</em></li></ol>"
     },
     {
       "Frage": "Was gilt hinsichtlich des <em>Umfangs der Gegendarstellung</em>? (Also was muss z.B. die beschuldigte Zeitung beachten)",
-      "Antwort": "1. Das Verlangen auf Gegendarstellung muss dem zuständigen<strong> Redakteur schriflich und eigenhändig unterschrieben zugeleitet</strong> werden; 2. <strong>Angemessene Länge</strong>; 3. Gegendarstellung und Abdruckverlangen muss <strong>ohne schuldhafte Verzögerung</strong> dem Redakteur zugeleitet und bearbeitet werden; 4. In der <strong>nächstmöglichen Ausgage</strong>, ggf. im Wege einer einstweiligen Verfügung bei Eilbdürftigkeit; 5. Nur <strong>Tatsachenbehauptungen</strong>; 6. <strong>Vollständiger Abdruck</strong> (\"Alles oder Nichts\"); 7. An <strong>gleicher Stelle</strong> wie Falschmeldung (ggf. Titelseite); 8. <strong>kein \"Redaktionsschwanz\"</strong> (glossierende Anmerkung der Redaktion)"
+      "Antwort": "1. Das Verlangen auf Gegendarstellung muss dem zuständigen<strong> Redakteur schriflich und eigenhändig unterschrieben zugeleitet</strong> werden; 2. <strong>Angemessene Länge</strong>; 3. Gegendarstellung und Abdruckverlangen muss <strong>ohne schuldhafte Verzögerung</strong> dem Redakteur zugeleitet und bearbeitet werden; 4. In der <strong>nächstmöglichen Ausgabe</strong>, ggf. im Wege einer einstweiligen Verfügung bei Eilbdürftigkeit; 5. Nur <strong>Tatsachenbehauptungen</strong>; 6. <strong>Vollständiger Abdruck</strong> (\"Alles oder Nichts\"); 7. An <strong>gleicher Stelle</strong> wie Falschmeldung (ggf. Titelseite); 8. <strong>kein \"Redaktionsschwanz\"</strong> (glossierende Anmerkung der Redaktion)"
     },
     {
       "Frage": "Was lässt sich zum <strong>Informationsanspruch der Medien sagen</strong>? Bzw. welche Ausnahmen gelten?",
-      "Antwort": "1. Ein Anspruch ist <strong>grundsätzlich gegeben</strong>; 2. Ausnahmen:<ul><li>Durchführung eines <strong>schwebenden Verfahrens</strong> würde dadurch <strong>verhindert, erschwert</strong> oder <strong>verzögert</strong></li><li>Informationen unterlägen Vorschriften über die <strong>Geheimhaltung</strong></li><li>ein überwiegendes <strong>öffentliches</strong> oder schutzwürdiges <strong>privates Interesse</strong> würde <strong>verlezt</strong></li><li>Umfang der erbetenen Information ist <strong>unverhältnismäßig</strong></li><li><strong>Auskunftspflicht</strong> der öffentlich-rechtlichen <strong>Religionsgemeinschaftern</strong> (Kirchen) und <strong>Rundfunkanstalten</strong> ist <strong>strittig</strong></li></ul>"
+      "Antwort": "1. Ein Anspruch ist <strong>grundsätzlich gegeben</strong>; 2. Ausnahmen:<ul><li>Durchführung eines <strong>schwebenden Verfahrens</strong> würde dadurch <strong>verhindert, erschwert</strong> oder <strong>verzögert</strong></li><li>Informationen unterlägen Vorschriften über die <strong>Geheimhaltung</strong></li><li>ein überwiegendes <strong>öffentliches</strong> oder schutzwürdiges <strong>privates Interesse</strong> würde <strong>verletzt</strong></li><li>Umfang der erbetenen Information ist <strong>unverhältnismäßig</strong></li><li><strong>Auskunftspflicht</strong> der öffentlich-rechtlichen <strong>Religionsgemeinschaftern</strong> (Kirchen) und <strong>Rundfunkanstalten</strong> ist <strong>strittig</strong></li></ul>"
     },
     {
       "Frage": "Benenne die 5 Regelungen zum <strong>Recht am eigenen Bild</strong>.",
@@ -208,7 +208,7 @@ mr = [
       "Antwort": "1. Den Verantwortlichen drohen nur <strong>zivilrechtliche Sanktionen</strong>; 2. Da hierzu <strong>keine Strafbestimmungen</strong> bestehen"
     },
     {
-      "Frage": "Welche <strong>zivilrechtliche Sanktionen</strong> können Verantwortlichen drohen, wenn diese in eine der 3 Sphären (Sozial-, Privat-, Intim-) eingegriffen haben?",
+      "Frage": "Welche <strong>zivilrechtlichen Sanktionen</strong> können Verantwortlichen drohen, wenn diese in eine der 3 Sphären (Sozial-, Privat-, Intim-) eingegriffen haben?",
       "Antwort": "1. Unterlassungsanspruch; 2. Schadensersatz (Schmerzensgeld)"
     },
     {
@@ -292,7 +292,7 @@ mr = [
       "Antwort": "Regelmäßig in der Datenschutzerklärung einen <strong>Hinweis geben, dass keine  Haftung für die Inhalte</strong> übernommen wird, auf die durch die Verlinkung verwiesen wird."
     },
     {
-      "Frage": "Wer ist der Ansrpuchsgegner bei Rechtsstreitigkeiten wegen des Inhalts einer Website? Gegen wen ist die Klage daher zu richten?",
+      "Frage": "Wer ist der Anspruchsgegner bei Rechtsstreitigkeiten wegen des Inhalts einer Website? Gegen wen ist die Klage daher zu richten?",
       "Antwort": "1. Immer der Betreiber der betreffenden Domain.; 2. Die Klage ist daher immer gegen den Inhaber der Website zu richten."
     },
     {

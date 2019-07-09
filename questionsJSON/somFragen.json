@@ -1,0 +1,322 @@
+som =[
+    {
+      "Frage": "Wie lautet die Definition von Operations Management?",
+      "Antwort": "<strong>Operations Management</strong> wird als <strong>Überbegriff</strong> für das <strong>Management von Produktions- und Dienstleistungsprozessen</strong> verwendet.<br>Ursprünglich aus dem Angelsächsischen, zunehmend aber auch im deutschsprachigen Raum."
+    },
+    {
+      "Frage": "1. Skizziere das Operations Management Übersichtsschaubild:<br><em>Prozesse des Operations Managements und der Funktionalbereich Operations</em><br>2. Was ist hier die Besonderheit im Vergleich zu Organigrammen?",
+      "Antwort": "CEO<br>Operations   Marketing   Finanzierung …<br>Operations Management Prozess 1<br>Operations Management Prozess 2<br>…<br>Operations Management Prozess N<br><br>2. Hier ist die Ausrichtung <em>horizontal</em> und nicht vertikal."
+    },
+    {
+      "Frage": "Wie lautet die Definition zu <strong>Produktions</strong>?",
+      "Antwort": "In der <strong>Produktion</strong> werden durch das <strong>Zusammenwirken</strong> von <strong><ul><li>menschlicher Arbeit</li><li>maschinellen Anlagen</li><li>und Materialressource</li></ul></strong>in einer <strong>Folge</strong> von <ul><li>Bearbeitungs-,</li><li>Montage-,</li><li>und Transportprozessen</li></ul><strong>marktfähige Güter</strong> hergestellt."
+    },
+    {
+      "Frage": "Wie lautet die Definition zu Management? (Im Rahmen des Produktionsmanagements)",
+      "Antwort": "Management ist die zielgerichtete Führung und Leitung eines Unternehmens und seiner Mitarbeiter."
+    },
+    {
+      "Frage": "1. Vervollständige:<br><em>\"In der Produktion werden die ______ so miteinander kombiniert, dass __________ und ___________ als ____________ entstehen.\"</em><br>2. Wie nennt man diesen Prozess noch?",
+      "Antwort": "1. In der Produktion werden die <em>Poduktionsfaktoren</em> so miteinander kombiniert, dass <em>Güter</em> und <em>Dienstleistungen</em> als <em>Endprodukte</em> entstehen.<br>2. Tranformationsprozess"
+    },
+    {
+      "Frage": "Skizziere das Produktionsfaktorsystem",
+      "Antwort": "<div>Erweiterte Faktoren</div>\n  <div style=\"border: 2px solid\">\n    <p>Produktionsfaktoren</p>\n    <ul>\n      <li>Dispositive Faktoren\n        <ul>\n          <li>originärer Faktor\n            <ul>\n              <li>Leitung (Führung</li>\n            </ul>\n          </li>\n          <li>Derivative Faktoren\n            <ul>\n              <li>Planung</li>\n              <li>Organisation</li>\n            </ul>\n          </ul>\n        </li>\n      </li>\n      <li>Elementarfaktoren\n        <ul>\n          <li>Verbrauchsfaktoren\n            <ul>\n              <li>Werkstoffe</li>\n            </ul>\n          </li>\n          <li>Potentialfaktoren\n            <ul>\n              <li>Menschl. Arbeit</li>\n              <li>Betriebsmittel</li>\n            </ul>\n          </li>\n        </ul>\n      </li>    \n    </ul>\n  </div>\n  <div>Erweiterte Faktoren</div>"
+    },
+    {
+      "Frage": "<em>Systemdenkten im Operations Management</em> lässt sich in einen Kreislauf aus 7 Punkten skizzieren. Wie lauten diese 7 Punkte?",
+      "Antwort": "1. Leitung (Führung); 2. Planung; 3. Organisation; 4. Werkstoffe; 5; Betriebsmittel; 6. Menschliche Arbeit; 7. Erweiterte Faktoren"
+    },
+    {
+      "Frage": "1. Skizziere das Input - output - Modell<br>2. Von wem stammt das Modell?",
+      "Antwort": "1. <strong>[Produktionsfaktoren]</strong> =>(Input)=> <strong>[Transformationsprozess (Troughput)]</strong> =>(Output)=> <strong>[Produkte]</strong><br><br>Anmerkung: Schrott rein und Gold raus geht nicht.; 2. Erich Gutenberg (Gottvater der BWL, nicht der Buchdruck-Mensch)"
+    },
+    {
+      "Frage": "Beschreibe den Begriff Wertschöpfung aus:<br>1. Finanzwirtschaftlicher Perspektive<br>2. und aus der Perspektive des Operations Management.",
+      "Antwort": "1. Finanzwirtschaftliche Perspektive:<ul><li>Wertschöpfung = Umsatz - Vorleistungen</li></ul>; 2. Perspektive im Operations Management:<ul><li>Tranformation von Produktionsfaktoren in Produkte höheren Wertes</li><li>Kunden sind bereit dafür Geld zu bezahlen</li><li>Gegenteil von Wertschöpfung ist Verschwendung</li></ul>"
+    },
+    {
+      "Frage": "Was sind Erfolgsfaktoren für Unternehmen?",
+      "Antwort": "1. Unternehmenserfolg ergibt sich aus:<ul><li>gedanklicher Vorwegnahme der Entwicklungen des Unternehmensumfeldes</li><li>den eigenen Handlungen</li><li>und deren Wechselbeziehungen</li></ul>; 2. Auch die Branche inkl. der Wettbewerber zählt zum Umfeld (unternehmensextern)."
+    },
+    {
+      "Frage": "Skizziere die Five-Forces von Porter.",
+      "Antwort": "1. Horizontal:<ul><li>von Links: Lieferanten</li><li>von Rechts: Abnehmer</li></ul>; 2. Vertikal:<ul><li>von Oben: Neue Wettbewerber</li><li>von Unten: Substitute</li></ul>"
+    },
+    {
+      "Frage": "Skizziere die Reaktionskette von Edward Deming.",
+      "Antwort": "1. Verbesserte Qualität =>; 2. Verbesserte Produktivität =>; 3. Sinkende Kosten =>; 4. Wettbewerbsfähige Preise =>; 5. Sichere Marktanteile =>; 6. Festigung des Unternehmens =>; 7. Sichere Arbeitsplätze =>; 8. Return on Investment;"
+    },
+    {
+      "Frage": "Wer war Edward Deming?",
+      "Antwort": "Der Gottvater des <strong>Qualitätsmanagements</strong>"
+    },
+    {
+      "Frage": "Wie könnte eine beispielabfolge für Wertschöpfungsarbeitsgänge aussehen (13 Schritte)?",
+      "Antwort": "1. Drehen und Enkehlen der Antriebswelle; 2. Transport zum Messtisch; 3. Prüfen der Auskehlung; 4. Zwischenlagern; 5. Transport zur Schleifmaschine; 6. Schleifen und Endtoleranz; 7. Transport zum Messtisch; 8. Prüfen des Außendurchmessers; 9. Transport zur Endkontrolle; 10. Endkontrolle; 11. Transport zum Lager; 12. Lagern; 13. Fertigwarenlager"
+    },
+    {
+      "Frage": "Nenne die 8 Verschwendungsarten.",
+      "Antwort": "1. Verschwendung durch <strong>Überproduktion</strong>; 2. …durch <strong>Warten</strong>; 3. …durch <strong>Transporte</strong>; 4. …Verschwendung im <strong>Herstellerprozess</strong>; 5. …Verschwendung durch <strong>Bestände</strong>; 6. …durch <strong>Bewegung</strong>; 7. ...durch <strong>Qualitätsfehler</strong>; 8. ...durch gesundheitsschädliche Arbeitsverfahren"
+    },
+    {
+      "Frage": "Wie ist der Verschwendungszirkel aufgebaut? (3 Ebenen/Ringe)",
+      "Antwort": "1. Äußerster (schwarzer) Ring: <strong>Vermeidbare Verschwendung</strong>; 2. Mittlerer (grauer) Ring: <strong>Nicht vermeidbare Verschwendung</strong>; 3. Innerster (weißer) Kreis: < 10% Wertschöpfung; 4. (Der Kreis ist eingeteilt in die 8 Verschwendungsarten)"
+    },
+    {
+      "Frage": "Was wird durch die bildliche Darstellung des Problemsees verdeutlicht? (Zur Erinnerung: Schiff [Produktion] schwimmt auf Oberfläche [Bestände]. Darunter ist tiefes Gewässer mit Steinen [Verschwendung und Verluste].)",
+      "Antwort": "1. Bestände verdecken Probleme; 2. (Zu den Verschwendungen zählen: Produktionsfehler, Qulitätsverluste, lange Rüstzeiten, Wartezeiten, Transporte, Anlagenausfälle, Bewegung)"
+    },
+    {
+      "Frage": "Skizziere: Messung der Wettbewerbsfähigkeit im Regelkreis. (Diese Karteikarte kann das nur schlecht beschreiben)",
+      "Antwort": "1. Führungsgröße -> [Produktionsmanagement (Regler)]; 2. -> Planung -> (Stellgrößen: Produktionsziele, Planvorgaben) -> [Input]; 3. -> Produktionsfaktoren -> [Produktionssystem (Regelstrecke)] ->; 5. -> Produkte -> [Output] ->; 6. -> Kontrolle -> (Regelgrößen: Rückmeldeinformationen) -> [Produktionsmanagement (Regler)]; 7. Störgrößen wirken auf Produktionssystem ein"
+    },
+    {
+      "Frage": "Nenne die Ziele zur Messung der Wettbewerbsfähigkeit.",
+      "Antwort": "1. Ziele sind <strong>Aussagen über in Zukunft angestrebte Zustände</strong>, die als <strong>Ergebnis von Entscheidungen</strong> erreicht werden sollen.; 2. Formulierung in:<ul><li>Inhalt</li><li>Ausmaß</li><li>Zeit</li></ul>"
+    },
+    {
+      "Frage": "Wie müssen Ziele sein?",
+      "Antwort": "1. SMART; 2. S - Spezifisch (zur jeweiligen Abteilung); 3. M - Messbar (klare Vorgaben); 4. A - aktiv Beeinflussbar (erreichbar); 5. R - Realistisch (umsetzbar); 6. T - Terminiert (klares Zeitlimit)"
+    },
+    {
+      "Frage": "Zum Thema <em>Schlüsselkennzahl: Produktivität</em> gibt es Input-Output-Performance-Kennzahlen.<br>1. Wofür steht PI?<br>2. Skizziere das hierzu passende Input-Throughput-Output-Modell (mit Kennzahlformeln).",
+      "Antwort": "1. PI steht für Performance Indikatoren; 2. Auslastung [Input] (Ist-Input / Plan-Input) => ; 2. => Produktivität [Throughput] (Ist-Output / Ist-Input) =>; 3. => Effektivität [Output] (Ist-Output / Plan-Output)"
+    },
+    {
+      "Frage": "Zum Thema <em>Schlüsselkennzahl: Durchlaufzeit</em><br>1. Was bedeutet Durchlaufzeit<br>2. Wie wird die Mittlere Durchlaufzeit (Durchschnitt) berechnet?",
+      "Antwort": "1. Die <strong>Durchlaufzeit</strong> ist die gesamte <strong>Zeitdauer</strong> von der <strong>Auftragserteilung bis zur Fertigstellung</strong> eines oder mehrerer gemeinsam herzustellender Güter. (Auftrag bzw. Losgröße); 2. Summe der Durchlaufzeiten aller Aufträge / Anzahl der Aufträge"
+    },
+    {
+      "Frage": "1. Was ist der Durchlaufquotient?<br>2. Wie wird er berechnet?",
+      "Antwort": "1. <strong>Durchlaufquotient</strong> ist das <strong>Verhältnis</strong> der eigentlichen <strong>Bearbeitungszeit</strong> zur <strong>Durchlaufzeit</strong>; 2. Durchlaufquotient = Bearbeitungszeit / Durchlaufzeit"
+    },
+    {
+      "Frage": "Die Formel für den Durchlaufquotient kann auch allgemeiner ausgedrückt werden, da Bearbeitungszeit mit wertschöpfender Zeit gleichgesetzt werden kann. Wie lautet die Formel für den Durchlaufquotienten dann?",
+      "Antwort": "Wertschöpfungsgrad der Durchlaufzeit = Wertschöpfende Zeit der Durchlaufzeit / Durchlaufzeit"
+    },
+    {
+      "Frage": "Beim Thema <em>SOM und Unternehmensstrategie</em> gibt es ein Schaubild aus 4 Kästen, welche den Weg zur Strategie beschreiben. Skizziere diesen hierarchischen Aufbau, bzw. nenne die Einzelnen Schritte.",
+      "Antwort": "1. <ul><li><strong>Umweltanalyse</strong><ul><li>Identifikation Hauptmerkmale der Branche</li><li>Identifik. Wettbewerbskräfte</li><li>Beurteilung Konkurrenzverhältnisse</li><li>Vorhersage Wettbewerbsveränderung</li><li>Erarbeitung Schlüsselfaktoren für Erfolg</li><li>Zusammenfassende Analyse der Branchenattraktivität</li></ul></li><li><strong>Unternehmensanalyse</strong><ul><li>Analyse Ausgangssituation (Strategie bisher erfolgreich?)</li><li>Stärken-/Schwächenanalyse, relative Wettbewerbssituation</li><li>Identifizierung strategischer Schlüsselprobleme</li></ul></li>; 2. => <strong>Identifzierung und Beurteilung strategischer Alternativen</strong><ul><li>Welche realistischen Alternativen gibt es?</li><li>Reichen graduelle Verbesserungen der bisher verfolgten Strategie?</li><li>Sind graduelle Veränderungen der Strategie möglich?</li><li>Wie kann ein bedeutender Wettbewerbsvorteil aufgebaut werden?</li></ul>; 3. <strong>Strategieformulierung</strong><br>Auswahlkriterien:<br><ul><li>Strategie passt gut zu der zukünftigen Umweltentwicklung</li><li>Strategie baut auf strategische Wettbewerbsvorteile auf</li><li>Strategie führt zu höherem Shareholder Value</li></ul>"
+    },
+    {
+      "Frage": "Skizziere das Schaubild zu <em>SOM als Prozessgestaltung</em>",
+      "Antwort": "(Links stehen die Prozesstypen); 1. Steuerungsprozesse: Dachspitze: Strategie und Planung …; 2.  Kernprozesse: Produktentstehung -> Auftragsgewinnung -> Auftragsabwicklung -> After Sales Service; 3. Untestützungsprozesse: (Untereinander und über die gesamte \"Haus\"-Breite)<ul><li>Personal</li><li>Infrastruktur</li><li>.....</li><li>Technologie</li></ul>"
+    },
+    {
+      "Frage": "Zum Thema <em>Produktionsfaktorensystem</em>: Was sind Dispositive Faktoren?",
+      "Antwort": "<ul><li>Führung und Management<ul><li>Planung = Willensbildung</li><li>Führung = Willensdurchsetzung<ul><li>Führungsstile (autoritär vs. Kooperativ)</li><li>Führungsinstrumente (Methoden)</li><li>Führungsmodelle (Theorien)</li></ul></li></ul></li></ul>"
+    },
+    {
+      "Frage": "Zum Thema <em>Produktionsfaktorensystem</em>: Wie ist der Planungsprozess (Regelkreislauf) aufgebaut? (6 Stichpunkte)",
+      "Antwort": "1. Zielbildung; 2. Problemfeststellung und -analyse; 3. Alternativensuche; 4. Prognose; 5. Alternativenbewertung; 6. Alternativenauswahl"
+    },
+    {
+      "Frage": "Zum Thema <em>Produktionsfaktorensystem</em>: Wie ist Organisation aufgebaut/unterteilt?",
+      "Antwort": "<ul><li>Organisation\n      <ul><li>Aufbauorganisation = Strukturen\n        <ul>\n          <li>Aufgabenanalyse\n            <ul>\n              <li>Zerlegung in Einzelaufgaben</li>\n            </ul>\n          </li>\n          <li>Aufgabensynthese\n            <ul>\n              <li>Zusammenfassung der Aufgaben zu Aufgabenkomplexen / Stellen</li>\n            </ul>\n          </li>\n        </ul>\n      </li>\n      <li>Ablauforganisation = Prozesse\n        <ul>\n          <li>Prozessdefinition und -standardisierung</li>\n        </ul>\n      </li></ul>\n    </li>\n  </ul>"
+    },
+    {
+      "Frage": "Zum Thema <em>Produktionsfaktorensystem</em>: Was sind Elementarfaktoren?",
+      "Antwort": "1. Elementarfaktoren sind Betriebsmittel; 2. Dazu gehören:<ul><li>alle Güter</li><li>Einrichtungen und Anlagen</li><li>Maschinen, Werkzeuge, Vorrichtungen</li><li>Messmittel und Prüfeinrichtungen</li><li>Transportmittel und Lagereinrichtungen</li><li>usw.</li></ul>"
+    },
+    {
+      "Frage": "Zum Thema <em>Produktionsfaktorensystem</em>: Was ist die <strong>Layoutplanung</strong>?",
+      "Antwort": "1. Layoutplanung: Anordnung der Betriebsmittel; 2. Das Wort <em>\"Layout\"</em> kommt aus dem englischen Sprachgebrauch und bedeutet dort: <em>\"Tätigkeit oder Verfahren der Anordnung oder exakten Planung der zu gestaltenden Einrichtung, Zeichnung oder Konstruktion bzw. als Anordnung von Gegenständen auf einer Fläche.\"</em>"
+    },
+    {
+      "Frage": "Skizziere das Schaubild <em>Anordnung der Betriebsmittel: Organisationstypen</em>",
+      "Antwort": "<ul><li>Organisationstypen der Fertigung\n          <ul>\n            <li>Verrichtungszentralisation\n              <ul>\n                <li>Werkstattfertigung (Job shop)</li>\n              </ul>\n            </li>\n            <li>Objektzentralisation\n              <ul>\n                <li>Fließfertigung (Flow shop)\n                  <ul>\n                    <li>nicht getakteter Materialfluss (ohne zeitliche Bindung)\n                      <ul>\n                        <li>Reihenfertigung</li>\n                      </ul>\n                    </li>\n                    <li>getakteter Materialfluss (mit zeitlicher Bindung) (Assembly line)\n                      <ul>\n                        <li>nicht gekoppelter Materialfluss\n                          <ul>\n                            <li>Fließfertigung</li>\n                          </ul>\n                        </li>\n                        <li>gekoppelter Materialfluss\n                          <ul>\n                            <li>Transferstraße</li>\n                          </ul>\n                        </li>\n                      </ul>\n                    </li>\n                  </ul>\n                </li>\n                <li>Zentrenfertigung\n                  <ul>\n                    <li>(nicht) automatisiert\n                      <ul>\n                        <li>Flexible Fertigungssysteme (-zelle)</li>\n                      </ul>\n                    </li>\n                    <li>Gruppenfertigung\n                      <ul>\n                        <li>Fertigungsinsel</li>\n                      </ul>\n                    </li>\n                  </ul>\n                </li>\n              </ul>\n            </li>\n          </ul>\n    </li></ul>"
+    },
+    {
+      "Frage": "Nenne zwei Organisationstypen (zum Thema Produktionsfaktorensystem). Es wäre gut wenn du beide skizzieren könntest).",
+      "Antwort": "1. <strong>Wekstattfertigung:</strong><br>z.B. Bohrere, Dreherei, Fräserei, Schleifere, Lackiererei sind alle außen und haben einzelne Arbeitsplätze. Vorne kommen Aufträge rein und die Wege gehen zwischen den Stationionen (kreuz und quer) hin und her.; 2. <strong>Fließfertigung (U-Linie):</strong><br>Die Aufträge (das Vormaterial) fängt kommt vorne-unten-links in das System, passiert der Reihe nach alle Stationen, indem es hinten-rechts eine U-kurve macht und letztendlich vorne-oben-links als Ware aus dem System herauskommt. Die Arbeiter bewegen sich dazwischen hin-und-her (wobei sie sich eigentlich nur umdrehen müssen)."
+    },
+    {
+      "Frage": "Bilde eine Matrix zu <em>Prozesstypen der Fertigung</em>. Die Einteilung geschieht hinsichtlich <em>Variabilität der Produktionsprozesse</em> und <em>Komplexität der Produktionsprozesse</em>.",
+      "Antwort": "<table>\n      <tr>\n        <td>Variabilität:<br>hoch</td>\n        <td>Auftragsorentierte Serienfertigung\n          <ul>\n            <li>teilw. standardisierte Produkte</li>\n            <li>variantenreiche Produkte</li>\n            <li>Fertigung nach Kundenauftrag</li>\n            <li>in Serienfertigung</li>\n            <li>mittleres Volumen</li>\n          </ul>\n        </td>\n        <td>Auftragsorentierte Einzelfertigung\n          <ul>\n            <li>nicht-standardisierte Produkte</li>\n            <li>individuelle Produkte</li>\n            <li>Fertigung nach Kundenauftrag</li>\n            <li>in Einzelfertigung</li>\n            <li>geringes Volumen</li>\n          </ul>\n        </td>\n      </tr>\n      <tr>\n        <td>Variabilität:<br>niedrig</td>\n        <td>Marktorientierte Massenfertigung\n          <ul>\n            <li>standardisierte Produkte</li>\n            <li>(nahezu) homogene Produkte</li>\n            <li>für anonyme Abnehmer (Markt)</li>\n            <li>Massenfertigung</li>\n            <li>sehr hohes Volumen</li>\n          </ul>\n        </td>\n        <td>Marktorientierte Serienfertigung\n          <ul>\n            <li>teilw. standardisierte Produkte</li>\n            <li>Hauptprodukte mit Varianen</li>\n            <li>für anonyme Abnehmer</li>\n            <li>in Serienfertigung</li>\n            <li>hohes Volumen</li>\n          </ul>\n        </td>\n      </tr>\n      <tr>\n        <td></td>\n        <td>Komplexität:<br>niedrig</td>\n        <td>Komplexität:<br>hoch</td>\n      </tr>\n    </table>"
+    },
+    {
+      "Frage": "Im Rahmen des <em>Management der Betriebsmittel</em> gibt es zwei übergeordnete <em>Instandhaltungsmaßnahmen</em>. Welche sind das? (Nenne auch Unterkategorien)",
+      "Antwort": "1. <strong>Planmäßige Maßnahmen: </strong><ul><li>Periodische Maßnahmen: Wartung, Inspektion, Reparatur</li><li>Sequentielle Maßnahmen: Inspektion, Reparatur</li></ul>; 2. <strong>Außerplanmäßige Maßnahmen</strong>"
+    },
+    {
+      "Frage": "Was sind Werktstoffe?",
+      "Antwort": "Als <strong>Werkstoffe</strong> werden <strong>Güter</strong> bezeichnet, die während desTransformationsprozesses <strong>substantieller Bestandteil der Produkte</strong> werden oder durch ihren Untergang den <strong>Produktionsvorgang erst ermöglichen</strong> und damit nicht mehr zur Verfügung stehen."
+    },
+    {
+      "Frage": "Skizziere/Nenne Güterbedarfsarten.",
+      "Antwort": "<ul><li>Güterbedarfsarten\n    <ul>\n      <li>Ermittlung nach Ursprung und Erzeugnisebene\n        <ul>\n          <li><strong>Primärbedarf</strong><br>\n            Bedarf an verkaufsfähigen Gütern und Dienstleistungen\n          </li>\n          <li><strong>Sekundärbedarf</strong><br>\n            Bedarf an Rohstoffen, Bauteilen und Dienstleistungen zur Herstellung des Primärbedarfs\n          </li>\n          <li><strong>Tertiärbedarf</strong><br>\n            Bedarf an Betriebs- und Hilfsstoffen\n          </li>\n        </ul>\n      </li>\n      <li>Ermittlung nach Berücksichtigung der Lagerbestände\n        <ul>\n          <li><strong>Bruttobedarf</strong><br>\n            Periodenbezogener Primär-, Sekundär- oder Tertiärbedarf\n          </li>\n          <li><strong>Nettobedarf</strong><br>\n            Bruttobedarf abzgl. disponiblem Lagerbestand\n          </li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  </ul>"
+    },
+    {
+      "Frage": "Skizziere die Tabelle/Matrix zur <em>Kombinierten ABC- und XYZ-Analyse</em>.",
+      "Antwort": "<table>\n      <tr>\n        <thead colspan=\"5\">Vebrauchswert</thead>\n      </tr>\n      <tr>\n        <td rowspan=\"5\">Vorhersagen-<br>\n                        genauigkeit<br>\n                        und Verbrauchs-<br>\n                        konstanz\n        </td>\n      </tr>\n      <tr>\n        <td></td>\n        <td><strong>A</strong><br>\n            (hoch)\n        </td>\n        <td><strong>B</strong><br>\n            (mittel)\n        </td>\n        <td><strong>C</strong><br>\n            (niedrig)\n        </td>\n      </tr>\n      <tr>\n        <td><strong>X</strong><br>\n            (hoch)\n        </td>\n        <td>Just-in-Time geeignet</td>\n        <td></td>\n        <td>Verbrauchsgesteuert</td>\n      </tr>\n      <tr>\n        <td><strong>Y</strong><br>\n            (mittel)\n        </td>\n        <td></td>\n        <td></td>\n        <td></td>\n      </tr>\n      <tr>\n        <td><strong>Y</strong><br>\n            (niedrig)\n        </td>\n        <td>bedarfsgesteuert</td>\n        <td></td>\n        <td>Programmbereinigung</td>\n      </tr>\n    </table>"
+    },
+    {
+      "Frage": "Welche Bestandarten gibt es (im Rahmen der Materialbestandsermittlung)? (9 Arten)",
+      "Antwort": "1. Inventurbestand; 2. Verfügbarer Bestand; 3. Reservierter Bestand; 4. Disponierter Bestand; 5. Sperrbestand; 6. Höchstbestand; 7. Meldebestand; 8. Sicherheitsbestand; 9. Durchschnittlicher Lagerbestand"
+    },
+    {
+      "Frage": "Was lässt sich über <em>menschliche Arbeit sagen</em>?",
+      "Antwort": "1. Ohne den Einsatz menschlicher Arbeit als disponierende und ausführende Tätigkeit sind Produktion und die übrigen betrieblichen Funktionsbereiche nicht möglich.; 2. \"Der Mensch ist das Wichtigste im Unternehmen!"
+    },
+    {
+      "Frage": "Welche drei Faktoren haben Einfluss auf die (menschliche) Arbeitsleistung?",
+      "Antwort": "1. Leistungsfähigkeit; 2. Leistungsbereitschaft; 3. Leistungsmotivation"
+    },
+    {
+      "Frage": "Welche Schlagworte fallen dir zum Thema <em>Humanisierung</em> im Rahmen der Arbeitsgestaltung ein?",
+      "Antwort": "1. Job - Rotation; 2. Job - Enlargement (horizontal); 3. Job - Enrichment (vertikal); 4. Qualifizierung Vielseitigkeit: 3 x 3 - Standard; 5. Teilautonome Teams"
+    },
+    {
+      "Frage": "1. Im Rahmen der <em>Prozessorientierung</em> tauchen Mängel hinsichtlich der traditionellen Organisationskonzepte auf. Welche \"Gleichung\" der Schemata verdeutlicht das?<br>2. Und nenn die 4 daraus entsehenden Probleme .",
+      "Antwort": "1. Funktionsbarrieren (vertikal segregiertes Dreieick) <strong>+</strong> Hierarchiebarrieren (horizontal segregiertes Dreieick) <strong>=</strong> Operative Inseln (gekacheltes Dreieck); 2. <ul><li>Funktionale Abschottung</li><li>Informationsprobleme</li><li>Koordinationsprobleme</li><li>Steuerungsprobleme</li></ul>"
+    },
+    {
+      "Frage": "Was versteht man unter einem <em>Prozess</em>?",
+      "Antwort": "1. Zielgerichtete Erstellung einer Leistung; 2. durch eine Folge von logisch zusammenhängenden Aktivitäten; 3. die innerhalb einer Zeitspanne; 4. nach bestimmten Regeln durchgeführt wird."
+    },
+    {
+      "Frage": "Skizziere das Wertkettenmodell von Porter (2000)",
+      "Antwort": "<table>\n      <tr>\n        <td rowspan=\"4\">Sekundäre<br>\n            Aktivitäten</td>\n        <td colspan=\"5\">Unternehmensinfrastruktur</td>\n        <td rowspan=\"4\"><strong>Gewinnspanne</strong></td>\n      </tr>\n      <tr>\n        <td></td>\n        <td colspan=\"3\">Personalwirtschaft</td>\n        <td></td>\n      </tr>\n      <tr>\n        <td></td>\n        <td colspan=\"3\">Technologieentwicklung</td>\n        <td></td>\n      </tr>\n      <tr>\n        <td></td>\n        <td colspan=\"3\">Beschaffung</td>\n        <td></td>\n      </tr>\n      <tr height=\"100px\">\n        <td></td>\n        <td>Eingangslogistik</td>\n        <td>Operationen</td>\n        <td>Marketing und Vertrieb</td>\n        <td>Ausgangslogistik</td>\n        <td>Kundendienst</td>\n        <td><strong>Gewinnspanne</strong></td>\n      </tr>\n      <tr>\n        <td></td>\n        <td colspan=\"5\">Primäre Aktivitäten</td>\n      </tr>\n    </table>"
+    },
+    {
+      "Frage": "Beim Thema <em>Grundlagen des Prozessmanagements</em> werden <em>Merkmale von Prozessen</em> genannt. Zähle die 7 Merkmale auf.",
+      "Antwort": "1. Aufgabe und Ziele; 2. Ereignis; 3. Input und Output; 4. Quelle und Senke; 5. Aktivitäten; 6. Ressourcen; 7. Durchlaufzeit"
+    },
+    {
+      "Frage": "Skizziere das Schaubild zu <em>Prozessmermale und Prozesskette</em>",
+      "Antwort": "1. Quelle(n): Input => <strong>Prozesse</strong> >Aktivitäten>A1, A2, …An> <strong>Prozessaufgaben und Prozessziele, Ressourcen</strong> => Output: Senke(n); 2. Prozesskette: Prozess => Prozess => Prozess"
+    },
+    {
+      "Frage": "1. Was ist ein Geschäftsprozess?<br>2. Wie werden sie noch genannt?",
+      "Antwort": "1. <strong>Geschäftsprozess</strong>: <em>Kette</em> von inhaltlisch zusammenhängenden <em>Aktivitäten</em>, die zur <em>Leistungserstellung und -verwertung</em> vollzogen werden müssen und zu einem <em>abgeschlossenen Ergebnis</em> führen, das einen <em>wesentlichen Beitrag</em> zum Unternehmenserfolg leistet.; 2. Kern-, Schlüssel- oder Hauptprozesse"
+    },
+    {
+      "Frage": "Wie wird die Verbindung aller Geschäftsprozesse genannt?",
+      "Antwort": "Wertschöpfungskette (value chain)"
+    },
+    {
+      "Frage": "Was ist die Wertschöpfungskette?",
+      "Antwort": "Die Verbindung aller Geschäftsprozesse."
+    },
+    {
+      "Frage": "Was umfasst die Wertschöpfungskette?",
+      "Antwort": "Die Wertschöpfungskette umfasst sämtliche Tätigkeiten, durch die ein Produkt entworfen, hergestellt, vertrieben und ausgeliefert wird."
+    },
+    {
+      "Frage": "In welche Dimensionen ist die Prozessgestalten bei der Veranschaulichung \"magisches Viereck\" unterteilt. Beschreibe es auch.",
+      "Antwort": "1. Horizontal:<ul><li>Links: Zeit</li><li>Rechts: Qualität</li></ul>; 2. Vertikal:<ul><li>Oben: Innovationsfähigkeit</li><li>Unten: Kosten</li></ul>; 3. Das eine Viereck (z.B. weiter Links und weiter unten, also zeitaufwendiger, kostenintensiver, weniger innovativ und weniger Qualität) bezeichnet die Ist-Situation. Die Soll-Situation ist ein Viereck weiter Oben und weiter Rechts, also innovationsfähiger, qualitativer, günstiger, schneller."
+    },
+    {
+      "Frage": "Skizziere / Beschreibe das Schaubild Prozessmanagement als Sekundärorganisation",
+      "Antwort": "Ein Haus (Unternehmensführung), indem sich drei Säulen befinden (Vertrieb, Technik, Verwaltung). Zischen den Säulen befinden sich Blitze…(könnte Spannung bedeuten). Von links nach rechts durchdringen/verbinden Pfeile (Geschäftsprozesse) die drei Säulen. Ein Beispiel: Geschäftsprozess Produktentwicklung oder Geschäftsprozess Kundenservice"
+    },
+    {
+      "Frage": "Was ist zweifelsohne die konsequenteste Umsetzung des Prozessmanagements-Konzeptes?",
+      "Antwort": "Die Einführung einer <em>prozessorientierten Primärorganisation</em>!"
+    },
+    {
+      "Frage": "Nenne die vier Phasen sowie ihre Unterpunkte, des <em>Vier-Phasen-Konzepts der Prozessgestaltung</em>.",
+      "Antwort": "1. Phase: <strong>Prozessdefinition</strong>:<ul><li>Geschäftsfeldanalyse</li><li>Prozessaufgabe festlegen</li><li>Prozessaufgabe definieren</li></ul>; 2. Phase: <strong>Prozessstrukturierung</strong>:<ul><li>Prozessstruktur bestimmen</li><li>Reihenfolge festlegen</li><li>Schnittstellen definieren</li><li>Prozesse integrieren</li><li>Erfolgsindikatoren für ein Prozesscontrolling festlegen</li><li>Zuweisung der Prozessverantwortung</li></ul>; 3. Phase: <strong>Prozessrealisation</strong>:<ul><li>Prozessdurchführung</li><li>Prozesscontrolling durch Soll-Ist-Vergleiche</li></ul>; 4. Phase: <strong>Prozessoptimierung</strong>:<ul><li>Prozessanalyse auf der Basis der Soll-Ist-Vergleiche</li><li>Erternes/Internes Prozess-Benchmarking</li><li>Gesamtbeurteilung des Prozesses</li></ul>; 5. (P.S. Links weist ein Pfeil von Phase 4 auf Phase 3 (Kontinuierliche Prozessverbesserung) und rechts zeigt ein Pfeil von Phase 4 auf Phase 2 und Phase 1 (Prozess-Redesign)"
+    },
+    {
+      "Frage": "Skizziere die <em>Strukturierung eines Geschäftsprozesses</em> am Beispiel \"Geschäftsprozess Auftragsabwicklung\".",
+      "Antwort": "1. GROSSER Überpfeil (der Gesamtprozess); 2. Erste Reihe: <strong>Teilprozsesse 1. Ordung</strong> (z.B. Auftrag definieren =>  … =>  Abschluss des Auftrag; 3. Zweite Reihe: <strong>Teilprozesse 2. Ordnung</strong> als Unterteilung des übergeordneten Teilprozesses \"Auftrag definieren\" (z.B. Kundenanforderungen erfassen => ... => ...=> ...; 4. Dritte Reihe: <strong>Elementarprozesse</strong> als Unterteilung des übergeordnenten Teilprozesses \"Kundenanforderungen erfassen\" (z.B. Kontakt mit Kunden herstellen => Checkliste mit Kundenauftrag erfasse => ... => Kundenspezifikationen fertigstellen"
+    },
+    {
+      "Frage": "Skizziere den Aufbau/die Hierarchie der <em>Aktionsträger im Prozessmanagement</em>",
+      "Antwort": "1. Außerhalb des Pfeils (übergeordnet): <strong>Prozesslenkungsausschuss</strong> mit <em>Prozessmethodenberater</em> als Stabstelle; 2. Innerhalb des großen Pfeils (<strong>Geschäftsprozess 1 (GP1)</strong>, außerhalb des Team-Kastens (<strong>GP 1-Team</strong>): <strong>Prozesseigner GP 1</strong>; 3. Innerhalb des Team-Kastens (<strong>GP 1-Team</strong>), außerhalb der Teilsprozesspfeile und dem Prozesseigner unterstellt/mit ihm verbunden: <strong>Prozessmanager GP 1</strong>; 4. Innerhalb Pfeil 1 (<strong>Teilprozess 1 (TP 1) / TP 1 - Team</strong>): <strong>TP 1 - Manager</strong> der dem <strong>Prozessmanager GP 1</strong> unterstellt/mit ihm verbunden ist; 5. Unter <strong>TP 1- Manager befinden sich die <strong>Prozessmitarbeiter</strong>; 6. Für Teilprozess 1 (TP2) / TP2 - Team verhät es sich genause wie ab 4."
+    },
+    {
+      "Frage": "Wie ist Qualität definiert?",
+      "Antwort": "<strong>Qualität</strong> ist die <strong>Gesamtheit von Eigenschaften und Merkmalen</strong> eines <strong>Produktes oder einer Tätigkeit</strong>, die sich auf deren <strong>Eignung zur Erfüllung gegebener Erfordernisse</strong> bezieht.; 2. = Einhaltung vereinbarter Anforderungen"
+    },
+    {
+      "Frage": "Nenne die 3 Entwicklungsstufen im Qualitätsmanagement",
+      "Antwort": "1. Stufe: <strong>Produktqualität</strong>; 2. Stufe: <strong>Prozessqualität</strong>; 3. Stufe: <strong>Qualitätsmanagementsystem</strong>"
+    },
+    {
+      "Frage": "Skizziere den Treppe der <em>Entwicklungsstufen im Qualitätsmanagement</em>. Anmerkung: sich richtet sich nach der zeitlichen Entwicklung und endet mit <em>Verständnis als Qualität</em>",
+      "Antwort": "1. <em>Verfügbarkeit</em> der Ware (produktbezogen); 2. <em>Fehlerfreiheit</em> der Prüfung (statistische Methoden); 3. <em>Prozess-Sicherheit</em> der Produktion (prozessbegleitend); 4. <em>Strategisches Ziel</em> der Führung und Organisation (unternehmensweit); 5. <em>integriertes Prozessdenken</em> alles Beteiligten (Unternehmenskultur, Integriertes Management)"
+    },
+    {
+      "Frage": "Auf der 1. Stufe des Qualitätsmanagements steht die Produktqualität. Nenn die 8 Dimensionen der Produktqualität.",
+      "Antwort": "1. Gebrauchsnutzen; 2. Ausstattung; 3. Zuverlässigkeit; 4. Normengerechtigkeit; 5. Haltbarkeit; 6. Kundendienst; 7. Ästhetik; 8. Qualitätsimage"
+    },
+    {
+      "Frage": "Auf der 2. Stufe des Qualitätsmanagements steht die Prozessqualität. Was ließe sich dazu skizzieren?",
+      "Antwort": "Der Aufbau der Prozesskette (zur Erinnerung: Input -> Aktivitäten A1, …, An, -> Output)"
+    },
+    {
+      "Frage": "Auf der 3. Stufe des Qualitätsmanagements befindet sich <em>Qualitätsmanagementsystem</em>. Welches System/Konzept lässt sich dabei anwenden? Beschreibe auch den Aufbau mit seinen Unterpunkten",
+      "Antwort": "1. Das <strong>T</strong>otal <strong>Q</strong>uality <strong>M</strong>anagement (TQM); 2. Es ist ein Kreislauf in dessen Mitte <em>Ständige Verbesserungen</em> das Zentrum bilden.; 3. <strong>Q</strong>: <ul><li>Qualität des Unternehmens</li><li>Qualität der Prozesse</li><li>Qualität der Arbeit</li><li>Qualität der Produkte</li></ul>; 4. <strong>M</strong>:<ul><li>Führungsqualität</li><li>Qualitätspolitik, -ziele</li><li>Team- und Lernfähigkeite</li><li>Beharrlichkeit</li></ul>; 5. <strong>T</strong>:<ul><li>Partnerschaftliche Kommunikation mit dem Kunden (Kundenorientierung)</li><li>Einbeziehung aller Unternehmensangehörigen (Mitarbeiterorientierung)</li><li>Bereichs- und funktionsübergreifend</li><li>Öffentlichkeitsarbeit (Gesellschafts- und Umweltorientierung)</li></ul>"
+    },
+    {
+      "Frage": "Welche Punkte lassen sich bei der <em>praktischen Umsetzung von TQM (Top Quality Management)</em> nennen?",
+      "Antwort": "<ul><li>Rahmenbedingungen: Unternehmensleitung<ul><li>Organisatorische Rahmenbedingungen</li><li>Personelle Rahmenbedingungen</li><li>Technische Rahmenbedingungen</li></ul></li><li>Anwendung von Qualitätsmethoden und Qualitätstechniken</li><li>Integration des Qualitätsmanagements"
+    },
+    {
+      "Frage": "Zähle 4 der wichtigsten Qualitätszertifiezierungen auf.",
+      "Antwort": "1. DIN EN ISO 9000:2000; 2. QS9000; 3. VDA 6; 4. HACCP"
+    },
+    {
+      "Frage": "Nenne 4 der bekanntesten Qualitätsauszeichnungen.",
+      "Antwort": "1. Deming Prize; 2. Malcom Baldrige National Quality Award (MBNQA); 3. European Quality Award (EQA); 4. Ludwig - Erhard - Preis (LEP)"
+    },
+    {
+      "Frage": "Wer veröffentlichte in den 50er Jahren das Toyota Produktionssystem?",
+      "Antwort": "Eiji Toyoda und Taiichi Ohno"
+    },
+    {
+      "Frage": "Was ist die Philosophie von <em>Lean Production</em>?",
+      "Antwort": "Weniger von allem<ul><li>weniger Raum</li><li>weniger Lagerbestand</li><li>weniger Mitarbeiter</li><li>weniger Zeit</li></ul>"
+    },
+    {
+      "Frage": "Was ist das Ziel von <em>Lean Production</em>?",
+      "Antwort": "1. Identifizierung und Eliminierung von Werschwendung / MUDA; 2. Konzentration auf Wertschöpfung; 3. = Wettbewerbsfähige Produktionssysteme"
+    },
+    {
+      "Frage": "Was sind die Unterschiede zwischen <em>Taylorismus</em> und der Denkweise von <em>Lean Production</em>?",
+      "Antwort": "<table>\n      <thead>\n        <th>Tylorismus</th>\n        <th>Lean Production</th>\n      </thead>\n      <tr>\n        <td>Spezialmaschinen</td>\n        <td>flexible Maschinen</td>\n      </tr>\n      <tr>\n        <td>maximale Automatisierung (Technikzentrierung)</td>\n        <td>sinnvolle Automatisierung (Huam Integrated Manufactoring)</td>\n      </tr>\n      <tr>\n        <td>hohe Rüstzeiten</td>\n        <td>geringe Rüstzeiten</td>\n      </tr>\n      <tr>\n        <td>zentrale Produktionssteuerung</td>\n        <td>fertigungsnahe Produktionssteuerung</td>\n      </tr>\n      <tr>\n        <td>separate Qualitätskontrolle</td>\n        <td>integrierte Qualitätskontrolle</td>\n      </tr>\n      <tr>\n        <td>polarisierte Qualifikationsstruktur (Beschränkung auf Vorgabe)</td>\n        <td>relativ homogene Ausbildung (Nutzung des geistigen Potentials)</td>\n      </tr>\n      <tr>\n        <td>Einzelarbeit</td>\n        <td>Gruppenarbeit</td>\n      </tr>\n      <tr>\n        <td>ein ständiger Arbeitsplatz</td>\n        <td>wechselnde Arbeitsplätze (Job Rotation)</td>\n      </tr>\n    </table>"
+    },
+    {
+      "Frage": "Was ist KAIZEN? Und was die Definition davon?",
+      "Antwort": "1. KAIZEN (-Strategie) ist das wichtigste japanische Managementkonzept. (Der Schlüssel zum Wettbewerbsvorteil der Japaner); 2. KAIZEN bedeutet <strong>Verbesserung</strong> unter <strong>Einbeziehung aller Mitarbeiter</strong> (Geschäftsleitung, Führungskräfte und Arbeiter)"
+    },
+    {
+      "Frage": "Welche 15 Punkte gehören unter den \"Schirm\" der KAIZEN-Strategie?",
+      "Antwort": "1. Kundenorientierung; 2. TQC (Umfassende Qualitätskontrolle); 3. Mechanisierung; 4. QC (Quallitätskontroll-Zirkel); 5. Vorschlagswesen; 6. Automatisierung; 7. Arbeitsdisziplin; 8. TPM (Umfassende Produktivitätskontrolle); 9. Kanban; 10. Qualitätssteigerung; 11. Just-in-Time, 12. Fehlerlosigkeit; 13. Kleingruppenarbeit; 14. Kooperation der Managementebenen; 15. Entwicklung neuer Produkte"
+    },
+    {
+      "Frage": "Aus welchen 4 Elementen/Gliedern besteht die Supply Chain? Und auf Basis wessen Arbeit wird <em>das Netzwerk als Ganzes</em> seit Mitte der 80 Jahre thematisiert?",
+      "Antwort": "1. Logistikkette, Lieferkett, Absatzpartnerschaft, Wertschöpfungspartnerschaft; 2. Houlihan"
+    },
+    {
+      "Frage": "Worauf zielt das <em>Supply Chain Management</em> ab? (Oder: was will man damit erreichen?)<br>Und was ist das konkrete Ziel des SCM?",
+      "Antwort": "1. Geschäftprozesse sollen effizient gestaltet werden; 2. Schnittstellen sollen vermieden oder besser aufeinander abgestimmt werden.; 3. Das <strong>Ziel</strong> ist die <strong>effiziente Gestaltung des Waren- und Informationsflusses vom Hersteller zum POS</strong> (Point of Sale) über die einzelnen Lagerstufen der Hersteller und des Handels, sowie die <strong>Kostenreduzierung bei Lieferung, Umschlag, Lagerung, etc.</strong> sowie die <strong>Steigerung der Geschwindigkeit und Flexibilität</strong>."
+    },
+    {
+      "Frage": "Skizziere bzw. beschreibe SCM (Supply Chain Management).",
+      "Antwort": "1. Oben steht <strong>Planen, Gestalten, Lenken</strong>; 2. Ganz Links steht: <strong>Liefern</strong> (des ersten Lieferantent) und ganz Rechts steht: <strong>Beschaffen</strong> (für den letzen Kunden); 3. Dazwischen sind drei Stufen. Jeweils mit <strong>Beschaffen, Produzieren, Liefern</strong>; 4. Diese sind von Links nach Rechts: <strong>Lieferant</strong> (intern oder extern); <strong>Betratetes Unternehmen</strong>, <strong>Kunde</strong> (intern oder extern)"
+    },
+    {
+      "Frage": "Nenne die 9 Unterschiede zwischen <em>Traditionellem Einkauf</em> und <em>Supply-Chain-Management</em>.",
+      "Antwort": "<table>\n      <thead>\n        <th>Traditioneller Einkauf</th>\n        <th>Supply-Chain-Management</th>\n      </thead>\n      <tr>\n        <td>Kurzfristige Optik, Opportunitätskoopertion</td>\n        <td>Langfristige Partnerschaft</td>\n      </tr>\n      <tr>\n        <td>Preisorientiert</td>\n        <td>Totale Kosten</td>\n      </tr>\n      <tr>\n        <td>Beite Lieferantenbasis</td>\n        <td>Single und Modular Sourcing</td>\n      </tr>\n      <tr>\n        <td>Viele Lieferantenwechsel</td>\n        <td>Wenig Lieferantenwechsel</td>\n      </tr>\n      <tr>\n        <td>Unzuverlässige Anlieferung</td>\n        <td>Synchronisierte Anlieferung</td>\n      </tr>\n      <tr>\n        <td>Funktionale Trennung</td>\n        <td>Funktionale Intergation</td>\n      </tr>\n      <tr>\n        <td>Getrennte Entwicklung</td>\n        <td>Gemeinsame Entwicklung</td>\n      </tr>\n      <tr>\n        <td>Unkoordinierte Kapazitäten</td>\n        <td>Koordinierte Kapazitäten</td>\n      </tr>\n      <tr>\n        <td>Unterbrochener Informationsfluss</td>\n        <td>Durchgängiger Informationsfluss</td>\n      </tr>\n    </table>"
+    },
+    {
+      "Frage": "1. Was ist der <em>Bullwhip-Effekt</em>? Und welches Phänomen wird damit beschrieben?",
+      "Antwort": "1. Wörtlich: <strong>Peitschenschlag - Effekt</strong>; 2. Je weiter man sich von der Kundennachfrage entfernt, desto stärker werden die Schwankungen bei den Bestellmengen und den Beständen, entlang der Logistikkette."
+    },
+    {
+      "Frage": "Was sind die Ursachen für den <em>Bullwhip - Effekt</em>?",
+      "Antwort": "1. Vom Auftrag abweichende Änderungen der Produktionsmengen (steigen / sinken); 2. Vorratsbildung bei Verknappung; 3. Losgrößenbündelung / lange Rüstzeiten; 4. Subjektive Wahrnehmung der Disponenten"
+    },
+    {
+      "Frage": "Nenne die 4 Kooperationsansätze des SCM (Supply Chain Managements).",
+      "Antwort": "1. Hierarchische Kooperation; 2. Heterarchische Kooperation; 3. Horizontale Kooperation; 4. Vertikale Kooperation"
+    },
+    {
+      "Frage": "Wie sind die Aufgaben des SCM grob unterteilt (Aufgabenmodell-Dreieck)?",
+      "Antwort": "1. an der Spitze: <strong>Gestaltung<strong> (strategisch); 2. darunter: <strong>Planung [SCP]<strong> (taktisch, operativ); 3. darunter: <strong>Ausführung [SCE]</strong> (exekutiv)"
+    }
+  ]

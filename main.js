@@ -1,5 +1,12 @@
 // load questionSets into scope
-const questionSetsJSON = [mr, iuk, im, ik, orga, ar, hgb, v];
+// index 0 will be chosen as default on page load
+const questionSetsJSON = [bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v];
+
+// ask youser before leaving the page if they really want to
+// window.addEventListener("beforeunload", (e) => {
+//     e.preventDefault();
+//     e.returnValue = "";
+// });
 
 // getting the DOM elements 
 // Card Elements
@@ -16,14 +23,17 @@ let reloadBUTTON = document.querySelector(".reload");
 let returnBUTTON = document.querySelector(".return");
 // card-deck-choice-fields
 const cardDeckOptions = [
-    "#medien_recht",
-    "#kommunikations_fragen",
-    "#internationale_fragen",
-    "#interkulturelle_fragen",
-    "#orga_fragen",
-    "#arbeits_recht",
-    "#handels_recht",
-    "#vokabeln"
+    "bap",
+    "som",
+    "u-ethik",
+    "m-recht",
+    "int-komm",
+    "int-management",
+    "int-kompetenzen",
+    "organisation",
+    "arb-recht",
+    "h-recht",
+    "vokabeln",
 ];
 
 // Text below the Cards
@@ -34,20 +44,24 @@ let nextCards = document.querySelector("#next");
 
 // define question-set
 // global questionSet
-let questionSet = mr;
+let questionSet = questionSetsJSON[0];
 let nextRound = [];
 // set a questionSet to start with
 function defineQuestionSet(set) {
     questionSet = set;
 }
 
-cardDeckOptions.forEach((deckID, i) => {
-    const deck = document.querySelector(deckID);
-    deck.addEventListener("change", () => {
-        defineQuestionSet(questionSetsJSON[i]);
-        newCard();
-    })
-});
+// keep track of current deck-index (cardDeckOptions / questionSetsJSON)
+let lastDeckIDX = 0;
+// load the deck the user selects from the options-drop-down
+let deckOptions = document.querySelector("#decks");
+deckOptions.addEventListener("change", (e) => {
+    let selectedDeck = deckOptions.value;
+    let lastDeckIDX = cardDeckOptions.indexOf(selectedDeck);
+
+    defineQuestionSet(questionSetsJSON[lastDeckIDX]);
+    newCard();
+    });
 
 // flip Answer-Card back to Question
 returnBUTTON.addEventListener("click", () => card.classList.remove("flipped"));
@@ -79,10 +93,12 @@ function displayQuestion(rP) {
         wrongBUTTON.classList.remove("hidden");
         correctBUTTON.classList.remove("hidden");
     }
-    // turn card to frons-side
+    // turn card to front-side
     card.classList.remove("flipped");
     // write question on front-side of the card
     question.innerHTML = rP["Frage"];
+    // add hidden to the last answer, so the card-size rescales down (to question-size)
+    solution.classList.add("hidden");
 
     // display current stack of cards
     remainingCards.innerHTML = `Es sind noch ${questionSet.length} Karten im Deck`
@@ -103,6 +119,8 @@ function splitPhraseIfSeveralNumbers(phrase) {
 function flipBackAndDisplayAnswer() {
     // display answer on the back of the card
     card.classList.add("flipped");
+    // the solution-text is hidden (so the card-size isn't too big from the last answer)
+    solution.classList.remove("hidden");
 
     // if no input no "nächste Frage"
     if (randomPair["input"]) newWordBUTTON.classList.remove("hidden");
@@ -144,6 +162,7 @@ function flipBackAndDisplayAnswer() {
 function newCard() {
     if (questionSet.length === 0 && nextRound.length > 0) {
         questionSet = nextRound;
+        questionSetsJSON[lastDeckIDX] = nextRound;
         nextRound = [];
     }
     // create new randomPair in global scope
