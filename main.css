@@ -22,7 +22,14 @@ th {
     display: grid;
     justify-items: center;
     grid-template-columns: 15% 70% 15%;
-    grid-template-rows: auto 1fr 1fr 1fr auto auto;
+    grid-template-rows: auto 1fr auto auto;
+    grid-template-areas:
+            ". options ."
+            "true card false"
+            "known remaining next"
+            ". reload .";
+    align-items: center;
+
     -webkit-perspective: 800px;
     -moz-perspective: 800px;
     -o-perspective: 800px;
@@ -32,9 +39,12 @@ th {
 
 /* Card */
 .card {
-    grid-row: 2/5;
-    grid-column: 2;
+    grid-area: card;
     display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "innerCard";
+
     width: 100%;
     max-width: 700px;
     -webkit-transition: -webkit-transform 1s;
@@ -54,11 +64,11 @@ th {
     -o-backface-visibility: hidden;
     backface-visibility: hidden;
     padding: 0 50px 20px 50px;
+    grid-area: card;
 }
 
 .card .front {
-    grid-column: 1;
-    grid-row: 1;
+    grid-area: innerCard;
     background: repeating-linear-gradient(
         0deg,
         red,
@@ -71,8 +81,7 @@ th {
 .card .back {
     display: flex;
     flex-direction: column;
-    grid-column: 1;
-    grid-row: 1;
+    grid-area: innerCard;
     background: repeating-linear-gradient(
         0deg,
         red,
@@ -119,22 +128,26 @@ li {
 
 /* Buttons */
 button {
+    margin-top: auto;
+    margin-bottom: auto;
     font-size: calc(18px + .7vw);
     margin: 20px;
 }
 
 button.correct {
     background-color: rgb(33, 120, 33);
+    grid-area: true;
 }
 
 button.wrong {
     background-color: rgb(184, 17, 17);
+    grid-area: false;
 }
 
 .next {
     max-height: 100px;
     color: white;
-    grid-row-start: 3;
+    grid-area: next;
 }
 
 .return {
@@ -144,26 +157,20 @@ button.wrong {
 }
 
 .reload {
-    grid-row: 6;
-    grid-column: 2;
     display: flex;
+    grid-area: reload;
 }
 
 .head {
     font-size: calc(10px + .5vw);
     display: inline;
-    margin: auto;
-    grid-row: 1;
-    grid-column: 2;
-    max-width: 700px;;
+    margin: 2vh 0;
+    grid-area: options;
+    max-width: 700px;
 }
 
 .decks {
     font-size: calc(10px + .4vw);
-}
-
-.flex_container {
-    display: flex;
 }
 
 .flex_container div {
@@ -175,17 +182,14 @@ button.wrong {
 /* Text outside the Card */
 
 #known {
-    grid-row: 5;
-    grid-column: 1;
+    grid-area: known;
     text-align: center;
 }
 .remaining {
-    grid-row: 5;
-    grid-column: 2;
+    grid-area: remaining;
 }
 
 #next {
-    grid-row: 5;
-    grid-column: 3;
+    grid-area: next;
     text-align: center;
 }
