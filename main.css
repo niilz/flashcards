@@ -158,6 +158,7 @@ button.wrong {
 
 .reload {
     display: flex;
+    justify-content: center;
     grid-area: reload;
 }
 
