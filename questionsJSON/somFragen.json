@@ -5,7 +5,7 @@ som =[
     },
     {
       "Frage": "1. Skizziere das Operations Management Übersichtsschaubild:<br><em>Prozesse des Operations Managements und der Funktionalbereich Operations</em><br>2. Was ist hier die Besonderheit im Vergleich zu Organigrammen?",
-      "Antwort": "CEO<br>Operations   Marketing   Finanzierung …<br>Operations Management Prozess 1<br>Operations Management Prozess 2<br>…<br>Operations Management Prozess N<br><br>2. Hier ist die Ausrichtung <em>horizontal</em> und nicht vertikal."
+      "Antwort": "CEO<br>[Operations]   [Marketing]   [Finanzierung] …<br>Operations Management Prozess 1 ><br>Operations Management Prozess 2 >›<br>…<br>Operations Management Prozess N ><br><br>2. Hier ist die Ausrichtung <em>horizontal</em> und nicht vertikal."
     },
     {
       "Frage": "Wie lautet die Definition zu <strong>Produktion</strong>?",
@@ -24,7 +24,7 @@ som =[
       "Antwort": "<div>Erweiterte Faktoren</div>\n  <div style=\"border: 2px solid\">\n    <p>Produktionsfaktoren</p>\n    <ul>\n      <li>Dispositive Faktoren\n        <ul>\n          <li>originärer Faktor\n            <ul>\n              <li>Leitung (Führung</li>\n            </ul>\n          </li>\n          <li>Derivative Faktoren\n            <ul>\n              <li>Planung</li>\n              <li>Organisation</li>\n            </ul>\n          </ul>\n        </li>\n      </li>\n      <li>Elementarfaktoren\n        <ul>\n          <li>Verbrauchsfaktoren\n            <ul>\n              <li>Werkstoffe</li>\n            </ul>\n          </li>\n          <li>Potentialfaktoren\n            <ul>\n              <li>Menschl. Arbeit</li>\n              <li>Betriebsmittel</li>\n            </ul>\n          </li>\n        </ul>\n      </li>    \n    </ul>\n  </div>\n  <div>Erweiterte Faktoren</div>"
     },
     {
-      "Frage": "<em>Systemdenkten im Operations Management</em> lässt sich in einen Kreislauf aus 7 Punkten skizzieren. Wie lauten diese 7 Punkte?",
+      "Frage": "<em>Systemdenken im Operations Management</em> lässt sich in einen Kreislauf aus 7 Punkten skizzieren. Wie lauten diese 7 Punkte?",
       "Antwort": "1. Leitung (Führung); 2. Planung; 3. Organisation; 4. Werkstoffe; 5. Betriebsmittel; 6. Menschliche Arbeit; 7. Erweiterte Faktoren"
     },
     {
@@ -69,7 +69,7 @@ som =[
     },
     {
       "Frage": "Skizziere: Messung der Wettbewerbsfähigkeit im Regelkreis. (Diese Karteikarte kann das nur schlecht beschreiben)",
-      "Antwort": "1. Führungsgröße -> [Produktionsmanagement (Regler)]; 2. -> Planung -> (Stellgrößen: Produktionsziele, Planvorgaben) -> [Input]; 3. -> Produktionsfaktoren -> [Produktionssystem (Regelstrecke)] ->; 5. -> Produkte -> [Output] ->; 6. -> Kontrolle -> (Regelgrößen: Rückmeldeinformationen) -> [Produktionsmanagement (Regler)]; 7. Störgrößen wirken auf Produktionssystem ein"
+      "Antwort": "1. Führungsgröße -> [Produktionsmanagement (Regler)]; 2. -> Planung -> (Stellgrößen: Produktionsziele, Planvorgaben) -> [Input] (Produktionsfaktoren); -> 4. -> [Produktionssystem (Regelstrecke)] ->; 5. -> [Output] (Produkte) ->; 6. -> Kontrolle -> (Regelgrößen: Rückmeldeinformationen) -> zurück zu [Produktionsmanagement (Regler)]; 7. Störgrößen wirken auf Produktionssystem ein"
     },
     {
       "Frage": "Nenne die Ziele zur Messung der Wettbewerbsfähigkeit.",
@@ -96,7 +96,7 @@ som =[
       "Antwort": "Wertschöpfungsgrad der Durchlaufzeit = Wertschöpfende Zeit der Durchlaufzeit / Durchlaufzeit"
     },
     {
-      "Frage": "Beim Thema <em>SOM und Unternehmensstrategie</em> gibt es ein Schaubild aus 4 Kästen, welche den Weg zur Strategie beschreiben. Skizziere diesen hierarchischen Aufbau, bzw. nenne die Einzelnen Schritte.",
+      "Frage": "Beim Thema <em>SOM und Unternehmensstrategie</em> gibt es ein Schaubild aus 4 Kästen, welche den Weg zur Strategie beschreiben. Skizziere diesen hierarchischen Aufbau, bzw. nenne die einzelnen Schritte.",
       "Antwort": "1. <ul><li><strong>Umweltanalyse</strong><ul><li>Identifikation Hauptmerkmale der Branche</li><li>Identifik. Wettbewerbskräfte</li><li>Beurteilung Konkurrenzverhältnisse</li><li>Vorhersage Wettbewerbsveränderung</li><li>Erarbeitung Schlüsselfaktoren für Erfolg</li><li>Zusammenfassende Analyse der Branchenattraktivität</li></ul></li><li><strong>Unternehmensanalyse</strong><ul><li>Analyse Ausgangssituation (Strategie bisher erfolgreich?)</li><li>Stärken-/Schwächenanalyse, relative Wettbewerbssituation</li><li>Identifizierung strategischer Schlüsselprobleme</li></ul></li>; 2. => <strong>Identifzierung und Beurteilung strategischer Alternativen</strong><ul><li>Welche realistischen Alternativen gibt es?</li><li>Reichen graduelle Verbesserungen der bisher verfolgten Strategie?</li><li>Sind graduelle Veränderungen der Strategie möglich?</li><li>Wie kann ein bedeutender Wettbewerbsvorteil aufgebaut werden?</li></ul>; 3. => <strong>Strategieformulierung</strong><br>Auswahlkriterien:<br><ul><li>Strategie passt gut zu der zukünftigen Umweltentwicklung</li><li>Strategie baut auf strategische Wettbewerbsvorteile auf</li><li>Strategie führt zu höherem Shareholder Value</li></ul>"
     },
     {
@@ -149,7 +149,7 @@ som =[
     },
     {
       "Frage": "Skizziere die Tabelle/Matrix zur <em>Kombinierten ABC- und XYZ-Analyse</em>.",
-      "Antwort": "<table>\n      <tr>\n        <thead colspan=\"5\">Vebrauchswert</thead>\n      </tr>\n      <tr>\n        <td rowspan=\"5\">Vorhersagen-<br>\n                        genauigkeit<br>\n                        und Verbrauchs-<br>\n                        konstanz\n        </td>\n      </tr>\n      <tr>\n        <td></td>\n        <td><strong>A</strong><br>\n            (hoch)\n        </td>\n        <td><strong>B</strong><br>\n            (mittel)\n        </td>\n        <td><strong>C</strong><br>\n            (niedrig)\n        </td>\n      </tr>\n      <tr>\n        <td><strong>X</strong><br>\n            (hoch)\n        </td>\n        <td>Just-in-Time geeignet</td>\n        <td></td>\n        <td>Verbrauchsgesteuert</td>\n      </tr>\n      <tr>\n        <td><strong>Y</strong><br>\n            (mittel)\n        </td>\n        <td></td>\n        <td></td>\n        <td></td>\n      </tr>\n      <tr>\n        <td><strong>Z</strong><br>\n            (niedrig)\n        </td>\n        <td>bedarfsgesteuert</td>\n        <td></td>\n        <td>Programmbereinigung</td>\n      </tr>\n    </table>"
+      "Antwort": "<table>\n      <tr>\n        <thead><td colspan=\"2\"></td><th colspan=\"3\">Verbrauchswert</th></thead>\n      </tr>\n      <tr>\n        <td rowspan=\"5\">Vorhersagen-<br>\n                        genauigkeit<br>\n                        und Verbrauchs-<br>\n                        konstanz\n        </td>\n      </tr>\n      <tr>\n        <td></td>\n        <td><strong>A</strong><br>\n            (hoch)\n        </td>\n        <td><strong>B</strong><br>\n            (mittel)\n        </td>\n        <td><strong>C</strong><br>\n            (niedrig)\n        </td>\n      </tr>\n      <tr>\n        <td><strong>X</strong><br>\n            (hoch)\n        </td>\n        <td>Just-in-Time geeignet</td>\n        <td></td>\n        <td>Verbrauchsgesteuert</td>\n      </tr>\n      <tr>\n        <td><strong>Y</strong><br>\n            (mittel)\n        </td>\n        <td></td>\n        <td></td>\n        <td></td>\n      </tr>\n      <tr>\n        <td><strong>Z</strong><br>\n            (niedrig)\n        </td>\n        <td>bedarfsgesteuert</td>\n        <td></td>\n        <td>Programmbereinigung</td>\n      </tr>\n    </table>"
     },
     {
       "Frage": "Welche Bestandarten gibt es (im Rahmen der Materialbestandsermittlung)? (9 Arten)",
@@ -157,7 +157,7 @@ som =[
     },
     {
       "Frage": "Was lässt sich über <em>menschliche Arbeit sagen</em>?",
-      "Antwort": "1. Ohne den Einsatz menschlicher Arbeit als disponierende und ausführende Tätigkeit sind Produktion und die übrigen betrieblichen Funktionsbereiche nicht möglich.; 2. \"Der Mensch ist das Wichtigste im Unternehmen!"
+      "Antwort": "1. Ohne den Einsatz menschlicher Arbeit als disponierende und ausführende Tätigkeit sind Produktion und die übrigen betrieblichen Funktionsbereiche nicht möglich.; 2. \"Der Mensch ist das Wichtigste im Unternehmen!\""
     },
     {
       "Frage": "Welche drei Faktoren haben Einfluss auf die (menschliche) Arbeitsleistung?",
@@ -212,7 +212,7 @@ som =[
       "Antwort": "Ein Haus (Unternehmensführung), indem sich drei Säulen befinden (Vertrieb, Technik, Verwaltung). Zischen den Säulen befinden sich Blitze…(könnte Spannung bedeuten). Von links nach rechts durchdringen/verbinden Pfeile (Geschäftsprozesse) die drei Säulen. Ein Beispiel: Geschäftsprozess Produktentwicklung oder Geschäftsprozess Kundenservice"
     },
     {
-      "Frage": "Was ist zweifelsohne die konsequenteste Umsetzung des Prozessmanagements-Konzeptes?",
+      "Frage": "Was ist zweifelsohne die konsequenteste Umsetzung des Prozessmanagement-Konzeptes?",
       "Antwort": "Die Einführung einer <em>prozessorientierten Primärorganisation</em>!"
     },
     {
@@ -225,7 +225,7 @@ som =[
     },
     {
       "Frage": "Skizziere den Aufbau/die Hierarchie der <em>Aktionsträger im Prozessmanagement</em>",
-      "Antwort": "1. Außerhalb des Pfeils (übergeordnet): <strong>Prozesslenkungsausschuss</strong> mit <em>Prozessmethodenberater</em> als Stabstelle; 2. Innerhalb des großen Pfeils (<strong>Geschäftsprozess 1 (GP1)</strong>, außerhalb des Team-Kastens (<strong>GP 1-Team</strong>): <strong>Prozesseigner GP 1</strong>; 3. Innerhalb des Team-Kastens (<strong>GP 1-Team</strong>), außerhalb der Teilsprozesspfeile und dem Prozesseigner unterstellt/mit ihm verbunden: <strong>Prozessmanager GP 1</strong>; 4. Innerhalb Pfeil 1 (<strong>Teilprozess 1 (TP 1) / TP 1 - Team</strong>): <strong>TP 1 - Manager</strong> der dem <strong>Prozessmanager GP 1</strong> unterstellt/mit ihm verbunden ist; 5. Unter <strong>TP 1- Manager befinden sich die <strong>Prozessmitarbeiter</strong>; 6. Für Teilprozess 1 (TP2) / TP2 - Team verhät es sich genause wie ab 4."
+      "Antwort": "1. Außerhalb des Pfeils (übergeordnet): <strong>Prozesslenkungsausschuss</strong> mit <em>Prozessmethodenberater</em> als Stabstelle; 2. Innerhalb des großen Pfeils (<strong>Geschäftsprozess 1 (GP1)</strong>, außerhalb des Team-Kastens (<strong>GP 1-Team</strong>): <strong>Prozesseigner GP 1</strong>; 3. Innerhalb des Team-Kastens (<strong>GP 1-Team</strong>), außerhalb der Teilsprozesspfeile und dem Prozesseigner unterstellt/mit ihm verbunden: <strong>Prozessmanager GP 1</strong>; 4. Innerhalb Pfeil 1 (<strong>Teilprozess 1 (TP 1) / TP 1 - Team</strong>): <strong>TP 1 - Manager</strong> der dem <strong>Prozessmanager GP 1</strong> unterstellt/mit ihm verbunden ist; 5. Unter <strong>TP 1- Manager befinden sich die <strong>Prozessmitarbeiter</strong>; 6. Für Teilprozess 1 (TP2) / TP2 - Team verhält es sich genauso wie ab 4."
     },
     {
       "Frage": "Wie ist Qualität definiert?",
@@ -249,7 +249,7 @@ som =[
     },
     {
       "Frage": "Auf der 3. Stufe des Qualitätsmanagements befindet sich <em>Qualitätsmanagementsystem</em>. Welches System/Konzept lässt sich dabei anwenden? Beschreibe auch den Aufbau mit seinen Unterpunkten",
-      "Antwort": "1. Das <strong>T</strong>otal <strong>Q</strong>uality <strong>M</strong>anagement (TQM); 2. Es ist ein Kreislauf in dessen Mitte <em>Ständige Verbesserungen</em> das Zentrum bilden.; 3. <strong>Q</strong>: <ul><li>Qualität des Unternehmens</li><li>Qualität der Prozesse</li><li>Qualität der Arbeit</li><li>Qualität der Produkte</li></ul>; 4. <strong>M</strong>:<ul><li>Führungsqualität</li><li>Qualitätspolitik, -ziele</li><li>Team- und Lernfähigkeit</li><li>Beharrlichkeit</li></ul>; 5. <strong>T</strong>:<ul><li>Partnerschaftliche Kommunikation mit dem Kunden (Kundenorientierung)</li><li>Einbeziehung aller Unternehmensangehörigen (Mitarbeiterorientierung)</li><li>Bereichs- und funktionsübergreifend</li><li>Öffentlichkeitsarbeit (Gesellschafts- und Umweltorientierung)</li></ul>"
+      "Antwort": "1. Das <strong>T</strong>otal <strong>Q</strong>uality <strong>M</strong>anagement (TQM); 2. Es ist ein Kreislauf in dessen Mitte <em>ständige Verbesserungen</em> das Zentrum bilden.; 3. <strong>Q</strong>: <ul><li>Qualität des Unternehmens</li><li>Qualität der Prozesse</li><li>Qualität der Arbeit</li><li>Qualität der Produkte</li></ul>; 4. <strong>M</strong>:<ul><li>Führungsqualität</li><li>Qualitätspolitik, -ziele</li><li>Team- und Lernfähigkeit</li><li>Beharrlichkeit</li></ul>; 5. <strong>T</strong>:<ul><li>Partnerschaftliche Kommunikation mit dem Kunden (Kundenorientierung)</li><li>Einbeziehung aller Unternehmensangehörigen (Mitarbeiterorientierung)</li><li>Bereichs- und funktionsübergreifend</li><li>Öffentlichkeitsarbeit (Gesellschafts- und Umweltorientierung)</li></ul>"
     },
     {
       "Frage": "Welche Punkte lassen sich bei der <em>praktischen Umsetzung von TQM (Top Quality Management)</em> nennen?",
@@ -289,7 +289,7 @@ som =[
     },
     {
       "Frage": "Aus welchen 4 Elementen/Gliedern besteht die Supply Chain? Und auf Basis wessen Arbeit wird <em>das Netzwerk als Ganzes</em> seit Mitte der 80 Jahre thematisiert?",
-      "Antwort": "1. Logistikkette, Lieferkett, Absatzpartnerschaft, Wertschöpfungspartnerschaft; 2. Houlihan"
+      "Antwort": "1. Logistikkette, Lieferkette, Absatzpartnerschaft, Wertschöpfungspartnerschaft; 2. Houlihan"
     },
     {
       "Frage": "Worauf zielt das <em>Supply Chain Management</em> ab? (Oder: was will man damit erreichen?)<br>Und was ist das konkrete Ziel des SCM?",
