@@ -69,7 +69,7 @@ som =[
     },
     {
       "Frage": "Skizziere: Messung der Wettbewerbsfähigkeit im Regelkreis. (Diese Karteikarte kann das nur schlecht beschreiben)",
-      "Antwort": "1. Führungsgröße -> [Produktionsmanagement (Regler)]; 2. -> Planung -> (Stellgrößen: Produktionsziele, Planvorgaben) -> [Input] (Produktionsfaktoren); -> 4. -> [Produktionssystem (Regelstrecke)] ->; 5. -> [Output] (Produkte) ->; 6. -> Kontrolle -> (Regelgrößen: Rückmeldeinformationen) -> zurück zu [Produktionsmanagement (Regler)]; 7. Störgrößen wirken auf Produktionssystem ein"
+      "Antwort": "1. Führungsgröße -> [Produktionsmanagement (Regler)]; 2. -> Planung -> (Stellgrößen: Produktionsziele, Planvorgaben) -> [Input] (Produktionsfaktoren) ->; 4. -> [Produktionssystem (Regelstrecke)] ->; 5. -> [Output] (Produkte) ->; 6. -> Kontrolle -> (Regelgrößen: Rückmeldeinformationen) -> zurück zu [Produktionsmanagement (Regler)]; 7. Störgrößen wirken auf Produktionssystem ein"
     },
     {
       "Frage": "Nenne die Ziele zur Messung der Wettbewerbsfähigkeit.",
@@ -140,7 +140,7 @@ som =[
       "Antwort": "1. <strong>Planmäßige Maßnahmen: </strong><ul><li>Periodische Maßnahmen: Wartung, Inspektion, Reparatur</li><li>Sequentielle Maßnahmen: Inspektion, Reparatur</li></ul>; 2. <strong>Außerplanmäßige Maßnahmen</strong>"
     },
     {
-      "Frage": "Was sind Werktstoffe?",
+      "Frage": "Was sind Werkstoffe?",
       "Antwort": "Als <strong>Werkstoffe</strong> werden <strong>Güter</strong> bezeichnet, die während des Transformationsprozesses <strong>substantieller Bestandteil der Produkte</strong> werden oder durch ihren Untergang den <strong>Produktionsvorgang erst ermöglichen</strong> und damit nicht mehr zur Verfügung stehen."
     },
     {
@@ -165,7 +165,7 @@ som =[
     },
     {
       "Frage": "Welche Schlagworte fallen dir zum Thema <em>Humanisierung</em> im Rahmen der Arbeitsgestaltung ein?",
-      "Antwort": "1. Job - Rotation; 2. Job - Enlargement (horizontal); 3. Job - Enrichment (vertikal); 4. Qualifizierung Vielseitigkeit: 3 x 3 - Standard; 5. Teilautonome Teams"
+      "Antwort": "1. Job - Rotation; 2. Job - Enlargement (horizontal); 3. Job - Enrichment (vertikal); 4. Qualifizierung zur Vielseitigkeit: 3 x 3 - Standard; 5. Teilautonome Teams"
     },
     {
       "Frage": "1. Im Rahmen der <em>Prozessorientierung</em> tauchen Mängel hinsichtlich der traditionellen Organisationskonzepte auf. Welche \"Gleichung\" der Schemata verdeutlicht das?<br>2. Und nenne die 4 daraus entstehenden Probleme.",
@@ -252,7 +252,7 @@ som =[
       "Antwort": "1. Das <strong>T</strong>otal <strong>Q</strong>uality <strong>M</strong>anagement (TQM); 2. Es ist ein Kreislauf in dessen Mitte <em>ständige Verbesserungen</em> das Zentrum bilden.; 3. <strong>Q</strong>: <ul><li>Qualität des Unternehmens</li><li>Qualität der Prozesse</li><li>Qualität der Arbeit</li><li>Qualität der Produkte</li></ul>; 4. <strong>M</strong>:<ul><li>Führungsqualität</li><li>Qualitätspolitik, -ziele</li><li>Team- und Lernfähigkeit</li><li>Beharrlichkeit</li></ul>; 5. <strong>T</strong>:<ul><li>Partnerschaftliche Kommunikation mit dem Kunden (Kundenorientierung)</li><li>Einbeziehung aller Unternehmensangehörigen (Mitarbeiterorientierung)</li><li>Bereichs- und funktionsübergreifend</li><li>Öffentlichkeitsarbeit (Gesellschafts- und Umweltorientierung)</li></ul>"
     },
     {
-      "Frage": "Welche Punkte lassen sich bei der <em>praktischen Umsetzung von TQM (Top Quality Management)</em> nennen?",
+      "Frage": "Welche Punkte lassen sich bei der <em>praktischen Umsetzung von TQM (Total Quality Management)</em> nennen?",
       "Antwort": "<ul><li>Rahmenbedingungen: Unternehmensleitung<ul><li>Organisatorische Rahmenbedingungen</li><li>Personelle Rahmenbedingungen</li><li>Technische Rahmenbedingungen</li></ul></li><li>Anwendung von Qualitätsmethoden und Qualitätstechniken</li><li>Integration des Qualitätsmanagements"
     },
     {
