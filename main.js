@@ -124,16 +124,23 @@ function flipBackAndDisplayAnswer() {
     solution.classList.remove('hidden')
 
     // if no input no "nächste Frage"
-    if (randomPair['input']) newWordBUTTON.classList.remove('hidden')
-    else newWordBUTTON.classList.add('hidden')
+    if (randomPair['input']) {
+        newWordBUTTON.classList.remove('hidden')
+    } else {
+        newWordBUTTON.classList.add('hidden')
+    }
 
     // create backside of the card
     let answer = document.querySelector('.answer')
     if (randomPair['input']) {
         answer = answer.value
-        if (answer == randomPair['Antwort']) solution.innerHTML = 'Korrekt!'
-        else
+        if (answer == randomPair['Antwort']) {
+            solution.innerHTML = 'Korrekt!'
+            removeCardFromSet(true)
+        } else {
             solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair['Antwort']}"</em> gewesen.`
+            removeCardFromSet(false)
+        }
     } else {
         // create List of possible multiple-answer
         let answerList = splitPhraseIfSeveralNumbers(randomPair['Antwort'])
