@@ -136,10 +136,8 @@ function flipBackAndDisplayAnswer() {
         answer = answer.value
         if (answer == randomPair['Antwort']) {
             solution.innerHTML = 'Korrekt!'
-            removeCardFromSet(true)
         } else {
             solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair['Antwort']}"</em> gewesen.`
-            removeCardFromSet(false)
         }
     } else {
         // create List of possible multiple-answer
