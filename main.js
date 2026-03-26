@@ -5,7 +5,7 @@ const questionSetsJSON = [rus, bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v]
 // ask youser before leaving the page if they really want to
 window.addEventListener('beforeunload', (e) => {
     e.preventDefault()
-    e.returnValue = ''
+    return ''
 })
 
 // getting the DOM elements
