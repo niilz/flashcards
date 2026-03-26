@@ -1,6 +1,6 @@
 // load questionSets into scope
 // index 0 will be chosen as default on page load
-const questionSetsJSON = [rus, bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v]
+const questionSetsJSON = [rus, rusInput, bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v]
 
 // ask youser before leaving the page if they really want to
 window.addEventListener('beforeunload', (e) => {
@@ -23,6 +23,8 @@ let reloadBUTTON = document.querySelector('.reload')
 let returnBUTTON = document.querySelector('.return')
 // card-deck-choice-fields
 const cardDeckOptions = [
+    'rus',
+    'rusInput',
     'bap',
     'som',
     'u-ethik',
