@@ -1,6 +1,6 @@
 // load questionSets into scope
 // index 0 will be chosen as default on page load
-const questionSetsJSON = [bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v];
+const questionSetsJSON = [rus, bap, som, ue, mr, iuk, im, ik, orga, ar, hgb, v];
 
 // ask youser before leaving the page if they really want to
 window.addEventListener("beforeunload", (e) => {
@@ -8,9 +8,9 @@ window.addEventListener("beforeunload", (e) => {
     e.returnValue = "";
 });
 
-// getting the DOM elements 
+// getting the DOM elements
 // Card Elements
-let card = document.querySelector(".card")
+let card = document.querySelector(".card");
 let question = document.querySelector(".question");
 let solution = document.querySelector(".solution");
 let inputField = document.querySelector(".answer");
@@ -61,11 +61,10 @@ deckOptions.addEventListener("change", (e) => {
 
     defineQuestionSet(questionSetsJSON[lastDeckIDX]);
     newCard();
-    });
+});
 
 // flip Answer-Card back to Question
 returnBUTTON.addEventListener("click", () => card.classList.remove("flipped"));
-
 
 // gets a random pair (question/answer) from the a given array of objects
 function getQuestionPair(dict) {
@@ -82,7 +81,7 @@ displayQuestion(randomPair);
 // write question on the front of card
 function displayQuestion(rP) {
     // get curser into input-field
-    if (inputField) inputField.focus(); 
+    if (inputField) inputField.focus();
     // remove input field from page if it is not needed (e.g. for rechtFragen)
     if (rP["input"]) {
         inputField.classList.remove("hidden");
@@ -101,9 +100,9 @@ function displayQuestion(rP) {
     solution.classList.add("hidden");
 
     // display current stack of cards
-    remainingCards.innerHTML = `Es sind noch ${questionSet.length} Karten im Deck`
-    knownCards.innerHTML = `Bisher gewusst: ${knownCardsCounter}`; 
-    nextCards.innerHTML = `Nächste Runde: ${nextRound.length}`; 
+    remainingCards.innerHTML = `Es sind noch ${questionSet.length} Karten im Deck`;
+    knownCards.innerHTML = `Bisher gewusst: ${knownCardsCounter}`;
+    nextCards.innerHTML = `Nächste Runde: ${nextRound.length}`;
 }
 
 // used inside of "flipBackAndDisplayAnswer" to split multiple answers
@@ -131,7 +130,8 @@ function flipBackAndDisplayAnswer() {
     if (randomPair["input"]) {
         answer = answer.value;
         if (answer == randomPair["Antwort"]) solution.innerHTML = "Korrekt!";
-        else solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair["Antwort"]}"</em> gewesen.`;
+        else
+            solution.innerHTML = `Leider nein leider garnischt.<br>Die richtige Antwort wäre <em>"${randomPair["Antwort"]}"</em> gewesen.`;
     } else {
         // create List of possible multiple-answer
         let answerList = splitPhraseIfSeveralNumbers(randomPair["Antwort"]);
@@ -142,7 +142,7 @@ function flipBackAndDisplayAnswer() {
             solution.innerHTML = "";
             let answerListDOM = document.createElement("ol");
             solution.appendChild(answerListDOM);
-            answerList.forEach(a => {
+            answerList.forEach((a) => {
                 // check if a number is in front and delete it so the ordered list tag provides numbers;
                 let numRegEx = /^\s*\d+\.\s/g;
                 a = a.replace(numRegEx, "");
@@ -151,7 +151,7 @@ function flipBackAndDisplayAnswer() {
                 listElement.innerHTML = a;
             });
         }
-    } 
+    }
 
     // clear the input field if there is one for next questions
     let answerInput = document.querySelector(".answer");
@@ -172,7 +172,7 @@ function newCard() {
 
 // removes current randomPair of question Answer from global questionSet-Array of objects
 function removeCardFromSet(correct) {
-    let idx = questionSet.findIndex(qa => qa["Frage"] == randomPair["Frage"]);
+    let idx = questionSet.findIndex((qa) => qa["Frage"] == randomPair["Frage"]);
     let card = questionSet[idx];
     if (correct) {
         questionSet.splice(idx, 1);
@@ -200,7 +200,3 @@ correctBUTTON.addEventListener("click", () => {
 
 // reload the page / begin from the beginning
 reloadBUTTON.addEventListener("click", () => location.reload());
-
-
-
-
